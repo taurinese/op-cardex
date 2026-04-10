@@ -1,5 +1,59 @@
 [
   {
+    "id": "EB01-003_p5",
+    "pack_id": "569114",
+    "name": "Kid & Killer",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-003_p5.png?260305",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p5.png?260305",
+    "cost": 4,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 2,
+    "types": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "EB01-023_p1",
+    "pack_id": "569114",
+    "name": "Edward Weevil",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-023_p1.png?260305",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png?260305",
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 8000,
+    "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[On Play] Draw 1 card.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
     "id": "EB04-011",
     "pack_id": "569114",
     "name": "Scaled Neptunian",
@@ -875,6 +929,145 @@
     ],
     "effect": "[Main] If your Leader is [Sanji] and you have 4 or more DON!! cards on your field, play up to 1 [Sanji] with 6000 power or less from your hand or trash.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP06-093_p5",
+    "pack_id": "569114",
+    "name": "Perona",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP06-093_p5.png?260305",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-093_p5.png?260305",
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
+    "types": [
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:<br>• Your opponent trashes 1 card from their hand.<br>• Give up to 1 of your opponent's Characters −3 cost during this turn.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP07-046_p2",
+    "pack_id": "569114",
+    "name": "Sengoku",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-046_p2.png?260305",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-046_p2.png?260305",
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP09-051_p4",
+    "pack_id": "569114",
+    "name": "Buggy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-051_p4.png?260305",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png?260305",
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
+    "types": [
+      "The Four Emperors",
+      "Cross Guild"
+    ],
+    "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": [
+      {
+        "id": "OP09-051_p5",
+        "img_url": "../images/cardlist/card/OP09-051_p5.png?260305",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?260305",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
+    "id": "OP10-065_p1",
+    "pack_id": "569114",
+    "name": "Sugar",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-065_p1.png?260305",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.png?260305",
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP12-030_p2",
+    "pack_id": "569114",
+    "name": "Dracule Mihawk",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP12-030_p2.png?260305",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png?260305",
+    "cost": 8,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 8000,
+    "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
+    "types": [
+      "Muggy Kingdom",
+      "The Seven Warlords of the Sea"
+    ],
+    "effect": "[Blocker]<br>[On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
+    "trigger": null,
     "tile_set_id": "OP14EB04",
     "variants": []
   },
@@ -4273,199 +4466,6 @@
         "rarity": "SecretRare"
       }
     ]
-  },
-  {
-    "id": "EB01-003_p5",
-    "pack_id": "569114",
-    "name": "Kid & Killer",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB01-003_p5.png?260305",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p5.png?260305",
-    "cost": 4,
-    "attributes": [
-      "Slash",
-      "Special"
-    ],
-    "power": 5000,
-    "counter": null,
-    "colors": [
-      "Red"
-    ],
-    "block_number": 2,
-    "types": [
-      "Supernovas",
-      "Kid Pirates"
-    ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "EB01-023_p1",
-    "pack_id": "569114",
-    "name": "Edward Weevil",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB01-023_p1.png?260305",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.png?260305",
-    "cost": 4,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 8000,
-    "counter": 1000,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 2,
-    "types": [
-      "The Seven Warlords of the Sea"
-    ],
-    "effect": "[On Play] Draw 1 card.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP06-093_p5",
-    "pack_id": "569114",
-    "name": "Perona",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-093_p5.png?260305",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-093_p5.png?260305",
-    "cost": 4,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": 2000,
-    "colors": [
-      "Black"
-    ],
-    "block_number": 2,
-    "types": [
-      "Thriller Bark Pirates"
-    ],
-    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:<br>• Your opponent trashes 1 card from their hand.<br>• Give up to 1 of your opponent's Characters −3 cost during this turn.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP07-046_p2",
-    "pack_id": "569114",
-    "name": "Sengoku",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-046_p2.png?260305",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-046_p2.png?260305",
-    "cost": 1,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 2000,
-    "counter": 1000,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 2,
-    "types": [
-      "Navy"
-    ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP09-051_p4",
-    "pack_id": "569114",
-    "name": "Buggy",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-051_p4.png?260305",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png?260305",
-    "cost": 10,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 12000,
-    "counter": null,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 3,
-    "types": [
-      "The Four Emperors",
-      "Cross Guild"
-    ],
-    "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": [
-      {
-        "id": "OP09-051_p5",
-        "img_url": "../images/cardlist/card/OP09-051_p5.png?260305",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?260305",
-        "rarity": "Special"
-      }
-    ]
-  },
-  {
-    "id": "OP10-065_p1",
-    "pack_id": "569114",
-    "name": "Sugar",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-065_p1.png?260305",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.png?260305",
-    "cost": 1,
-    "attributes": [
-      "Special"
-    ],
-    "power": 1000,
-    "counter": 1000,
-    "colors": [
-      "Purple"
-    ],
-    "block_number": 3,
-    "types": [
-      "Donquixote Pirates"
-    ],
-    "effect": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP12-030_p2",
-    "pack_id": "569114",
-    "name": "Dracule Mihawk",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP12-030_p2.png?260305",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png?260305",
-    "cost": 8,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 8000,
-    "counter": null,
-    "colors": [
-      "Green"
-    ],
-    "block_number": 3,
-    "types": [
-      "Muggy Kingdom",
-      "The Seven Warlords of the Sea"
-    ],
-    "effect": "[Blocker]<br>[On Play] Set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 7 or more during this turn.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
   },
   {
     "id": "PRB02-006_p2",

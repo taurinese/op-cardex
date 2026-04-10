@@ -520,7 +520,12 @@ function CardsGrid({
       .filter(({ variant }) => variant.set_id === undefined),
   ]).filter(({ versionIndex }) =>
     cardFilter === "all" ? true : cardFilter === "base" ? versionIndex === 0 : versionIndex > 0
-  )
+  ).sort((a, b) => {
+    const ra = a.versionIndex === 0 ? a.card.rarity : (a.card.variants[a.versionIndex - 1].rarity ?? a.card.rarity)
+    const rb = b.versionIndex === 0 ? b.card.rarity : (b.card.variants[b.versionIndex - 1].rarity ?? b.card.rarity)
+    const rank = (r: string) => r === "TreasureRare" ? 2 : r === "Special" ? 1 : 0
+    return rank(ra) - rank(rb)
+  })
 
   return (
     <div className={cn("grid gap-3", GRID_COLS[columns])}>

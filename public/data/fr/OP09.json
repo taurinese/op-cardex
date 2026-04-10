@@ -1,5 +1,107 @@
 [
   {
+    "id": "OP04-119_p1",
+    "pack_id": "622109",
+    "name": "Don Quijote Rosinante",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP04-119_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP04-119_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Marine",
+      "Équipage de Don Quijote"
+    ],
+    "effect": "[Tour adverse] Si ce Personnage est épuisé, vos Personnages redressés ayant un coût de base de 5 ne peuvent pas être mis KO par un effet.<br>[Jouée] Vous pouvez épuiser ce Personnage&nbsp;: Jouez jusqu'à 1 carte Personnage verte de votre main ayant un coût de 5.",
+    "trigger": null,
+    "tile_set_id": "OP09",
+    "variants": []
+  },
+  {
+    "id": "OP05-067_p1",
+    "pack_id": "622109",
+    "name": "Zorojuro",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-067_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-067_p1.webp?251024",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[En attaquant] Si vous avez 3 cartes ou moins dans votre Vie, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+    "trigger": null,
+    "tile_set_id": "OP09",
+    "variants": []
+  },
+  {
+    "id": "OP05-093_p1",
+    "pack_id": "622109",
+    "name": "Rob Lucci",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-093_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-093_p1.webp?251024",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "CP-0"
+    ],
+    "effect": "[Jouée] Vous pouvez placer 3 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
+    "trigger": null,
+    "tile_set_id": "OP09",
+    "variants": []
+  },
+  {
+    "id": "OP05-119_p1",
+    "pack_id": "622109",
+    "name": "Monkey D. Luffy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-119_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-119_p1.webp?251024",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "Quatre Empereurs",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Jouée] DON!!&nbsp;-10&nbsp;: Placez tous vos Personnages autres que celui-ci au-dessous de votre deck dans l'ordre de votre choix. Puis, jouez un nouveau tour après celui-ci.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+    "trigger": null,
+    "tile_set_id": "OP09",
+    "variants": []
+  },
+  {
     "id": "OP06-119_p1",
     "pack_id": "622109",
     "name": "Sanji",
@@ -21,6 +123,83 @@
     ],
     "effect": "[Jouée] Révélez 1 carte du dessus de votre deck et jouez jusqu'à 1 Personnage ayant un coût de 9 ou moins autre que [Sanji]. Puis, placez les cartes restantes au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP09",
+    "variants": []
+  },
+  {
+    "id": "OP07-015_p1",
+    "pack_id": "622109",
+    "name": "Monkey D. Dragon",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-015_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-015_p1.webp?251024",
+    "colors": [
+      "Red"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "Armée révolutionnaire"
+    ],
+    "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[Jouée] Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
+    "trigger": null,
+    "tile_set_id": "OP09",
+    "variants": []
+  },
+  {
+    "id": "OP07-051_p1",
+    "pack_id": "622109",
+    "name": "Boa Hancock",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-051_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-051_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage des Kuja"
+    ],
+    "effect": "[Jouée] Jusqu'à 1 Personnage adverse autre que [Monkey D. Luffy] ne peut pas attaquer jusqu'à la fin du prochain tour adverse. Puis, placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 1 ou moins.",
+    "trigger": null,
+    "tile_set_id": "OP09",
+    "variants": []
+  },
+  {
+    "id": "OP08-106_p1",
+    "pack_id": "622109",
+    "name": "Nami",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP08-106_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Egg Head",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement]&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, si vous avez 3 cartes ou moins dans votre main, piochez 1 carte.",
+    "trigger": "[Déclenchement] Activez l'effet [Jouée] de cette carte.",
     "tile_set_id": "OP09",
     "variants": []
   },
@@ -4029,184 +4208,5 @@
         "set_label": "OP-13"
       }
     ]
-  },
-  {
-    "id": "OP04-119_p1",
-    "pack_id": "622109",
-    "name": "Don Quijote Rosinante",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP04-119_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP04-119_p1.webp?251024",
-    "colors": [
-      "Green"
-    ],
-    "cost": 8,
-    "attributes": [
-      "Special"
-    ],
-    "power": 8000,
-    "counter": null,
-    "types": [
-      "Marine",
-      "Équipage de Don Quijote"
-    ],
-    "effect": "[Tour adverse] Si ce Personnage est épuisé, vos Personnages redressés ayant un coût de base de 5 ne peuvent pas être mis KO par un effet.<br>[Jouée] Vous pouvez épuiser ce Personnage&nbsp;: Jouez jusqu'à 1 carte Personnage verte de votre main ayant un coût de 5.",
-    "trigger": null,
-    "tile_set_id": "OP09",
-    "variants": []
-  },
-  {
-    "id": "OP05-067_p1",
-    "pack_id": "622109",
-    "name": "Zorojuro",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-067_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-067_p1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 3,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 4000,
-    "counter": 1000,
-    "types": [
-      "Équipage de Chapeau de paille"
-    ],
-    "effect": "[En attaquant] Si vous avez 3 cartes ou moins dans votre Vie, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
-    "trigger": null,
-    "tile_set_id": "OP09",
-    "variants": []
-  },
-  {
-    "id": "OP05-093_p1",
-    "pack_id": "622109",
-    "name": "Rob Lucci",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-093_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-093_p1.webp?251024",
-    "colors": [
-      "Black"
-    ],
-    "cost": 4,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 6000,
-    "counter": null,
-    "types": [
-      "CP-0"
-    ],
-    "effect": "[Jouée] Vous pouvez placer 3 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
-    "trigger": null,
-    "tile_set_id": "OP09",
-    "variants": []
-  },
-  {
-    "id": "OP05-119_p1",
-    "pack_id": "622109",
-    "name": "Monkey D. Luffy",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-119_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-119_p1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 12000,
-    "counter": null,
-    "types": [
-      "Quatre Empereurs",
-      "Équipage de Chapeau de paille"
-    ],
-    "effect": "[Jouée] DON!!&nbsp;-10&nbsp;: Placez tous vos Personnages autres que celui-ci au-dessous de votre deck dans l'ordre de votre choix. Puis, jouez un nouveau tour après celui-ci.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
-    "trigger": null,
-    "tile_set_id": "OP09",
-    "variants": []
-  },
-  {
-    "id": "OP07-015_p1",
-    "pack_id": "622109",
-    "name": "Monkey D. Dragon",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-015_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-015_p1.webp?251024",
-    "colors": [
-      "Red"
-    ],
-    "cost": 8,
-    "attributes": [
-      "Special"
-    ],
-    "power": 9000,
-    "counter": null,
-    "types": [
-      "Armée révolutionnaire"
-    ],
-    "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[Jouée] Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
-    "trigger": null,
-    "tile_set_id": "OP09",
-    "variants": []
-  },
-  {
-    "id": "OP07-051_p1",
-    "pack_id": "622109",
-    "name": "Boa Hancock",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-051_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-051_p1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 6,
-    "attributes": [
-      "Special"
-    ],
-    "power": 8000,
-    "counter": null,
-    "types": [
-      "Sept grands corsaires",
-      "Équipage des Kuja"
-    ],
-    "effect": "[Jouée] Jusqu'à 1 Personnage adverse autre que [Monkey D. Luffy] ne peut pas attaquer jusqu'à la fin du prochain tour adverse. Puis, placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 1 ou moins.",
-    "trigger": null,
-    "tile_set_id": "OP09",
-    "variants": []
-  },
-  {
-    "id": "OP08-106_p1",
-    "pack_id": "622109",
-    "name": "Nami",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP08-106_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": 1000,
-    "types": [
-      "Egg Head",
-      "Équipage de Chapeau de paille"
-    ],
-    "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement]&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, si vous avez 3 cartes ou moins dans votre main, piochez 1 carte.",
-    "trigger": "[Déclenchement] Activez l'effet [Jouée] de cette carte.",
-    "tile_set_id": "OP09",
-    "variants": []
   }
 ]

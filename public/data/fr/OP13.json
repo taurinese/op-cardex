@@ -1,5 +1,140 @@
 [
   {
+    "id": "EB02-028_p1",
+    "pack_id": "622113",
+    "name": "Portgas D. Ace",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB02-028_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Royaume d'Alabasta",
+      "Équipage de Barbe Blanche"
+    ],
+    "effect": "[Jouée] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage ayant un coût de 2 et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 2.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP07-111_p1",
+    "pack_id": "622113",
+    "name": "Lilith",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-111_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-111_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Scientifique",
+      "Egg Head"
+    ],
+    "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck et ajoutez à votre main jusqu'à 1 carte de type {Egg Head} autre que [Lilith]. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": "[Déclenchement] Si votre Leader est [Végapunk], jouez cette carte.",
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP07-118_p1",
+    "pack_id": "622113",
+    "name": "Sabo",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-118_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-118_p1.webp?251024",
+    "colors": [
+      "Black"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "Armée révolutionnaire"
+    ],
+    "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP09-004_p4",
+    "pack_id": "622113",
+    "name": "Shanks",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-004_p4.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.webp?251024",
+    "colors": [
+      "Red"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "Quatre Empereurs",
+      "Équipage du Roux"
+    ],
+    "effect": "Tous les Personnages adverses perdent -1000 de puissance.<br>[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": [
+      {
+        "id": "OP09-004_p5",
+        "img_url": "../images/cardlist/card/OP09-004_p5.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.webp?251024",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
+    "id": "OP09-009_p2",
+    "pack_id": "622113",
+    "name": "Ben Beckmann",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-009_p2.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.webp?251024",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 7000,
+    "counter": 1000,
+    "types": [
+      "Équipage du Roux"
+    ],
+    "effect": "[Jouée] Placez dans sa Défausse jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
     "id": "OP09-118_p3",
     "pack_id": "622113",
     "name": "Gol D. Roger",
@@ -21,6 +156,57 @@
       "Équipage de Roger"
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>Quand votre adversaire active [Bloqueur], si vous ou votre adversaire n'avez plus de cartes dans votre Vie, vous remportez la partie.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP09-119_p3",
+    "pack_id": "622113",
+    "name": "Monkey D. Luffy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-119_p3.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.webp?251024",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Piochez 1 carte&nbsp;; ce Personnage gagne [Initiative] pour tout le tour.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP10-030_p2",
+    "pack_id": "622113",
+    "name": "Smoker",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-030_p2.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Punk Hazard",
+      "Marine"
+    ],
+    "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)<br>[Activation&nbsp;: Principale] Redressez jusqu'à 1 de vos cartes DON!!. Puis, vous ne pouvez pas redresser de carte DON!! grâce à l'effet d'un Personnage pour tout le tour.",
     "trigger": null,
     "tile_set_id": "OP13",
     "variants": []
@@ -3391,191 +3577,5 @@
         "rarity": "SecretRare"
       }
     ]
-  },
-  {
-    "id": "EB02-028_p1",
-    "pack_id": "622113",
-    "name": "Portgas D. Ace",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB02-028_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": 1000,
-    "types": [
-      "Royaume d'Alabasta",
-      "Équipage de Barbe Blanche"
-    ],
-    "effect": "[Jouée] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage ayant un coût de 2 et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 2.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP07-111_p1",
-    "pack_id": "622113",
-    "name": "Lilith",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-111_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-111_p1.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
-    "cost": 3,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 5000,
-    "counter": null,
-    "types": [
-      "Scientifique",
-      "Egg Head"
-    ],
-    "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck et ajoutez à votre main jusqu'à 1 carte de type {Egg Head} autre que [Lilith]. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
-    "trigger": "[Déclenchement] Si votre Leader est [Végapunk], jouez cette carte.",
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP07-118_p1",
-    "pack_id": "622113",
-    "name": "Sabo",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-118_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-118_p1.webp?251024",
-    "colors": [
-      "Black"
-    ],
-    "cost": 8,
-    "attributes": [
-      "Special"
-    ],
-    "power": 9000,
-    "counter": null,
-    "types": [
-      "Armée révolutionnaire"
-    ],
-    "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP09-004_p4",
-    "pack_id": "622113",
-    "name": "Shanks",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-004_p4.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.webp?251024",
-    "colors": [
-      "Red"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 12000,
-    "counter": null,
-    "types": [
-      "Quatre Empereurs",
-      "Équipage du Roux"
-    ],
-    "effect": "Tous les Personnages adverses perdent -1000 de puissance.<br>[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": [
-      {
-        "id": "OP09-004_p5",
-        "img_url": "../images/cardlist/card/OP09-004_p5.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.webp?251024",
-        "rarity": "Special"
-      }
-    ]
-  },
-  {
-    "id": "OP09-009_p2",
-    "pack_id": "622113",
-    "name": "Ben Beckmann",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-009_p2.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.webp?251024",
-    "colors": [
-      "Red"
-    ],
-    "cost": 7,
-    "attributes": [
-      "Ranged"
-    ],
-    "power": 7000,
-    "counter": 1000,
-    "types": [
-      "Équipage du Roux"
-    ],
-    "effect": "[Jouée] Placez dans sa Défausse jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP09-119_p3",
-    "pack_id": "622113",
-    "name": "Monkey D. Luffy",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-119_p3.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.webp?251024",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 9,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 10000,
-    "counter": null,
-    "types": [
-      "Équipage de Chapeau de paille"
-    ],
-    "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Piochez 1 carte&nbsp;; ce Personnage gagne [Initiative] pour tout le tour.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP10-030_p2",
-    "pack_id": "622113",
-    "name": "Smoker",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-030_p2.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.webp?251024",
-    "colors": [
-      "Green"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 7000,
-    "counter": null,
-    "types": [
-      "Punk Hazard",
-      "Marine"
-    ],
-    "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)<br>[Activation&nbsp;: Principale] Redressez jusqu'à 1 de vos cartes DON!!. Puis, vous ne pouvez pas redresser de carte DON!! grâce à l'effet d'un Personnage pour tout le tour.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
   }
 ]

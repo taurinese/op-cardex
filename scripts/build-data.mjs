@@ -237,13 +237,7 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks, cardMa
 
     if (cards.length === 0) continue
 
-    // SP (Special) cards are orphan tiles from other sets — sort them last
-    cards.sort((a, b) => {
-      const aSpecial = a.rarity === "Special" ? 1 : 0
-      const bSpecial = b.rarity === "Special" ? 1 : 0
-      if (aSpecial !== bSpecial) return aSpecial - bSpecial
-      return a.id.localeCompare(b.id)
-    })
+    cards.sort((a, b) => a.id.localeCompare(b.id))
 
     writeFileSync(
       join(outputLangDir, `${setId}.json`),

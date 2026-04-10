@@ -1,5 +1,217 @@
 [
   {
+    "id": "EB02-028_p1",
+    "pack_id": "569113",
+    "name": "Portgas.D.Ace",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB02-028_p1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Alabasta",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP07-111_p2",
+    "pack_id": "569113",
+    "name": "Lilith",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-111_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-111_p2.png?251017",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Scientist",
+      "Egghead"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Egghead} type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] If your Leader is [Vegapunk], play this card.",
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP07-118_p2",
+    "pack_id": "569113",
+    "name": "Sabo",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-118_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-118_p2.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "Revolutionary Army"
+    ],
+    "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less and up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP09-004_p5",
+    "pack_id": "569113",
+    "name": "Shanks",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-004_p5.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)<br>",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": [
+      {
+        "id": "OP09-004_p6",
+        "img_url": "../images/cardlist/card/OP09-004_p6.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png?251017",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
+    "id": "OP09-009_p3",
+    "pack_id": "569113",
+    "name": "Benn.Beckman",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-009_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p3.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 7000,
+    "counter": 1000,
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effect": "[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP09-118_p3",
+    "pack_id": "569113",
+    "name": "Gol.D.Roger",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-118_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 13000,
+    "counter": null,
+    "types": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP09-119_p3",
+    "pack_id": "569113",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-119_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png?251017",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Draw 1 card and this Character gains [Rush] during this turn.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
+    "id": "OP10-030_p2",
+    "pack_id": "569113",
+    "name": "Smoker",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-030_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Punk Hazard",
+      "Navy"
+    ],
+    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
+    "trigger": null,
+    "tile_set_id": "OP13",
+    "variants": []
+  },
+  {
     "id": "OP11-058_p1",
     "pack_id": "569113",
     "name": "Monkey.D.Luffy",
@@ -3365,217 +3577,5 @@
         "rarity": "Special"
       }
     ]
-  },
-  {
-    "id": "EB02-028_p1",
-    "pack_id": "569113",
-    "name": "Portgas.D.Ace",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB02-028_p1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.png?251017",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": 1000,
-    "types": [
-      "Alabasta",
-      "Whitebeard Pirates"
-    ],
-    "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP07-111_p2",
-    "pack_id": "569113",
-    "name": "Lilith",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-111_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-111_p2.png?251017",
-    "colors": [
-      "Yellow"
-    ],
-    "cost": 3,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 5000,
-    "counter": null,
-    "types": [
-      "Scientist",
-      "Egghead"
-    ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Egghead} type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": "[Trigger] If your Leader is [Vegapunk], play this card.",
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP07-118_p2",
-    "pack_id": "569113",
-    "name": "Sabo",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-118_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-118_p2.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 8,
-    "attributes": [
-      "Special"
-    ],
-    "power": 9000,
-    "counter": null,
-    "types": [
-      "Revolutionary Army"
-    ],
-    "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less and up to 1 of your opponent's Characters with a cost of 3 or less.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP09-004_p5",
-    "pack_id": "569113",
-    "name": "Shanks",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-004_p5.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 12000,
-    "counter": null,
-    "types": [
-      "The Four Emperors",
-      "Red-Haired Pirates"
-    ],
-    "effect": "Give all of your opponent's Characters −1000 power.<br>[Rush] (This card can attack on the turn in which it is played.)<br>",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": [
-      {
-        "id": "OP09-004_p6",
-        "img_url": "../images/cardlist/card/OP09-004_p6.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png?251017",
-        "rarity": "Special"
-      }
-    ]
-  },
-  {
-    "id": "OP09-009_p3",
-    "pack_id": "569113",
-    "name": "Benn.Beckman",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-009_p3.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p3.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 7,
-    "attributes": [
-      "Ranged"
-    ],
-    "power": 7000,
-    "counter": 1000,
-    "types": [
-      "Red-Haired Pirates"
-    ],
-    "effect": "[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP09-118_p3",
-    "pack_id": "569113",
-    "name": "Gol.D.Roger",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-118_p3.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 13000,
-    "counter": null,
-    "types": [
-      "King of the Pirates",
-      "Roger Pirates"
-    ],
-    "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP09-119_p3",
-    "pack_id": "569113",
-    "name": "Monkey.D.Luffy",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-119_p3.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png?251017",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 9,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 10000,
-    "counter": null,
-    "types": [
-      "Straw Hat Crew"
-    ],
-    "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Draw 1 card and this Character gains [Rush] during this turn.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
-  },
-  {
-    "id": "OP10-030_p2",
-    "pack_id": "569113",
-    "name": "Smoker",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-030_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 7000,
-    "counter": null,
-    "types": [
-      "Punk Hazard",
-      "Navy"
-    ],
-    "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)<br>[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
-    "trigger": null,
-    "tile_set_id": "OP13",
-    "variants": []
   }
 ]

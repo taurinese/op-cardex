@@ -1,5 +1,113 @@
 [
   {
+    "id": "OP06-050_p2",
+    "pack_id": "569112",
+    "name": "Tashigi",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP06-050_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-050_p2.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Tashigi] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "tile_set_id": "OP12",
+    "variants": []
+  },
+  {
+    "id": "OP09-013_p2",
+    "pack_id": "569112",
+    "name": "Yasopp",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-013_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p2.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Red-Haired Pirates"
+    ],
+    "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "trigger": null,
+    "tile_set_id": "OP12",
+    "variants": []
+  },
+  {
+    "id": "OP09-037_p2",
+    "pack_id": "569112",
+    "name": "Lim",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-037_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "ODYSSEY"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
+    "trigger": null,
+    "tile_set_id": "OP12",
+    "variants": []
+  },
+  {
+    "id": "OP09-093_p4",
+    "pack_id": "569112",
+    "name": "Marshall.D.Teach",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-093_p4.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Special"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Blackbeard Pirates"
+    ],
+    "effect": "[Blocker]<br>[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+    "trigger": null,
+    "tile_set_id": "OP12",
+    "variants": [
+      {
+        "id": "OP09-093_p5",
+        "img_url": "../images/cardlist/card/OP09-093_p5.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png?251017",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
     "id": "OP10-063_p1",
     "pack_id": "569112",
     "name": "Vinsmoke Sanji",
@@ -21,6 +129,32 @@
       "The Vinsmoke Family"
     ],
     "effect": "[On Play] If your Leader's type includes \"GERMA\", look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"GERMA\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "tile_set_id": "OP12",
+    "variants": []
+  },
+  {
+    "id": "OP10-082_p2",
+    "pack_id": "569112",
+    "name": "Kuzan",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-082_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-082_p2.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Former Navy",
+      "Blackbeard Pirates"
+    ],
+    "effect": "This Character cannot be removed from the field by your opponent's effects.<br>[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
     "trigger": null,
     "tile_set_id": "OP12",
     "variants": []
@@ -3280,140 +3414,6 @@
         "rarity": "SecretRare"
       }
     ]
-  },
-  {
-    "id": "OP06-050_p2",
-    "pack_id": "569112",
-    "name": "Tashigi",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-050_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-050_p2.png?251017",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 1,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 2000,
-    "counter": 1000,
-    "types": [
-      "Navy"
-    ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Tashigi] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": null,
-    "tile_set_id": "OP12",
-    "variants": []
-  },
-  {
-    "id": "OP09-013_p2",
-    "pack_id": "569112",
-    "name": "Yasopp",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-013_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p2.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Ranged"
-    ],
-    "power": 6000,
-    "counter": 1000,
-    "types": [
-      "Red-Haired Pirates"
-    ],
-    "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
-    "trigger": null,
-    "tile_set_id": "OP12",
-    "variants": []
-  },
-  {
-    "id": "OP09-037_p2",
-    "pack_id": "569112",
-    "name": "Lim",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-037_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
-    "cost": 3,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 5000,
-    "counter": null,
-    "types": [
-      "ODYSSEY"
-    ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order.<br>[End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
-    "trigger": null,
-    "tile_set_id": "OP12",
-    "variants": []
-  },
-  {
-    "id": "OP09-093_p4",
-    "pack_id": "569112",
-    "name": "Marshall.D.Teach",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-093_p4.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Special"
-    ],
-    "power": 12000,
-    "counter": null,
-    "types": [
-      "The Four Emperors",
-      "Blackbeard Pirates"
-    ],
-    "effect": "[Blocker]<br>[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
-    "trigger": null,
-    "tile_set_id": "OP12",
-    "variants": [
-      {
-        "id": "OP09-093_p5",
-        "img_url": "../images/cardlist/card/OP09-093_p5.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png?251017",
-        "rarity": "Special"
-      }
-    ]
-  },
-  {
-    "id": "OP10-082_p2",
-    "pack_id": "569112",
-    "name": "Kuzan",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-082_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-082_p2.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": null,
-    "types": [
-      "Former Navy",
-      "Blackbeard Pirates"
-    ],
-    "effect": "This Character cannot be removed from the field by your opponent's effects.<br>[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
-    "trigger": null,
-    "tile_set_id": "OP12",
-    "variants": []
   },
   {
     "id": "ST13-011_p2",
