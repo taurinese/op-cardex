@@ -39,7 +39,7 @@ export const Route = createFileRoute("/series/")({
     if (!set) {
       const firstSet = index.sets.find((s) => s.langs?.includes(lang))
       if (firstSet) {
-        throw redirect({ to: "/series/", search: { set: firstSet.id, lang } })
+        throw redirect({ to: "/series", search: { set: firstSet.id, lang } })
       }
     }
 

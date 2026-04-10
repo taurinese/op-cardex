@@ -5,10 +5,11 @@ import { Button } from "@/components/ui/button"
 import { useAuth } from "@/context/auth"
 import { cn } from "@/lib/utils"
 
-function NavLink({ to, children }: { to: string; children: React.ReactNode }) {
+function NavLink({ to, search, children }: { to: string; search?: Record<string, unknown>; children: React.ReactNode }) {
   return (
     <Link
       to={to}
+      search={search as never}
       className={cn(
         "flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm text-muted-foreground transition-colors hover:bg-accent hover:text-foreground",
         "[&.active]:bg-accent [&.active]:text-foreground"
@@ -31,11 +32,11 @@ function Navbar() {
         </Link>
 
         <nav className="flex items-center gap-1">
-          <NavLink to="/series">
+          <NavLink to="/series" search={{ lang: "en" }}>
             <LayoutGrid className="size-3.5" />
             Séries
           </NavLink>
-          <NavLink to="/collection">
+          <NavLink to="/collection" search={{ lang: "en", view: "sets", hideUnowned: false }}>
             <BookOpen className="size-3.5" />
             Collection
           </NavLink>

@@ -24,6 +24,7 @@ function HomePage() {
       <div className="grid gap-4 sm:grid-cols-2 max-w-xl">
         <Link
           to="/series"
+          search={{ lang: "en" }}
           className="group rounded-xl border border-border/50 bg-card p-5 transition-all hover:border-amber-400/30 hover:bg-amber-400/5"
         >
           <div className="flex items-center gap-3 mb-2">
@@ -37,6 +38,7 @@ function HomePage() {
 
         <Link
           to="/collection"
+          search={{ lang: "en", view: "sets", hideUnowned: false }}
           className="group rounded-xl border border-border/50 bg-card p-5 transition-all hover:border-amber-400/30 hover:bg-amber-400/5"
         >
           <div className="flex items-center gap-3 mb-2">

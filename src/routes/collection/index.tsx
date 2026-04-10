@@ -92,7 +92,7 @@ function CollectionPage() {
   const { set, lang, view, hideUnowned } = Route.useSearch()
   const navigate = useNavigate({ from: "/collection/" })
   const { user } = useAuth()
-  const { owned, isOwned } = useCollection()
+  const { owned, isOwned, toggle } = useCollection()
   const [selectedCard, setSelectedCard] = React.useState<Card | null>(null)
   const [selectMode, setSelectMode] = React.useState(false)
   const [selectedIds, setSelectedIds] = React.useState<Set<string>>(new Set())
@@ -296,7 +296,7 @@ function CollectionPage() {
 
 // ---------------------------------------------------------------------------
 
-function OverviewView({ sets, lang, onSelectSet }: { sets: SetMeta[]; lang: Lang; onSelectSet: (id: string) => void }) {
+function OverviewView({ sets, onSelectSet }: { sets: SetMeta[]; lang: Lang; onSelectSet: (id: string) => void }) {
   const { owned } = useCollection()
 
   return (
