@@ -55,7 +55,7 @@ export const Route = createFileRoute("/series/")({
 // ---------------------------------------------------------------------------
 
 
-const LANG_FLAGS: Record<Lang, React.ComponentType<React.SVGProps<SVGSVGElement>>> = {
+const LANG_FLAGS: Record<Lang, React.ElementType> = {
   en: GB,
   fr: FR,
   jp: JP,
