@@ -67,6 +67,17 @@ const LANG_OPTIONS: { value: Lang }[] = [
   { value: "jp" },
 ]
 
+const GRID_COLS: Record<number, string> = {
+  3: "grid-cols-3",
+  4: "grid-cols-4",
+  5: "grid-cols-5",
+  6: "grid-cols-6",
+  7: "grid-cols-7",
+  8: "grid-cols-8",
+  9: "grid-cols-9",
+  10: "grid-cols-10",
+}
+
 const RARITY_BADGE: Record<string, string> = {
   Leader: "bg-amber-400/15 text-amber-400",
   SecretRare: "bg-pink-400/15 text-pink-400",
@@ -126,6 +137,13 @@ function SeriesPage() {
   const [cardFilter, setCardFilter] = React.useState<"all" | "base" | "alt">("all")
   const [selectMode, setSelectMode] = React.useState(false)
   const [selectedIds, setSelectedIds] = React.useState<Set<string>>(new Set())
+  const [columns, setColumns] = React.useState(() =>
+    Math.min(10, Math.max(3, parseInt(localStorage.getItem("collection-columns") ?? "7", 10)))
+  )
+
+  React.useEffect(() => {
+    localStorage.setItem("collection-columns", String(columns))
+  }, [columns])
 
   // Reset filters + select mode when set changes
   React.useEffect(() => {
@@ -234,6 +252,26 @@ function SeriesPage() {
           </div>
         )}
 
+        {/* Column picker */}
+        {cards && cards.length > 0 && (
+          <div className="flex flex-col gap-1.5">
+            <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Colonnes</label>
+            <div className="flex h-9 items-center overflow-hidden rounded-md border border-border">
+              <button
+                onClick={() => setColumns((c) => Math.max(3, c - 1))}
+                disabled={columns <= 3}
+                className="cursor-pointer px-2.5 text-muted-foreground transition-colors hover:text-foreground disabled:opacity-30"
+              >−</button>
+              <span className="w-6 text-center text-sm font-medium tabular-nums">{columns}</span>
+              <button
+                onClick={() => setColumns((c) => Math.min(10, c + 1))}
+                disabled={columns >= 10}
+                className="cursor-pointer px-2.5 text-muted-foreground transition-colors hover:text-foreground disabled:opacity-30"
+              >+</button>
+            </div>
+          </div>
+        )}
+
         {/* Sélectionner always pinned to the right */}
         {user && cards && cards.length > 0 && (
           <div className="ml-auto flex flex-col gap-1.5">
@@ -277,6 +315,7 @@ function SeriesPage() {
           cards={filteredCards}
           lang={lang}
           cardFilter={cardFilter}
+          columns={columns}
           selectMode={selectMode}
           selectedIds={selectedIds}
           onCardClick={(card, versionIndex) => setSelectedCard({ card, versionIndex })}
@@ -387,6 +426,16 @@ function RarityFilter({
         )
       })}
 
+      {active.size < available.length && (
+        <button
+          onClick={() => onChange(new Set(available))}
+          className="flex cursor-pointer items-center gap-1 rounded-lg border border-border/50 px-2.5 py-1.5 text-xs text-muted-foreground transition-colors hover:border-border hover:text-foreground"
+        >
+          <Check className="size-3" />
+          Toutes
+        </button>
+      )}
+
       {active.size > 0 && (
         <button
           onClick={() => onChange(new Set())}
@@ -448,6 +497,7 @@ function CardsGrid({
   cards,
   lang,
   cardFilter,
+  columns,
   selectMode,
   selectedIds,
   onCardClick,
@@ -456,6 +506,7 @@ function CardsGrid({
   cards: Card[]
   lang: Lang
   cardFilter: "all" | "base" | "alt"
+  columns: number
   selectMode: boolean
   selectedIds: Set<string>
   onCardClick: (card: Card, versionIndex: number) => void
@@ -469,7 +520,7 @@ function CardsGrid({
   )
 
   return (
-    <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-8">
+    <div className={cn("grid gap-3", GRID_COLS[columns])}>
       {items.map(({ card, versionIndex }) => {
         const displayId = versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
         return (
