@@ -26,7 +26,7 @@ function validateSearch(search: Record<string, unknown>): CollectionSearch {
   return {
     set: typeof search.set === "string" ? search.set : undefined,
     lang,
-    view: search.view === "overview" ? "overview" : "sets",
+    view: search.view === "sets" ? "sets" : "overview",
     hideUnowned: search.hideUnowned === true || search.hideUnowned === "true",
   }
 }
@@ -93,11 +93,13 @@ function CollectionPage() {
   const navigate = useNavigate({ from: "/collection/" })
   const { user } = useAuth()
   const { owned, isOwned, toggle } = useCollection()
-  const [selectedCard, setSelectedCard] = React.useState<Card | null>(null)
+  const [selectedCard, setSelectedCard] = React.useState<{ card: Card; versionIndex: number } | null>(null)
+  const [cardFilter, setCardFilter] = React.useState<"all" | "base" | "alt">("all")
   const [selectMode, setSelectMode] = React.useState(false)
   const [selectedIds, setSelectedIds] = React.useState<Set<string>>(new Set())
 
   React.useEffect(() => {
+    setCardFilter("all")
     setSelectMode(false)
     setSelectedIds(new Set())
   }, [set])
@@ -113,7 +115,7 @@ function CollectionPage() {
 
   async function handleConfirmSelect() {
     for (const cardId of selectedIds) {
-      if (!isOwned(cardId)) await toggle(cardId)
+      if (!isOwned(cardId, lang)) await toggle(cardId, lang)
     }
     setSelectedIds(new Set())
     setSelectMode(false)
@@ -137,6 +139,7 @@ function CollectionPage() {
 
   const setsForLang = index.sets
     .filter((s) => s.langs?.includes(lang))
+    .filter((s) => Array.from(owned).some((k) => k.startsWith(`${lang}/${s.id}-`)))
     .sort((a, b) => a.id.slice(0, 4).localeCompare(b.id.slice(0, 4)))
 
   if (!user) {
@@ -222,6 +225,25 @@ function CollectionPage() {
               </div>
             </div>
 
+            {cards && cards.some((c) => c.variants.length > 0) && (
+              <div className="flex flex-col gap-1.5">
+                <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Version</label>
+                <div className="flex h-9 overflow-hidden rounded-md border border-border">
+                  {(["all", "base", "alt"] as const).map((f) => (
+                    <button
+                      key={f}
+                      onClick={() => setCardFilter(f)}
+                      className={`px-3 text-sm font-medium transition-colors hover:text-foreground cursor-pointer ${
+                        cardFilter === f ? "bg-amber-400 text-black" : "bg-background text-muted-foreground"
+                      }`}
+                    >
+                      {f === "all" ? "Toutes" : f === "base" ? "Base" : "Alt"}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {cards && (
               <>
                 <button
@@ -258,10 +280,11 @@ function CollectionPage() {
             <SetView
               cards={cards}
               lang={lang}
+              cardFilter={cardFilter}
               hideUnowned={hideUnowned}
               selectMode={selectMode}
               selectedIds={selectedIds}
-              onCardClick={setSelectedCard}
+              onCardClick={(card, versionIndex) => setSelectedCard({ card, versionIndex })}
               onToggleSelect={handleToggleSelect}
             />
           )}
@@ -289,22 +312,38 @@ function CollectionPage() {
         </div>
       )}
 
-      <CardModal card={selectedCard} lang={lang} onClose={() => setSelectedCard(null)} />
+      <CardModal
+        card={selectedCard?.card ?? null}
+        lang={lang}
+        initialVersionIndex={selectedCard?.versionIndex ?? 0}
+        onClose={() => setSelectedCard(null)}
+      />
     </div>
   )
 }
 
 // ---------------------------------------------------------------------------
 
-function OverviewView({ sets, onSelectSet }: { sets: SetMeta[]; lang: Lang; onSelectSet: (id: string) => void }) {
+function OverviewView({ sets, lang, onSelectSet }: { sets: SetMeta[]; lang: Lang; onSelectSet: (id: string) => void }) {
   const { owned } = useCollection()
+
+  const setsWithCards = sets.filter((s) =>
+    Array.from(owned).some((k) => k.startsWith(`${lang}/${s.id}-`))
+  )
+
+  if (setsWithCards.length === 0) {
+    return (
+      <p className="py-16 text-center text-sm text-muted-foreground">
+        Aucune carte dans ta collection pour l'instant.
+      </p>
+    )
+  }
 
   return (
     <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-      {sets.map((s) => {
-        // Count owned cards for this set (card IDs start with the set ID)
-        const prefix = s.id + "-"
-        const ownedInSet = Array.from(owned).filter((id) => id.startsWith(prefix)).length
+      {setsWithCards.map((s) => {
+        // Count owned cards for this set in the current language
+        const ownedInSet = Array.from(owned).filter((k) => k.startsWith(`${lang}/${s.id}-`)).length
         const total = s.card_count
         const pct = total > 0 ? Math.round((ownedInSet / total) * 100) : 0
 
@@ -344,6 +383,7 @@ function OverviewView({ sets, onSelectSet }: { sets: SetMeta[]; lang: Lang; onSe
 function SetView({
   cards,
   lang,
+  cardFilter,
   hideUnowned,
   selectMode,
   selectedIds,
@@ -352,16 +392,29 @@ function SetView({
 }: {
   cards: Card[]
   lang: Lang
+  cardFilter: "all" | "base" | "alt"
   hideUnowned: boolean
   selectMode: boolean
   selectedIds: Set<string>
-  onCardClick: (card: Card) => void
+  cardFilter: "all" | "base" | "alt"
+  onCardClick: (card: Card, versionIndex: number) => void
   onToggleSelect: (cardId: string) => void
 }) {
   const { isOwned } = useCollection()
+
+  const items = cards.flatMap((card) => [
+    { card, versionIndex: 0 },
+    ...card.variants.map((_, i) => ({ card, versionIndex: i + 1 })),
+  ]).filter(({ versionIndex }) =>
+    cardFilter === "all" ? true : cardFilter === "base" ? versionIndex === 0 : versionIndex > 0
+  )
+
   const displayed = hideUnowned
-    ? cards.filter((c) => [c.id, ...c.variants.map((v) => v.id)].some(isOwned))
-    : cards
+    ? items.filter(({ card, versionIndex }) => {
+        const id = versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
+        return isOwned(id, lang)
+      })
+    : items
 
   if (displayed.length === 0) {
     return (
@@ -373,23 +426,28 @@ function SetView({
 
   return (
     <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-8">
-      {displayed.map((card) => (
-        <CollectionCardTile
-          key={card.id}
-          card={card}
-          lang={lang}
-          selectMode={selectMode}
-          isSelected={selectedIds.has(card.id)}
-          onClick={() => onCardClick(card)}
-          onToggleSelect={() => onToggleSelect(card.id)}
-        />
-      ))}
+      {displayed.map(({ card, versionIndex }) => {
+        const displayId = versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
+        return (
+          <CollectionCardTile
+            key={displayId}
+            card={card}
+            versionIndex={versionIndex}
+            lang={lang}
+            selectMode={selectMode}
+            isSelected={selectedIds.has(displayId)}
+            onClick={() => onCardClick(card, versionIndex)}
+            onToggleSelect={() => onToggleSelect(displayId)}
+          />
+        )
+      })}
     </div>
   )
 }
 
 function CollectionCardTile({
   card,
+  versionIndex,
   lang,
   selectMode,
   isSelected,
@@ -397,6 +455,7 @@ function CollectionCardTile({
   onToggleSelect,
 }: {
   card: Card
+  versionIndex: number
   lang: Lang
   selectMode: boolean
   isSelected: boolean
@@ -406,16 +465,13 @@ function CollectionCardTile({
   const rarityClass = RARITY_BADGE[card.rarity] ?? RARITY_BADGE.Common
   const { isOwned, toggle } = useCollection()
 
-  const ownedIds = [card.id, ...card.variants.map((v) => v.id)]
-  const ownedCount = ownedIds.filter(isOwned).length
-  const isAnyOwned = ownedCount > 0
-  const isBaseOwned = isOwned(card.id)
-  const hasVariants = card.variants.length > 0
+  const displayId = versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
+  const isVariant = versionIndex > 0
+  const owned = isOwned(displayId, lang)
 
   function handleQuickAdd(e: React.MouseEvent) {
     e.stopPropagation()
-    if (hasVariants) onClick()
-    else toggle(card.id)
+    toggle(displayId, lang)
   }
 
   function handleClick() {
@@ -430,24 +486,26 @@ function CollectionCardTile({
           "relative overflow-hidden rounded-lg border aspect-[63/88] transition-all group-hover:-translate-y-0.5",
           isSelected
             ? "border-amber-400 ring-2 ring-amber-400/30 bg-muted"
-            : isAnyOwned
+            : owned
               ? "border-amber-400/30 bg-muted group-hover:border-amber-400/60 group-hover:shadow-lg group-hover:shadow-amber-400/10"
               : "border-border/30 bg-muted group-hover:border-border/60"
         )}
       >
         <img
-          src={cardImageUrl(card.id, lang)}
+          src={cardImageUrl(displayId, lang)}
           alt={card.name}
           loading="lazy"
           className={cn(
             "h-full w-full object-cover transition-all",
-            !isAnyOwned && "opacity-30 grayscale group-hover:opacity-60 group-hover:grayscale-0"
+            !owned && "opacity-30 grayscale group-hover:opacity-60 group-hover:grayscale-0"
           )}
           onError={(e) => { e.currentTarget.style.display = "none" }}
         />
-        {card.variants.length > 0 && (
+
+        {/* Variant label */}
+        {isVariant && (
           <span className="absolute bottom-1 right-1 rounded bg-black/70 px-1 py-0.5 text-[9px] font-medium text-white backdrop-blur-sm">
-            +{card.variants.length}
+            alt
           </span>
         )}
 
@@ -456,10 +514,8 @@ function CollectionCardTile({
           <div className={cn("absolute left-1 top-1 rounded p-0.5", isSelected ? "text-amber-400" : "text-white/70")}>
             {isSelected ? <CheckSquare className="size-4 drop-shadow" /> : <Square className="size-4 drop-shadow" />}
           </div>
-        ) : isAnyOwned ? (
-          <span className="absolute left-1 top-1 rounded bg-amber-400 px-1 py-0.5 text-[9px] font-bold text-black">
-            {ownedCount > 1 ? `${ownedCount}×` : "✓"}
-          </span>
+        ) : owned ? (
+          <span className="absolute left-1 top-1 rounded bg-amber-400 px-1 py-0.5 text-[9px] font-bold text-black">✓</span>
         ) : null}
 
         {/* Quick add button */}
@@ -469,12 +525,10 @@ function CollectionCardTile({
             className={cn(
               "absolute bottom-1 left-1 cursor-pointer rounded px-1.5 py-0.5 text-[9px] font-bold backdrop-blur-sm transition-all",
               "opacity-0 group-hover:opacity-100",
-              isBaseOwned && !hasVariants
-                ? "bg-amber-400/90 text-black"
-                : "bg-black/70 text-white hover:bg-amber-400/90 hover:text-black"
+              owned ? "bg-amber-400/90 text-black" : "bg-black/70 text-white hover:bg-amber-400/90 hover:text-black"
             )}
           >
-            {hasVariants ? "···" : isBaseOwned ? "✓" : "+"}
+            {owned ? "✓" : "+"}
           </button>
         )}
       </div>
@@ -482,7 +536,7 @@ function CollectionCardTile({
       <div className="flex items-start justify-between gap-1 px-0.5">
         <div className="min-w-0">
           <p className="truncate text-[11px] font-medium leading-tight">{card.name}</p>
-          <p className="text-[10px] text-muted-foreground">{card.id}</p>
+          <p className="text-[10px] text-muted-foreground">{displayId}</p>
         </div>
         <div className="flex shrink-0 flex-col items-end gap-1">
           <span className={`rounded px-1 py-0.5 text-[9px] font-bold ${rarityClass}`}>

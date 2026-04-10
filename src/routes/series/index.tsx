@@ -112,14 +112,16 @@ function SeriesPage() {
   const navigate = useNavigate({ from: "/series/" })
   const { user } = useAuth()
   const { isOwned, toggle } = useCollection()
-  const [selectedCard, setSelectedCard] = React.useState<Card | null>(null)
+  const [selectedCard, setSelectedCard] = React.useState<{ card: Card; versionIndex: number } | null>(null)
   const [rarityFilter, setRarityFilter] = React.useState<string | null>(null)
+  const [cardFilter, setCardFilter] = React.useState<"all" | "base" | "alt">("all")
   const [selectMode, setSelectMode] = React.useState(false)
   const [selectedIds, setSelectedIds] = React.useState<Set<string>>(new Set())
 
-  // Reset rarity filter + select mode when set changes
+  // Reset filters + select mode when set changes
   React.useEffect(() => {
     setRarityFilter(null)
+    setCardFilter("all")
     setSelectMode(false)
     setSelectedIds(new Set())
   }, [set])
@@ -153,7 +155,7 @@ function SeriesPage() {
 
   async function handleConfirmSelect() {
     for (const cardId of selectedIds) {
-      if (!isOwned(cardId)) await toggle(cardId)
+      if (!isOwned(cardId, lang)) await toggle(cardId, lang)
     }
     setSelectedIds(new Set())
     setSelectMode(false)
@@ -212,6 +214,28 @@ function SeriesPage() {
           </div>
         </div>
 
+        {/* Card type filter */}
+        {cards && cards.some((c) => c.variants.length > 0) && (
+          <div className="flex flex-col gap-1.5">
+            <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
+              Version
+            </label>
+            <div className="flex h-9 overflow-hidden rounded-md border border-border">
+              {(["all", "base", "alt"] as const).map((f) => (
+                <button
+                  key={f}
+                  onClick={() => setCardFilter(f)}
+                  className={`px-3 text-sm font-medium transition-colors hover:text-foreground cursor-pointer ${
+                    cardFilter === f ? "bg-amber-400 text-black" : "bg-background text-muted-foreground"
+                  }`}
+                >
+                  {f === "all" ? "Toutes" : f === "base" ? "Base" : "Alt"}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* Set info */}
         {currentSet && (
           <p className="ml-auto text-sm text-muted-foreground">
@@ -250,9 +274,10 @@ function SeriesPage() {
         <CardsGrid
           cards={filteredCards}
           lang={lang}
+          cardFilter={cardFilter}
           selectMode={selectMode}
           selectedIds={selectedIds}
-          onCardClick={setSelectedCard}
+          onCardClick={(card, versionIndex) => setSelectedCard({ card, versionIndex })}
           onToggleSelect={handleToggleSelect}
         />
       )}
@@ -278,7 +303,12 @@ function SeriesPage() {
         </div>
       )}
 
-      <CardModal card={selectedCard} lang={lang} onClose={() => setSelectedCard(null)} />
+      <CardModal
+        card={selectedCard?.card ?? null}
+        lang={lang}
+        initialVersionIndex={selectedCard?.versionIndex ?? 0}
+        onClose={() => setSelectedCard(null)}
+      />
     </div>
   )
 }
@@ -371,6 +401,7 @@ function EmptyState({
 function CardsGrid({
   cards,
   lang,
+  cardFilter,
   selectMode,
   selectedIds,
   onCardClick,
@@ -378,30 +409,43 @@ function CardsGrid({
 }: {
   cards: Card[]
   lang: Lang
+  cardFilter: "all" | "base" | "alt"
   selectMode: boolean
   selectedIds: Set<string>
-  onCardClick: (card: Card) => void
+  onCardClick: (card: Card, versionIndex: number) => void
   onToggleSelect: (cardId: string) => void
 }) {
+  const items = cards.flatMap((card) => [
+    { card, versionIndex: 0 },
+    ...card.variants.map((_, i) => ({ card, versionIndex: i + 1 })),
+  ]).filter(({ versionIndex }) =>
+    cardFilter === "all" ? true : cardFilter === "base" ? versionIndex === 0 : versionIndex > 0
+  )
+
   return (
     <div className="grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-8">
-      {cards.map((card) => (
-        <CardTile
-          key={card.id}
-          card={card}
-          lang={lang}
-          selectMode={selectMode}
-          isSelected={selectedIds.has(card.id)}
-          onClick={() => onCardClick(card)}
-          onToggleSelect={() => onToggleSelect(card.id)}
-        />
-      ))}
+      {items.map(({ card, versionIndex }) => {
+        const displayId = versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
+        return (
+          <CardTile
+            key={displayId}
+            card={card}
+            versionIndex={versionIndex}
+            lang={lang}
+            selectMode={selectMode}
+            isSelected={selectedIds.has(displayId)}
+            onClick={() => onCardClick(card, versionIndex)}
+            onToggleSelect={() => onToggleSelect(displayId)}
+          />
+        )
+      })}
     </div>
   )
 }
 
 function CardTile({
   card,
+  versionIndex,
   lang,
   selectMode,
   isSelected,
@@ -409,6 +453,7 @@ function CardTile({
   onToggleSelect,
 }: {
   card: Card
+  versionIndex: number
   lang: Lang
   selectMode: boolean
   isSelected: boolean
@@ -419,18 +464,13 @@ function CardTile({
   const { user } = useAuth()
   const { isOwned, toggle } = useCollection()
 
-  const ownedIds = [card.id, ...card.variants.map((v) => v.id)]
-  const ownedCount = ownedIds.filter(isOwned).length
-  const isBaseOwned = isOwned(card.id)
-  const hasVariants = card.variants.length > 0
+  const displayId = versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
+  const isVariant = versionIndex > 0
+  const owned = isOwned(displayId, lang)
 
   function handleQuickAdd(e: React.MouseEvent) {
     e.stopPropagation()
-    if (hasVariants) {
-      onClick()
-    } else {
-      toggle(card.id)
-    }
+    toggle(displayId, lang)
   }
 
   function handleClick() {
@@ -450,24 +490,22 @@ function CardTile({
           : "border-border/30 group-hover:border-amber-400/40 group-hover:shadow-lg group-hover:shadow-amber-400/5"
       )}>
         <img
-          src={cardImageUrl(card.id, lang)}
+          src={cardImageUrl(displayId, lang)}
           alt={card.name}
           loading="lazy"
           className="h-full w-full object-cover"
-          onError={(e) => {
-            e.currentTarget.style.display = "none"
-          }}
+          onError={(e) => { e.currentTarget.style.display = "none" }}
         />
 
-        {/* Variant badge */}
-        {card.variants.length > 0 && (
+        {/* Variant label */}
+        {isVariant && (
           <span className="absolute bottom-1 right-1 rounded bg-black/70 px-1 py-0.5 text-[9px] font-medium text-white backdrop-blur-sm">
-            +{card.variants.length}
+            alt
           </span>
         )}
 
         {/* Owned badge */}
-        {ownedCount > 0 && !selectMode && (
+        {owned && !selectMode && (
           <span className="absolute left-1 top-1 rounded bg-amber-400 px-1 py-0.5 text-[9px] font-bold text-black">
             ✓
           </span>
@@ -475,30 +513,22 @@ function CardTile({
 
         {/* Select mode checkbox */}
         {selectMode && (
-          <div className={cn(
-            "absolute left-1 top-1 rounded p-0.5",
-            isSelected ? "text-amber-400" : "text-white/70"
-          )}>
-            {isSelected
-              ? <CheckSquare className="size-4 drop-shadow" />
-              : <Square className="size-4 drop-shadow" />
-            }
+          <div className={cn("absolute left-1 top-1 rounded p-0.5", isSelected ? "text-amber-400" : "text-white/70")}>
+            {isSelected ? <CheckSquare className="size-4 drop-shadow" /> : <Square className="size-4 drop-shadow" />}
           </div>
         )}
 
-        {/* Quick add button (hover, not in select mode) */}
+        {/* Quick add button */}
         {user && !selectMode && (
           <button
             onClick={handleQuickAdd}
             className={cn(
               "absolute bottom-1 left-1 cursor-pointer rounded px-1.5 py-0.5 text-[9px] font-bold backdrop-blur-sm transition-all",
               "opacity-0 group-hover:opacity-100",
-              isBaseOwned && !hasVariants
-                ? "bg-amber-400/90 text-black"
-                : "bg-black/70 text-white hover:bg-amber-400/90 hover:text-black"
+              owned ? "bg-amber-400/90 text-black" : "bg-black/70 text-white hover:bg-amber-400/90 hover:text-black"
             )}
           >
-            {hasVariants ? "···" : isBaseOwned ? "✓" : "+"}
+            {owned ? "✓" : "+"}
           </button>
         )}
       </div>
@@ -506,7 +536,7 @@ function CardTile({
       <div className="flex items-start justify-between gap-1 px-0.5">
         <div className="min-w-0">
           <p className="truncate text-[11px] font-medium leading-tight">{card.name}</p>
-          <p className="text-[10px] text-muted-foreground">{card.id}</p>
+          <p className="text-[10px] text-muted-foreground">{displayId}</p>
         </div>
         <div className="flex shrink-0 flex-col items-end gap-1">
           <span className={`rounded px-1 py-0.5 text-[9px] font-bold ${rarityClass}`}>

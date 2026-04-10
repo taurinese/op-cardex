@@ -13,6 +13,7 @@ import { cn } from "@/lib/utils"
 type CardModalProps = {
   card: Card | null
   lang?: Lang
+  initialVersionIndex?: number
   onClose: () => void
 }
 
@@ -46,13 +47,13 @@ function getVersions(card: Card) {
 
 // ---------------------------------------------------------------------------
 
-export function CardModal({ card, lang = "en", onClose }: CardModalProps) {
-  const [versionIndex, setVersionIndex] = React.useState(0)
+export function CardModal({ card, lang = "en", initialVersionIndex = 0, onClose }: CardModalProps) {
+  const [versionIndex, setVersionIndex] = React.useState(initialVersionIndex)
   const [zoomed, setZoomed] = React.useState(false)
   const { user } = useAuth()
   const { isOwned, toggle } = useCollection()
 
-  React.useEffect(() => { setVersionIndex(0); setZoomed(false) }, [card?.id])
+  React.useEffect(() => { setVersionIndex(initialVersionIndex); setZoomed(false) }, [card?.id, initialVersionIndex])
 
   const versions = card ? getVersions(card) : []
   const currentId = versions[versionIndex]?.id ?? card?.id
@@ -133,11 +134,11 @@ export function CardModal({ card, lang = "en", onClose }: CardModalProps) {
                 {user && (
                   <div className="flex flex-wrap gap-2">
                     {versions.map((v, i) => {
-                      const owned = isOwned(v.id)
+                      const owned = isOwned(v.id, lang)
                       return (
                         <button
                           key={v.id}
-                          onClick={() => toggle(v.id)}
+                          onClick={() => toggle(v.id, lang)}
                           className={cn(
                             "cursor-pointer rounded-full border px-3 py-1 text-xs font-medium transition-all",
                             owned

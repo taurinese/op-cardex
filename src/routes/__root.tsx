@@ -36,7 +36,7 @@ function Navbar() {
             <LayoutGrid className="size-3.5" />
             Séries
           </NavLink>
-          <NavLink to="/collection" search={{ lang: "en", view: "sets", hideUnowned: false }}>
+          <NavLink to="/collection" search={{ lang: "en", view: "overview", hideUnowned: false }}>
             <BookOpen className="size-3.5" />
             Collection
           </NavLink>
