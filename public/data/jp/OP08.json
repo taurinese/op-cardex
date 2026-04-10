@@ -1,5 +1,55 @@
 [
   {
+    "id": "OP02-013_p3",
+    "pack_id": "550108",
+    "name": "ポートガス・D・エース",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-013_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png?2602273",
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 1,
+    "types": [
+      "白ひげ海賊団"
+    ],
+    "effect": "【登場時】相手のキャラ2枚までを、このターン中、パワー-3000。その後、自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、このキャラは、このターン中、【速攻】を得る。<br>(このカードは登場したターンにアタックできる)",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-112_p4",
+    "pack_id": "550108",
+    "name": "シャーロット・プリン",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-112_p4.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p4.png?2602273",
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
+    "types": [
+      "ビッグ・マム海賊団"
+    ],
+    "effect": "【登場時】自分のデッキの上から4枚を見て、「シャーロット・プリン」以外の特徴《ビッグ・マム海賊団》を持つカードか「サンジ」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP08-001",
     "pack_id": "550108",
     "name": "トニートニー・チョッパー",
@@ -28,30 +78,25 @@
     "variants": [
       {
         "id": "OP08-001_p1",
-        "pack_id": "550108",
-        "name": "トニートニー・チョッパー",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-001_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Green"
-        ],
-        "block_number": 2,
-        "types": [
-          "動物",
-          "ドラム王国",
-          "麦わらの一味"
-        ],
-        "effect": "【起動メイン】【ターン1回】自分の特徴《動物》か《ドラム王国》を持つキャラ3枚までにレストのドン‼1枚ずつまでを、付与する。",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-001_p3",
+        "img_url": "../images/cardlist/card/OP08-001_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001_p3.png?2602273",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-001_p2",
+        "img_url": "../images/cardlist/card/OP08-001_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png?2602273",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": null
       }
     ]
   },
@@ -82,28 +127,25 @@
     "variants": [
       {
         "id": "OP08-002_p1",
-        "pack_id": "550108",
-        "name": "マルコ",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-002_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Blue"
-        ],
-        "block_number": 2,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "【ドン‼×1】【起動メイン】【ターン1回】カード1枚を引き、自分の手札1枚をデッキの上か下に置く。その後、相手のキャラ1枚までを、このターン中、パワー-2000。",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-002_p3",
+        "img_url": "../images/cardlist/card/OP08-002_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002_p3.png?2602273",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-002_p2",
+        "img_url": "../images/cardlist/card/OP08-002_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png?2602273",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": null
       }
     ]
   },
@@ -236,29 +278,9 @@
     "variants": [
       {
         "id": "OP08-007_p1",
-        "pack_id": "550108",
-        "name": "トニートニー・チョッパー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-007_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-007_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 2,
-        "types": [
-          "動物",
-          "ドラム王国",
-          "麦わらの一味"
-        ],
-        "effect": "【自分のターン中】【登場時】/【アタック時】自分のデッキの上から5枚を見て、パワー4000以下の特徴《動物》を持つキャラカード1枚までを、レストで登場させる。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -467,27 +489,9 @@
     "variants": [
       {
         "id": "OP08-015_p1",
-        "pack_id": "550108",
-        "name": "Dr.くれは",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-015_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-015_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 2,
-        "types": [
-          "ドラム王国"
-        ],
-        "effect": "【登場時】自分のデッキの上から4枚を見て、「Dr.くれは」以外の、特徴《ドラム王国》を持つカードか「トニートニー・チョッパー」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -608,7 +612,16 @@
     ],
     "effect": "【相手のターン中】自分の特徴《ドラム王国》を持つキャラすべてを、パワー+1000。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-020_p1",
+        "img_url": "../images/cardlist/card/OP08-020_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-020_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP08-021",
@@ -636,27 +649,17 @@
     "variants": [
       {
         "id": "OP08-021_p1",
-        "pack_id": "550108",
-        "name": "キャロット",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-021_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-021_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 2,
-        "types": [
-          "ミンク族"
-        ],
-        "effect": "【起動メイン】【ターン1回】自分の特徴《ミンク族》を持つキャラがいる場合、相手のコスト5以下のキャラ1枚までを、レストにする。",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-021_p2",
+        "img_url": "../images/cardlist/card/OP08-021_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png?2602273",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": null
       }
     ]
   },
@@ -712,27 +715,25 @@
     "variants": [
       {
         "id": "OP08-023_p1",
-        "pack_id": "550108",
-        "name": "キャロット",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-023_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-023_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 2,
-        "types": [
-          "ミンク族"
-        ],
-        "effect": "【登場時】/【アタック時】相手のレストのコスト7以下のキャラ1枚までは、次の相手のリフレッシュフェイズでアクティブにならない。",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-023_p2",
+        "img_url": "../images/cardlist/card/OP08-023_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-023_p2.png?2602273",
+        "rarity": "Special",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-023_r1",
+        "img_url": "../images/cardlist/card/OP08-023_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-023_r1.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
       }
     ]
   },
@@ -914,27 +915,9 @@
     "variants": [
       {
         "id": "OP08-030_p1",
-        "pack_id": "550108",
-        "name": "ペドロ",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-030_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-030_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 2,
-        "types": [
-          "ミンク族"
-        ],
-        "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【KO時】以下から1つを選ぶ。<br>・相手のドン‼1枚までを、レストにする。<br>・相手のレストのコスト6以下のキャラ1枚までを、KOする。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1084,7 +1067,16 @@
     ],
     "effect": "【メイン】相手のレストのコスト7以下のキャラすべては、次の相手のリフレッシュフェイズでアクティブにならない。",
     "trigger": "【トリガー】相手のキャラ1枚までを、レストにする。",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-036_p1",
+        "img_url": "../images/cardlist/card/OP08-036_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-036_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP08-037",
@@ -1179,7 +1171,16 @@
     ],
     "effect": "【登場時】自分の手札から『白ひげ海賊団』を含む特徴を持つカード2枚を公開することができる：自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、相手のコスト4以下のキャラ1枚までを、持ち主の手札に戻す。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-040_p1",
+        "img_url": "../images/cardlist/card/OP08-040_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-040_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP08-041",
@@ -1258,28 +1259,9 @@
     "variants": [
       {
         "id": "OP08-043_p1",
-        "pack_id": "550108",
-        "name": "エドワード・ニューゲート",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-043_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-043_p1.png?2602273",
-        "cost": 10,
-        "attributes": [
-          "Special"
-        ],
-        "power": 12000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 2,
-        "types": [
-          "四皇",
-          "白ひげ海賊団"
-        ],
-        "effect": "【登場時】自分のリーダーが『白ひげ海賊団』を含む特徴を持ち、自分のライフが2枚以下の場合、相手のキャラすべては、次の相手のターン終了時まで、アタックする際、自身の手札2枚を捨てなければアタックすることができない。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1510,27 +1492,9 @@
     "variants": [
       {
         "id": "OP08-052_p1",
-        "pack_id": "550108",
-        "name": "ポートガス・D・エース",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-052_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-052_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 2,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "【登場時】自分のデッキの上から1枚を公開し、コスト4以下の『白ひげ海賊団』を含む特徴を持つキャラカード1枚までを、登場させる。その後、残りをデッキの上か下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1653,28 +1617,17 @@
     "variants": [
       {
         "id": "OP08-057_p1",
-        "pack_id": "550108",
-        "name": "キング",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-057_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Purple",
-          "Black"
-        ],
-        "block_number": 2,
-        "types": [
-          "百獣海賊団"
-        ],
-        "effect": "【起動メイン】【ターン1回】ドン‼-2(自分の場のドン‼を指定の数ドン‼デッキに戻すことができる)：以下から1つを選ぶ。<br>・自分の手札が5枚以下の場合、カード1枚を引く。<br>・相手のキャラ1枚までを、このターン中、コスト-2。",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-057_p2",
+        "img_url": "../images/cardlist/card/OP08-057_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png?2602273",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": null
       }
     ]
   },
@@ -1705,28 +1658,17 @@
     "variants": [
       {
         "id": "OP08-058_p1",
-        "pack_id": "550108",
-        "name": "シャーロット・プリン",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-058_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-058_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Purple",
-          "Yellow"
-        ],
-        "block_number": 2,
-        "types": [
-          "ビッグ・マム海賊団"
-        ],
-        "effect": "【アタック時】自分のライフの上から2枚を表向きにできる：ドン‼デッキからドン‼1枚までを、レストで追加する。",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-058_p2",
+        "img_url": "../images/cardlist/card/OP08-058_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png?2602273",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": null
       }
     ]
   },
@@ -1829,7 +1771,16 @@
     ],
     "effect": "【起動メイン】このキャラをトラッシュに置くことができる：自分のリーダーが特徴《ビッグ・マム海賊団》を持つ場合、自分の手札からコスト3以上でかつ、相手の場のドン‼の枚数以下のコストを持つ「シャーロット・カタクリ」1枚までを、登場させる。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-062_p1",
+        "img_url": "../images/cardlist/card/OP08-062_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-062_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP08-063",
@@ -1957,27 +1908,25 @@
     "variants": [
       {
         "id": "OP08-067_p1",
-        "pack_id": "550108",
-        "name": "シャーロット・プリン",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-067_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 2,
-        "types": [
-          "ビッグ・マム海賊団"
-        ],
-        "effect": "【自分のターン中】【ターン1回】自分の場のドン‼がドン‼デッキに戻された時、ドン‼デッキからドン‼1枚までを、レストで追加する。",
-        "trigger": null
+        "rarity": "Rare"
+      },
+      {
+        "id": "OP08-067_r1",
+        "img_url": "../images/cardlist/card/OP08-067_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067_r1.png?2602273",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-067_p2",
+        "img_url": "../images/cardlist/card/OP08-067_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-067_p2.png?2602273",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -2033,28 +1982,17 @@
     "variants": [
       {
         "id": "OP08-069_p1",
-        "pack_id": "550108",
-        "name": "シャーロット・リンリン",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-069_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-069_p1.png?2602273",
-        "cost": 9,
-        "attributes": [
-          "Special"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 2,
-        "types": [
-          "元ロックス海賊団",
-          "ビッグ・マム海賊団"
-        ],
-        "effect": "【登場時】ドン‼-1,自分の手札1枚を捨てることができる：自分のデッキの上から1枚までを、ライフの上に加える。その後、相手のコスト6以下のキャラ1枚までを、相手のライフの上か下に表向きで加える。",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-069_p2",
+        "img_url": "../images/cardlist/card/OP08-069_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-069_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
       }
     ]
   },
@@ -2184,27 +2122,33 @@
     "variants": [
       {
         "id": "OP08-074_p1",
-        "pack_id": "550108",
-        "name": "ブラックマリア",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-074_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 2000,
-        "counter": 2000,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 2,
-        "types": [
-          "百獣海賊団"
-        ],
-        "effect": "【起動メイン】【ターン1回】自分のキャラの他の「ブラックマリア」がいない場合、ドン‼デッキからドン‼5枚までを、レストで追加する。その後、このターン終了時、相手の場のドン‼の枚数と同じ枚数になるように自分の場のドン‼をドン‼デッキに戻す。",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-074_r1",
+        "img_url": "../images/cardlist/card/OP08-074_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_r1.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-074_p2",
+        "img_url": "../images/cardlist/card/OP08-074_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP08-074_p3",
+        "img_url": "../images/cardlist/card/OP08-074_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-074_p3.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -2253,7 +2197,24 @@
     ],
     "effect": "【メイン】ドン‼デッキからドン‼1枚までを、アクティブで追加する。その後、相手のパワー6000以上のキャラがいる場合、ドン‼デッキからドン‼1枚までを、アクティブで追加する。",
     "trigger": "【トリガー】ドン‼デッキからドン‼1枚までを、アクティブで追加する。",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-076_p1",
+        "img_url": "../images/cardlist/card/OP08-076_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-076_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-076_r1",
+        "img_url": "../images/cardlist/card/OP08-076_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-076_r1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP08-077",
@@ -2332,28 +2293,9 @@
     "variants": [
       {
         "id": "OP08-079_p1",
-        "pack_id": "550108",
-        "name": "カイドウ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-079_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-079_p1.png?2602273",
-        "cost": 9,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 2,
-        "types": [
-          "元ロックス海賊団",
-          "百獣海賊団"
-        ],
-        "effect": "【起動メイン】【ターン1回】自分の手札1枚を捨てることができる：このキャラが登場したターンの場合、相手のコスト7以下のキャラ1枚までを、トラッシュに置く。その後、相手は自身の手札1枚を捨てる。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2383,27 +2325,9 @@
     "variants": [
       {
         "id": "OP08-080_p1",
-        "pack_id": "550108",
-        "name": "クイーン",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-080_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-080_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 2,
-        "types": [
-          "百獣海賊団"
-        ],
-        "effect": "【登場時】自分のデッキの上から5枚を見て、「クイーン」以外の特徴《百獣海賊団》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2509,27 +2433,17 @@
     "variants": [
       {
         "id": "OP08-084_p1",
-        "pack_id": "550108",
-        "name": "ジャック",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-084_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-084_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 2,
-        "types": [
-          "百獣海賊団"
-        ],
-        "effect": "このキャラのコスト+4。<br>【起動メイン】このキャラをレストにできる：カード1枚を引き、自分の手札1枚を捨てる。その後、相手のコスト3以下のキャラ1枚までを、KOする。",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-084_p2",
+        "img_url": "../images/cardlist/card/OP08-084_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-084_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -2609,7 +2523,24 @@
     ],
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【起動メイン】【ターン1回】相手のキャラ1枚までを、このターン中、コスト-1。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-087_p1",
+        "img_url": "../images/cardlist/card/OP08-087_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-087_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-087_r1",
+        "img_url": "../images/cardlist/card/OP08-087_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-087_r1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP08-088",
@@ -2887,29 +2818,17 @@
     "variants": [
       {
         "id": "OP08-098_p1",
-        "pack_id": "550108",
-        "name": "カルガラ",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-098_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-098_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 2,
-        "types": [
-          "ジャヤ",
-          "空島",
-          "シャンドラの戦士"
-        ],
-        "effect": "【ドン‼×1】【アタック時】自分の手札から自分の場のドン‼の枚数以下のコストを持ち、特徴《シャンドラの戦士》を持つキャラカード1枚までを、登場させる。登場させた場合、自分のライフの上から1枚を手札に加える。",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-098_p2",
+        "img_url": "../images/cardlist/card/OP08-098_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png?2602273",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": null
       }
     ]
   },
@@ -2938,7 +2857,32 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-099_p1",
+        "img_url": "../images/cardlist/card/OP08-099_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-099_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-099_p2",
+        "img_url": "../images/cardlist/card/OP08-099_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-099_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-099_r1",
+        "img_url": "../images/cardlist/card/OP08-099_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-099_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP08-100",
@@ -3094,28 +3038,25 @@
     "variants": [
       {
         "id": "OP08-105_p1",
-        "pack_id": "550108",
-        "name": "ジュエリー・ボニー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-105_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 2,
-        "types": [
-          "エッグヘッド",
-          "ボニー海賊団"
-        ],
-        "effect": "【ドン‼×1】【自分のターン中】【ターン1回】相手のライフが離れた時、カード2枚を引き、自分の手札1枚を捨てる。",
-        "trigger": "【トリガー】カード2枚を引き、自分の手札1枚を捨てる。"
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-105_p2",
+        "img_url": "../images/cardlist/card/OP08-105_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP08-105_p3",
+        "img_url": "../images/cardlist/card/OP08-105_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-105_p3.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
       }
     ]
   },
@@ -3146,28 +3087,33 @@
     "variants": [
       {
         "id": "OP08-106_p1",
-        "pack_id": "550108",
-        "name": "ナミ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-106_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 2,
-        "types": [
-          "エッグヘッド",
-          "麦わらの一味"
-        ],
-        "effect": "【登場時】自分の手札から【トリガー】を持つカード1枚を捨てることができる：相手のコスト5以下のキャラ1枚までを、KOする。その後、自分の手札が3枚以下の場合、カード1枚を引く。",
-        "trigger": "【トリガー】このカードの【登場時】効果を発動する。"
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-106_p4",
+        "img_url": "../images/cardlist/card/OP08-106_p4.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p4.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP08-106_p3",
+        "img_url": "../images/cardlist/card/OP08-106_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p3.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP08-106_p5",
+        "img_url": "../images/cardlist/card/OP08-106_p5.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-106_p5.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -3276,28 +3222,17 @@
     "variants": [
       {
         "id": "OP08-110_p1",
-        "pack_id": "550108",
-        "name": "ワイパー",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-110_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-110_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Ranged"
-        ],
-        "power": 5000,
-        "counter": 2000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 2,
-        "types": [
-          "空島",
-          "シャンドラの戦士"
-        ],
-        "effect": "【登場時】自分のデッキの上から5枚を見て、「アッパーヤード」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置き、自分の手札から「アッパーヤード」1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "Rare"
+      },
+      {
+        "id": "OP08-110_p2",
+        "img_url": "../images/cardlist/card/OP08-110_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-110_p2.png?2602273",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -3354,28 +3289,9 @@
     "variants": [
       {
         "id": "OP08-112_p1",
-        "pack_id": "550108",
-        "name": "S-スネーク",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-112_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-112_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 2,
-        "types": [
-          "エッグヘッド",
-          "セラフィム"
-        ],
-        "effect": "【登場時】「モンキー・D・ルフィ」以外の相手のコスト6以下のキャラ1枚までは、次の相手のターン終了時まで、アタックできない。",
-        "trigger": "【トリガー】このカードの【登場時】効果を発動する。"
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -3529,51 +3445,23 @@
     "variants": [
       {
         "id": "OP08-118_p1",
-        "pack_id": "550108",
-        "name": "シルバーズ･レイリー",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-118_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-118_p1.png?2602273",
-        "cost": 8,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 2,
-        "types": [
-          "元ロジャー海賊団"
-        ],
-        "effect": "【登場時】相手のキャラ2枚までを選び、次の相手のターン終了時まで、1枚をパワー-3000し、残りをパワー-2000。その後、相手のパワー3000以下のキャラ1枚までを、KOする。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP08-118_p2",
-        "pack_id": "550108",
-        "name": "シルバーズ･レイリー",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-118_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-118_p2.png?2602273",
-        "cost": 8,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 2,
-        "types": [
-          "元ロジャー海賊団"
-        ],
-        "effect": "【登場時】相手のキャラ2枚までを選び、次の相手のターン終了時まで、1枚をパワー-3000し、残りをパワー-2000。その後、相手のパワー3000以下のキャラ1枚までを、KOする。",
-        "trigger": null
+        "rarity": "SecretRare"
+      },
+      {
+        "id": "OP08-118_r1",
+        "img_url": "../images/cardlist/card/OP08-118_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-118_r1.png?2602273",
+        "rarity": "SecretRare",
+        "set_id": null,
+        "set_label": null
       }
     ]
   },
@@ -3606,31 +3494,112 @@
     "variants": [
       {
         "id": "OP08-119_p1",
-        "pack_id": "550108",
-        "name": "カイドウ＆リンリン",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-119_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP08-119_p1.png?2602273",
-        "cost": 10,
-        "attributes": [
-          "Strike",
-          "Special"
-        ],
-        "power": 12000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 2,
-        "types": [
-          "四皇",
-          "百獣海賊団",
-          "ビッグ・マム海賊団"
-        ],
-        "effect": "【アタック時】ドン‼-10：このキャラ以外のキャラすべてを、KOする。その後、自分のデッキの上から1枚までを、ライフの上に加え、相手のライフの上から1枚までを、トラッシュに置く。",
-        "trigger": null
+        "rarity": "SecretRare"
       }
     ]
+  },
+  {
+    "id": "ST02-007_p3",
+    "pack_id": "550108",
+    "name": "ジュエリー・ボニー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST02-007_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST02-007_p3.png?2602273",
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 1,
+    "types": [
+      "超新星",
+      "ボニー海賊団"
+    ],
+    "effect": "【起動メイン】①(コストエリアのドン‼を指定の数レストにできる)，このキャラをレストにできる：自分のデッキの上から5枚を見て、特徴《超新星》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST03-004_p2",
+    "pack_id": "550108",
+    "name": "ゲッコー・モリア",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-004_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST03-004_p2.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 1,
+    "types": [
+      "王下七武海",
+      "スリラーバーク海賊団"
+    ],
+    "effect": "【登場時】自分のトラッシュの「ゲッコー・モリア」以外のコスト4以下の特徴《王下七武海》か《スリラーバーク海賊団》を持つキャラカード1枚までを、手札に加える。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST04-005_p3",
+    "pack_id": "550108",
+    "name": "クイーン",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST04-005_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST04-005_p3.png?2602273",
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 1,
+    "types": [
+      "百獣海賊団"
+    ],
+    "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】ドン‼-1(自分の場のドン‼を指定の数ドン‼デッキに戻すことができる)：カード2枚を引き、自分の手札1枚を捨てる。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST06-006_p2",
+    "pack_id": "550108",
+    "name": "たしぎ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST06-006_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-006_p2.png?2602273",
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
+    "types": [
+      "海軍"
+    ],
+    "effect": "【起動メイン】このキャラをレストにできる：相手のキャラ1枚までを、このターン中、コスト-2。",
+    "trigger": null,
+    "variants": []
   }
 ]

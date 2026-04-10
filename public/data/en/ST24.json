@@ -1,5 +1,55 @@
 [
   {
+    "id": "EB01-015_p3",
+    "pack_id": "569024",
+    "name": "Scratchmen Apoo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-015_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-015_p3.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 2000,
+    "types": [
+      "Supernovas",
+      "On-Air Pirates"
+    ],
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-019_p3",
+    "pack_id": "569024",
+    "name": "Jewelry Bonney",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP07-019_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-019_p3.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "effect": "[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Leader or Character cards.",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP07-021_r1",
     "pack_id": "569024",
     "name": "Urouge",
@@ -150,6 +200,29 @@
     "variants": []
   },
   {
+    "id": "OP07-036_p1",
+    "pack_id": "569024",
+    "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP07-036_p1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-036_p1.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Main] Up to 1 of your Leader or Character cards gains +3000 power during this turn. Then, you may rest 1 of your Characters with a cost of 3 or more. If you do, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "variants": []
+  },
+  {
     "id": "OP07-037_r1",
     "pack_id": "569024",
     "name": "More Pizza!!",
@@ -200,7 +273,7 @@
   {
     "id": "ST24-002",
     "pack_id": "569024",
-    "name": "Kid &amp; Killer",
+    "name": "Kid & Killer",
     "rarity": "SuperRare",
     "category": "Character",
     "img_url": "../images/cardlist/card/ST24-002.png?251017",
@@ -251,7 +324,7 @@
   {
     "id": "ST24-004",
     "pack_id": "569024",
-    "name": "Law &amp; Bepo",
+    "name": "Law & Bepo",
     "rarity": "SuperRare",
     "category": "Character",
     "img_url": "../images/cardlist/card/ST24-004.png?251017",

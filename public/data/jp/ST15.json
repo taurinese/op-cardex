@@ -1,5 +1,31 @@
 [
   {
+    "id": "OP02-001_p4",
+    "pack_id": "550015",
+    "name": "エドワード・ニューゲート",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP02-001_p4.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p4.png?2602273",
+    "cost": 6,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 1,
+    "types": [
+      "四皇",
+      "白ひげ海賊団"
+    ],
+    "effect": "【自分のターン終了時】自分のライフの上から1枚を手札に加える。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP02-008_r1",
     "pack_id": "550015",
     "name": "ジョズ",
@@ -274,7 +300,32 @@
     ],
     "effect": "【登場時】自分のリーダーかキャラ1枚にレストのドン!!1枚までを、付与する。<br>【起動メイン】このキャラをレストにできる：相手のパワー5000以下のキャラ1枚までを、KOする。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST15-002_p2",
+        "img_url": "../images/cardlist/card/ST15-002_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST15-002_r1",
+        "img_url": "../images/cardlist/card/ST15-002_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_r1.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST15-002_p1",
+        "img_url": "../images/cardlist/card/ST15-002_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP10",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST15-003",

@@ -25,27 +25,17 @@
     "variants": [
       {
         "id": "ST21-001_p1",
-        "pack_id": "569021",
-        "name": "Monkey.D.Luffy",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/ST21-001_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "The Four Emperors",
-          "Straw Hat Crew"
-        ],
-        "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 2 rested DON!! cards to 1 of your Characters.",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "ST21-001_p2",
+        "img_url": "../images/cardlist/card/ST21-001_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001_p2.png?251017",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
       }
     ]
   },
@@ -74,26 +64,9 @@
     "variants": [
       {
         "id": "ST21-002_p1",
-        "pack_id": "569021",
-        "name": "Usopp",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-002_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-002_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 2,
-        "attributes": [
-          "Ranged"
-        ],
-        "power": 3000,
-        "counter": 2000,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -122,26 +95,25 @@
     "variants": [
       {
         "id": "ST21-003_p1",
-        "pack_id": "569021",
-        "name": "Sanji",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-003_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 2,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 3000,
-        "counter": 2000,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[On Play] Select up to 1 of your {Straw Hat Crew} type Characters with 6000 power or more. If the selected Character attacks during this turn, your opponent cannot activate [Blocker].",
-        "trigger": null
+        "rarity": "Common"
+      },
+      {
+        "id": "ST21-003_p2",
+        "img_url": "../images/cardlist/card/ST21-003_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST21-003_r1",
+        "img_url": "../images/cardlist/card/ST21-003_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
       }
     ]
   },
@@ -171,27 +143,9 @@
     "variants": [
       {
         "id": "ST21-004_p1",
-        "pack_id": "569021",
-        "name": "Jewelry Bonney",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-004_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-004_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 1,
-        "attributes": [
-          "Special"
-        ],
-        "power": 3000,
-        "counter": null,
-        "types": [
-          "Egghead",
-          "Bonney Pirates"
-        ],
-        "effect": "[DON!! x2] [On K.O.] Draw 1 card.",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -221,27 +175,9 @@
     "variants": [
       {
         "id": "ST21-005_p1",
-        "pack_id": "569021",
-        "name": "Jinbe",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-005_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-005_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 2,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "types": [
-          "Fish-Man",
-          "Straw Hat Crew"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -270,26 +206,9 @@
     "variants": [
       {
         "id": "ST21-006_p1",
-        "pack_id": "569021",
-        "name": "Stussy",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-006_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-006_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "types": [
-          "Egghead"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -319,27 +238,9 @@
     "variants": [
       {
         "id": "ST21-007_p1",
-        "pack_id": "569021",
-        "name": "Sentomaru",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-007_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-007_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 2,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "types": [
-          "Egghead",
-          "Navy"
-        ],
-        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -369,27 +270,9 @@
     "variants": [
       {
         "id": "ST21-008_p1",
-        "pack_id": "569021",
-        "name": "Tony Tony.Chopper",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-008_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-008_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "types": [
-          "Animal",
-          "Straw Hat Crew"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -418,26 +301,9 @@
     "variants": [
       {
         "id": "ST21-009_p1",
-        "pack_id": "569021",
-        "name": "Nami",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-009_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-009_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 1000,
-        "counter": 1000,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] Give up to 2 rested DON!! cards to 1 of your {Straw Hat Crew} type Leader or Character cards.",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -466,26 +332,9 @@
     "variants": [
       {
         "id": "ST21-010_p1",
-        "pack_id": "569021",
-        "name": "Nico Robin",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-010_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-010_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -514,26 +363,9 @@
     "variants": [
       {
         "id": "ST21-011_p1",
-        "pack_id": "569021",
-        "name": "Franky",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-011_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-011_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[DON!! x2] [Opponent's Turn] All of your {Straw Hat Crew} type Characters with 4000 base power or less gain +1000 power.",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -562,26 +394,9 @@
     "variants": [
       {
         "id": "ST21-012_p1",
-        "pack_id": "569021",
-        "name": "Brook",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-012_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-012_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[When Attacking] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -611,27 +426,9 @@
     "variants": [
       {
         "id": "ST21-013_p1",
-        "pack_id": "569021",
-        "name": "Vegapunk",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-013_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-013_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 1,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 3000,
-        "counter": 1000,
-        "types": [
-          "Scientist",
-          "Egghead"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -661,27 +458,9 @@
     "variants": [
       {
         "id": "ST21-014_p1",
-        "pack_id": "569021",
-        "name": "Monkey.D.Luffy",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-014_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-014_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 6000,
-        "counter": null,
-        "types": [
-          "The Four Emperors",
-          "Straw Hat Crew"
-        ],
-        "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[When Attacking] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -710,26 +489,33 @@
     "variants": [
       {
         "id": "ST21-015_p1",
-        "pack_id": "569021",
-        "name": "Roronoa Zoro",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST21-015_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[DON!! x2] This Character gains [Rush].<br>[On K.O.] Play up to 1 red Character card with 6000 power or less other than [Roronoa Zoro] from your hand.",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "ST21-015_p2",
+        "img_url": "../images/cardlist/card/ST21-015_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p2.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST21-015_p3",
+        "img_url": "../images/cardlist/card/ST21-015_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p3.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST21-015_p4",
+        "img_url": "../images/cardlist/card/ST21-015_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-015_p4.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },

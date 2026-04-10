@@ -1,5 +1,31 @@
 [
   {
+    "id": "OP09-042_p2",
+    "pack_id": "550025",
+    "name": "バギー",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP09-042_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png?2602273",
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
+    "types": [
+      "四皇",
+      "クロスギルド"
+    ],
+    "effect": "【起動メイン】自分のドン‼5枚をレストにし、自分の手札1枚を捨てることができる：自分の手札から特徴《クロスギルド》を持つキャラカード1枚までを、登場させる。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP09-043_r1",
     "pack_id": "550025",
     "name": "アルビダ",
@@ -176,6 +202,29 @@
     ],
     "effect": "【登場時】自分のデッキの上から4枚を見て、「Mr.3(ギャルディーノ)」以外の、特徴《クロスギルド》か『B・W』を含む特徴を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP09-057_p1",
+    "pack_id": "550025",
+    "name": "クロスギルド",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP09-057_p1.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png?2602273",
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
+    "types": [
+      "クロスギルド"
+    ],
+    "effect": "【メイン】自分のデッキの上から4枚を見て、特徴《クロスギルド》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": "【トリガー】このカードの【メイン】効果を発動する。",
     "variants": []
   },
   {

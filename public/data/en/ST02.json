@@ -96,7 +96,40 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST02-004_p2",
+        "img_url": "../images/cardlist/card/ST02-004_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST02-004_p3",
+        "img_url": "../images/cardlist/card/ST02-004_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST02-004_p4",
+        "img_url": "../images/cardlist/card/ST02-004_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_p4.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST02-004_r1",
+        "img_url": "../images/cardlist/card/ST02-004_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST02-005",
@@ -170,7 +203,40 @@
     ],
     "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST02-007_p2",
+        "img_url": "../images/cardlist/card/ST02-007_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p2.png?251017",
+        "rarity": "Special",
+        "set_id": "OP08",
+        "set_label": "OP-08"
+      },
+      {
+        "id": "ST02-007_p3",
+        "img_url": "../images/cardlist/card/ST02-007_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST02-007_r1",
+        "img_url": "../images/cardlist/card/ST02-007_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST02-007_p1",
+        "img_url": "../images/cardlist/card/ST02-007_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST02-008",
@@ -195,7 +261,16 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's DON!! cards.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST02-008_p1",
+        "img_url": "../images/cardlist/card/ST02-008_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST02-009",
@@ -319,7 +394,16 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [End of Your Turn] Set this Character as active.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST02-013_p1",
+        "img_url": "../images/cardlist/card/ST02-013_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013_p1.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST02-014",

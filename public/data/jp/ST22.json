@@ -26,28 +26,9 @@
     "variants": [
       {
         "id": "ST22-001_p1",
-        "pack_id": "550022",
-        "name": "エース＆ニューゲート",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/ST22-001_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-001_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "四皇",
-          "白ひげ海賊団"
-        ],
-        "effect": "【起動メイン】【ターン1回】自分の手札から『白ひげ海賊団』を含む特徴を持つカード1枚を公開することができる：カード1枚を引き、公開したカードをデッキの上に置く。",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -78,28 +59,9 @@
     "variants": [
       {
         "id": "ST22-002_p1",
-        "pack_id": "550022",
-        "name": "イゾウ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-002_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-002_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Ranged"
-        ],
-        "power": null,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "ワノ国",
-          "白ひげ海賊団"
-        ],
-        "effect": "【登場時】自分のデッキの上から5枚を見て、「イゾウ」以外の『白ひげ海賊団』を含む特徴を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。<br>【相手のアタック時】このキャラをトラッシュに置くことができる：カード1枚を引き、自分の手札1枚をデッキの下に置く。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -130,28 +92,9 @@
     "variants": [
       {
         "id": "ST22-003_p1",
-        "pack_id": "550022",
-        "name": "エドワード・ニューゲート",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-003_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-003_p1.png?2602273",
-        "cost": 9,
-        "attributes": [
-          "Special"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "四皇",
-          "白ひげ海賊団"
-        ],
-        "effect": "【ダブルアタック】(このカードが与えるダメージは2になる)<br>【登場時】自分のデッキの上から1枚を公開し、そのカードが『白ひげ海賊団』を含む特徴を持つ場合、カード2枚を引く。",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -181,27 +124,9 @@
     "variants": [
       {
         "id": "ST22-004_p1",
-        "pack_id": "550022",
-        "name": "エルミー",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-004_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-004_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団傘下"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -233,29 +158,9 @@
     "variants": [
       {
         "id": "ST22-005_p1",
-        "pack_id": "550022",
-        "name": "光月おでん",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-005_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-005_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "ワノ国",
-          "光月家",
-          "白ひげ海賊団"
-        ],
-        "effect": "このキャラが相手の効果で場を離れる場合、代わりに自分の手札2枚を捨てることができる。<br>【起動メイン】【ターン1回】自分のドン‼3枚をレストにし、このキャラ以外の自分のキャラ1枚を持ち主の手札に戻すことができる：このキャラをアクティブにする。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -285,27 +190,9 @@
     "variants": [
       {
         "id": "ST22-006_p1",
-        "pack_id": "550022",
-        "name": "ジョズ",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-006_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-006_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 8000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "【登場時】自分のデッキの上から1枚を公開し、そのカードが『白ひげ海賊団』を含む特徴を持つ場合、カード2枚を引き、自分の手札1枚を捨てる。",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -335,27 +222,9 @@
     "variants": [
       {
         "id": "ST22-007_p1",
-        "pack_id": "550022",
-        "name": "スクアード",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-007_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-007_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団傘下"
-        ],
-        "effect": "【起動メイン】【ターン1回】自分のデッキの上から1枚を公開し、そのカードが『白ひげ海賊団』を含む特徴を持つ場合、自分のリーダーかキャラ1枚にレストのドン!!1枚までを、付与する。",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -385,27 +254,9 @@
     "variants": [
       {
         "id": "ST22-008_p1",
-        "pack_id": "550022",
-        "name": "ディカルバン兄弟",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-008_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-008_p1.png?2602273",
-        "cost": 2,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団傘下"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -435,27 +286,9 @@
     "variants": [
       {
         "id": "ST22-009_p1",
-        "pack_id": "550022",
-        "name": "ビスタ",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-009_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-009_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 1000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -485,27 +318,9 @@
     "variants": [
       {
         "id": "ST22-010_p1",
-        "pack_id": "550022",
-        "name": "ポートガス・Ｄ・エース",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-010_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-010_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 2000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -535,27 +350,9 @@
     "variants": [
       {
         "id": "ST22-011_p1",
-        "pack_id": "550022",
-        "name": "ホワイティベイ",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-011_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-011_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 1000,
-        "counter": 2000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "【自分のターン中】【登場時】自分の手札から『白ひげ海賊団』を含む特徴を持つカード2枚を公開することができる：自分の『白ひげ海賊団』を含む特徴を持つリーダー1枚までを、このターン中、パワー+2000。",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -585,27 +382,9 @@
     "variants": [
       {
         "id": "ST22-012_p1",
-        "pack_id": "550022",
-        "name": "マルコ",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-012_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-012_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "【ターン1回】このキャラが相手の効果でKOされる場合、代わりに自分の手札1枚を捨てることができる。<br>【アタック時】自分のデッキの上から1枚を公開し、そのカードが『白ひげ海賊団』を含む特徴を持つ場合、このキャラは、次の相手のターン終了時まで、パワー+1000。",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -636,28 +415,9 @@
     "variants": [
       {
         "id": "ST22-013_p1",
-        "pack_id": "550022",
-        "name": "リトルオーズJr.",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-013_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-013_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "巨人族",
-          "白ひげ海賊団傘下"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },
@@ -687,27 +447,9 @@
     "variants": [
       {
         "id": "ST22-014_p1",
-        "pack_id": "550022",
-        "name": "Ａ・Ｏ",
-        "rarity": "Common",
-        "category": "Character",
         "img_url": "../images/cardlist/card/ST22-014_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST22-014_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 3,
-        "types": [
-          "白ひげ海賊団傘下"
-        ],
-        "effect": "-",
-        "trigger": null
+        "rarity": "Common"
       }
     ]
   },

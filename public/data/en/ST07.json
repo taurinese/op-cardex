@@ -118,7 +118,16 @@
     ],
     "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-005_r1",
+        "img_url": "../images/cardlist/card/ST07-005_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "ST20",
+        "set_label": "ST-20"
+      }
+    ]
   },
   {
     "id": "ST07-006",
@@ -166,7 +175,32 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] Play this card.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-007_p2",
+        "img_url": "../images/cardlist/card/ST07-007_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST07-007_p3",
+        "img_url": "../images/cardlist/card/ST07-007_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST07-007_r1",
+        "img_url": "../images/cardlist/card/ST07-007_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST07-008",
@@ -190,7 +224,16 @@
     ],
     "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-008_p1",
+        "img_url": "../images/cardlist/card/ST07-008_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST07-009",
@@ -338,7 +381,16 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-014_r1",
+        "img_url": "../images/cardlist/card/ST07-014_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "ST20",
+        "set_label": "ST-20"
+      }
+    ]
   },
   {
     "id": "ST07-015",

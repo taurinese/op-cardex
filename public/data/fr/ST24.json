@@ -1,5 +1,251 @@
 [
   {
+    "id": "EB01-015_p3",
+    "pack_id": "622024",
+    "name": "Scratchmen Apoo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-015_p3.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-015_p3.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 2000,
+    "types": [
+      "Supernovae",
+      "Équipage du On-Air"
+    ],
+    "effect": "[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-019_p2",
+    "pack_id": "622024",
+    "name": "Jewelry Bonney",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP07-019_p2.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-019_p2.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Supernovae",
+      "Équipage de Bonney"
+    ],
+    "effect": "[Attaque adverse] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Épuisez jusqu'à 1 Leader ou Personnage adverse.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-021_p2",
+    "pack_id": "622024",
+    "name": "Urouge",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-021_p2.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-021_p2.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Équipage des moines dépravés"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Fin de votre tour] Redressez jusqu'à 1 de vos cartes DON!!.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-023_p1",
+    "pack_id": "622024",
+    "name": "Caribou",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-023_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-023_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Équipage de Caribou"
+    ],
+    "effect": "Si vous avez 6 cartes DON!! ou plus épuisées, ce Personnage gagne +1000 de puissance.<br>[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-025_p1",
+    "pack_id": "622024",
+    "name": "Coribou",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-025_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-025_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": null,
+    "types": [
+      "Supernovae",
+      "Équipage de Caribou"
+    ],
+    "effect": "[Jouée] Jouez jusqu'à 1 [Caribou] épuisé de votre main ayant un coût de 4 ou moins.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-031_p1",
+    "pack_id": "622024",
+    "name": "Bartolomeo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-031_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-031_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Barto Club"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Votre tour] [Une fois par tour] Quand un Personnage est épuisé à cause de vos effets, piochez 1 carte et défaussez 1 carte de votre main.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-033_p1",
+    "pack_id": "622024",
+    "name": "Monkey D. Luffy",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-033_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-033_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "Si vous avez 3 Personnages ou plus, vos Personnages ayant un coût de 3 ou moins autres que [Monkey D. Luffy] ne peuvent pas être mis KO par un effet adverse.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-034_p1",
+    "pack_id": "622024",
+    "name": "Roronoa Zoro",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-034_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-034_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[En attaquant] Si vous avez 3 Personnages ou plus, ce Personnage gagne +2000 de puissance pour tout le tour.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-036_p1",
+    "pack_id": "622024",
+    "name": "Esprit démoniaque, technique à neuf sabres, Ashura, neuf éclairs démoniaques",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP07-036_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-036_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovae",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Principale] Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le tour. Puis, vous pouvez épuiser 1 de vos Personnages ayant un coût de 3 ou plus. Si vous faites ainsi, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+    "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "variants": []
+  },
+  {
+    "id": "OP07-037_p1",
+    "pack_id": "622024",
+    "name": "Apportez-moi des pizzas&nbsp;!!",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP07-037_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-037_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Supernovae",
+      "Équipage de Bonney"
+    ],
+    "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Supernovae} autre que [Apportez-moi des pizzas&nbsp;!!] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": "[Déclenchement] Piochez 1 carte.",
+    "variants": []
+  },
+  {
     "id": "ST24-001",
     "pack_id": "622024",
     "name": "Capone \"Gang\" Bege",

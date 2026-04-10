@@ -1,5 +1,252 @@
 [
   {
+    "id": "OP01-060_p1",
+    "pack_id": "622017",
+    "name": "Don Quijote Doflamingo",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP01-060_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP01-060_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage de Don Quijote"
+    ],
+    "effect": "[DON!!&nbsp;x2] [En attaquant] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Révélez la carte du dessus de votre deck&nbsp;; si c'est une carte Personnage de type {Sept grands corsaires} ayant un coût de 4 ou moins, vous pouvez la jouer épuisée.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP01-073_p1",
+    "pack_id": "622017",
+    "name": "Don Quijote Doflamingo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-073_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP01-073_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Special"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage de Don Quijote"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Regardez 5 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP01-086_p1",
+    "pack_id": "622017",
+    "name": "Overheat",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP01-086_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP01-086_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage de Don Quijote"
+    ],
+    "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, renvoyez à la main de son propriétaire jusqu'à 1 Personnage redressé ayant un coût de 3 ou moins.",
+    "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
+    "variants": []
+  },
+  {
+    "id": "OP02-054_p1",
+    "pack_id": "622017",
+    "name": "Gecko Moria",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-054_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP02-054_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage de Thriller Bark"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP02-057_p1",
+    "pack_id": "622017",
+    "name": "Bartholomew Kuma",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-057_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP02-057_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires",
+      "Armée révolutionnaire"
+    ],
+    "effect": "[Jouée] Regardez 2 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Sept grands corsaires} et ajoutez-la à votre main. Puis, réorganisez les cartes restantes dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "P-030_p1",
+    "pack_id": "622017",
+    "name": "Jinbe",
+    "rarity": "Promo",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/P-030_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-030_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Hommes-poissons",
+      "Sept grands corsaires",
+      "Équipage des pirates du soleil"
+    ],
+    "effect": "[En cas de KO] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 3 ou moins.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST03-002_p1",
+    "pack_id": "622017",
+    "name": "Edward Weeble",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-002_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST03-002_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST03-004_p1",
+    "pack_id": "622017",
+    "name": "Gecko Moria",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-004_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage de Thriller Bark"
+    ],
+    "effect": "[Jouée] Ajoutez à votre main jusqu'à 1 carte Personnage de type {Sept grands corsaires} ou {Équipage de Thriller Bark} de votre Défausse ayant un coût de 4 ou moins autre que [Gecko Moria].",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST03-005_p1",
+    "pack_id": "622017",
+    "name": "Dracule Mihawk",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-005_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "Sept grands corsaires"
+    ],
+    "effect": "[DON!!&nbsp;x1] [En attaquant] Piochez 2 cartes et défaussez 2 cartes de votre main.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST03-008_p1",
+    "pack_id": "622017",
+    "name": "Trafalgar Law",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-008_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": null,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage du Heart"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "ST17-001",
     "pack_id": "622017",
     "name": "Crocodile",
@@ -47,7 +294,24 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Si votre Leader est de type {Sept grands corsaires}, renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-002_p1",
+        "img_url": "../images/cardlist/card/ST17-002_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-002_p1.webp?251024",
+        "rarity": "SuperRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST17-002_r1",
+        "img_url": "../images/cardlist/card/ST17-002_r1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-002_r1.webp?251024",
+        "rarity": "SuperRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "ST17-003",
@@ -72,7 +336,24 @@
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus de votre deck.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-003_p1",
+        "img_url": "../images/cardlist/card/ST17-003_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-003_p1.webp?251024",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST17-003_r1",
+        "img_url": "../images/cardlist/card/ST17-003_r1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-003_r1.webp?251024",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "ST17-004",
@@ -97,7 +378,24 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages, de type {Sept grands corsaires}.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-004_p1",
+        "img_url": "../images/cardlist/card/ST17-004_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-004_p1.webp?251024",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST17-004_p2",
+        "img_url": "../images/cardlist/card/ST17-004_p2.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-004_p2.webp?251024",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST17-005",
@@ -122,6 +420,23 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer 1 carte de votre main au-dessus de votre deck&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-005_p1",
+        "img_url": "../images/cardlist/card/ST17-005_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-005_p1.webp?251024",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST17-005_r1",
+        "img_url": "../images/cardlist/card/ST17-005_r1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-005_r1.webp?251024",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   }
 ]

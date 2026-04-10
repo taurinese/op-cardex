@@ -76,6 +76,33 @@
     "variants": []
   },
   {
+    "id": "OP09-061_p2",
+    "pack_id": "550026",
+    "name": "モンキー・Ｄ・ルフィ",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP09-061_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Purple",
+      "Black"
+    ],
+    "block_number": 3,
+    "types": [
+      "四皇",
+      "麦わらの一味"
+    ],
+    "effect": "【ドン‼×1】自分のキャラすべてを、コスト+1。<br>【自分のターン中】【ターン1回】自分の場のドン!!が2枚以上ドン!!デッキに戻された時、ドン!!デッキから、ドン!!1枚までをアクティブで追加し、さらに1枚までをレストで追加する。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP09-063_r1",
     "pack_id": "550026",
     "name": "ウソップ",
@@ -172,6 +199,30 @@
     ],
     "effect": "【メイン】ドン!!-2(自分の場のドン!!を指定の数ドン!!デッキに戻すことができる)：相手のパワー6000以下のキャラ1枚までを、KOする。",
     "trigger": "【トリガー】ドン!!デッキからドン!!1枚までを、アクティブで追加する。",
+    "variants": []
+  },
+  {
+    "id": "OP09-078_p1",
+    "pack_id": "550026",
+    "name": "ゴムゴムの巨人",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP09-078_p1.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png?2602273",
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
+    "types": [
+      "四皇",
+      "麦わらの一味"
+    ],
+    "effect": "【カウンター】ドン!!-2,自分の手札1枚を捨てることができる：自分のリーダーが特徴《麦わらの一味》を持つ場合、自分のリーダーかキャラ1枚までを、このバトル中、パワー+4000。その後、カード2枚を引く。",
+    "trigger": null,
     "variants": []
   },
   {
@@ -323,6 +374,15 @@
     ],
     "effect": "【登場時】/【アタック時】ドン‼-2(自分の場のドン‼を指定の数ドン‼デッキに戻すことができる)：自分のリーダーが多色で、相手の場のドン‼が5枚以上ある場合、自分の特徴《麦わらの一味》を持つリーダーを、次の相手のエンドフェイズ終了時まで、元々のパワー7000にする。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST26-005_p1",
+        "img_url": "../images/cardlist/card/ST26-005_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP15",
+        "set_label": null
+      }
+    ]
   }
 ]

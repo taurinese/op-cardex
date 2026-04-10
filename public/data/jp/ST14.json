@@ -72,7 +72,16 @@
     ],
     "effect": "【登場時】自分のコスト6以上のキャラがいる場合、相手のコスト5以下のキャラ1枚までを、KOする。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST14-003_p1",
+        "img_url": "../images/cardlist/card/ST14-003_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-003_p1.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP10",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST14-004",
@@ -174,7 +183,24 @@
     ],
     "effect": "【登場時】/【アタック時】自分のコスト8以上のキャラがいる場合、相手のキャラ1枚までを、このターン中、コスト-5。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST14-007_p1",
+        "img_url": "../images/cardlist/card/ST14-007_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-007_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST14-007_r1",
+        "img_url": "../images/cardlist/card/ST14-007_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-007_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST14-008",
@@ -249,7 +275,32 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST14-010_p1",
+        "img_url": "../images/cardlist/card/ST14-010_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST14-010_r2",
+        "img_url": "../images/cardlist/card/ST14-010_r2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST14-010_r1",
+        "img_url": "../images/cardlist/card/ST14-010_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": "ST26",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST14-011",
@@ -324,7 +375,24 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST14-013_p1",
+        "img_url": "../images/cardlist/card/ST14-013_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-013_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST14-013_r1",
+        "img_url": "../images/cardlist/card/ST14-013_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-013_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST14-014",
@@ -393,7 +461,24 @@
     ],
     "effect": "【メイン】カード1枚を引く。その後、自分のキャラ1枚までを、次の相手のターン終了時まで、コスト+3。",
     "trigger": "【トリガー】相手のコスト3以下のキャラ1枚までを、KOする。",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST14-016_p1",
+        "img_url": "../images/cardlist/card/ST14-016_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-016_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST14-016_r1",
+        "img_url": "../images/cardlist/card/ST14-016_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-016_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST14-017",
@@ -416,6 +501,23 @@
     ],
     "effect": "自分の黒の特徴《麦わらの一味》を持つキャラすべてを、コスト+1。<br>【登場時】自分のリーダーが特徴《麦わらの一味》を持つ場合、カード1枚を引く。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST14-017_p1",
+        "img_url": "../images/cardlist/card/ST14-017_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-017_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST14-017_r1",
+        "img_url": "../images/cardlist/card/ST14-017_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-017_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   }
 ]

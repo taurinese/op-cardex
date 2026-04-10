@@ -47,7 +47,16 @@
     ],
     "effect": "このキャラはリーダーとのバトルでKOされない。<br>【起動メイン】このキャラをレストにできる：相手のキャラ1枚までを、このターン中、コスト-2。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST08-002_p2",
+        "img_url": "../images/cardlist/card/ST08-002_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST08-002_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST08-003",

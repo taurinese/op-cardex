@@ -147,7 +147,24 @@
     ],
     "effect": "【起動メイン】このキャラをレストにできる：相手のキャラ1枚までを、このターン中、コスト-2。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-006_p2",
+        "img_url": "../images/cardlist/card/ST06-006_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-006_p2.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP08",
+        "set_label": null
+      },
+      {
+        "id": "ST06-006_p1",
+        "img_url": "../images/cardlist/card/ST06-006_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST06-007",
@@ -197,7 +214,40 @@
     ],
     "effect": "【登場時】相手のキャラ1枚までを、このターン中、コスト-4。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-008_p1",
+        "img_url": "../images/cardlist/card/ST06-008_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST06-008_p2",
+        "img_url": "../images/cardlist/card/ST06-008_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST06-008_r1",
+        "img_url": "../images/cardlist/card/ST06-008_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST06-008_p3",
+        "img_url": "../images/cardlist/card/ST06-008_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-008_p3.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST06-009",
@@ -247,7 +297,32 @@
     ],
     "effect": "【登場時】相手のキャラ1枚までを、このターン中、コスト-3。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-010_p1",
+        "img_url": "../images/cardlist/card/ST06-010_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-010_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST06-010_p2",
+        "img_url": "../images/cardlist/card/ST06-010_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-010_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST06-010_r1",
+        "img_url": "../images/cardlist/card/ST06-010_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-010_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST06-011",
@@ -345,7 +420,32 @@
     ],
     "effect": "【カウンター】自分のリーダーかキャラ1枚までを、このバトル中、パワー+4000。その後、相手のアクティブのコスト3以下のキャラ1枚までを、KOする。",
     "trigger": "【トリガー】相手のコスト4以下のキャラ1枚までを、KOする。",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-014_p1",
+        "img_url": "../images/cardlist/card/ST06-014_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-014_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST06-014_p2",
+        "img_url": "../images/cardlist/card/ST06-014_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-014_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST06-014_r1",
+        "img_url": "../images/cardlist/card/ST06-014_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST06-014_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST06-015",

@@ -186,7 +186,7 @@ function SeriesPage() {
             <option value="">— Choisir une série —</option>
             {setsForLang.map((s) => (
               <option key={s.id} value={s.id}>
-                {s.id} — {s.name}
+                {s.label} — {s.name}
               </option>
             ))}
           </select>
@@ -229,7 +229,7 @@ function SeriesPage() {
                     cardFilter === f ? "bg-amber-400 text-black" : "bg-background text-muted-foreground"
                   }`}
                 >
-                  {f === "all" ? "Toutes" : f === "base" ? "Base" : "Alt"}
+                  {f === "all" ? "Toutes" : f === "base" ? "Base" : "Parallèles"}
                 </button>
               ))}
             </div>
@@ -386,7 +386,7 @@ function EmptyState({
                 onClick={() => onSelect(s.id)}
                 className="rounded-lg border border-border/50 bg-card px-4 py-2 text-sm font-medium transition-colors hover:border-amber-400/30 hover:bg-amber-400/5 cursor-pointer"
               >
-                {s.id} — {s.name}
+                {s.label} — {s.name}
               </button>
             ))}
           </div>
@@ -500,7 +500,7 @@ function CardTile({
         {/* Variant label */}
         {isVariant && (
           <span className="absolute bottom-1 right-1 rounded bg-black/70 px-1 py-0.5 text-[9px] font-medium text-white backdrop-blur-sm">
-            alt
+            para
           </span>
         )}
 

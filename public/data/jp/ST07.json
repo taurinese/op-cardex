@@ -123,7 +123,16 @@
     ],
     "effect": "【ドン!!×1】【アタック時】自分のライフの上か下から1枚を手札に加えることができる：自分のデッキの上から1枚までを、ライフの上に加える。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-005_r1",
+        "img_url": "../images/cardlist/card/ST07-005_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": "ST20",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST07-006",
@@ -173,7 +182,40 @@
     ],
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
     "trigger": "【トリガー】このカードを登場させる。",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-007_p2",
+        "img_url": "../images/cardlist/card/ST07-007_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST07-007_p3",
+        "img_url": "../images/cardlist/card/ST07-007_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_p3.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST07-007_r1",
+        "img_url": "../images/cardlist/card/ST07-007_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST07-007_p1",
+        "img_url": "../images/cardlist/card/ST07-007_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-007_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST07-008",
@@ -198,7 +240,24 @@
     ],
     "effect": "【登場時】自分か相手のライフの上から1枚までを見て、ライフの上か下に置く。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-008_p1",
+        "img_url": "../images/cardlist/card/ST07-008_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST07-008_p3",
+        "img_url": "../images/cardlist/card/ST07-008_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-008_p3.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST07-009",
@@ -249,7 +308,16 @@
     ],
     "effect": "【登場時】相手は以下から1つを選ぶ。<br>・相手のライフの上から1枚をトラッシュに置く。<br>・自分のデッキの上から1枚をライフの上に加える。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-010_p2",
+        "img_url": "../images/cardlist/card/ST07-010_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-010_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST07-011",
@@ -352,7 +420,16 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-014_r1",
+        "img_url": "../images/cardlist/card/ST07-014_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": "ST20",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST07-015",

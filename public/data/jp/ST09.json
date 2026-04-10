@@ -302,7 +302,16 @@
     ],
     "effect": "【アタック時】自分のライフの上か下から1枚を手札に加えることができる：このキャラは、次の自分のターン開始時まで、パワー+2000。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST09-012_p1",
+        "img_url": "../images/cardlist/card/ST09-012_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-012_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST09-013",
@@ -350,7 +359,32 @@
     ],
     "effect": "【カウンター】自分のライフが2枚以下の場合、相手のリーダーかキャラ1枚までを、このターン中、パワー-3000。",
     "trigger": "【トリガー】自分の手札2枚を捨てることができる：自分のデッキの上から1枚までを、ライフの上に加える。",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST09-014_p1",
+        "img_url": "../images/cardlist/card/ST09-014_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-014_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST09-014_p2",
+        "img_url": "../images/cardlist/card/ST09-014_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-014_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST09-014_r1",
+        "img_url": "../images/cardlist/card/ST09-014_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST09-014_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST09-015",

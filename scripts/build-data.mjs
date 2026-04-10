@@ -5,6 +5,10 @@
  * Usage:
  *   node scripts/build-data.mjs              # data + images
  *   node scripts/build-data.mjs --no-images  # data only
+ *
+ * Cross-set variants (e.g. SP cards released in a later booster) are attached
+ * to the base card as variants with { set_id, set_name } fields, and also
+ * appear as standalone tiles in the set they belong to.
  */
 
 import { execSync } from "child_process"
@@ -44,36 +48,41 @@ function fetchPunkRecords() {
   }
 }
 
-function processPackCards(packDir) {
-  const files = readdirSync(packDir).filter((f) => f.endsWith(".json"))
-
-  const baseCards = new Map()
-  const variantIds = []
-
-  for (const file of files) {
-    const id = basename(file, ".json")
-    const card = JSON.parse(readFileSync(join(packDir, file), "utf-8"))
-
-    if (/_p\d+$/.test(id)) {
-      variantIds.push(id)
-    } else {
-      baseCards.set(id, { ...card, variants: [] })
+/** Derive the normalised set ID from a pack object (e.g. "OP-09" → "OP09") */
+function deriveSetId(pack, packDir) {
+  const rawLabel =
+    pack.title_parts?.label ??
+    pack.raw_title?.match(/[【\[]([A-Z0-9]+-?[A-Z]{2}\d+|[A-Z]{2}-?\d+)[】\]]/)?.[1]
+  if (!rawLabel) {
+    // Detect promo set by presence of base cards with P-XXX IDs
+    if (packDir && existsSync(packDir)) {
+      const promoCount = readdirSync(packDir).filter(
+        (f) => /^P-\d+\.json$/.test(f)
+      ).length
+      if (promoCount >= 5) return "PROMO"
     }
+    return null
   }
+  return rawLabel
+    ?.replace(/^[A-Z0-9]+-(?=[A-Z]{2}\d)/, "") // strip "OP14-" prefix
+    ?.replace("-", "")                           // strip remaining hyphens
+}
 
-  for (const variantId of variantIds) {
-    const baseId = variantId.replace(/_p\d+$/, "")
-    if (baseCards.has(baseId)) {
-      const variant = JSON.parse(
-        readFileSync(join(packDir, `${variantId}.json`), "utf-8")
-      )
-      baseCards.get(baseId).variants.push(variant)
-    }
-  }
+const HTML_ENTITIES = { "&amp;": "&", "&lt;": "<", "&gt;": ">", "&quot;": '"', "&#39;": "'", "&apos;": "'" }
 
-  return Array.from(baseCards.values()).sort((a, b) =>
-    a.id.localeCompare(b.id)
-  )
+function decodeEntities(obj) {
+  if (typeof obj === "string") return obj.replace(/&amp;|&lt;|&gt;|&quot;|&#39;|&apos;/g, (m) => HTML_ENTITIES[m] ?? m)
+  if (Array.isArray(obj)) return obj.map(decodeEntities)
+  if (obj && typeof obj === "object") return Object.fromEntries(Object.entries(obj).map(([k, v]) => [k, decodeEntities(v)]))
+  return obj
+}
+
+function isVariantId(id) {
+  return /_[pr]\d+$/.test(id)
+}
+
+function baseIdOf(variantId) {
+  return variantId.replace(/_[pr]\d+$/, "")
 }
 
 // ---------------------------------------------------------------------------
@@ -110,6 +119,155 @@ async function runConcurrent(tasks, limit) {
 
 // ---------------------------------------------------------------------------
 
+async function processLanguage(langPath, langCode, indexSets, imageTasks) {
+  const packsRaw = JSON.parse(readFileSync(join(langPath, "packs.json"), "utf-8"))
+  const packs = Object.values(packsRaw)
+
+  // ── Phase 1: global scan ──────────────────────────────────────────────────
+  // Collect every card file across every pack so we can resolve cross-set variants.
+  //
+  // variantsByBase : baseId → [{ id, packId, setId, setName, card }]
+  // basesInPack   : packId → Map<baseId, card>
+
+  const variantsByBase = new Map()
+  const basesInPack = new Map()
+
+  for (const pack of packs) {
+    const packDir = join(langPath, "cards", pack.id)
+    if (!existsSync(packDir)) continue
+
+    const setId = deriveSetId(pack, join(langPath, "cards", pack.id))
+    const setName = pack.title_parts?.title ?? pack.raw_title
+    const packBases = new Map()
+
+    for (const file of readdirSync(packDir).filter((f) => f.endsWith(".json"))) {
+      const cardId = basename(file, ".json")
+      const card = decodeEntities(JSON.parse(readFileSync(join(packDir, file), "utf-8")))
+
+      if (isVariantId(cardId)) {
+        const baseId = baseIdOf(cardId)
+        if (!variantsByBase.has(baseId)) variantsByBase.set(baseId, [])
+        const setLabel = pack.title_parts?.label ?? (setId === "PROMO" ? "PROMO" : null)
+        variantsByBase.get(baseId).push({ id: cardId, packId: pack.id, setId, setLabel, card })
+      } else {
+        packBases.set(cardId, card)
+      }
+    }
+
+    basesInPack.set(pack.id, packBases)
+  }
+
+  // ── Phase 2: build one JSON per set ──────────────────────────────────────
+
+  const outputLangDir = join(OUTPUT_DIR, langCode)
+  mkdirSync(outputLangDir, { recursive: true })
+  if (DOWNLOAD_IMAGES) mkdirSync(join(IMAGES_BASE_DIR, langCode), { recursive: true })
+
+  for (const pack of packs) {
+    const setId = deriveSetId(pack, join(langPath, "cards", pack.id))
+    if (!setId) continue
+
+    const packBases = basesInPack.get(pack.id)
+    const packDir = join(langPath, "cards", pack.id)
+    if (!existsSync(packDir)) continue
+
+    const cards = []
+
+    // ── Base cards: attach all variants across all packs ──────────────────
+    for (const [baseId, baseCard] of (packBases ?? new Map())) {
+      const allVariants = (variantsByBase.get(baseId) ?? [])
+        .map((v) => {
+          const isSamePack = v.packId === pack.id
+          return {
+            id: v.id,
+            img_url: v.card.img_url,
+            img_full_url: v.card.img_full_url,
+            rarity: v.card.rarity,
+            // Only add set info for cross-pack variants
+            ...(isSamePack ? {} : { set_id: v.setId ?? null, set_label: v.setLabel ?? null }),
+          }
+        })
+        // Same-pack first, then cross-set sorted by setId
+        .sort((a, b) => {
+          if (!a.set_id && !b.set_id) return a.id.localeCompare(b.id)
+          if (!a.set_id) return -1
+          if (!b.set_id) return 1
+          return (a.set_id ?? "").localeCompare(b.set_id ?? "")
+        })
+
+      cards.push({ ...baseCard, variants: allVariants })
+    }
+
+    // ── Orphan variants: variant cards whose base card lives in another pack ─
+    // Group by base ID: first orphan becomes the tile, others become its variants.
+    const orphansByBase = new Map()
+    for (const file of readdirSync(packDir).filter((f) => f.endsWith(".json"))) {
+      const cardId = basename(file, ".json")
+      if (!isVariantId(cardId)) continue
+
+      const baseId = baseIdOf(cardId)
+      if (packBases?.has(baseId)) continue // base is same pack → already handled
+
+      const card = decodeEntities(JSON.parse(readFileSync(join(packDir, file), "utf-8")))
+      if (!orphansByBase.has(baseId)) orphansByBase.set(baseId, [])
+      orphansByBase.get(baseId).push({ id: cardId, card })
+    }
+
+    for (const group of orphansByBase.values()) {
+      group.sort((a, b) => a.id.localeCompare(b.id))
+      const [first, ...rest] = group
+      const variants = rest.map((v) => ({
+        id: v.id,
+        img_url: v.card.img_url,
+        img_full_url: v.card.img_full_url,
+        rarity: v.card.rarity,
+      }))
+      cards.push({ ...first.card, variants })
+    }
+
+    if (cards.length === 0) continue
+
+    cards.sort((a, b) => a.id.localeCompare(b.id))
+
+    writeFileSync(
+      join(outputLangDir, `${setId}.json`),
+      JSON.stringify(cards, null, 2)
+    )
+
+    // Update index
+    const existing = indexSets.find((s) => s.id === setId)
+    if (existing) {
+      if (!existing.langs.includes(langCode)) existing.langs.push(langCode)
+    } else {
+      indexSets.push({
+        id: setId,
+        name: decodeEntities(pack.title_parts?.title ?? pack.raw_title),
+        prefix: pack.title_parts?.prefix ?? "",
+        label: pack.title_parts?.label ?? setId,
+        card_count: cards.length,
+        langs: [langCode],
+      })
+    }
+
+    if (DOWNLOAD_IMAGES) {
+      for (const card of cards) {
+        if (card.img_full_url) {
+          imageTasks.push(() => downloadImage(langCode, card.id, card.img_full_url))
+        }
+        for (const variant of card.variants ?? []) {
+          if (variant.img_full_url) {
+            imageTasks.push(() => downloadImage(langCode, variant.id, variant.img_full_url))
+          }
+        }
+      }
+    }
+
+    console.log(`  ✓ ${langCode}/${setId} — ${cards.length} cards`)
+  }
+}
+
+// ---------------------------------------------------------------------------
+
 async function main() {
   fetchPunkRecords()
 
@@ -124,63 +282,7 @@ async function main() {
       console.warn(`  ⚠ Language folder not found: ${langDir}`)
       continue
     }
-
-    const packs = Object.values(
-      JSON.parse(readFileSync(join(langPath, "packs.json"), "utf-8"))
-    )
-    const outputLangDir = join(OUTPUT_DIR, langCode)
-    mkdirSync(outputLangDir, { recursive: true })
-    if (DOWNLOAD_IMAGES) mkdirSync(join(IMAGES_BASE_DIR, langCode), { recursive: true })
-
-    for (const pack of packs) {
-      const rawLabel =
-        pack.title_parts?.label ??
-        pack.raw_title?.match(/[【\[]([A-Z0-9]+-?[A-Z]{2}\d+|[A-Z]{2}-?\d+)[】\]]/)?.[1]
-      // Normalize: "OP14-EB04" → "EB04", "EB-04" → "EB04"
-      const setId = rawLabel
-        ?.replace(/^[A-Z0-9]+-(?=[A-Z]{2}\d)/, "") // strip "OP14-" prefix
-        ?.replace("-", "")                           // strip remaining hyphens
-      if (!setId) continue
-
-      const packDir = join(langPath, "cards", pack.id)
-      if (!existsSync(packDir)) continue
-
-      const cards = processPackCards(packDir)
-
-      writeFileSync(
-        join(outputLangDir, `${setId}.json`),
-        JSON.stringify(cards, null, 2)
-      )
-
-      // Track which languages are available for each set
-      const existing = indexSets.find((s) => s.id === setId)
-      if (existing) {
-        existing.langs.push(langCode)
-      } else {
-        indexSets.push({
-          id: setId,
-          name: pack.title_parts?.title ?? pack.raw_title,
-          prefix: pack.title_parts?.prefix ?? "",
-          card_count: cards.length,
-          langs: [langCode],
-        })
-      }
-
-      if (DOWNLOAD_IMAGES) {
-        for (const card of cards) {
-          if (card.img_full_url) {
-            imageTasks.push(() => downloadImage(langCode, card.id, card.img_full_url))
-          }
-          for (const variant of card.variants ?? []) {
-            if (variant.img_full_url) {
-              imageTasks.push(() => downloadImage(langCode, variant.id, variant.img_full_url))
-            }
-          }
-        }
-      }
-
-      console.log(`  ✓ ${langCode}/${setId} — ${cards.length} cards`)
-    }
+    await processLanguage(langPath, langCode, indexSets, imageTasks)
   }
 
   indexSets.sort((a, b) => a.id.localeCompare(b.id))

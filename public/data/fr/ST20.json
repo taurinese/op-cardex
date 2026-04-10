@@ -1,5 +1,244 @@
 [
   {
+    "id": "OP03-099_p1",
+    "pack_id": "622020",
+    "name": "Charlotte Katakuri",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP03-099_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-099_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "[DON!!&nbsp;x1] [En attaquant] Regardez jusqu'à 1 carte du dessus de votre Vie ou de celle de votre adversaire et placez-la au-dessus ou au-dessous de la Vie. Puis, ce Leader gagne +1000 de puissance pour tout le combat.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-106_p1",
+    "pack_id": "622020",
+    "name": "Charlotte Opéra",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-106_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-106_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-107_p1",
+    "pack_id": "622020",
+    "name": "Charlotte Galette",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-107_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-107_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-110_p1",
+    "pack_id": "622020",
+    "name": "Charlotte Smoothie",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-110_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-110_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "[En attaquant] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Ce Personnage gagne +2000 de puissance pour tout le combat.",
+    "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "variants": []
+  },
+  {
+    "id": "OP03-112_p1",
+    "pack_id": "622020",
+    "name": "Charlotte Pudding",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-112_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-112_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Big Mom} autre que [Charlotte Pudding] ou jusqu'à 1 [Sanji] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-115_p1",
+    "pack_id": "622020",
+    "name": "Streusen",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-115_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-115_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 1000,
+    "counter": 2000,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement]&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-118_p1",
+    "pack_id": "622020",
+    "name": "Térébration",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-118_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-118_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Quatre Empereurs",
+      "Équipage de Big Mom"
+    ],
+    "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +5000 de puissance pour tout le combat.",
+    "trigger": "[Déclenchement] Vous pouvez défausser 2 cartes de votre main&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
+    "variants": []
+  },
+  {
+    "id": "OP03-121_p1",
+    "pack_id": "622020",
+    "name": "Colonne foudroyante",
+    "rarity": "Common",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP03-121_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-121_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 2,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Quatre Empereurs",
+      "Équipage de Big Mom"
+    ],
+    "effect": "[Principale] Vous pouvez placer dans votre Défausse 1 carte du dessus de votre Vie&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+    "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+    "variants": []
+  },
+  {
+    "id": "ST07-005_p1",
+    "pack_id": "622020",
+    "name": "Charlotte Daifuku",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST07-005_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST07-005_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "[DON!!&nbsp;x1] [En attaquant] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST07-014_p1",
+    "pack_id": "622020",
+    "name": "Pekoms",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST07-014_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST07-014_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Minks",
+      "Équipage de Big Mom"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "ST20-001",
     "pack_id": "622020",
     "name": "Charlotte Katakuri",
@@ -69,7 +308,16 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Regardez jusqu'à 1 carte du dessus de votre Vie ou de celle de votre adversaire et placez-la au-dessus ou au-dessous de la Vie. Puis, ajoutez cette carte à votre main.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST20-003_p1",
+        "img_url": "../images/cardlist/card/ST20-003_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.webp?251024",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "ST20-004",
@@ -118,6 +366,23 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Votre adversaire effectue l'un des choix suivants&nbsp;:<br>• Votre adversaire défausse 2 cartes de sa main.<br>• Votre adversaire place dans sa Défausse 1 carte du dessus de sa Vie.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST20-005_p1",
+        "img_url": "../images/cardlist/card/ST20-005_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST20-005_p1.webp?251024",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST20-005_p2",
+        "img_url": "../images/cardlist/card/ST20-005_p2.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST20-005_p2.webp?251024",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   }
 ]

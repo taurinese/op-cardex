@@ -40,8 +40,12 @@ const RARITY_CLASS: Record<string, string> = {
 
 function getVersions(card: Card) {
   return [
-    { id: card.id, label: "Base" },
-    ...card.variants.map((v, i) => ({ id: v.id, label: `Variante ${i + 1}` })),
+    { id: card.id, label: "Base", setLabel: undefined as string | undefined },
+    ...card.variants.map((v, i) => ({
+      id: v.id,
+      label: v.set_id !== undefined ? `Para` : `Variante ${i + 1}`,
+      setLabel: v.set_id !== undefined ? (v.set_label ?? "PROMO") : undefined,
+    })),
   ]
 }
 
@@ -146,7 +150,9 @@ export function CardModal({ card, lang = "en", initialVersionIndex = 0, onClose 
                               : "border-border/50 bg-background text-muted-foreground hover:border-border hover:text-foreground"
                           )}
                         >
-                          {versions.length > 1 ? (i === 0 ? "Base" : `Variante ${i}`) : "Possédée"}
+                          {versions.length > 1
+                            ? (i === 0 ? "Base" : (v.setLabel ? `${v.setLabel} — Para` : `Variante ${i}`))
+                            : "Possédée"}
                           {owned ? " ✓" : " +"}
                         </button>
                       )
@@ -247,14 +253,20 @@ function VariantSwitcher({
   versionIndex,
   onChangeIndex,
 }: {
-  versions: { id: string; label: string }[]
+  versions: { id: string; label: string; setLabel?: string }[]
   versionIndex: number
   onChangeIndex: (i: number) => void
 }) {
   return (
     <div className="flex w-full flex-col items-center gap-2">
-      <p className="text-xs text-muted-foreground">
-        {versions[versionIndex].label} ({versionIndex + 1}/{versions.length})
+      <p className="text-xs text-muted-foreground flex items-center gap-1.5 flex-wrap justify-center">
+        {versions[versionIndex].setLabel && (
+          <span className="rounded bg-purple-500/20 px-1.5 py-0.5 text-purple-300 font-medium">
+            {versions[versionIndex].setLabel}
+          </span>
+        )}
+        {versions[versionIndex].label}
+        <span className="text-muted-foreground/50">({versionIndex + 1}/{versions.length})</span>
       </p>
       <div className="flex items-center gap-2">
         <button

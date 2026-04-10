@@ -290,7 +290,16 @@
     ],
     "effect": "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST09-012_p1",
+        "img_url": "../images/cardlist/card/ST09-012_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST09-013",
@@ -336,7 +345,32 @@
     ],
     "effect": "[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
     "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST09-014_p2",
+        "img_url": "../images/cardlist/card/ST09-014_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST09-014_p3",
+        "img_url": "../images/cardlist/card/ST09-014_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST09-014_r1",
+        "img_url": "../images/cardlist/card/ST09-014_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST09-015",

@@ -1,5 +1,31 @@
 [
   {
+    "id": "OP06-022_p3",
+    "pack_id": "550028",
+    "name": "ヤマト",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP06-022_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Green",
+      "Yellow"
+    ],
+    "block_number": 2,
+    "types": [
+      "ワノ国"
+    ],
+    "effect": "【ダブルアタック】(このカードが与えるダメージは2になる)<br>【起動メイン】【ターン1回】相手のライフが3枚以下の場合、自分のキャラ1枚にレストのドン!!2枚までを、付与する。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP06-100_r2",
     "pack_id": "550028",
     "name": "イヌアラシ",
@@ -156,6 +182,30 @@
     ],
     "effect": "【アタック時】自分の手札1枚を捨てることができる：相手のドン‼1枚までを、レストにする。",
     "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
+    "variants": []
+  },
+  {
+    "id": "OP07-116_p1",
+    "pack_id": "550028",
+    "name": "焔裂き",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP07-116_p1.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-116_p1.png?2602273",
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 2,
+    "types": [
+      "ワノ国",
+      "赤鞘九人男"
+    ],
+    "effect": "【メイン】/【カウンター】自分のリーダーかキャラ1枚までを、このターン中、パワー+1000。その後、相手のライフが2枚以下の場合、相手のコスト4以下のキャラ1枚までを、レストにする。",
+    "trigger": "【トリガー】相手のコスト4以下のキャラ1枚までを、レストにする。",
     "variants": []
   },
   {

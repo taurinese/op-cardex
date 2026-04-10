@@ -38,7 +38,7 @@ function HomePage() {
 
         <Link
           to="/collection"
-          search={{ lang: "en", view: "overview", hideUnowned: false }}
+          search={{ lang: "en", view: "overview", ownFilter: "all" }}
           className="group rounded-xl border border-border/50 bg-card p-5 transition-all hover:border-amber-400/30 hover:bg-amber-400/5"
         >
           <div className="flex items-center gap-3 mb-2">

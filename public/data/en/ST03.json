@@ -46,7 +46,16 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-002_r1",
+        "img_url": "../images/cardlist/card/ST03-002_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "ST17",
+        "set_label": "ST-17"
+      }
+    ]
   },
   {
     "id": "ST03-003",
@@ -71,7 +80,16 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-003_p1",
+        "img_url": "../images/cardlist/card/ST03-003_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-003_p1.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST03-004",
@@ -96,7 +114,24 @@
     ],
     "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-004_p1",
+        "img_url": "../images/cardlist/card/ST03-004_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png?251017",
+        "rarity": "Special",
+        "set_id": "OP08",
+        "set_label": "OP-08"
+      },
+      {
+        "id": "ST03-004_r1",
+        "img_url": "../images/cardlist/card/ST03-004_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "ST17",
+        "set_label": "ST-17"
+      }
+    ]
   },
   {
     "id": "ST03-005",
@@ -120,7 +155,48 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-005_p4",
+        "img_url": "../images/cardlist/card/ST03-005_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p4.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-005_p5",
+        "img_url": "../images/cardlist/card/ST03-005_p5.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p5.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-005_r2",
+        "img_url": "../images/cardlist/card/ST03-005_r2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-005_p1",
+        "img_url": "../images/cardlist/card/ST03-005_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST03-005_r1",
+        "img_url": "../images/cardlist/card/ST03-005_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-005_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "ST17",
+        "set_label": "ST-17"
+      }
+    ]
   },
   {
     "id": "ST03-006",
@@ -170,7 +246,16 @@
     ],
     "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-007_p1",
+        "img_url": "../images/cardlist/card/ST03-007_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-007_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST03-008",
@@ -195,7 +280,64 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-008_p1",
+        "img_url": "../images/cardlist/card/ST03-008_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST03-008_p6",
+        "img_url": "../images/cardlist/card/ST03-008_p6.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p6.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-008_p7",
+        "img_url": "../images/cardlist/card/ST03-008_p7.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p7.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-008_r2",
+        "img_url": "../images/cardlist/card/ST03-008_r2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-008_p2",
+        "img_url": "../images/cardlist/card/ST03-008_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST03-008_p3",
+        "img_url": "../images/cardlist/card/ST03-008_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST03-008_r1",
+        "img_url": "../images/cardlist/card/ST03-008_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-008_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "ST17",
+        "set_label": "ST-17"
+      }
+    ]
   },
   {
     "id": "ST03-009",
@@ -220,7 +362,16 @@
     ],
     "effect": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-009_p1",
+        "img_url": "../images/cardlist/card/ST03-009_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-009_p1.png?251017",
+        "rarity": "Special",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      }
+    ]
   },
   {
     "id": "ST03-010",
@@ -320,7 +471,40 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] Play this card.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-013_p2",
+        "img_url": "../images/cardlist/card/ST03-013_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-013_p3",
+        "img_url": "../images/cardlist/card/ST03-013_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-013_p4",
+        "img_url": "../images/cardlist/card/ST03-013_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_p4.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST03-013_r1",
+        "img_url": "../images/cardlist/card/ST03-013_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-013_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST03-014",
@@ -345,7 +529,16 @@
     ],
     "effect": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST03-014_p1",
+        "img_url": "../images/cardlist/card/ST03-014_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST03-015",

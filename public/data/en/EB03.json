@@ -26,28 +26,9 @@
     "variants": [
       {
         "id": "EB03-001_p1",
-        "pack_id": "569203",
-        "name": "Nefeltari Vivi",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/EB03-001_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-001_p1.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Alabasta"
-        ],
-        "effect": "[Once Per Turn] If your Character with a base cost of 4 or more would be K.O.'d, you may trash 1 card from your hand instead.<br>[Activate: Main] You may rest this Leader: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, up to 1 of your Characters without a [When Attacking] effect gains [Rush] during this turn.",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -103,51 +84,15 @@
     "variants": [
       {
         "id": "EB03-003_p1",
-        "pack_id": "569203",
-        "name": "Uta",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-003_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-003_p1.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM"
-        ],
-        "effect": "[On Play] If your Leader is [Uta], draw 2 cards. Then, play up to 1 Character card with 6000 power or less and no base effect from your hand.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-003_p2",
-        "pack_id": "569203",
-        "name": "Uta",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-003_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-003_p2.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM"
-        ],
-        "effect": "[On Play] If your Leader is [Uta], draw 2 cards. Then, play up to 1 Character card with 6000 power or less and no base effect from your hand.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -281,28 +226,9 @@
     "variants": [
       {
         "id": "EB03-008_p1",
-        "pack_id": "569203",
-        "name": "Hibari",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-008_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-008_p1.png?260305",
-        "cost": 3,
-        "attributes": [
-          "Ranged"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "Navy",
-          "SWORD"
-        ],
-        "effect": "[On Play]/[When Attacking] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn.<br>[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -431,27 +357,9 @@
     "variants": [
       {
         "id": "EB03-013_p1",
-        "pack_id": "569203",
-        "name": "Carrot",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-013_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-013_p1.png?260305",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": 1000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Minks"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] If this Character was played on this turn, K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less. Then, play up to 1 [Zou] from your hand.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -477,7 +385,7 @@
       "East Blue",
       "Frost Moon Village"
     ],
-    "effect": "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your &lt;Slash&gt; attribute Leader.",
+    "effect": "[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your <Slash> attribute Leader.",
     "trigger": null,
     "variants": []
   },
@@ -585,51 +493,15 @@
     "variants": [
       {
         "id": "EB03-018_p1",
-        "pack_id": "569203",
-        "name": "Tashigi",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-018_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-018_p1.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 6000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Navy"
-        ],
-        "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker].<br>[End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-018_p2",
-        "pack_id": "569203",
-        "name": "Tashigi",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-018_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-018_p2.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 6000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Navy"
-        ],
-        "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker].<br>[End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -782,51 +654,15 @@
     "variants": [
       {
         "id": "EB03-024_p1",
-        "pack_id": "569203",
-        "name": "Nefeltari Vivi",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-024_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-024_p1.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Alabasta"
-        ],
-        "effect": "[Blocker]<br>[On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-024_p2",
-        "pack_id": "569203",
-        "name": "Nefeltari Vivi",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-024_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-024_p2.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Alabasta"
-        ],
-        "effect": "[Blocker]<br>[On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -856,27 +692,9 @@
     "variants": [
       {
         "id": "EB03-025_p1",
-        "pack_id": "569203",
-        "name": "Hina",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-025_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-025_p1.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Navy"
-        ],
-        "effect": "[On Play] You may trash 1 card from your hand: Return up to 1 Character with 6000 base power to the owner's hand.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -907,53 +725,15 @@
     "variants": [
       {
         "id": "EB03-026_p1",
-        "pack_id": "569203",
-        "name": "Boa Hancock",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-026_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-026_p1.png?260305",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "The Seven Warlords of the Sea",
-          "Kuja Pirates"
-        ],
-        "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.<br>[Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-026_p2",
-        "pack_id": "569203",
-        "name": "Boa Hancock",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-026_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-026_p2.png?260305",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "The Seven Warlords of the Sea",
-          "Kuja Pirates"
-        ],
-        "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.<br>[Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -1083,53 +863,15 @@
     "variants": [
       {
         "id": "EB03-031_p1",
-        "pack_id": "569203",
-        "name": "Vinsmoke Reiju",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-031_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-031_p1.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "The Vinsmoke Family",
-          "GERMA 66"
-        ],
-        "effect": "[Your Turn] [On Play] DON!! −1: If your Leader is [Sanji], activate the [Main] effect of up to 1 Event card with a cost of 7 or less in your trash.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-031_p2",
-        "pack_id": "569203",
-        "name": "Vinsmoke Reiju",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-031_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-031_p2.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "The Vinsmoke Family",
-          "GERMA 66"
-        ],
-        "effect": "[Your Turn] [On Play] DON!! −1: If your Leader is [Sanji], activate the [Main] effect of up to 1 Event card with a cost of 7 or less in your trash.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -1209,27 +951,9 @@
     "variants": [
       {
         "id": "EB03-034_p1",
-        "pack_id": "569203",
-        "name": "Charlotte Linlin",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-034_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-034_p1.png?260305",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": 1000,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Rocks Pirates"
-        ],
-        "effect": "[On Play] Draw 1 card and place 1 card from your hand at the top of your deck. Then, add up to 1 DON!! card from your DON!! deck and set it as active.<br>[On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1409,28 +1133,9 @@
     "variants": [
       {
         "id": "EB03-041_p1",
-        "pack_id": "569203",
-        "name": "Kujyaku",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-041_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-041_p1.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Navy",
-          "SWORD"
-        ],
-        "effect": "[Opponent's Turn] All of your {SWORD} type Characters with a cost of 6 or less gain +2000 power.<br>[On Play] You may trash 1 {Navy} type card from your hand: Draw 2 cards.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1461,53 +1166,15 @@
     "variants": [
       {
         "id": "EB03-042_p1",
-        "pack_id": "569203",
-        "name": "Koala",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-042_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-042_p1.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Dressrosa",
-          "Revolutionary Army"
-        ],
-        "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.<br>[Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-042_p2",
-        "pack_id": "569203",
-        "name": "Koala",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-042_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-042_p2.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Dressrosa",
-          "Revolutionary Army"
-        ],
-        "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.<br>[Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -1588,53 +1255,15 @@
     "variants": [
       {
         "id": "EB03-045_p1",
-        "pack_id": "569203",
-        "name": "Perona",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-045_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-045_p1.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Muggy Kingdom",
-          "Thriller Bark Pirates"
-        ],
-        "effect": "[Blocker]<br>[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-045_p2",
-        "pack_id": "569203",
-        "name": "Perona",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-045_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-045_p2.png?260305",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Muggy Kingdom",
-          "Thriller Bark Pirates"
-        ],
-        "effect": "[Blocker]<br>[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -1838,51 +1467,15 @@
     "variants": [
       {
         "id": "EB03-053_p1",
-        "pack_id": "569203",
-        "name": "Nami",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-053_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-053_p1.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand.<br>[On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-053_p2",
-        "pack_id": "569203",
-        "name": "Nami",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-053_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-053_p2.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand.<br>[On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -1937,51 +1530,15 @@
     "variants": [
       {
         "id": "EB03-055_p1",
-        "pack_id": "569203",
-        "name": "Nico Robin",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-055_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-055_p1.png?260305",
-        "cost": 7,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards.<br>[Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB03-055_p2",
-        "pack_id": "569203",
-        "name": "Nico Robin",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-055_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-055_p2.png?260305",
-        "cost": 7,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Straw Hat Crew"
-        ],
-        "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards.<br>[Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -2036,27 +1593,9 @@
     "variants": [
       {
         "id": "EB03-057_p1",
-        "pack_id": "569203",
-        "name": "Yamato",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-057_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-057_p1.png?260305",
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Land of Wano"
-        ],
-        "effect": "[On Play] Give up to 3 rested DON!! cards to your {Land of Wano} type Leader.<br>[On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2161,51 +1700,15 @@
     "variants": [
       {
         "id": "EB03-061_p1",
-        "pack_id": "569203",
-        "name": "Uta",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-061_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-061_p1.png?260305",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less.<br>[End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "EB03-061_p2",
-        "pack_id": "569203",
-        "name": "Uta",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-061_p2.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-061_p2.png?260305",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less.<br>[End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
-        "trigger": null
+        "rarity": "SecretRare"
       }
     ]
   },
@@ -2235,27 +1738,9 @@
     "variants": [
       {
         "id": "EB03-062_p1",
-        "pack_id": "569203",
-        "name": "Trafalgar Law",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB03-062_p1.png?260305",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB03-062_p1.png?260305",
-        "cost": 8,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Heart Pirates"
-        ],
-        "effect": "[Rush]<br>[Activate: Main] You may trash 1 card from your hand and trash this Character: Add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 [Trafalgar Law] with a cost of 7 or less from your hand.",
-        "trigger": null
+        "rarity": "SecretRare"
       }
     ]
   }

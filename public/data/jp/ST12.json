@@ -75,7 +75,16 @@
     ],
     "effect": "【登場時】自分のキャラが2枚以下の場合、自分の手札から「ジュラキュール・ミホーク」以外で、コスト4以下の、特徴《シッケアール王国》か属性(斬)を持つキャラカード1枚までを、レストで登場させる。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST12-003_p1",
+        "img_url": "../images/cardlist/card/ST12-003_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-003_p1.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST12-004",
@@ -127,7 +136,24 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST12-005_p1",
+        "img_url": "../images/cardlist/card/ST12-005_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-005_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST12-005_r1",
+        "img_url": "../images/cardlist/card/ST12-005_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-005_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST12-006",
@@ -303,7 +329,16 @@
     ],
     "effect": "【起動メイン】このキャラを持ち主の手札に戻す。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST12-012_p1",
+        "img_url": "../images/cardlist/card/ST12-012_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-012_p1.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP10",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST12-013",
@@ -353,7 +388,32 @@
     ],
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】自分のデッキの上から3枚を見て、好きな順番に並び替え、デッキの上か下に置く。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST12-014_p1",
+        "img_url": "../images/cardlist/card/ST12-014_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-014_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST12-014_p2",
+        "img_url": "../images/cardlist/card/ST12-014_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-014_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST12-014_r1",
+        "img_url": "../images/cardlist/card/ST12-014_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-014_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST12-015",
@@ -424,6 +484,23 @@
     ],
     "effect": "【カウンター】自分のリーダーかキャラ1枚までを、このバトル中、パワー+2000。その後、自分のデッキの上から1枚を公開し、コスト2のキャラカード1枚までを、登場させる。その後、残りをデッキの上か下に置く。<br>",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST12-017_p1",
+        "img_url": "../images/cardlist/card/ST12-017_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-017_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST12-017_r1",
+        "img_url": "../images/cardlist/card/ST12-017_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST12-017_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   }
 ]

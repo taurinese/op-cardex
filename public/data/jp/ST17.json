@@ -1,5 +1,31 @@
 [
   {
+    "id": "OP01-060_p2",
+    "pack_id": "550017",
+    "name": "ドンキホーテ・ドフラミンゴ",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP01-060_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP01-060_p2.png?2602273",
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 1,
+    "types": [
+      "王下七武海",
+      "ドンキホーテ海賊団"
+    ],
+    "effect": "【ドン‼×2】【アタック時】①(コストエリアのドン‼を指定の数レストにできる)：自分のデッキの一番上を公開し、そのカードがコスト4以下の特徴《王下七武海》を持つキャラカードの場合、レストで登場させてもよい。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP01-073_r1",
     "pack_id": "550017",
     "name": "ドンキホーテ・ドフラミンゴ",
@@ -280,7 +306,24 @@
     ],
     "effect": "【登場時】自分のキャラ1枚を持ち主の手札に戻すことができる：自分のリーダーが特徴《王下七武海》を持つ場合、コスト4以下のキャラ1枚までを、持ち主の手札に戻す。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-002_p1",
+        "img_url": "../images/cardlist/card/ST17-002_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-002_p1.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST17-002_r1",
+        "img_url": "../images/cardlist/card/ST17-002_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-002_r1.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST17-003",
@@ -306,7 +349,40 @@
     ],
     "effect": "【登場時】自分のデッキの上から3枚を見て、好きな順番に並び替え、デッキの上に置く。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-003_p2",
+        "img_url": "../images/cardlist/card/ST17-003_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST17-003_p3",
+        "img_url": "../images/cardlist/card/ST17-003_p3.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p3.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST17-003_r1",
+        "img_url": "../images/cardlist/card/ST17-003_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST17-003_p1",
+        "img_url": "../images/cardlist/card/ST17-003_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-003_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST17-004",
@@ -332,7 +408,24 @@
     ],
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】自分のデッキの上から3枚を見て、好きな順番に並び替え、デッキの上か下に置く。その後、自分の特徴《王下七武海》を持つ、リーダーかキャラ1枚にレストのドン‼1枚までを、付与する。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-004_p1",
+        "img_url": "../images/cardlist/card/ST17-004_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-004_p1.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST17-004_p2",
+        "img_url": "../images/cardlist/card/ST17-004_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-004_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST17-005",
@@ -358,6 +451,31 @@
     ],
     "effect": "【起動メイン】【ターン1回】自分の手札1枚をデッキの上に置くことができる：自分のリーダーかキャラ1枚にレストのドン‼2枚までを、付与する。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST17-005_p1",
+        "img_url": "../images/cardlist/card/ST17-005_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST17-005_p2",
+        "img_url": "../images/cardlist/card/ST17-005_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005_p2.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST17-005_r1",
+        "img_url": "../images/cardlist/card/ST17-005_r1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST17-005_r1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   }
 ]

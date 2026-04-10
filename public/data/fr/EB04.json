@@ -1,5 +1,57 @@
 [
   {
+    "id": "EB01-003_p1",
+    "pack_id": "622114",
+    "name": "Kidd et Killer",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-003_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.webp?260119",
+    "cost": 4,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 2,
+    "types": [
+      "Supernovae",
+      "Équipage de Kidd"
+    ],
+    "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En attaquant] Si votre adversaire a 2 cartes ou moins dans sa Vie, ce Personnage gagne +2000 de puissance pour tout le tour.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "EB01-023_p1",
+    "pack_id": "622114",
+    "name": "Edward Weeble",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-023_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.webp?260119",
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "Sept grands corsaires"
+    ],
+    "effect": "[Jouée] Piochez 1 carte.",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "EB04-011",
     "pack_id": "622114",
     "name": "L'Écaillé",
@@ -51,28 +103,9 @@
     "variants": [
       {
         "id": "EB04-012_p1",
-        "pack_id": "622114",
-        "name": "Kikunojo",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-012_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-012_p1.webp?260119",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Pays de Wano",
-          "Neuf fourreaux rouges"
-        ],
-        "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Si ce Personnage a été joué ce tour, redressez votre Leader de type {Pays de Wano}.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -102,27 +135,9 @@
     "variants": [
       {
         "id": "EB04-013_p1",
-        "pack_id": "622114",
-        "name": "Carrot",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-013_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-013_p1.webp?260119",
-        "cost": 8,
-        "attributes": [
-          "Special"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Minks"
-        ],
-        "effect": "[Jouée] Si votre Leader est de type {Minks}, redressez jusqu'à 2 de vos Personnages de type {Minks} et votre Leader.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -257,28 +272,9 @@
     "variants": [
       {
         "id": "EB04-018_p1",
-        "pack_id": "622114",
-        "name": "Mégalo",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-018_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-018_p1.webp?260119",
-        "cost": 4,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 4000,
-        "counter": 2000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Animal",
-          "Île des hommes-poissons"
-        ],
-        "effect": "[Jouée] Vous pouvez épuiser ce Personnage&nbsp;: Mettez KO jusqu'à 1 Personnage adverse épuisé ayant 8000 de puissance ou moins.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -382,28 +378,9 @@
     "variants": [
       {
         "id": "EB04-022_p1",
-        "pack_id": "622114",
-        "name": "Issho",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-022_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-022_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Dressrosa",
-          "Marine"
-        ],
-        "effect": "[Jouée] Vous pouvez défausser 2 cartes de votre main&nbsp;: Si votre adversaire a 6 cartes ou plus dans sa main, il place 2 cartes de sa main au-dessous de son deck dans l'ordre de son choix.<br>[DON!!&nbsp;x1] [En attaquant] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -483,27 +460,9 @@
     "variants": [
       {
         "id": "EB04-025_p1",
-        "pack_id": "622114",
-        "name": "Nefertari Vivi",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-025_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-025_p1.webp?260119",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Royaume d'Alabasta"
-        ],
-        "effect": "[Jouée] Jouez jusqu'à 1 carte Personnage de type {Royaume d'Alabasta} de votre main ayant un coût de 8 ou moins autre que [Nefertari Vivi]. Puis, votre adversaire place 1 carte de sa main au-dessous de son deck.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -659,28 +618,9 @@
     "variants": [
       {
         "id": "EB04-031_p1",
-        "pack_id": "622114",
-        "name": "King",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-031_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-031_p1.webp?260119",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Lunaria",
-          "Équipage des cent bêtes"
-        ],
-        "effect": "Si ce Personnage est mis KO, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain à la place.<br>[Activation&nbsp;: Principale] [Une fois par tour] Si votre Leader est de type {Équipage des cent bêtes} et que vous n'avez pas d'autre Personnage [King], ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!! et ajoutez jusqu'à 1 carte épuisée en plus.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -814,27 +754,9 @@
     "variants": [
       {
         "id": "EB04-036_p1",
-        "pack_id": "622114",
-        "name": "Foxy",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-036_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-036_p1.webp?260119",
-        "cost": 8,
-        "attributes": [
-          "Special"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Équipage de Foxy"
-        ],
-        "effect": "[Jouée] DON!!&nbsp;−1&nbsp;: Si votre Leader est de type {Équipage de Foxy}, piochez 2 cartes et défaussez 1 carte de votre main. Puis, épuisez jusqu'à 1 Personnage adverse ayant un coût de 9 ou moins.<br>[Activation&nbsp;: Principale] [Une fois par tour] Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -891,29 +813,9 @@
     "variants": [
       {
         "id": "EB04-038_p1",
-        "pack_id": "622114",
-        "name": "Rosinante et Law",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-038_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-038_p1.webp?260119",
-        "cost": 6,
-        "attributes": [
-          "Special",
-          "Wisdom"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Marine",
-          "Équipage de Don Quijote"
-        ],
-        "effect": "Le nom de cette carte est aussi considéré comme [Trafalgar Law] et [Don Quijote Rosinante] selon les règles.<br>[Bloqueur]<br>[Jouée] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, piochez 1 carte. Puis, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -944,28 +846,9 @@
     "variants": [
       {
         "id": "EB04-039_p1",
-        "pack_id": "622114",
-        "name": "Eustass \"Captain\" Kidd",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-039_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB04-039_p1.webp?260119",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Supernovae",
-          "Équipage de Kidd"
-        ],
-        "effect": "[Jouée] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Équipage de Kidd} de votre main ayant un coût de 5 ou moins.",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -1017,6 +900,166 @@
     "variants": []
   },
   {
+    "id": "OP06-093_p1",
+    "pack_id": "622114",
+    "name": "Perona",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP06-093_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP06-093_p1.webp?260119",
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
+    "types": [
+      "Équipage de Thriller Bark"
+    ],
+    "effect": "[Jouée] Si votre adversaire a 5 cartes ou plus dans sa main, effectuez l'un des choix suivants&nbsp;:<br>• Votre adversaire défausse 1 carte de sa main.<br>• Réduisez de −3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-046_p1",
+    "pack_id": "622114",
+    "name": "Sengoku",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-046_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-046_p1.webp?260119",
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "Marine"
+    ],
+    "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Sept grands corsaires} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP09-051_p4",
+    "pack_id": "622114",
+    "name": "Baggy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-051_p4.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.webp?260119",
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
+    "types": [
+      "Quatre Empereurs",
+      "Cross Guild"
+    ],
+    "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
+    "trigger": null,
+    "variants": [
+      {
+        "id": "OP09-051_p5",
+        "img_url": "../images/cardlist/card/OP09-051_p5.webp?260119",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.webp?260119",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
+    "id": "OP10-065_p1",
+    "pack_id": "622114",
+    "name": "Sugar",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-065_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.webp?260119",
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
+    "types": [
+      "Équipage de Don Quijote"
+    ],
+    "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP12-030_p2",
+    "pack_id": "622114",
+    "name": "Dracule Mihawk",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP12-030_p2.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.webp?260119",
+    "cost": 8,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 8000,
+    "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
+    "types": [
+      "Royaume de Ceglok",
+      "Sept grands corsaires"
+    ],
+    "effect": "[Bloqueur]<br>[Jouée] Redressez jusqu'à 4 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 7 ou plus pour tout le tour.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP12-113_p1",
+    "pack_id": "622114",
+    "name": "Roronoa Zoro",
+    "rarity": "TreasureRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP12-113_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP12-113_p1.webp?260119",
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
+    "types": [
+      "Supernovae",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[En cas de KO] Si votre Leader est de type {Supernovae}, jouez jusqu'à 1 carte Personnage de type {Supernovae} épuisée de votre main ayant un coût de 4 ou moins.",
+    "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins et ajoutez cette carte à votre main.",
+    "variants": []
+  },
+  {
     "id": "OP14-001",
     "pack_id": "622114",
     "name": "Trafalgar Law",
@@ -1044,29 +1087,9 @@
     "variants": [
       {
         "id": "OP14-001_p1",
-        "pack_id": "622114",
-        "name": "Trafalgar Law",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP14-001_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-001_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Supernovae",
-          "Équipage du Heart"
-        ],
-        "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Choisissez 2 de vos Personnages de type {Supernovae} ou {Équipage du Heart}. Échangez la puissance de base des Personnages choisis pour tout le tour.",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -1280,29 +1303,9 @@
     "variants": [
       {
         "id": "OP14-009_p1",
-        "pack_id": "622114",
-        "name": "Trafalgar Law",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-009_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-009_p1.webp?260119",
-        "cost": 9,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Supernovae",
-          "Équipage du Heart"
-        ],
-        "effect": "[Initiative]<br>[Attaque adverse] [Une fois par tour] Vous pouvez défausser 2 cartes de votre main&nbsp;: Choisissez votre Leader et 1 de vos Personnages. Échangez la puissance de base des cartes choisies pour tout le combat.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1412,28 +1415,9 @@
     "variants": [
       {
         "id": "OP14-013_p1",
-        "pack_id": "622114",
-        "name": "Monkey D. Luffy",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-013_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-013_p1.webp?260119",
-        "cost": 1,
-        "attributes": [
-          "Strike"
-        ],
-        "power": null,
-        "counter": 1000,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "Supernovae",
-          "Équipage de Chapeau de paille"
-        ],
-        "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Supernovae} autre que [Monkey D. Luffy] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.<br>[En attaquant] Jusqu'à 1 Personnage adverse perd −1000 de puissance pour tout le tour.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1490,28 +1474,9 @@
     "variants": [
       {
         "id": "OP14-015_p1",
-        "pack_id": "622114",
-        "name": "Roronoa Zoro",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-015_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-015_p1.webp?260119",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "Supernovae",
-          "Équipage de Chapeau de paille"
-        ],
-        "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En attaquant] Jusqu'à 1 Personnage adverse perd −1000 de puissance pour tout le tour.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1643,27 +1608,9 @@
     "variants": [
       {
         "id": "OP14-020_p1",
-        "pack_id": "622114",
-        "name": "Dracule Mihawk",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP14-020_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires"
-        ],
-        "effect": "Si le Leader adverse a l'attribut",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -1851,29 +1798,9 @@
     "variants": [
       {
         "id": "OP14-027_p1",
-        "pack_id": "622114",
-        "name": "Shanks",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-027_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-027_p1.webp?260119",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "East Blue",
-          "Quatre Empereurs",
-          "Équipage du Roux"
-        ],
-        "effect": "[Votre tour] Quand ce Personnage est épuisé, épuisez jusqu'à 1 Personnage adverse ayant 7000 de puissance de base ou moins.<br>[Tour adverse] Si ce Personnage est épuisé, tous les Personnages adverses perdent −1000 de puissance.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1979,28 +1906,9 @@
     "variants": [
       {
         "id": "OP14-031_p1",
-        "pack_id": "622114",
-        "name": "Nami",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-031_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-031_p1.webp?260119",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM",
-          "Équipage de Chapeau de paille"
-        ],
-        "effect": "[Bloqueur]<br>[Jouée] Épuisez jusqu'à 2 Personnages adverses ayant un coût de 8 ou moins. Puis, redressez jusqu'à 5 de vos cartes DON!! à la fin de ce tour.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2057,28 +1965,9 @@
     "variants": [
       {
         "id": "OP14-033_p1",
-        "pack_id": "622114",
-        "name": "Perona",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-033_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-033_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Royaume de Ceglok",
-          "Équipage de Thriller Bark"
-        ],
-        "effect": "[Jouée] Jusqu'à 2 Personnages adverses ayant un coût de 5 ou moins ne peuvent pas être épuisés jusqu'à la fin de la prochaine phase de Fin de votre adversaire.<br>[En cas de KO] Vous pouvez épuiser 1 de vos cartes&nbsp;: Jouez jusqu'à 1 carte Personnage verte de votre main ayant un coût de 5 ou moins.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2257,29 +2146,9 @@
     "variants": [
       {
         "id": "OP14-040_p1",
-        "pack_id": "622114",
-        "name": "Jinbe",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP14-040_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-040_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Hommes-poissons",
-          "Sept grands corsaires",
-          "Équipage des pirates du soleil"
-        ],
-        "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages, de type {Hommes-poissons} ou {Sirènes}.",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -2311,29 +2180,9 @@
     "variants": [
       {
         "id": "OP14-041_p1",
-        "pack_id": "622114",
-        "name": "Boa Hancock",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP14-041_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-041_p1.webp?260119",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Blue",
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage des Kuja"
-        ],
-        "effect": "[Tour adverse] Quand un de vos Personnages est joué, piochez 1 carte.<br>[DON!!&nbsp;x1] [Une fois par tour] Quand un de vos Personnages de type {Amazon Lily} ou {Équipage des Kuja} ayant 5000 de puissance de base ou plus est mis KO, ajoutez à la main de son propriétaire jusqu'à 1 carte du dessus de la Vie adverse.",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -2364,28 +2213,9 @@
     "variants": [
       {
         "id": "OP14-042_p1",
-        "pack_id": "622114",
-        "name": "Arlong",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-042_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-042_p1.webp?260119",
-        "cost": 1,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 3000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Hommes-poissons",
-          "Équipage des pirates du soleil"
-        ],
-        "effect": "[Jouée] Si votre Leader est de type {Hommes-poissons}, regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant un coût de 2 ou plus et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2571,29 +2401,9 @@
     "variants": [
       {
         "id": "OP14-049_p1",
-        "pack_id": "622114",
-        "name": "Jinbe",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-049_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-049_p1.webp?260119",
-        "cost": 8,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "Hommes-poissons",
-          "Sept grands corsaires",
-          "Équipage des pirates du soleil"
-        ],
-        "effect": "Quand une ou plusieurs cartes de votre main ont été défaussées à cause d'un effet, ce Personnage gagne [Initiative] pour tout le tour.<br>[Jouée] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Piochez 2 cartes et renvoyez jusqu'à 1 Personnage ayant un coût de 7 ou moins à la main de son propriétaire.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2879,28 +2689,9 @@
     "variants": [
       {
         "id": "OP14-060_p1",
-        "pack_id": "622114",
-        "name": "Don Quijote Doflamingo",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP14-060_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-060_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage de Don Quijote"
-        ],
-        "effect": "[Attaque adverse] [Une fois par tour] DON!!&nbsp;−1&nbsp;: Choisissez votre Leader ou 1 de vos Personnages de type {Équipage de Don Quijote}. Changez la cible de l'attaque par la carte choisie.",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -2932,29 +2723,9 @@
     "variants": [
       {
         "id": "OP14-061_p1",
-        "pack_id": "622114",
-        "name": "Vergo",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-061_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-061_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Punk Hazard",
-          "Marine",
-          "Équipage de Don Quijote"
-        ],
-        "effect": "[Une fois par tour] Si un de vos Personnages de type {Équipage de Don Quijote} quitte le terrain à cause d'un effet adverse, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain à la place.<br>[En attaquant] DON!!&nbsp;−1&nbsp;: Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -3160,28 +2931,9 @@
     "variants": [
       {
         "id": "OP14-069_p1",
-        "pack_id": "622114",
-        "name": "Don Quijote Doflamingo",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-069_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-069_p1.webp?260119",
-        "cost": 10,
-        "attributes": [
-          "Special"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage de Don Quijote"
-        ],
-        "effect": "[Jouée] DON!!&nbsp;−3&nbsp;: Effectuez l'un des choix suivants&nbsp;:<br>• Si votre Leader est de type {Équipage de Don Quijote}, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 8 ou moins.<br>• Jusqu'à 3 Personnages adverses ayant un coût de 7 ou moins ne peuvent pas être épuisés jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -3435,28 +3187,9 @@
     "variants": [
       {
         "id": "OP14-079_p1",
-        "pack_id": "622114",
-        "name": "Crocodile",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP14-079_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-079_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Baroque Works"
-        ],
-        "effect": "Tous les Personnages adverses ne peuvent pas quitter le terrain à cause de vos effets.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez mettre KO 1 de vos Personnages incluant «Baroque Works» dans son type&nbsp;: Réduisez de −10 le coût de jusqu'à 1 Personnage adverse pour tout le tour. Puis, vous pouvez placer dans votre Défausse 2 cartes du dessus de votre deck.",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -3488,29 +3221,9 @@
     "variants": [
       {
         "id": "OP14-080_p1",
-        "pack_id": "622114",
-        "name": "Gecko Moria",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP14-080_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-080_p1.webp?260119",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Black",
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage de Thriller Bark"
-        ],
-        "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez mettre KO 1 de vos Personnages de type {Équipage de Thriller Bark}&nbsp;: Votre Leader et tous vos Personnages gagnent +1000 de puissance pour tout le tour.<br>[En attaquant] Vous pouvez défausser 3 cartes de votre main&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -3615,27 +3328,9 @@
     "variants": [
       {
         "id": "OP14-084_p1",
-        "pack_id": "622114",
-        "name": "Miss Allsunday",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-084_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-084_p1.webp?260119",
-        "cost": 7,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Baroque Works"
-        ],
-        "effect": "[Jouée] Si votre Leader inclut «Baroque Works» dans son type, jouez jusqu'à 1 carte Personnage ayant un coût de 4 ou moins et jusqu'à 1 ayant un coût de 1, de votre Défausse, incluant «Baroque Works» dans leur type.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -3791,27 +3486,9 @@
     "variants": [
       {
         "id": "OP14-090_p1",
-        "pack_id": "622114",
-        "name": "Mr 1(Das Bones)",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-090_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-090_p1.webp?260119",
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Baroque Works"
-        ],
-        "effect": "S'il y a un Personnage ayant un coût de 0 ou de 8 ou plus, ce Personnage peut attaquer un Personnage durant le tour où il est joué.<br>[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 0.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -3841,27 +3518,9 @@
     "variants": [
       {
         "id": "OP14-091_p1",
-        "pack_id": "622114",
-        "name": "Mr 2 Bonclay(Bentham)",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-091_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-091_p1.webp?260119",
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Baroque Works"
-        ],
-        "effect": "[En cas de KO] Jouez jusqu'à 1 carte Personnage de votre main ou votre Défausse incluant «Baroque Works» dans son type et ayant un coût de 5 ou moins autre que [Mr 2 Bonclay(Bentham)].",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -3990,26 +3649,9 @@
     "variants": [
       {
         "id": "OP14-096_p1",
-        "pack_id": "622114",
-        "name": "Ground Death",
-        "rarity": "Rare",
-        "category": "Event",
         "img_url": "../images/cardlist/card/OP14-096_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-096_p1.webp?260119",
-        "cost": 1,
-        "attributes": [],
-        "power": null,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Baroque Works"
-        ],
-        "effect": "[Principale] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Annulez les effets de jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins pour tout le tour.<br>[Contre] Si vous avez 10 cartes ou plus dans votre Défausse, jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -4213,28 +3855,9 @@
     "variants": [
       {
         "id": "OP14-104_p1",
-        "pack_id": "622114",
-        "name": "Gecko Moria",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-104_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-104_p1.webp?260119",
-        "cost": 8,
-        "attributes": [
-          "Special"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage de Thriller Bark"
-        ],
-        "effect": "[Jouée] Jouez ou ajoutez face visible au-dessus de votre Vie jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} de votre Défausse ayant un coût de 4 ou moins.",
-        "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre Défausse ayant un coût de 4 ou moins."
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -4417,27 +4040,9 @@
     "variants": [
       {
         "id": "OP14-111_p1",
-        "pack_id": "622114",
-        "name": "Perona",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-111_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-111_p1.webp?260119",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Équipage de Thriller Bark"
-        ],
-        "effect": "[Jouée]/[En cas de KO] Jusqu'à 1 Personnage adverse ayant un coût de 6 ou moins ne peut pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
-        "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins."
+        "rarity": "Rare"
       }
     ]
   },
@@ -4468,53 +4073,15 @@
     "variants": [
       {
         "id": "OP14-112_p1",
-        "pack_id": "622114",
-        "name": "Boa Hancock",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-112_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-112_p1.webp?260119",
-        "cost": 9,
-        "attributes": [
-          "Special"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage des Kuja"
-        ],
-        "effect": "[Jouée] Si votre Leader est de type {Sept grands corsaires}, ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, ajoutez à la main de son propriétaire jusqu'à 1 carte du dessus de la Vie adverse.",
-        "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et [Déclenchement]."
+        "rarity": "SuperRare"
       },
       {
         "id": "OP14-112_p2",
-        "pack_id": "622114",
-        "name": "Boa Hancock",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-112_p2.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-112_p2.webp?260119",
-        "cost": 9,
-        "attributes": [
-          "Special"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage des Kuja"
-        ],
-        "effect": "[Jouée] Si votre Leader est de type {Sept grands corsaires}, ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, ajoutez à la main de son propriétaire jusqu'à 1 carte du dessus de la Vie adverse.",
-        "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et [Déclenchement]."
+        "rarity": "Special"
       }
     ]
   },
@@ -4664,26 +4231,9 @@
     "variants": [
       {
         "id": "OP14-118_p1",
-        "pack_id": "622114",
-        "name": "Vous allez finir par me faire peur...&nbsp;♡",
-        "rarity": "Rare",
-        "category": "Event",
         "img_url": "../images/cardlist/card/OP14-118_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-118_p1.webp?260119",
-        "cost": 1,
-        "attributes": [],
-        "power": null,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Équipage des Kuja"
-        ],
-        "effect": "[Contre] Si vous avez 2 cartes ou moins dans votre Vie, jusqu'à 1 Personnage adverse redressé ne peut pas attaquer pour tout le tour.",
-        "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et [Déclenchement]."
+        "rarity": "Rare"
       }
     ]
   },
@@ -4713,51 +4263,15 @@
     "variants": [
       {
         "id": "OP14-119_p1",
-        "pack_id": "622114",
-        "name": "Dracule Mihawk",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-119_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-119_p1.webp?260119",
-        "cost": 9,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires"
-        ],
-        "effect": "[Votre tour] Quand ce Personnage est épuisé, jusqu'à 1 Personnage adverse ayant un coût de 9 ou moins ne peut pas être épuisé jusqu'à la fin de la prochaine phase de Fin de votre adversaire.<br>[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat.",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP14-119_p2",
-        "pack_id": "622114",
-        "name": "Dracule Mihawk",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-119_p2.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-119_p2.webp?260119",
-        "cost": 9,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires"
-        ],
-        "effect": "[Votre tour] Quand ce Personnage est épuisé, jusqu'à 1 Personnage adverse ayant un coût de 9 ou moins ne peut pas être épuisé jusqu'à la fin de la prochaine phase de Fin de votre adversaire.<br>[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat.",
-        "trigger": null
+        "rarity": "SecretRare"
       }
     ]
   },
@@ -4788,29 +4302,36 @@
     "variants": [
       {
         "id": "OP14-120_p1",
-        "pack_id": "622114",
-        "name": "Crocodile",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP14-120_p1.webp?260119",
         "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP14-120_p1.webp?260119",
-        "cost": 8,
-        "attributes": [
-          "Special"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "Sept grands corsaires",
-          "Baroque Works"
-        ],
-        "effect": "[Jouée] Jusqu'à 1 Personnage adverse ayant un coût de 9 ou moins ne peut pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire. Puis, s'il y a un Personnage adverse ayant un coût de 0 ou de 8 ou plus, piochez 1 carte.<br>[En cas de KO] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte Personnage depuis votre Défausse.",
-        "trigger": null
+        "rarity": "SecretRare"
       }
     ]
+  },
+  {
+    "id": "PRB02-006_p2",
+    "pack_id": "622114",
+    "name": "Roronoa Zoro",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/PRB02-006_p2.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p2.webp?260119",
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
+    "types": [
+      "Supernovae",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Tour adverse] Si ce Personnage est épuisé par un effet d'un Personnage adverse, vous pouvez épuiser 1 autre de vos Personnages à la place.<br>[Bloqueur]",
+    "trigger": null,
+    "variants": []
   }
 ]

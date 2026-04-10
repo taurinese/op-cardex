@@ -1,5 +1,217 @@
 [
   {
+    "id": "EB02-028_p1",
+    "pack_id": "550113",
+    "name": "ポートガス・D・エース",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB02-028_p1.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.png?2602273",
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
+    "types": [
+      "アラバスタ王国",
+      "白ひげ海賊団"
+    ],
+    "effect": "【登場時】自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、自分のデッキの上から5枚を見て、コスト2のキャラカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置き、自分の手札からコスト2のキャラカード1枚までを、レストで登場させる。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-111_p2",
+    "pack_id": "550113",
+    "name": "リリス",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-111_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-111_p2.png?2602273",
+    "cost": 3,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 2,
+    "types": [
+      "科学者",
+      "エッグヘッド"
+    ],
+    "effect": "【登場時】自分のデッキの上から5枚を見て、「リリス」以外の特徴《エッグヘッド》を持つカード1枚までを手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": "【トリガー】自分のリーダーが「ベガパンク」の場合、このカードを登場させる。",
+    "variants": []
+  },
+  {
+    "id": "OP07-118_p2",
+    "pack_id": "550113",
+    "name": "サボ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-118_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-118_p2.png?2602273",
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 9000,
+    "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
+    "types": [
+      "革命軍"
+    ],
+    "effect": "【登場時】自分の手札1枚を捨てることができる：相手の、コスト5以下のキャラ1枚までとコスト3以下のキャラ1枚までを、KOする。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP09-004_p5",
+    "pack_id": "550113",
+    "name": "シャンクス",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-004_p5.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png?2602273",
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
+    "types": [
+      "四皇",
+      "赤髪海賊団"
+    ],
+    "effect": "相手のキャラすべてを、パワー-1000。<br>【速攻】(このカードは登場したターンにアタックできる)<br>",
+    "trigger": null,
+    "variants": [
+      {
+        "id": "OP09-004_p6",
+        "img_url": "../images/cardlist/card/OP09-004_p6.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png?2602273",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
+    "id": "OP09-009_p2",
+    "pack_id": "550113",
+    "name": "ベン・ベックマン",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-009_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png?2602273",
+    "cost": 7,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 7000,
+    "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
+    "types": [
+      "赤髪海賊団"
+    ],
+    "effect": "【登場時】相手のパワー6000以下のキャラ1枚までを、トラッシュに置く。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP09-118_p3",
+    "pack_id": "550113",
+    "name": "ゴール・D・ロジャー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-118_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png?2602273",
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 13000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
+    "types": [
+      "海賊王",
+      "ロジャー海賊団"
+    ],
+    "effect": "【速攻】(このカードは登場したターンにアタックできる)<br> 相手が【ブロッカー】を発動した時、自分か相手のライフが0枚の場合、自分はゲームに勝利する。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP09-119_p3",
+    "pack_id": "550113",
+    "name": "モンキー・Ｄ・ルフィ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-119_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png?2602273",
+    "cost": 9,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 10000,
+    "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
+    "types": [
+      "麦わらの一味"
+    ],
+    "effect": "【登場時】自分の場のドン‼を1枚以上ドン‼デッキに戻すことができる：カード1枚を引き、このキャラは、このターン中、【速攻】を得る。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP10-030_p2",
+    "pack_id": "550113",
+    "name": "スモーカー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-030_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.png?2602273",
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 7000,
+    "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
+    "types": [
+      "パンクハザード",
+      "海軍"
+    ],
+    "effect": "【バニッシュ】(このカードがダメージを与えた場合、トリガーは発動せずそのカードはトラッシュに置かれる)<br> 【起動メイン】自分のドン‼1枚までを、アクティブにする。その後、自分はこのターン中、キャラの効果でドン‼をアクティブにできない。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP13-001",
     "pack_id": "550113",
     "name": "モンキー・Ｄ・ルフィ",
@@ -27,29 +239,17 @@
     "variants": [
       {
         "id": "OP13-001_p2",
-        "pack_id": "550113",
-        "name": "モンキー・Ｄ・ルフィ",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP13-001_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p2.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "超新星",
-          "麦わらの一味"
-        ],
-        "effect": "【ドン‼×1】【相手のアタック時】自分のアクティブのドン‼が5枚以下の場合、自分のドン‼を任意の枚数レストにできる。レストにしたドン‼1枚につき、このリーダーか自分の特徴《麦わらの一味》を持つキャラ1枚までを、このバトル中、パワー+2000。",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP13-001_p1",
+        "img_url": "../images/cardlist/card/OP13-001_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.png?2602273",
+        "rarity": "Leader",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -80,28 +280,9 @@
     "variants": [
       {
         "id": "OP13-002_p1",
-        "pack_id": "550113",
-        "name": "ポートガス・Ｄ・エース",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP13-002_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "【相手のアタック時】【ターン1回】自分の手札1枚を捨てることができる：相手のリーダーかキャラ1枚までを、このバトル中、パワー-2000。<br>【ドン‼×1】【ターン1回】自分がダメージを受けた時か自分の元々のパワー6000以上のキャラがKOされた時、カード1枚を引く。",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -133,29 +314,9 @@
     "variants": [
       {
         "id": "OP13-003_p1",
-        "pack_id": "550113",
-        "name": "ゴール・Ｄ・ロジャー",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP13-003_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "海賊王",
-          "ロジャー海賊団"
-        ],
-        "effect": "自分の場のドン‼がある場合、自分のドン‼フェイズに置かれるドン‼1枚は、自分のリーダーに付与される。<br>自分の場のドン‼が9枚以下の場合、このリーダーのパワー-2000。",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -187,29 +348,9 @@
     "variants": [
       {
         "id": "OP13-004_p1",
-        "pack_id": "550113",
-        "name": "サボ",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP13-004_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "ドレスローザ",
-          "革命軍"
-        ],
-        "effect": "自分のライフが4枚以上の場合、このリーダーのパワー-1000。<br>【ドン‼×1】自分のコスト8以上のキャラがいる場合、自分のリーダーとキャラすべてを、パワー+1000。",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -289,27 +430,9 @@
     "variants": [
       {
         "id": "OP13-007_p1",
-        "pack_id": "550113",
-        "name": "エース＆サボ＆ルフィ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-007_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 1000,
-        "counter": 2000,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "ゴア王国"
-        ],
-        "effect": "【起動メイン】自分のリーダーかキャラ1枚に自分のアクティブのドン‼1枚を付与し、このキャラをトラッシュに置くことができる：相手のキャラ1枚までを、このターン中、パワー-3000。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -437,7 +560,16 @@
     ],
     "effect": "【登場時】自分のデッキの上から4枚を見て、コスト2以上の、特徴《アラバスタ王国》か《麦わらの一味》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-012_p1",
+        "img_url": "../images/cardlist/card/OP13-012_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-012_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-013",
@@ -540,27 +672,9 @@
     "variants": [
       {
         "id": "OP13-016_p1",
-        "pack_id": "550113",
-        "name": "モンキー・Ｄ・ガープ",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-016_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-016_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "海軍"
-        ],
-        "effect": "【登場時】自分のリーダーが「サボ」か「ポートガス・D・エース」か「モンキー・Ｄ・ルフィ」の場合、自分のデッキの上から4枚を見て、コスト3以上のカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -636,7 +750,16 @@
     ],
     "effect": "【メイン】自分のドン‼4枚をレストにできる：相手のキャラ1枚までを、このターン中、パワー-3000。その後、相手のパワー3000以下のキャラ1枚までを、KOする。<br>【カウンター】自分のリーダーを、このバトル中、パワー+3000。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-019_p1",
+        "img_url": "../images/cardlist/card/OP13-019_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP13-020",
@@ -733,27 +856,9 @@
     "variants": [
       {
         "id": "OP13-023_p1",
-        "pack_id": "550113",
-        "name": "ウタ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-023_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-023_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM"
-        ],
-        "effect": "【登場時】自分のドン‼2枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト5以上のキャラカードを登場できない。<br>【KO時】自分の手札からコスト5以下のキャラカード1枚までを、レストで登場させる。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -861,28 +966,9 @@
     "variants": [
       {
         "id": "OP13-027_p1",
-        "pack_id": "550113",
-        "name": "サンジ",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-027_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-027_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM",
-          "麦わらの一味"
-        ],
-        "effect": "【登場時】自分のドン‼2枚までを、アクティブにする。<br>【自分のターン終了時】自分のリーダーが特徴《FILM》か《麦わらの一味》を持つ場合、自分のドン‼1枚までを、アクティブにする。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -914,29 +1000,9 @@
     "variants": [
       {
         "id": "OP13-028_p1",
-        "pack_id": "550113",
-        "name": "シャンクス",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-028_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028_p1.png?2602273",
-        "cost": 10,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 12000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "FILM",
-          "四皇",
-          "赤髪海賊団"
-        ],
-        "effect": "【登場時】自分のドン‼すべてを、アクティブにする。その後、自分は、このターン中、手札からカードをプレイできない。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1019,7 +1085,16 @@
     ],
     "effect": "自分のライフが1枚以下の場合、このキャラは【ブロッカー】を得る。<br>【登場時】自分のキャラ1枚を持ち主の手札に戻すことができる：自分の手札からコスト5以下のキャラカード1枚までを、レストで登場させる。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-031_p1",
+        "img_url": "../images/cardlist/card/OP13-031_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-031_p1.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP15",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-032",
@@ -1177,7 +1252,16 @@
     ],
     "effect": "【登場時】自分のリーダーが特徴《FILM》か《麦わらの一味》を持つ場合、自分のドン‼2枚までを、アクティブにする。<br>【自分のターン終了時】このキャラをアクティブにする。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-037_p1",
+        "img_url": "../images/cardlist/card/OP13-037_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-037_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-038",
@@ -1250,7 +1334,16 @@
     ],
     "effect": "【メイン】自分のドン‼2枚をレストにできる：相手のレストのコスト7以下のキャラ2枚までは、次の相手のリフレッシュフェイズでアクティブにならない。<br>【カウンター】自分のリーダーを、このバトル中、パワー+3000。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-040_p1",
+        "img_url": "../images/cardlist/card/OP13-040_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-040_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP13-041",
@@ -1305,28 +1398,17 @@
     "variants": [
       {
         "id": "OP13-042_p1",
-        "pack_id": "550113",
-        "name": "エドワード・ニューゲート",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-042_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p1.png?2602273",
-        "cost": 10,
-        "attributes": [
-          "Special"
-        ],
-        "power": 12000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "四皇",
-          "白ひげ海賊団"
-        ],
-        "effect": "【ブロッカー】<br>【登場時】カード2枚を引き、自分の手札1枚を捨てる。その後、自分のリーダーとキャラ1枚にレストのドン‼2枚ずつまでを、付与する。",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP13-042_p2",
+        "img_url": "../images/cardlist/card/OP13-042_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p2.png?2602273",
+        "rarity": "Special",
+        "set_id": "OP15",
+        "set_label": null
       }
     ]
   },
@@ -1353,7 +1435,16 @@
     ],
     "effect": "【登場時】自分のライフが3枚以下の場合、カード2枚を引き、自分の手札1枚を捨てる。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-043_p1",
+        "img_url": "../images/cardlist/card/OP13-043_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-043_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-044",
@@ -1428,7 +1519,16 @@
     ],
     "effect": "【ダブルアタック】<br>【ターン1回】このキャラがKOされるか相手の効果で場を離れる場合、代わりに自分の手札から『白ひげ海賊団』を含む特徴を持つカード1枚を捨てることができる。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-046_p1",
+        "img_url": "../images/cardlist/card/OP13-046_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP13-047",
@@ -1557,28 +1657,9 @@
     "variants": [
       {
         "id": "OP13-051_p1",
-        "pack_id": "550113",
-        "name": "ボア・ハンコック",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-051_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-051_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "王下七武海",
-          "九蛇海賊団"
-        ],
-        "effect": "【KO時】自分のリーダーが「ボア・ハンコック」か多色の場合、カード2枚を引く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1658,27 +1739,9 @@
     "variants": [
       {
         "id": "OP13-054_p1",
-        "pack_id": "550113",
-        "name": "ヤマト",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-054_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-054_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "ワノ国"
-        ],
-        "effect": "【登場時】自分のライフが3枚以下の場合、カード2枚を引く。その後、自分のリーダーにレストのドン‼1枚までを、付与する。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1754,7 +1817,16 @@
     ],
     "effect": "【メイン】自分のドン‼1枚をレストにできる：自分のライフが1枚以下の場合、相手は、このターン中、自分のリーダーがアタックする際【ブロッカー】を発動できない。<br>【カウンター】自分のリーダーを、このバトル中、パワー+3000。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-057_p1",
+        "img_url": "../images/cardlist/card/OP13-057_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-057_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP13-058",
@@ -1904,7 +1976,16 @@
     ],
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】自分の付与されているドン‼がある場合、ドン‼デッキからドン‼1枚までを、レストで追加する。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-063_p1",
+        "img_url": "../images/cardlist/card/OP13-063_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-064",
@@ -1933,28 +2014,9 @@
     "variants": [
       {
         "id": "OP13-064_p1",
-        "pack_id": "550113",
-        "name": "ゴール・Ｄ・ロジャー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-064_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-064_p1.png?2602273",
-        "cost": 10,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 13000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "海賊王",
-          "ロジャー海賊団"
-        ],
-        "effect": "自分の、リーダーと『ロジャー海賊団』を含む特徴を持たないキャラすべては、効果が無効になる。<br>【登場時】ドン‼-3：自分のリーダーを、次の相手のエンドフェイズ終了時まで、パワー+2000。その後、相手のキャラすべてを、次の相手のエンドフェイズ終了時まで、パワー-2000。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1984,27 +2046,9 @@
     "variants": [
       {
         "id": "OP13-065_p1",
-        "pack_id": "550113",
-        "name": "シャンクス",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-065_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-065_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "ロジャー海賊団"
-        ],
-        "effect": "【登場時】自分のデッキの上から5枚を見て、「シャンクス」以外の『ロジャー海賊団』を含む特徴を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2034,27 +2078,9 @@
     "variants": [
       {
         "id": "OP13-066_p1",
-        "pack_id": "550113",
-        "name": "シルバーズ・レイリー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-066_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-066_p1.png?2602273",
-        "cost": 8,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "ロジャー海賊団"
-        ],
-        "effect": "【速攻】<br>【登場時】自分の付与されているドン‼がある場合、相手のコスト5以下のキャラ1枚までを、レストにする。その後、このターン終了時、ドン‼デッキからドン‼1枚までを、アクティブで追加する。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2185,7 +2211,16 @@
     ],
     "effect": "【登場時】自分の場のドン‼が8枚以上ある場合、相手の元々のパワー3000以下のキャラ1枚までを、KOする。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-071_p1",
+        "img_url": "../images/cardlist/card/OP13-071_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP13-072",
@@ -2210,7 +2245,16 @@
     ],
     "effect": "【登場時】自分のリーダーが『ロジャー海賊団』を含む特徴を持ち、自分の付与されているドン‼がある場合、ドン‼デッキからドン‼1枚までを、レストで追加する。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-072_p1",
+        "img_url": "../images/cardlist/card/OP13-072_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-072_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-073",
@@ -2313,26 +2357,9 @@
     "variants": [
       {
         "id": "OP13-076_p1",
-        "pack_id": "550113",
-        "name": "神避",
-        "rarity": "Rare",
-        "category": "Event",
         "img_url": "../images/cardlist/card/OP13-076_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-076_p1.png?2602273",
-        "cost": null,
-        "attributes": [],
-        "power": null,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "海賊王",
-          "ロジャー海賊団"
-        ],
-        "effect": "【メイン】自分のドン‼5枚をレストにできる：自分の付与されているドン‼がある場合、相手のキャラ1枚までを、このターン中、パワー-8000。<br>【カウンター】自分の手札1枚を捨てることができる：自分のリーダーかキャラ1枚までを、このバトル中、パワー+3000。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2408,27 +2435,9 @@
     "variants": [
       {
         "id": "OP13-079_p1",
-        "pack_id": "550113",
-        "name": "イム",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP13-079_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Unknown"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "？"
-        ],
-        "effect": "ルール上、自分はコスト2以上のイベントをデッキに入れることができず、ゲーム開始時、自分のデッキから特徴《聖地マリージョア》を持つステージカード1枚までを、登場させる。<br>【起動メイン】【ターン1回】自分の、特徴《天竜人》を持つキャラか、手札1枚をトラッシュに置くことができる：カード1枚を引く。",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -2459,53 +2468,15 @@
     "variants": [
       {
         "id": "OP13-080_p1",
-        "pack_id": "550113",
-        "name": "イーザンバロン・V・ナス寿郎聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-080_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れず、【速攻】を得る。<br>【アタック時】自分のトラッシュが10枚以上ある場合、相手のキャラ1枚までを、このターン中、パワー-2000。",
-        "trigger": null
+        "rarity": "Rare"
       },
       {
         "id": "OP13-080_p2",
-        "pack_id": "550113",
-        "name": "イーザンバロン・V・ナス寿郎聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-080_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p2.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れず、【速攻】を得る。<br>【アタック時】自分のトラッシュが10枚以上ある場合、相手のキャラ1枚までを、このターン中、パワー-2000。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2563,29 +2534,9 @@
     "variants": [
       {
         "id": "OP13-082_p1",
-        "pack_id": "550113",
-        "name": "五老星",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-082_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-082_p1.png?2602273",
-        "cost": 10,
-        "attributes": [
-          "Slash",
-          "Special"
-        ],
-        "power": 12000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "【起動メイン】自分のリーダーが「イム」の場合、自分のドン‼1枚をレストにし、自分の手札1枚を捨てることができる：自分のキャラすべてをトラッシュに置き、自分のトラッシュからパワー5000のカード名の異なる特徴《五老星》を持つキャラカード5枚までを、登場させる。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2616,53 +2567,15 @@
     "variants": [
       {
         "id": "OP13-083_p1",
-        "pack_id": "550113",
-        "name": "ジェイガルシア・サターン聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-083_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れない。<br>【登場時】自分のデッキの上から5枚を見て、特徴《五老星》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       },
       {
         "id": "OP13-083_p2",
-        "pack_id": "550113",
-        "name": "ジェイガルシア・サターン聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-083_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p2.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れない。<br>【登場時】自分のデッキの上から5枚を見て、特徴《五老星》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2693,53 +2606,15 @@
     "variants": [
       {
         "id": "OP13-084_p1",
-        "pack_id": "550113",
-        "name": "シェパード・十・ピーター聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-084_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 2000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れない。<br>【自分のターン中】自分のトラッシュが10枚以上ある場合、自分の特徴《五老星》を持つキャラすべての元々のパワーを7000にする。",
-        "trigger": null
+        "rarity": "Rare"
       },
       {
         "id": "OP13-084_p2",
-        "pack_id": "550113",
-        "name": "シェパード・十・ピーター聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-084_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p2.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 2000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れない。<br>【自分のターン中】自分のトラッシュが10枚以上ある場合、自分の特徴《五老星》を持つキャラすべての元々のパワーを7000にする。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2791,7 +2666,16 @@
     ],
     "effect": "【登場時】自分のデッキの上から3枚を見て、「シャルリア宮」以外の特徴《天竜人》を持つカード1枚までを公開し、手札に加える。その後、残りをトラッシュに置き、自分の手札1枚を捨てる。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-086_p1",
+        "img_url": "../images/cardlist/card/OP13-086_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-087",
@@ -2816,7 +2700,16 @@
     ],
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】自分のデッキの上から1枚をトラッシュに置く。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-087_p1",
+        "img_url": "../images/cardlist/card/OP13-087_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087_p1.png?2602273",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP13-088",
@@ -2870,53 +2763,15 @@
     "variants": [
       {
         "id": "OP13-089_p1",
-        "pack_id": "550113",
-        "name": "トップマン・ウォーキュリー聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-089_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れず、【ブロッカー】を得る。<br>【KO時】カード1枚を引く。",
-        "trigger": null
+        "rarity": "Rare"
       },
       {
         "id": "OP13-089_p2",
-        "pack_id": "550113",
-        "name": "トップマン・ウォーキュリー聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-089_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p2.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れず、【ブロッカー】を得る。<br>【KO時】カード1枚を引く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2974,53 +2829,15 @@
     "variants": [
       {
         "id": "OP13-091_p1",
-        "pack_id": "550113",
-        "name": "マーカス・マーズ聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-091_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れず、【ブロッカー】を得る。<br>【登場時】自分の手札1枚を捨てることができる：相手の元々のコスト5以下のキャラ1枚までを、KOする。",
-        "trigger": null
+        "rarity": "Rare"
       },
       {
         "id": "OP13-091_p2",
-        "pack_id": "550113",
-        "name": "マーカス・マーズ聖",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-091_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p2.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "天竜人",
-          "五老星"
-        ],
-        "effect": "自分のトラッシュが7枚以上ある場合、このキャラは相手の効果で場を離れず、【ブロッカー】を得る。<br>【登場時】自分の手札1枚を捨てることができる：相手の元々のコスト5以下のキャラ1枚までを、KOする。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -3047,7 +2864,16 @@
     ],
     "effect": "【登場時】自分のライフが3枚以下の場合、自分のトラッシュからコスト1の特徴《聖地マリージョア》を持つステージカード1枚までを、登場させる。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-092_p1",
+        "img_url": "../images/cardlist/card/OP13-092_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-092_p1.png?2602273",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-093",
@@ -3247,28 +3073,9 @@
     "variants": [
       {
         "id": "OP13-100_p1",
-        "pack_id": "550113",
-        "name": "ジュエリー・ボニー",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP13-100_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "ボニー海賊団"
-        ],
-        "effect": "【自分のターン中】【ターン1回】自分の【トリガー】を持つキャラが登場した時、発動できる。自分のリーダーかキャラ1枚にレストのドン‼2枚までを、付与する。",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -3479,28 +3286,17 @@
     "variants": [
       {
         "id": "OP13-108_p1",
-        "pack_id": "550113",
-        "name": "ジュエリー・ボニー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-108_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p1.png?2602273",
-        "cost": 9,
-        "attributes": [
-          "Special"
-        ],
-        "power": 10000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "ボニー海賊団"
-        ],
-        "effect": "【登場時】自分のリーダーが特徴《エッグヘッド》を持つ場合、このキャラは、このターン中、【速攻】を得る。その後、相手は自身のライフの上から1枚を、手札に加える。",
-        "trigger": "【トリガー】自分のライフが1枚以下の場合、相手のコスト7以下のキャラ1枚までを、レストにする。"
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP13-108_p2",
+        "img_url": "../images/cardlist/card/OP13-108_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p2.png?2602273",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -3557,28 +3353,9 @@
     "variants": [
       {
         "id": "OP13-110_p1",
-        "pack_id": "550113",
-        "name": "ステューシー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-110_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-110_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "CP0"
-        ],
-        "effect": "【ブロッカー】<br>【登場時】自分のリーダーが特徴《エッグヘッド》を持つ場合、自分の手札からコスト5以下の【トリガー】を持つキャラカード1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -3661,28 +3438,9 @@
     "variants": [
       {
         "id": "OP13-113_p1",
-        "pack_id": "550113",
-        "name": "リリス",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-113_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "科学者"
-        ],
-        "effect": "【登場時】自分のデッキの上から4枚を見て、「リリス」以外の【トリガー】を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": "【トリガー】このカードの【登場時】効果を発動する。"
+        "rarity": "Rare"
       }
     ]
   },
@@ -3713,28 +3471,9 @@
     "variants": [
       {
         "id": "OP13-114_p1",
-        "pack_id": "550113",
-        "name": "S-スネーク",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-114_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-114_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "セラフィム",
-          "エッグヘッド"
-        ],
-        "effect": "【登場時】/【アタック時】自分のライフの上から1枚を表向きにできる：相手のキャラ1枚までを、このターン中、パワー-2000。",
-        "trigger": "【トリガー】自分の手札1枚を捨てることができる：このカードを登場させる。"
+        "rarity": "Rare"
       }
     ]
   },
@@ -3839,107 +3578,35 @@
     "variants": [
       {
         "id": "OP13-118_p1",
-        "pack_id": "550113",
-        "name": "モンキー・Ｄ・ルフィ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-118_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "魚人島",
-          "超新星",
-          "麦わらの一味"
-        ],
-        "effect": "【ダブルアタック】<br>【登場時】自分のリーダーが多色の場合、自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト5以上のキャラカードを登場できない。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p2",
-        "pack_id": "550113",
-        "name": "モンキー・Ｄ・ルフィ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-118_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p2.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "魚人島",
-          "超新星",
-          "麦わらの一味"
-        ],
-        "effect": "【ダブルアタック】<br>【登場時】自分のリーダーが多色の場合、自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト5以上のキャラカードを登場できない。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p3",
-        "pack_id": "550113",
-        "name": "モンキー・Ｄ・ルフィ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-118_p3.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p3.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "魚人島",
-          "超新星",
-          "麦わらの一味"
-        ],
-        "effect": "【ダブルアタック】<br>【登場時】自分のリーダーが多色の場合、自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト5以上のキャラカードを登場できない。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p4",
-        "pack_id": "550113",
-        "name": "モンキー・Ｄ・ルフィ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-118_p4.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p4.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "魚人島",
-          "超新星",
-          "麦わらの一味"
-        ],
-        "effect": "【ダブルアタック】<br>【登場時】自分のリーダーが多色の場合、自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト5以上のキャラカードを登場できない。",
-        "trigger": null
+        "rarity": "SecretRare"
+      },
+      {
+        "id": "OP13-118_p5",
+        "img_url": "../images/cardlist/card/OP13-118_p5.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p5.png?2602273",
+        "rarity": "SecretRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -3969,99 +3636,35 @@
     "variants": [
       {
         "id": "OP13-119_p1",
-        "pack_id": "550113",
-        "name": "ポートガス・Ｄ・エース",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-119_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "自分のライフが3枚以下の場合、このキャラは【速攻】を得る。<br>【登場時】自分のリーダーにレストのドン‼1枚までを、付与する。その後、相手のコスト5以下のキャラ1枚までを、持ち主の手札に戻してもよい。そうした場合、相手は自身の手札からコスト4以下のキャラカード1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p2",
-        "pack_id": "550113",
-        "name": "ポートガス・Ｄ・エース",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-119_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p2.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "自分のライフが3枚以下の場合、このキャラは【速攻】を得る。<br>【登場時】自分のリーダーにレストのドン‼1枚までを、付与する。その後、相手のコスト5以下のキャラ1枚までを、持ち主の手札に戻してもよい。そうした場合、相手は自身の手札からコスト4以下のキャラカード1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p3",
-        "pack_id": "550113",
-        "name": "ポートガス・Ｄ・エース",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-119_p3.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p3.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "自分のライフが3枚以下の場合、このキャラは【速攻】を得る。<br>【登場時】自分のリーダーにレストのドン‼1枚までを、付与する。その後、相手のコスト5以下のキャラ1枚までを、持ち主の手札に戻してもよい。そうした場合、相手は自身の手札からコスト4以下のキャラカード1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p4",
-        "pack_id": "550113",
-        "name": "ポートガス・Ｄ・エース",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-119_p4.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p4.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "白ひげ海賊団"
-        ],
-        "effect": "自分のライフが3枚以下の場合、このキャラは【速攻】を得る。<br>【登場時】自分のリーダーにレストのドン‼1枚までを、付与する。その後、相手のコスト5以下のキャラ1枚までを、持ち主の手札に戻してもよい。そうした場合、相手は自身の手札からコスト4以下のキャラカード1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "SecretRare"
+      },
+      {
+        "id": "OP13-119_p5",
+        "img_url": "../images/cardlist/card/OP13-119_p5.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p5.png?2602273",
+        "rarity": "SecretRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -4092,103 +3695,35 @@
     "variants": [
       {
         "id": "OP13-120_p1",
-        "pack_id": "550113",
-        "name": "サボ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-120_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "ドレスローザ",
-          "革命軍"
-        ],
-        "effect": "【ブロッカー】<br>【起動メイン】【ターン1回】自分のキャラ1枚までを、次の相手のターン終了時まで、コスト+2。その後、自分のリーダーにレストのドン‼1枚までを、付与する。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p2",
-        "pack_id": "550113",
-        "name": "サボ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-120_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p2.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "ドレスローザ",
-          "革命軍"
-        ],
-        "effect": "【ブロッカー】<br>【起動メイン】【ターン1回】自分のキャラ1枚までを、次の相手のターン終了時まで、コスト+2。その後、自分のリーダーにレストのドン‼1枚までを、付与する。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p3",
-        "pack_id": "550113",
-        "name": "サボ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-120_p3.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p3.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "ドレスローザ",
-          "革命軍"
-        ],
-        "effect": "【ブロッカー】<br>【起動メイン】【ターン1回】自分のキャラ1枚までを、次の相手のターン終了時まで、コスト+2。その後、自分のリーダーにレストのドン‼1枚までを、付与する。",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p4",
-        "pack_id": "550113",
-        "name": "サボ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP13-120_p4.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p4.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "ドレスローザ",
-          "革命軍"
-        ],
-        "effect": "【ブロッカー】<br>【起動メイン】【ターン1回】自分のキャラ1枚までを、次の相手のターン終了時まで、コスト+2。その後、自分のリーダーにレストのドン‼1枚までを、付与する。",
-        "trigger": null
+        "rarity": "SecretRare"
+      },
+      {
+        "id": "OP13-120_p5",
+        "img_url": "../images/cardlist/card/OP13-120_p5.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p5.png?2602273",
+        "rarity": "SecretRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   }

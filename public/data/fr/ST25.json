@@ -1,5 +1,30 @@
 [
   {
+    "id": "OP09-042_p2",
+    "pack_id": "622025",
+    "name": "Baggy",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/OP09-042_p2.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Quatre Empereurs",
+      "Cross Guild"
+    ],
+    "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 5 de vos cartes DON!! et défausser 1 carte de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Cross Guild} de votre main.",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "OP09-043_r1",
     "pack_id": "622025",
     "name": "Alvida",
@@ -169,6 +194,28 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} ou incluant «Baroque Works» dans son type autre que [Mr 3 (Galdino)] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP09-057_p1",
+    "pack_id": "622025",
+    "name": "Cross Guild",
+    "rarity": "Rare",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP09-057_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Cross Guild"
+    ],
+    "effect": "[Principale] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
     "variants": []
   },
   {

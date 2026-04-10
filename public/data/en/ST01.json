@@ -46,7 +46,24 @@
     ],
     "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
     "trigger": "[Trigger] Play this card.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-002_p1",
+        "img_url": "../images/cardlist/card/ST01-002_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-002_p2",
+        "img_url": "../images/cardlist/card/ST01-002_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002_p2.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST01-003",
@@ -95,7 +112,24 @@
     ],
     "effect": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-004_p2",
+        "img_url": "../images/cardlist/card/ST01-004_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p2.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-004_p1",
+        "img_url": "../images/cardlist/card/ST01-004_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST01-005",
@@ -120,7 +154,24 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-005_p1",
+        "img_url": "../images/cardlist/card/ST01-005_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-005_p2",
+        "img_url": "../images/cardlist/card/ST01-005_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-005_p2.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST01-006",
@@ -145,7 +196,72 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-006_p1",
+        "img_url": "../images/cardlist/card/ST01-006_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-006_p2",
+        "img_url": "../images/cardlist/card/ST01-006_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p2.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-006_p3",
+        "img_url": "../images/cardlist/card/ST01-006_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p3.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-006_p4",
+        "img_url": "../images/cardlist/card/ST01-006_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p4.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-006_p6",
+        "img_url": "../images/cardlist/card/ST01-006_p6.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p6.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST01-006_p7",
+        "img_url": "../images/cardlist/card/ST01-006_p7.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p7.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST01-006_p8",
+        "img_url": "../images/cardlist/card/ST01-006_p8.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_p8.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST01-006_r1",
+        "img_url": "../images/cardlist/card/ST01-006_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-006_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST01-007",
@@ -169,7 +285,48 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-007_p1",
+        "img_url": "../images/cardlist/card/ST01-007_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-007_p3",
+        "img_url": "../images/cardlist/card/ST01-007_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p3.png?251017",
+        "rarity": "TreasureRare",
+        "set_id": "OP06",
+        "set_label": "OP-06"
+      },
+      {
+        "id": "ST01-007_p2",
+        "img_url": "../images/cardlist/card/ST01-007_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST01-007_p4",
+        "img_url": "../images/cardlist/card/ST01-007_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p4.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST01-007_p5",
+        "img_url": "../images/cardlist/card/ST01-007_p5.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-007_p5.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST01-008",
@@ -193,7 +350,24 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-008_p1",
+        "img_url": "../images/cardlist/card/ST01-008_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-008_p2",
+        "img_url": "../images/cardlist/card/ST01-008_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-008_p2.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST01-009",
@@ -217,7 +391,16 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-009_p1",
+        "img_url": "../images/cardlist/card/ST01-009_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-009_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST01-010",
@@ -241,7 +424,24 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-010_p1",
+        "img_url": "../images/cardlist/card/ST01-010_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-010_p2",
+        "img_url": "../images/cardlist/card/ST01-010_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-010_p2.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST01-011",
@@ -265,7 +465,48 @@
     ],
     "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-011_p1",
+        "img_url": "../images/cardlist/card/ST01-011_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p1.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-011_p3",
+        "img_url": "../images/cardlist/card/ST01-011_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p3.png?251017",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-011_p4",
+        "img_url": "../images/cardlist/card/ST01-011_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p4.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST01-011_r1",
+        "img_url": "../images/cardlist/card/ST01-011_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST01-011_p2",
+        "img_url": "../images/cardlist/card/ST01-011_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-011_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST01-012",
@@ -290,7 +531,56 @@
     ],
     "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-012_p1",
+        "img_url": "../images/cardlist/card/ST01-012_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p1.png?251017",
+        "rarity": "Special",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      },
+      {
+        "id": "ST01-012_p2",
+        "img_url": "../images/cardlist/card/ST01-012_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p2.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "ST01-012_p3",
+        "img_url": "../images/cardlist/card/ST01-012_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p3.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "ST01-012_p4",
+        "img_url": "../images/cardlist/card/ST01-012_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST01-012_p5",
+        "img_url": "../images/cardlist/card/ST01-012_p5.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p5.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST01-012_p6",
+        "img_url": "../images/cardlist/card/ST01-012_p6.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p6.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST01-013",
@@ -315,7 +605,24 @@
     ],
     "effect": "[DON!! x1] This Character gains +1000 power.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-013_p1",
+        "img_url": "../images/cardlist/card/ST01-013_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p1.png?251017",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST01-013_p2",
+        "img_url": "../images/cardlist/card/ST01-013_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-013_p2.png?251017",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST01-014",
@@ -338,7 +645,32 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
     "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-014_p2",
+        "img_url": "../images/cardlist/card/ST01-014_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST01-014_p3",
+        "img_url": "../images/cardlist/card/ST01-014_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST01-014_r1",
+        "img_url": "../images/cardlist/card/ST01-014_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-014_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST01-015",
@@ -361,7 +693,16 @@
     ],
     "effect": "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST01-015_p1",
+        "img_url": "../images/cardlist/card/ST01-015_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-015_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST01-016",

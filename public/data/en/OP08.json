@@ -1,5 +1,79 @@
 [
   {
+    "id": "OP02-013_p3",
+    "pack_id": "569108",
+    "name": "Portgas.D.Ace",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-013_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-112_p4",
+    "pack_id": "569108",
+    "name": "Charlotte Pudding",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-112_p4.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p4.png?251017",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or {Big Mom Pirates} type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP07-109_p2",
+    "pack_id": "569108",
+    "name": "Monkey.D.Luffy",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-109_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-109_p2.png?251017",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "The Four Emperors",
+      "Egghead",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Activate: Main] You may trash this Character: If you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, draw 1 card.",
+    "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "variants": []
+  },
+  {
     "id": "OP08-001",
     "pack_id": "569108",
     "name": "Tony Tony.Chopper",
@@ -27,29 +101,17 @@
     "variants": [
       {
         "id": "OP08-001_p1",
-        "pack_id": "569108",
-        "name": "Tony Tony.Chopper",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-001_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p1.png?251017",
-        "colors": [
-          "Red",
-          "Green"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "Animal",
-          "Drum Kingdom",
-          "Straw Hat Crew"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] Give up to 3 of your {Animal} or {Drum Kingdom} type Characters up to 1 rested DON!! card each.",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-001_p2",
+        "img_url": "../images/cardlist/card/OP08-001_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png?251017",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": "EB-02"
       }
     ]
   },
@@ -79,27 +141,17 @@
     "variants": [
       {
         "id": "OP08-002_p1",
-        "pack_id": "569108",
-        "name": "Marco",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-002_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p1.png?251017",
-        "colors": [
-          "Red",
-          "Blue"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "Whitebeard Pirates"
-        ],
-        "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-002_p2",
+        "img_url": "../images/cardlist/card/OP08-002_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png?251017",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": "EB-02"
       }
     ]
   },
@@ -227,28 +279,9 @@
     "variants": [
       {
         "id": "OP08-007_p1",
-        "pack_id": "569108",
-        "name": "Tony Tony.Chopper",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-007_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-007_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "Animal",
-          "Drum Kingdom",
-          "Straw Hat Crew"
-        ],
-        "effect": "[Your Turn] [On Play]/[When Attacking] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with 4000 power or less rested. Then, place the rest at the bottom of your deck in any order.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -449,26 +482,9 @@
     "variants": [
       {
         "id": "OP08-015_p1",
-        "pack_id": "569108",
-        "name": "Dr.Kureha",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-015_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-015_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 1,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "types": [
-          "Drum Kingdom"
-        ],
-        "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Tony Tony.Chopper] or {Drum Kingdom} type card other than [Dr.Kureha] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -611,26 +627,17 @@
     "variants": [
       {
         "id": "OP08-021_p1",
-        "pack_id": "569108",
-        "name": "Carrot",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-021_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p1.png?251017",
-        "colors": [
-          "Green"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "Minks"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] If you have a {Minks} type Character, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-021_p2",
+        "img_url": "../images/cardlist/card/OP08-021_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png?251017",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": "EB-02"
       }
     ]
   },
@@ -684,26 +691,25 @@
     "variants": [
       {
         "id": "OP08-023_p1",
-        "pack_id": "569108",
-        "name": "Carrot",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-023_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_p1.png?251017",
-        "colors": [
-          "Green"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "types": [
-          "Minks"
-        ],
-        "effect": "[On Play]/[When Attacking] Up to 1 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-023_p2",
+        "img_url": "../images/cardlist/card/OP08-023_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_p2.png?251017",
+        "rarity": "Special",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP08-023_r1",
+        "img_url": "../images/cardlist/card/OP08-023_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_r1.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
       }
     ]
   },
@@ -878,26 +884,9 @@
     "variants": [
       {
         "id": "OP08-030_p1",
-        "pack_id": "569108",
-        "name": "Pedro",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-030_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-030_p1.png?251017",
-        "colors": [
-          "Green"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "types": [
-          "Minks"
-        ],
-        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Choose one:<br>• Rest up to 1 of your opponent's DON!! cards.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1208,27 +1197,9 @@
     "variants": [
       {
         "id": "OP08-043_p1",
-        "pack_id": "569108",
-        "name": "Edward.Newgate",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-043_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-043_p1.png?251017",
-        "colors": [
-          "Blue"
-        ],
-        "cost": 10,
-        "attributes": [
-          "Special"
-        ],
-        "power": 12000,
-        "counter": null,
-        "types": [
-          "The Four Emperors",
-          "Whitebeard Pirates"
-        ],
-        "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\" and you have 2 or less Life cards, select all of your opponent's Characters on their field. Until the end of your opponent's next turn, none of the selected Characters can attack unless your opponent trashes 2 cards from their hand whenever they attack.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1450,26 +1421,17 @@
     "variants": [
       {
         "id": "OP08-052_p1",
-        "pack_id": "569108",
-        "name": "Portgas.D.Ace",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-052_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-052_p1.png?251017",
-        "colors": [
-          "Blue"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "types": [
-          "Whitebeard Pirates"
-        ],
-        "effect": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 4 or less. Then, place the rest at the top or bottom of your deck.",
-        "trigger": null
+        "rarity": "Rare"
+      },
+      {
+        "id": "OP08-052_p2",
+        "img_url": "../images/cardlist/card/OP08-052_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-052_p2.png?251017",
+        "rarity": "Rare",
+        "set_id": "OP10",
+        "set_label": "OP-10"
       }
     ]
   },
@@ -1587,27 +1549,17 @@
     "variants": [
       {
         "id": "OP08-057_p1",
-        "pack_id": "569108",
-        "name": "King",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-057_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png?251017",
-        "colors": [
-          "Purple",
-          "Black"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "Animal Kingdom Pirates"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:<br>• If you have 5 or less cards in your hand, draw 1 card.<br>• Give up to 1 of your opponent's Characters −2 cost during this turn.",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-057_p2",
+        "img_url": "../images/cardlist/card/OP08-057_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png?251017",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": "EB-02"
       }
     ]
   },
@@ -1637,27 +1589,17 @@
     "variants": [
       {
         "id": "OP08-058_p1",
-        "pack_id": "569108",
-        "name": "Charlotte Pudding",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-058_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p1.png?251017",
-        "colors": [
-          "Purple",
-          "Yellow"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "Big Mom Pirates"
-        ],
-        "effect": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-058_p2",
+        "img_url": "../images/cardlist/card/OP08-058_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png?251017",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": "EB-02"
       }
     ]
   },
@@ -1756,7 +1698,24 @@
     ],
     "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Big Mom Pirates} type, play up to 1 [Charlotte Katakuri] from your hand with a cost of 3 or more that is equal to or less than the number of DON!! cards on your opponent's field.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-062_p1",
+        "img_url": "../images/cardlist/card/OP08-062_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-062_p1.png?251017",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP08-062_p2",
+        "img_url": "../images/cardlist/card/OP08-062_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-062_p2.png?251017",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP08-063",
@@ -1879,26 +1838,25 @@
     "variants": [
       {
         "id": "OP08-067_p1",
-        "pack_id": "569108",
-        "name": "Charlotte Pudding",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-067_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_p1.png?251017",
-        "colors": [
-          "Purple"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "types": [
-          "Big Mom Pirates"
-        ],
-        "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it.",
-        "trigger": null
+        "rarity": "Rare"
+      },
+      {
+        "id": "OP08-067_r1",
+        "img_url": "../images/cardlist/card/OP08-067_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_r1.png?251017",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP08-067_p2",
+        "img_url": "../images/cardlist/card/OP08-067_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-067_p2.png?251017",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -1952,27 +1910,9 @@
     "variants": [
       {
         "id": "OP08-069_p1",
-        "pack_id": "569108",
-        "name": "Charlotte Linlin",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-069_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-069_p1.png?251017",
-        "colors": [
-          "Purple"
-        ],
-        "cost": 9,
-        "attributes": [
-          "Special"
-        ],
-        "power": 9000,
-        "counter": null,
-        "types": [
-          "Former Rocks Pirates",
-          "Big Mom Pirates"
-        ],
-        "effect": "[On Play] DON!! −1, You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 of your opponent's Characters with a cost of 6 or less to the top or bottom of your opponent's Life cards face-up.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2097,26 +2037,17 @@
     "variants": [
       {
         "id": "OP08-074_p1",
-        "pack_id": "569108",
-        "name": "Black Maria",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-074_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-074_p1.png?251017",
-        "colors": [
-          "Purple"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 2000,
-        "counter": 2000,
-        "types": [
-          "Animal Kingdom Pirates"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] If you have no other [Black Maria] Characters, add up to 5 DON!! cards from your DON!! deck and rest them. Then, at the end of this turn, return DON!! cards from your field to your DON!! deck until you have the same number of DON!! cards on your field as your opponent.",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-074_r1",
+        "img_url": "../images/cardlist/card/OP08-074_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-074_r1.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
       }
     ]
   },
@@ -2163,7 +2094,24 @@
     ],
     "effect": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-076_p1",
+        "img_url": "../images/cardlist/card/OP08-076_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076_p1.png?251017",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP08-076_r1",
+        "img_url": "../images/cardlist/card/OP08-076_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-076_r1.png?251017",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP08-077",
@@ -2239,27 +2187,9 @@
     "variants": [
       {
         "id": "OP08-079_p1",
-        "pack_id": "569108",
-        "name": "Kaido",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-079_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-079_p1.png?251017",
-        "colors": [
-          "Black"
-        ],
-        "cost": 9,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 9000,
-        "counter": null,
-        "types": [
-          "Former Rocks Pirates",
-          "Animal Kingdom Pirates"
-        ],
-        "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: If this Character was played on this turn, trash up to 1 of your opponent's Characters with a cost of 7 or less. Then, your opponent trashes 1 card from their hand.",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2288,26 +2218,9 @@
     "variants": [
       {
         "id": "OP08-080_p1",
-        "pack_id": "569108",
-        "name": "Queen",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-080_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-080_p1.png?251017",
-        "colors": [
-          "Black"
-        ],
-        "cost": 1,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "types": [
-          "Animal Kingdom Pirates"
-        ],
-        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Queen] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -2409,26 +2322,17 @@
     "variants": [
       {
         "id": "OP08-084_p1",
-        "pack_id": "569108",
-        "name": "Jack",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-084_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p1.png?251017",
-        "colors": [
-          "Black"
-        ],
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "types": [
-          "Animal Kingdom Pirates"
-        ],
-        "effect": "This Character gains +4 cost.<br>[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
-        "trigger": null
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-084_p2",
+        "img_url": "../images/cardlist/card/OP08-084_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p2.png?251017",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -2505,7 +2409,24 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-087_p1",
+        "img_url": "../images/cardlist/card/OP08-087_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-087_p1.png?251017",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP08-087_r1",
+        "img_url": "../images/cardlist/card/OP08-087_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-087_r1.png?251017",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP08-088",
@@ -2772,28 +2693,17 @@
     "variants": [
       {
         "id": "OP08-098_p1",
-        "pack_id": "569108",
-        "name": "Kalgara",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/OP08-098_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p1.png?251017",
-        "colors": [
-          "Yellow"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 5000,
-        "counter": null,
-        "types": [
-          "Jaya",
-          "Sky Island",
-          "Shandian Warrior"
-        ],
-        "effect": "[DON!! x1] [When Attacking] Play up to 1 {Shandian Warrior} type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.",
-        "trigger": null
+        "rarity": "Leader"
+      },
+      {
+        "id": "OP08-098_p2",
+        "img_url": "../images/cardlist/card/OP08-098_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png?251017",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": "EB-02"
       }
     ]
   },
@@ -2821,7 +2731,24 @@
     ],
     "effect": "-",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-099_p1",
+        "img_url": "../images/cardlist/card/OP08-099_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-099_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP08-099_r1",
+        "img_url": "../images/cardlist/card/OP08-099_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-099_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP08-100",
@@ -2971,27 +2898,9 @@
     "variants": [
       {
         "id": "OP08-105_p1",
-        "pack_id": "569108",
-        "name": "Jewelry Bonney",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-105_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-105_p1.png?251017",
-        "colors": [
-          "Yellow"
-        ],
-        "cost": 3,
-        "attributes": [
-          "Special"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "types": [
-          "Egghead",
-          "Bonney Pirates"
-        ],
-        "effect": "[DON!! x1] [Your Turn] [Once Per Turn] When a card is removed from your opponent's Life cards, draw 2 cards and trash 1 card from your hand.",
-        "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand."
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -3021,27 +2930,17 @@
     "variants": [
       {
         "id": "OP08-106_p1",
-        "pack_id": "569108",
-        "name": "Nami",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-106_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.png?251017",
-        "colors": [
-          "Yellow"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": 1000,
-        "types": [
-          "Egghead",
-          "Straw Hat Crew"
-        ],
-        "effect": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card.",
-        "trigger": "[Trigger] Activate this card's [On Play] effect."
+        "rarity": "SuperRare"
+      },
+      {
+        "id": "OP08-106_p2",
+        "img_url": "../images/cardlist/card/OP08-106_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p2.png?251017",
+        "rarity": "Special",
+        "set_id": "OP09",
+        "set_label": "OP-09"
       }
     ]
   },
@@ -3146,27 +3045,33 @@
     "variants": [
       {
         "id": "OP08-110_p1",
-        "pack_id": "569108",
-        "name": "Wyper",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-110_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p1.png?251017",
-        "colors": [
-          "Yellow"
-        ],
-        "cost": 4,
-        "attributes": [
-          "Ranged"
-        ],
-        "power": 5000,
-        "counter": 2000,
-        "types": [
-          "Sky Island",
-          "Shandian Warrior"
-        ],
-        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
-        "trigger": null
+        "rarity": "Rare"
+      },
+      {
+        "id": "OP08-110_p2",
+        "img_url": "../images/cardlist/card/OP08-110_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p2.png?251017",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP08-110_p3",
+        "img_url": "../images/cardlist/card/OP08-110_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p3.png?251017",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP08-110_p4",
+        "img_url": "../images/cardlist/card/OP08-110_p4.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-110_p4.png?251017",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -3221,27 +3126,9 @@
     "variants": [
       {
         "id": "OP08-112_p1",
-        "pack_id": "569108",
-        "name": "S-Snake",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-112_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-112_p1.png?251017",
-        "colors": [
-          "Yellow"
-        ],
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "types": [
-          "Egghead",
-          "Seraphim"
-        ],
-        "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 6 or less other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn.",
-        "trigger": "[Trigger] Activate this card's [On Play] effect."
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -3291,7 +3178,7 @@
       "Egghead",
       "Seraphim"
     ],
-    "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by &lt;Slash&gt; attribute cards and gains +2000 power.",
+    "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +2000 power.",
     "trigger": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
     "variants": []
   },
@@ -3389,56 +3276,30 @@
     "variants": [
       {
         "id": "OP08-118_p1",
-        "pack_id": "569108",
-        "name": "Silvers Rayleigh",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-118_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_p1.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 8,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "types": [
-          "Former Roger Pirates"
-        ],
-        "effect": "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character −3000 power and the other −2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
-        "trigger": null
+        "rarity": "SecretRare"
       },
       {
         "id": "OP08-118_p2",
-        "pack_id": "569108",
-        "name": "Silvers Rayleigh",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-118_p2.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_p2.png?251017",
-        "colors": [
-          "Red"
-        ],
-        "cost": 8,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "types": [
-          "Former Roger Pirates"
-        ],
-        "effect": "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character −3000 power and the other −2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
-        "trigger": null
+        "rarity": "SecretRare"
+      },
+      {
+        "id": "OP08-118_r1",
+        "img_url": "../images/cardlist/card/OP08-118_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-118_r1.png?251017",
+        "rarity": "SecretRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
       }
     ]
   },
   {
     "id": "OP08-119",
     "pack_id": "569108",
-    "name": "Kaido &amp; Linlin",
+    "name": "Kaido & Linlin",
     "rarity": "SecretRare",
     "category": "Character",
     "img_url": "../images/cardlist/card/OP08-119.png?251017",
@@ -3463,30 +3324,108 @@
     "variants": [
       {
         "id": "OP08-119_p1",
-        "pack_id": "569108",
-        "name": "Kaido &amp; Linlin",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/OP08-119_p1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-119_p1.png?251017",
-        "colors": [
-          "Purple"
-        ],
-        "cost": 10,
-        "attributes": [
-          "Strike",
-          "Special"
-        ],
-        "power": 12000,
-        "counter": null,
-        "types": [
-          "The Four Emperors",
-          "Animal Kingdom Pirates",
-          "Big Mom Pirates"
-        ],
-        "effect": "[When Attacking] DON!! −10: K.O. all Characters other than this Character. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash up to 1 card from the top of your opponent's Life cards.",
-        "trigger": null
+        "rarity": "SecretRare"
       }
     ]
+  },
+  {
+    "id": "ST02-007_p2",
+    "pack_id": "569108",
+    "name": "Jewelry Bonney",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST02-007_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST03-004_p1",
+    "pack_id": "569108",
+    "name": "Gecko Moria",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST03-004_p1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-004_p1.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST04-005_p1",
+    "pack_id": "569108",
+    "name": "Queen",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST04-005_p1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p1.png?251017",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST06-006_p2",
+    "pack_id": "569108",
+    "name": "Tashigi",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST06-006_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p2.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "trigger": null,
+    "variants": []
   }
 ]

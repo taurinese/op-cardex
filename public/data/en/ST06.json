@@ -141,7 +141,32 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-006_p2",
+        "img_url": "../images/cardlist/card/ST06-006_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p2.png?251017",
+        "rarity": "Special",
+        "set_id": "OP08",
+        "set_label": "OP-08"
+      },
+      {
+        "id": "ST06-006_p1",
+        "img_url": "../images/cardlist/card/ST06-006_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "ST06-006_p3",
+        "img_url": "../images/cardlist/card/ST06-006_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-006_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST06-007",
@@ -189,7 +214,24 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-008_p1",
+        "img_url": "../images/cardlist/card/ST06-008_p1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-008_p1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "ST06-008_r1",
+        "img_url": "../images/cardlist/card/ST06-008_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-008_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "ST06-009",
@@ -237,7 +279,32 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-010_p2",
+        "img_url": "../images/cardlist/card/ST06-010_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST06-010_p3",
+        "img_url": "../images/cardlist/card/ST06-010_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST06-010_r1",
+        "img_url": "../images/cardlist/card/ST06-010_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-010_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST06-011",
@@ -331,7 +398,32 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST06-014_p2",
+        "img_url": "../images/cardlist/card/ST06-014_p2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p2.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST06-014_p3",
+        "img_url": "../images/cardlist/card/ST06-014_p3.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_p3.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "ST06-014_r1",
+        "img_url": "../images/cardlist/card/ST06-014_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-014_r1.png?251017",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "ST06-015",

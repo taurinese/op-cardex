@@ -1,5 +1,30 @@
 [
   {
+    "id": "EB01-023_p2",
+    "pack_id": "550204",
+    "name": "エドワード・ウィーブル",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-023_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-023_p2.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "王下七武海"
+    ],
+    "effect": "【登場時】カード1枚を引く。",
+    "trigger": null,
+    "variants": []
+  },
+  {
     "id": "EB04-001",
     "pack_id": "550204",
     "name": "ジュエリー・ボニー",
@@ -27,29 +52,9 @@
     "variants": [
       {
         "id": "EB04-001_p1",
-        "pack_id": "550204",
-        "name": "ジュエリー・ボニー",
-        "rarity": "Leader",
-        "category": "Leader",
         "img_url": "../images/cardlist/card/EB04-001_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-001_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Special"
-        ],
-        "power": 5000,
-        "counter": null,
-        "colors": [
-          "Red",
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "ボニー海賊団"
-        ],
-        "effect": "【相手のターン中】自分のライフが1枚以下の場合、このリーダーのパワー+2000。<br>【起動メイン】【ターン1回】相手のキャラ1枚までを、このターン中、パワー-1000。その後、自分のライフが2枚以上の場合、自分のライフの上から1枚を手札に加えることができる。",
-        "trigger": null
+        "rarity": "Leader"
       }
     ]
   },
@@ -80,28 +85,9 @@
     "variants": [
       {
         "id": "EB04-002_p1",
-        "pack_id": "550204",
-        "name": "ジュエリー・ボニー",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-002_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-002_p1.png?2602273",
-        "cost": 1,
-        "attributes": [
-          "Special"
-        ],
-        "power": 2000,
-        "counter": 1000,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "ボニー海賊団"
-        ],
-        "effect": "【登場時】自分のデッキの上から4枚を見て、「ジュエリー・ボニー」以外の特徴《エッグヘッド》か《麦わらの一味》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -133,29 +119,9 @@
     "variants": [
       {
         "id": "EB04-003_p1",
-        "pack_id": "550204",
-        "name": "スモーカー＆たしぎ",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-003_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-003_p1.png?2602273",
-        "cost": 8,
-        "attributes": [
-          "Slash",
-          "Special"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "パンクハザード",
-          "海軍"
-        ],
-        "effect": "【速攻】(このカードは登場したターンにアタックできる)<br>【相手のターン中】自分の特徴《海軍》を持つリーダーを、元々のパワー7000にする。",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -263,28 +229,9 @@
     "variants": [
       {
         "id": "EB04-007_p1",
-        "pack_id": "550204",
-        "name": "ロロノア・ゾロ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-007_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-007_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Red"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "麦わらの一味"
-        ],
-        "effect": "【登場時】自分のリーダーを、次の相手のエンドフェイズ終了時まで、パワー+2000。<br>【起動メイン】【ターン1回】相手のパワー8000以上のキャラがいる場合、このキャラは、このターン中、【速攻：キャラ】を得る。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -410,28 +357,9 @@
     "variants": [
       {
         "id": "EB04-012_p1",
-        "pack_id": "550204",
-        "name": "菊之丞",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-012_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-012_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "ワノ国",
-          "赤鞘九人男"
-        ],
-        "effect": "【起動メイン】【ターン1回】このキャラが登場したターンの場合、自分の特徴《ワノ国》を持つリーダーを、アクティブにする。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -461,27 +389,9 @@
     "variants": [
       {
         "id": "EB04-013_p1",
-        "pack_id": "550204",
-        "name": "キャロット",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-013_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-013_p1.png?2602273",
-        "cost": 8,
-        "attributes": [
-          "Special"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "ミンク族"
-        ],
-        "effect": "【登場時】自分のリーダーが特徴《ミンク族》を持つ場合、自分の特徴《ミンク族》を持つキャラ2枚までとリーダーを、アクティブにする。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -616,28 +526,9 @@
     "variants": [
       {
         "id": "EB04-018_p1",
-        "pack_id": "550204",
-        "name": "メガロ",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-018_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-018_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Wisdom"
-        ],
-        "power": 4000,
-        "counter": 2000,
-        "colors": [
-          "Green"
-        ],
-        "block_number": 4,
-        "types": [
-          "動物",
-          "魚人島"
-        ],
-        "effect": "【登場時】このキャラをレストにできる：相手のレストのパワー8000以下のキャラ1枚までを、KOする。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -741,28 +632,9 @@
     "variants": [
       {
         "id": "EB04-022_p1",
-        "pack_id": "550204",
-        "name": "イッショウ",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-022_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-022_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "ドレスローザ",
-          "海軍"
-        ],
-        "effect": "【登場時】自分の手札2枚を捨てることができる：相手の手札が6枚以上ある場合、相手は自身の手札2枚を好きな順番でデッキの下に置く。<br>【ドン‼×1】【アタック時】自分の手札1枚を捨てることができる：相手のキャラ1枚までを、このターン中、パワー-2000。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -789,7 +661,16 @@
     ],
     "effect": "【ダブルアタック】(このカードが与えるダメージは2になる)<br>【登場時】自分のアクティブのリーダーを、このターン中、パワー-5000できる：カード2枚を引く。",
     "trigger": null,
-    "variants": []
+    "variants": [
+      {
+        "id": "EB04-023_p1",
+        "img_url": "../images/cardlist/card/EB04-023_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-023_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "EB04-024",
@@ -842,27 +723,9 @@
     "variants": [
       {
         "id": "EB04-025_p1",
-        "pack_id": "550204",
-        "name": "ネフェルタリ・ビビ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-025_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-025_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Blue"
-        ],
-        "block_number": 4,
-        "types": [
-          "アラバスタ王国"
-        ],
-        "effect": "【登場時】自分の手札から「ネフェルタリ・ビビ」以外のコスト8以下の特徴《アラバスタ王国》を持つキャラカード1枚までを、登場させる。その後、相手は自身の手札1枚をデッキの下に置く。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -939,7 +802,16 @@
     ],
     "effect": "【メイン】自分の手札1枚を捨てることができる：自分のリーダーが特徴《海軍》を持つ場合、相手のパワー10000以下のキャラ2枚までは、次の相手のエンドフェイズ終了時まで、アタックできない。",
     "trigger": "【トリガー】コスト5以下のキャラ1枚までを、持ち主の手札に戻す。",
-    "variants": []
+    "variants": [
+      {
+        "id": "EB04-028_p1",
+        "img_url": "../images/cardlist/card/EB04-028_p1.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-028_p1.png?2602273",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "EB04-029",
@@ -1018,28 +890,9 @@
     "variants": [
       {
         "id": "EB04-031_p1",
-        "pack_id": "550204",
-        "name": "キング",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-031_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-031_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special"
-        ],
-        "power": 7000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "ルナーリア族",
-          "百獣海賊団"
-        ],
-        "effect": "このキャラがKOされる場合、代わりに自分の場のドン‼1枚をドン‼デッキに戻すことができる。<br>【起動メイン】【ターン1回】自分のリーダーが特徴《百獣海賊団》を持ち、自分のキャラの他の「キング」がいない場合、ドン‼デッキからドン‼1枚までをアクティブで追加し、さらに1枚までをレストで追加する。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1173,27 +1026,9 @@
     "variants": [
       {
         "id": "EB04-036_p1",
-        "pack_id": "550204",
-        "name": "フォクシー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-036_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-036_p1.png?2602273",
-        "cost": 8,
-        "attributes": [
-          "Special"
-        ],
-        "power": 9000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "フォクシー海賊団"
-        ],
-        "effect": "【登場時】ドン‼-1：自分のリーダーが特徴《フォクシー海賊団》を持つ場合、カード2枚を引き、自分の手札1枚を捨てる。その後、相手のコスト9以下のキャラ1枚までを、レストにする。<br>【起動メイン】【ターン1回】ドン‼デッキからドン‼1枚までを、レストで追加する。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1250,29 +1085,9 @@
     "variants": [
       {
         "id": "EB04-038_p1",
-        "pack_id": "550204",
-        "name": "ロシナンテ＆ロー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-038_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-038_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Special",
-          "Wisdom"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "海軍",
-          "ドンキホーテ海賊団"
-        ],
-        "effect": "ルール上、このカードはカード名を「トラファルガー・ロー」と「ドンキホーテ・ロシナンテ」としても扱う。<br>【ブロッカー】<br>【登場時】自分の場のドン‼が相手の場のドン‼の枚数以下の場合、カード1枚を引く。その後、ドン!!デッキからドン!!1枚までを、アクティブで追加する。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1303,28 +1118,9 @@
     "variants": [
       {
         "id": "EB04-039_p1",
-        "pack_id": "550204",
-        "name": "ユースタス・キッド",
-        "rarity": "Special",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-039_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-039_p1.png?2602273",
-        "cost": 7,
-        "attributes": [
-          "Special"
-        ],
-        "power": 8000,
-        "counter": null,
-        "colors": [
-          "Purple"
-        ],
-        "block_number": 4,
-        "types": [
-          "超新星",
-          "キッド海賊団"
-        ],
-        "effect": "【登場時】ドン‼デッキからドン‼1枚までを、アクティブで追加する。<br>【起動メイン】このキャラをトラッシュに置くことができる：自分の手札からコスト5以下の特徴《キッド海賊団》を持つキャラカード1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "Special"
       }
     ]
   },
@@ -1427,28 +1223,9 @@
     "variants": [
       {
         "id": "EB04-043_p1",
-        "pack_id": "550204",
-        "name": "カク",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-043_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-043_p1.png?2602273",
-        "cost": 3,
-        "attributes": [
-          "Slash"
-        ],
-        "power": 4000,
-        "counter": 2000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "CP0"
-        ],
-        "effect": "【ターン1回】自分の元々のコスト5以下の黒のキャラが相手の効果でKOされる場合、代わりに自分のトラッシュからカード3枚を好きな順番でデッキの下に置くことができる。<br>【登場時】自分のデッキの上から2枚をトラッシュに置く。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1479,53 +1256,15 @@
     "variants": [
       {
         "id": "EB04-044_p1",
-        "pack_id": "550204",
-        "name": "コビー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-044_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-044_p1.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "海軍",
-          "SWORD"
-        ],
-        "effect": "【ターン1回】自分のリーダーが『海軍』を含む特徴を持ち、このキャラが場を離れる場合、代わりに自分の手札1枚を捨てることができる。<br>【自分のターン中】【ターン1回】相手のキャラがKOされた時、カード1枚を引く。",
-        "trigger": null
+        "rarity": "SuperRare"
       },
       {
         "id": "EB04-044_p2",
-        "pack_id": "550204",
-        "name": "コビー",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-044_p2.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-044_p2.png?2602273",
-        "cost": 6,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 7000,
-        "counter": 1000,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "海軍",
-          "SWORD"
-        ],
-        "effect": "【ターン1回】自分のリーダーが『海軍』を含む特徴を持ち、このキャラが場を離れる場合、代わりに自分の手札1枚を捨てることができる。<br>【自分のターン中】【ターン1回】相手のキャラがKOされた時、カード1枚を引く。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1633,28 +1372,9 @@
     "variants": [
       {
         "id": "EB04-048_p1",
-        "pack_id": "550204",
-        "name": "ロブ・ルッチ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-048_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-048_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 6000,
-        "counter": null,
-        "colors": [
-          "Black"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "CP0"
-        ],
-        "effect": "自分のリーダーが『CP』を含む特徴を持つ場合、このキャラは、自分のトラッシュ5枚につき、パワー+1000し、コスト+2。<br>【登場時】自分のキャラ1枚をトラッシュに置くことができる：カード1枚を引く。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -1757,28 +1477,9 @@
     "variants": [
       {
         "id": "EB04-052_p1",
-        "pack_id": "550204",
-        "name": "サンジ",
-        "rarity": "Rare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-052_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-052_p1.png?2602273",
-        "cost": 4,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 4000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "麦わらの一味"
-        ],
-        "effect": "【アタック時】このキャラの元々のパワーは、このターン中、相手のリーダーと同じパワーになる。<br>【KO時】自分のライフが2枚以下の場合、自分の手札からパワー6000以下の黄のキャラカード1枚までを、登場させる。",
-        "trigger": null
+        "rarity": "Rare"
       }
     ]
   },
@@ -1940,28 +1641,9 @@
     "variants": [
       {
         "id": "EB04-058_p1",
-        "pack_id": "550204",
-        "name": "ボルサリーノ",
-        "rarity": "SuperRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-058_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-058_p1.png?2602273",
-        "cost": 5,
-        "attributes": [
-          "Special"
-        ],
-        "power": 6000,
-        "counter": 1000,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "海軍"
-        ],
-        "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】自分のライフが2枚以下の場合、自分のデッキの上から1枚までを、ライフの上に加える。",
-        "trigger": null
+        "rarity": "SuperRare"
       }
     ]
   },
@@ -2043,30 +1725,96 @@
     "variants": [
       {
         "id": "EB04-061_p1",
-        "pack_id": "550204",
-        "name": "モンキー・D・ルフィ",
-        "rarity": "SecretRare",
-        "category": "Character",
         "img_url": "../images/cardlist/card/EB04-061_p1.png?2602273",
         "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-061_p1.png?2602273",
-        "cost": 10,
-        "attributes": [
-          "Strike"
-        ],
-        "power": 12000,
-        "counter": null,
-        "colors": [
-          "Yellow"
-        ],
-        "block_number": 4,
-        "types": [
-          "エッグヘッド",
-          "四皇",
-          "麦わらの一味"
-        ],
-        "effect": "手札のこのカードは、自分のライフが1枚以下の場合、コスト-1。<br>【登場時】自分の手札1枚を捨てることができる：自分のリーダーを、次の相手のエンドフェイズ終了時まで、パワー+2000。その後、このキャラは、次の相手のエンドフェイズ終了時まで、【ブロッカー】を得る。",
-        "trigger": null
+        "rarity": "SecretRare"
+      },
+      {
+        "id": "EB04-061_p2",
+        "img_url": "../images/cardlist/card/EB04-061_p2.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB04-061_p2.png?2602273",
+        "rarity": "SecretRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
+  },
+  {
+    "id": "OP11-106_p2",
+    "pack_id": "550204",
+    "name": "ゼウス",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP11-106_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP11-106_p2.png?2602273",
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
+    "types": [
+      "ホーミーズ",
+      "ビッグ・マム海賊団"
+    ],
+    "effect": "【登場時】自分のライフの上か下から1枚を手札に加えることができる：相手のコスト5以下のキャラ1枚までを、KOする。",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "PRB02-006_p2",
+    "pack_id": "550204",
+    "name": "ロロノア・ゾロ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/PRB02-006_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p2.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
+    "types": [
+      "超新星",
+      "麦わらの一味"
+    ],
+    "effect": "【相手のターン中】このキャラが相手のキャラの効果でレストになる場合、代わりに自分の他のキャラ1枚をレストにできる。<br>【ブロッカー】",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "PRB02-014_p2",
+    "pack_id": "550204",
+    "name": "サボ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/PRB02-014_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/PRB02-014_p2.png?2602273",
+    "cost": 6,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
+    "types": [
+      "ドレスローザ",
+      "革命軍"
+    ],
+    "effect": "手札のこのカードは、自分のトラッシュが15枚以上ある場合、コスト-3。<br>【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
+    "trigger": null,
+    "variants": []
   }
 ]
