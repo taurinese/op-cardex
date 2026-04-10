@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ST17-001",
+    "pack_id": "622017",
+    "name": "Crocodile",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST17-001.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-001.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires",
+      "Baroque Works"
+    ],
+    "effect": "[Jouée] Révélez 1 carte du dessus de votre deck&nbsp;; si elle est de type {Sept grands corsaires}, piochez 2 cartes et placez 1 carte de votre main au-dessus de votre deck.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST17-002",
+    "pack_id": "622017",
+    "name": "Trafalgar Law",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST17-002.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-002.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage du Heart"
+    ],
+    "effect": "[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Si votre Leader est de type {Sept grands corsaires}, renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST17-003",
+    "pack_id": "622017",
+    "name": "Baggy",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST17-003.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-003.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 2000,
+    "counter": 2000,
+    "types": [
+      "Sept grands corsaires",
+      "Baggy's Delivery"
+    ],
+    "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus de votre deck.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST17-004",
+    "pack_id": "622017",
+    "name": "Boa Hancock",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST17-004.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-004.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage des Kuja"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages, de type {Sept grands corsaires}.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST17-005",
+    "pack_id": "622017",
+    "name": "Marshall D. Teach",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST17-005.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST17-005.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Sept grands corsaires",
+      "Équipage de Barbe Noire"
+    ],
+    "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer 1 carte de votre main au-dessus de votre deck&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
+    "trigger": null,
+    "variants": []
+  }
+]

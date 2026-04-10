@@ -1,0 +1,178 @@
+[
+  {
+    "id": "P-029_r1",
+    "pack_id": "569016",
+    "name": "Bartolomeo",
+    "rarity": "Promo",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/P-029_r1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-029_r1.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "FILM",
+      "Supernovas",
+      "Barto Club"
+    ],
+    "effect": "[End of Your Turn] You may rest this Character: Set up to 1 of your {FILM} type Characters other than [Bartolomeo] as active.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "P-061_r1",
+    "pack_id": "569016",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/P-061_r1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-061_r1.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 10000,
+    "counter": 1000,
+    "types": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "effect": "-",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-001",
+    "pack_id": "569016",
+    "name": "Uta",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-001.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-001.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Activate: Main] [Once Per Turn] You may trash 1 {FILM} type card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-002",
+    "pack_id": "569016",
+    "name": "Gordon",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-002.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-002.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Your Opponent's Attack] You may trash any number of {Music} type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-003",
+    "pack_id": "569016",
+    "name": "Charlotte Katakuri",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-003.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-003.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "FILM",
+      "Big Mom Pirates"
+    ],
+    "effect": "If your Leader has the {FILM} type and you have 6 or more rested cards, this Character gains +2000 power.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-004",
+    "pack_id": "569016",
+    "name": "Shanks",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-004.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-004.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 11000,
+    "counter": null,
+    "types": [
+      "FILM",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-005",
+    "pack_id": "569016",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-005.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST16-005.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "FILM",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "effect": "If you have a rested [Uta], this Character gains +1000 power.",
+    "trigger": null,
+    "variants": []
+  }
+]

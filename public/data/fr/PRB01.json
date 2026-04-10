@@ -1,0 +1,410 @@
+[
+  {
+    "id": "OP02-018_r1",
+    "pack_id": "622301",
+    "name": "Marco",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-018_r1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP02-018_r1.webp?251024",
+    "colors": [
+      "Red"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Barbe Blanche"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Vous pouvez défausser 1 carte de votre main incluant «Équipage de Barbe Blanche» dans son type&nbsp;: Si vous avez 2 cartes ou moins dans votre Vie, jouez cette carte Personnage épuisée depuis votre Défausse.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP02-106_r1",
+    "pack_id": "622301",
+    "name": "Tsuru",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-106_r1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP02-106_r1.webp?251024",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": null,
+    "counter": 2000,
+    "types": [
+      "Marine"
+    ],
+    "effect": "[Jouée] Réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP02-117_r1",
+    "pack_id": "622301",
+    "name": "Ice Age",
+    "rarity": "Uncommon",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP02-117_r1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP02-117_r1.webp?251024",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Marine"
+    ],
+    "effect": "[Principale] Réduisez de -5 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
+    "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+    "variants": []
+  },
+  {
+    "id": "OP03-003_r1",
+    "pack_id": "622301",
+    "name": "Izo",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-003_r1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-003_r1.webp?251024",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Pays de Wano",
+      "Équipage de Barbe Blanche"
+    ],
+    "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Équipage de Barbe Blanche» dans son type autre que [Izo] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-079_r1",
+    "pack_id": "622301",
+    "name": "Vergo",
+    "rarity": "Uncommon",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-079_r1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-079_r1.webp?251024",
+    "colors": [
+      "Black"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "Marine",
+      "Équipage de Don Quijote"
+    ],
+    "effect": "[DON!!&nbsp;x1] Ce Personnage ne peut pas être mis KO en combat.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "OP03-089_r1",
+    "pack_id": "622301",
+    "name": "Brandnew",
+    "rarity": "Rare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-089_r1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP03-089_r1.webp?251024",
+    "colors": [
+      "Black"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 3000,
+    "counter": 1000,
+    "types": [
+      "Marine"
+    ],
+    "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Marine} autre que [Brandnew] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "P-014",
+    "pack_id": "622301",
+    "name": "Kobby",
+    "rarity": "Promo",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/P-014.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-014.webp?251024",
+    "colors": [
+      "Red"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": null,
+    "types": [
+      "FILM",
+      "Marine"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+    "trigger": "[Déclenchement] Jouez cette carte.",
+    "variants": [
+      {
+        "id": "P-014_p1",
+        "pack_id": "622301",
+        "name": "Kobby",
+        "rarity": "Promo",
+        "category": "Character",
+        "img_url": "../images/cardlist/card/P-014_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-014_p1.webp?251024",
+        "colors": [
+          "Red"
+        ],
+        "cost": 3,
+        "attributes": [
+          "Strike"
+        ],
+        "power": 3000,
+        "counter": null,
+        "types": [
+          "FILM",
+          "Marine"
+        ],
+        "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+        "trigger": "[Déclenchement] Jouez cette carte."
+      },
+      {
+        "id": "P-014_p2",
+        "pack_id": "622301",
+        "name": "Kobby",
+        "rarity": "Promo",
+        "category": "Character",
+        "img_url": "../images/cardlist/card/P-014_p2.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-014_p2.webp?251024",
+        "colors": [
+          "Red"
+        ],
+        "cost": 3,
+        "attributes": [
+          "Strike"
+        ],
+        "power": 3000,
+        "counter": null,
+        "types": [
+          "FILM",
+          "Marine"
+        ],
+        "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
+        "trigger": "[Déclenchement] Jouez cette carte."
+      }
+    ]
+  },
+  {
+    "id": "P-053",
+    "pack_id": "622301",
+    "name": "Nami",
+    "rarity": "Promo",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/P-053.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-053.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 1000,
+    "counter": 2000,
+    "types": [
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre main, renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+    "trigger": null,
+    "variants": [
+      {
+        "id": "P-053_p1",
+        "pack_id": "622301",
+        "name": "Nami",
+        "rarity": "Promo",
+        "category": "Character",
+        "img_url": "../images/cardlist/card/P-053_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-053_p1.webp?251024",
+        "colors": [
+          "Blue"
+        ],
+        "cost": 1,
+        "attributes": [
+          "Wisdom"
+        ],
+        "power": 1000,
+        "counter": 2000,
+        "types": [
+          "Équipage de Chapeau de paille"
+        ],
+        "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre main, renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+        "trigger": null
+      },
+      {
+        "id": "P-053_p2",
+        "pack_id": "622301",
+        "name": "Nami",
+        "rarity": "Promo",
+        "category": "Character",
+        "img_url": "../images/cardlist/card/P-053_p2.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-053_p2.webp?251024",
+        "colors": [
+          "Blue"
+        ],
+        "cost": 1,
+        "attributes": [
+          "Wisdom"
+        ],
+        "power": 1000,
+        "counter": 2000,
+        "types": [
+          "Équipage de Chapeau de paille"
+        ],
+        "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre main, renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+        "trigger": null
+      }
+    ]
+  },
+  {
+    "id": "P-055",
+    "pack_id": "622301",
+    "name": "Monkey D. Luffy",
+    "rarity": "Promo",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/P-055.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-055.webp?251024",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Jouée] Vous pouvez défausser 2 cartes de votre main&nbsp;: Votre adversaire doit placer 1 de ses Personnages au-dessous du deck de son propriétaire.",
+    "trigger": null,
+    "variants": [
+      {
+        "id": "P-055_p1",
+        "pack_id": "622301",
+        "name": "Monkey D. Luffy",
+        "rarity": "Promo",
+        "category": "Character",
+        "img_url": "../images/cardlist/card/P-055_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-055_p1.webp?251024",
+        "colors": [
+          "Blue"
+        ],
+        "cost": 4,
+        "attributes": [
+          "Strike"
+        ],
+        "power": 5000,
+        "counter": 1000,
+        "types": [
+          "Équipage de Chapeau de paille"
+        ],
+        "effect": "[Jouée] Vous pouvez défausser 2 cartes de votre main&nbsp;: Votre adversaire doit placer 1 de ses Personnages au-dessous du deck de son propriétaire.",
+        "trigger": null
+      },
+      {
+        "id": "P-055_p2",
+        "pack_id": "622301",
+        "name": "Monkey D. Luffy",
+        "rarity": "Promo",
+        "category": "Character",
+        "img_url": "../images/cardlist/card/P-055_p2.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-055_p2.webp?251024",
+        "colors": [
+          "Blue"
+        ],
+        "cost": 4,
+        "attributes": [
+          "Strike"
+        ],
+        "power": 5000,
+        "counter": 1000,
+        "types": [
+          "Équipage de Chapeau de paille"
+        ],
+        "effect": "[Jouée] Vous pouvez défausser 2 cartes de votre main&nbsp;: Votre adversaire doit placer 1 de ses Personnages au-dessous du deck de son propriétaire.",
+        "trigger": null
+      }
+    ]
+  },
+  {
+    "id": "PRB01-001",
+    "pack_id": "622301",
+    "name": "Sanji",
+    "rarity": "Leader",
+    "category": "Leader",
+    "img_url": "../images/cardlist/card/PRB01-001.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/PRB01-001.webp?251024",
+    "colors": [
+      "Red"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Jusqu'à 1 de vos Personnages ayant un coût de 8 ou moins et n'ayant pas d'effet [Jouée] gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
+    "trigger": null,
+    "variants": [
+      {
+        "id": "PRB01-001_p1",
+        "pack_id": "622301",
+        "name": "Sanji",
+        "rarity": "Leader",
+        "category": "Leader",
+        "img_url": "../images/cardlist/card/PRB01-001_p1.webp?251024",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/PRB01-001_p1.webp?251024",
+        "colors": [
+          "Red"
+        ],
+        "cost": 5,
+        "attributes": [
+          "Strike"
+        ],
+        "power": 5000,
+        "counter": null,
+        "types": [
+          "Équipage de Chapeau de paille"
+        ],
+        "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Jusqu'à 1 de vos Personnages ayant un coût de 8 ou moins et n'ayant pas d'effet [Jouée] gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
+        "trigger": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "ST16-001",
+    "pack_id": "622016",
+    "name": "Uta",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-001.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST16-001.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez défausser 1 carte de type {FILM} de votre main&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-002",
+    "pack_id": "622016",
+    "name": "Gordon",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-002.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST16-002.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Attaque adverse] Vous pouvez défausser autant de cartes de type {Musique} de votre main que vous le voulez. Pour chaque carte défaussée, votre Leader ou 1 de vos Personnages gagne +1000 de puissance pour tout le combat.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-003",
+    "pack_id": "622016",
+    "name": "Charlotte Katakuri",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-003.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST16-003.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 3,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "FILM",
+      "Équipage de Big Mom"
+    ],
+    "effect": "Si votre Leader est de type {FILM} et que vous avez 6 cartes ou plus épuisées, ce Personnage gagne +2000 de puissance.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-004",
+    "pack_id": "622016",
+    "name": "Shanks",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-004.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST16-004.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 11000,
+    "counter": null,
+    "types": [
+      "FILM",
+      "Quatre Empereurs",
+      "Équipage du Roux"
+    ],
+    "effect": "[Jouée] Mettez KO jusqu'à 1 Personnage adverse épuisé.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST16-005",
+    "pack_id": "622016",
+    "name": "Monkey D. Luffy",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST16-005.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST16-005.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 3000,
+    "counter": 2000,
+    "types": [
+      "FILM",
+      "Supernovae",
+      "Équipage de Chapeau de paille"
+    ],
+    "effect": "Si une de vos [Uta] est épuisée, ce Personnage gagne +1000 de puissance.",
+    "trigger": null,
+    "variants": []
+  }
+]

@@ -1,0 +1,525 @@
+{
+  "sets": [
+    {
+      "id": "EB01",
+      "name": "MEMORIAL COLLECTION",
+      "prefix": "EXTRA BOOSTER",
+      "card_count": 61,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "EB02",
+      "name": "Anime 25th Collection",
+      "prefix": "EXTRA BOOSTER",
+      "card_count": 61,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "EB03",
+      "name": "ONE PIECE HEROINES EDITION",
+      "prefix": "EXTRA BOOSTER",
+      "card_count": 62,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "EB04",
+      "name": "THE AZURE SEA’S SEVEN",
+      "prefix": "BOOSTER PACK",
+      "card_count": 151,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP01",
+      "name": "ROMANCE DAWN",
+      "prefix": "BOOSTER PACK",
+      "card_count": 121,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP02",
+      "name": "PARAMOUNT WAR",
+      "prefix": "BOOSTER PACK",
+      "card_count": 121,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP03",
+      "name": "PILLARS OF STRENGTH",
+      "prefix": "BOOSTER PACK",
+      "card_count": 123,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP04",
+      "name": "KINGDOMS OF INTRIGUE",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP05",
+      "name": "AWAKENING OF THE NEW ERA",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP06",
+      "name": "WINGS OF THE CAPTAIN",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP07",
+      "name": "500 YEARS IN THE FUTURE",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP08",
+      "name": "TWO LEGENDS",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP09",
+      "name": "EMPERORS IN THE NEW WORLD",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP10",
+      "name": "ROYAL BLOOD",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP11",
+      "name": "A FIST OF DIVINE SPEED",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP12",
+      "name": "LEGACY OF THE MASTER",
+      "prefix": "BOOSTER PACK",
+      "card_count": 119,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP13",
+      "name": "CARRYING ON HIS WILL",
+      "prefix": "BOOSTER PACK",
+      "card_count": 120,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "OP14",
+      "name": "ブースターパック 蒼海の七傑【OP-14】",
+      "prefix": "",
+      "card_count": 120,
+      "langs": [
+        "jp"
+      ]
+    },
+    {
+      "id": "OP15",
+      "name": "ブースターパック 神の島の冒険【OP-15】",
+      "prefix": "",
+      "card_count": 119,
+      "langs": [
+        "jp"
+      ]
+    },
+    {
+      "id": "PRB01",
+      "name": "ONE PIECE CARD THE BEST",
+      "prefix": "PREMIUM BOOSTER",
+      "card_count": 113,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "id": "PRB02",
+      "name": "ONE PIECE CARD THE BEST vol.2",
+      "prefix": "PREMIUM BOOSTER",
+      "card_count": 178,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "id": "ST01",
+      "name": "Straw Hat Crew",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST02",
+      "name": "Worst Generation",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST03",
+      "name": "The Seven Warlords of the Sea",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST04",
+      "name": "Animal Kingdom Pirates",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST05",
+      "name": "ONE PIECE FILM edition",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST06",
+      "name": "Absolute Justice",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST07",
+      "name": "Big Mom Pirates",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST08",
+      "name": "Monkey D. Luffy",
+      "prefix": "STARTER DECK",
+      "card_count": 15,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST09",
+      "name": "Yamato",
+      "prefix": "STARTER DECK",
+      "card_count": 15,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST10",
+      "name": "The Three Captains",
+      "prefix": "ULTRA DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST11",
+      "name": "Uta",
+      "prefix": "STARTER DECK",
+      "card_count": 5,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST12",
+      "name": "Zoro and Sanji",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST13",
+      "name": "The Three Brothers",
+      "prefix": "ULTRA DECK",
+      "card_count": 19,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST14",
+      "name": "3D2Y",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST15",
+      "name": "Red Edward.Newgate",
+      "prefix": "STARTER DECK",
+      "card_count": 14,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST16",
+      "name": "Green Uta",
+      "prefix": "STARTER DECK",
+      "card_count": 7,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST17",
+      "name": "Blue Donquixote Doflamingo",
+      "prefix": "STARTER DECK",
+      "card_count": 14,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST18",
+      "name": "Purple Monkey.D.Luffy",
+      "prefix": "STARTER DECK",
+      "card_count": 13,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST19",
+      "name": "Black Smoker",
+      "prefix": "STARTER DECK",
+      "card_count": 14,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST20",
+      "name": "Yellow Charlotte Katakuri",
+      "prefix": "STARTER DECK",
+      "card_count": 14,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST21",
+      "name": "GEAR5",
+      "prefix": "STARTER DECK EX",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST22",
+      "name": "Ace &amp; Newgate",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST23",
+      "name": "RED Shanks",
+      "prefix": "STARTER DECK",
+      "card_count": 14,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST24",
+      "name": "GREEN Jewelry Bonney",
+      "prefix": "STARTER DECK",
+      "card_count": 12,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST25",
+      "name": "BLUE Buggy",
+      "prefix": "STARTER DECK",
+      "card_count": 14,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST26",
+      "name": "PURPLE/BLACK Monkey.D.Luffy",
+      "prefix": "STARTER DECK",
+      "card_count": 13,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST27",
+      "name": "BLACK Marshall.D.Teach",
+      "prefix": "STARTER DECK",
+      "card_count": 14,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST28",
+      "name": "GREEN/YELLOW Yamato",
+      "prefix": "STARTER DECK",
+      "card_count": 13,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST29",
+      "name": "Egghead",
+      "prefix": "STARTER DECK",
+      "card_count": 17,
+      "langs": [
+        "en",
+        "fr",
+        "jp"
+      ]
+    }
+  ]
+}

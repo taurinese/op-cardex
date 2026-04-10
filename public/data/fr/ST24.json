@@ -1,0 +1,131 @@
+[
+  {
+    "id": "ST24-001",
+    "pack_id": "622024",
+    "name": "Capone \"Gang\" Bege",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-001.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST24-001.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Ranged"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Équipage du Fire Tank"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Si vous avez 6 cartes ou plus épuisées, piochez 1 carte et défaussez 1 carte de votre main.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST24-002",
+    "pack_id": "622024",
+    "name": "Kidd et Killer",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-002.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST24-002.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Équipage de Kidd"
+    ],
+    "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Supernovae} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.<br>[Attaque adverse] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Redressez jusqu'à 1 de vos cartes DON!!.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST24-003",
+    "pack_id": "622024",
+    "name": "Basil Hawkins",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-003.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST24-003.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 4000,
+    "counter": 2000,
+    "types": [
+      "Supernovae",
+      "Équipage de Hawkins"
+    ],
+    "effect": "[Fin de votre tour] Redressez jusqu'à 1 de vos cartes DON!!.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST24-004",
+    "pack_id": "622024",
+    "name": "Law et Bepo",
+    "rarity": "SuperRare",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-004.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST24-004.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Slash",
+      "Strike"
+    ],
+    "power": 11000,
+    "counter": null,
+    "types": [
+      "Minks",
+      "Supernovae",
+      "Équipage du Heart"
+    ],
+    "effect": "[Jouée] Épuisez jusqu'à 1 Personnage adverse&nbsp;; il ne pourra pas être redressé lors de la prochaine phase de Recharge de votre adversaire. Puis, si votre adversaire a 2 Personnages ou plus épuisés, votre Leader gagne +2000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
+    "trigger": null,
+    "variants": []
+  },
+  {
+    "id": "ST24-005",
+    "pack_id": "622024",
+    "name": "X-Drake",
+    "rarity": "Common",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/ST24-005.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST24-005.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "types": [
+      "Supernovae",
+      "Marine",
+      "Équipage de Drake"
+    ],
+    "effect": "[Jouée] Si votre Leader est de type {Supernovae}, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, redressez jusqu'à 1 de vos cartes DON!! à la fin de ce tour.",
+    "trigger": null,
+    "variants": []
+  }
+]
