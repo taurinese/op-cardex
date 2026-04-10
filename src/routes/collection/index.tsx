@@ -271,11 +271,11 @@ function CollectionPage() {
 
       {view === "overview" ? (
         <OverviewView
-          sets={setsForLang}
-          lang={lang}
+          sets={index.sets}
+          currentLang={lang}
           cardMap={cardMap}
-          onSelectSet={(id) => {
-            navigate({ search: (prev) => ({ ...prev, set: id, view: "sets" }) })
+          onSelectSet={(id, targetLang) => {
+            navigate({ search: (prev) => ({ ...prev, set: id, view: "sets", lang: targetLang }) })
           }}
         />
       ) : (
@@ -504,18 +504,18 @@ function CollectionPage() {
 
 function OverviewView({
   sets,
-  lang,
+  currentLang,
   cardMap,
   onSelectSet,
 }: {
   sets: SetMeta[]
-  lang: Lang
+  currentLang: Lang
   cardMap: CardMap
-  onSelectSet: (id: string) => void
+  onSelectSet: (id: string, lang: Lang) => void
 }) {
   const { owned } = useCollection()
 
-  function ownedCountForSet(s: SetMeta): number {
+  function ownedCountForSetLang(s: SetMeta, lang: Lang): number {
     return Array.from(owned).filter((k) => {
       if (!k.startsWith(`${lang}/`)) return false
       const cardId = k.slice(lang.length + 1)
@@ -523,7 +523,9 @@ function OverviewView({
     }).length
   }
 
-  const setsWithCards = sets.filter((s) => ownedCountForSet(s) > 0)
+  const setsWithCards = sets.filter((s) =>
+    s.langs.some((l) => ownedCountForSetLang(s, l) > 0)
+  )
 
   if (setsWithCards.length === 0) {
     return (
@@ -536,41 +538,46 @@ function OverviewView({
   return (
     <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
       {setsWithCards.map((s) => {
-        const ownedInSet = ownedCountForSet(s)
-        const total = s.card_count
-        const pct = total > 0 ? Math.round((ownedInSet / total) * 100) : 0
+        const langsWithOwned = s.langs.filter((l) => ownedCountForSetLang(s, l) > 0)
+        const bestLang = langsWithOwned.includes(currentLang) ? currentLang : langsWithOwned[0]
 
         return (
           <button
             key={s.id}
-            onClick={() => onSelectSet(s.id)}
+            onClick={() => onSelectSet(s.id, bestLang)}
             className="group cursor-pointer rounded-xl border border-border/50 bg-card p-4 text-left transition-all hover:border-amber-400/30 hover:bg-amber-400/5"
           >
-            <div className="mb-3 flex items-start justify-between gap-2">
-              <div>
-                <p className="text-xs font-bold text-amber-400">{s.label}</p>
-                <p className="mt-0.5 text-sm leading-tight font-medium">
-                  {s.name}
-                </p>
-              </div>
-              <span className="shrink-0 text-xs font-bold text-muted-foreground">
-                {ownedInSet}
-                <span className="font-normal text-muted-foreground/60">
-                  /{total}
-                </span>
-              </span>
+            <div className="mb-3">
+              <p className="text-xs font-bold text-amber-400">{s.label}</p>
+              <p className="mt-0.5 text-sm leading-tight font-medium">{s.name}</p>
             </div>
 
-            {/* Progress bar */}
-            <div className="h-1.5 overflow-hidden rounded-full bg-muted">
-              <div
-                className="h-full rounded-full bg-amber-400 transition-all"
-                style={{ width: `${pct}%` }}
-              />
+            <div className="flex flex-col gap-2">
+              {langsWithOwned.map((l) => {
+                const Flag = LANG_FLAGS[l]
+                const ownedInSet = ownedCountForSetLang(s, l)
+                const total = s.card_count
+                const pct = total > 0 ? Math.round((ownedInSet / total) * 100) : 0
+                return (
+                  <div key={l}>
+                    <div className="mb-1 flex items-center justify-between gap-2">
+                      <Flag className="h-3 w-4 rounded-[1px]" aria-label={l} />
+                      <span className="text-xs font-bold text-muted-foreground">
+                        {ownedInSet}
+                        <span className="font-normal text-muted-foreground/60">/{total}</span>
+                        <span className="ml-1 font-normal text-muted-foreground/60">{pct}%</span>
+                      </span>
+                    </div>
+                    <div className="h-1.5 overflow-hidden rounded-full bg-muted">
+                      <div
+                        className="h-full rounded-full bg-amber-400 transition-all"
+                        style={{ width: `${pct}%` }}
+                      />
+                    </div>
+                  </div>
+                )
+              })}
             </div>
-            <p className="mt-1.5 text-right text-[10px] text-muted-foreground">
-              {pct}%
-            </p>
           </button>
         )
       })}
