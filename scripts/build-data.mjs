@@ -244,9 +244,10 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks, cardMa
       JSON.stringify(cards, null, 2)
     )
 
-    // Populate cardMap (card ID → set ID) — language-agnostic, same IDs across langs
+    // Populate cardMap (lang/cardId → setId) — per-language so JP-only cards
+    // in a set don't get counted toward the EN version of that set.
     for (const card of cards) {
-      cardMap.set(card.id, setId)
+      cardMap.set(`${langCode}/${card.id}`, setId)
     }
 
     // Update index

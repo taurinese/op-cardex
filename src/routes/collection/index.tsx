@@ -200,8 +200,7 @@ function CollectionPage() {
     .filter((s) =>
       Array.from(owned).some((k) => {
         if (!k.startsWith(`${lang}/`)) return false
-        const cardId = k.slice(lang.length + 1)
-        return cardMap[cardId] === s.id
+        return cardMap[k] === s.id
       })
     )
 
@@ -518,8 +517,7 @@ function OverviewView({
   function ownedCountForSetLang(s: SetMeta, lang: Lang): number {
     return Array.from(owned).filter((k) => {
       if (!k.startsWith(`${lang}/`)) return false
-      const cardId = k.slice(lang.length + 1)
-      return cardMap[cardId] === s.id
+      return cardMap[k] === s.id
     }).length
   }
 
