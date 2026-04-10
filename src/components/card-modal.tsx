@@ -135,30 +135,53 @@ export function CardModal({ card, lang = "en", initialVersionIndex = 0, onClose 
                   </div>
                 )}
 
-                {user && (
-                  <div className="flex flex-wrap gap-2">
-                    {versions.map((v, i) => {
-                      const owned = isOwned(v.id, lang)
-                      return (
+                {user && (() => {
+                  const currentVersion = versions[versionIndex]
+                  const currentOwned = currentVersion ? isOwned(currentVersion.id, lang) : false
+                  const otherVersions = versions.filter((_, i) => i !== versionIndex)
+                  return (
+                    <div className="flex flex-col gap-2">
+                      {/* Primary toggle — for currently viewed version */}
+                      {currentVersion && (
                         <button
-                          key={v.id}
-                          onClick={() => toggle(v.id, lang)}
+                          onClick={() => toggle(currentVersion.id, lang)}
                           className={cn(
-                            "cursor-pointer rounded-full border px-3 py-1 text-xs font-medium transition-all",
-                            owned
-                              ? "border-amber-400/50 bg-amber-400/15 text-amber-400"
-                              : "border-border/50 bg-background text-muted-foreground hover:border-border hover:text-foreground"
+                            "flex cursor-pointer items-center justify-center gap-2 rounded-lg border px-4 py-2 text-sm font-medium transition-all",
+                            currentOwned
+                              ? "border-amber-400/50 bg-amber-400/15 text-amber-400 hover:bg-red-500/10 hover:border-red-400/50 hover:text-red-400"
+                              : "border-border bg-muted/50 text-muted-foreground hover:border-amber-400/50 hover:bg-amber-400/10 hover:text-amber-400"
                           )}
                         >
-                          {versions.length > 1
-                            ? (i === 0 ? "Base" : (v.setLabel ? `${v.setLabel} — Para` : `Variante ${i}`))
-                            : "Possédée"}
-                          {owned ? " ✓" : " +"}
+                          {currentOwned ? "✓ Dans ma collection" : "+ Ajouter à ma collection"}
                         </button>
-                      )
-                    })}
-                  </div>
-                )}
+                      )}
+                      {/* Other versions — smaller pills */}
+                      {otherVersions.length > 0 && (
+                        <div className="flex flex-wrap gap-1.5">
+                          {versions.map((v, i) => {
+                            if (i === versionIndex) return null
+                            const owned = isOwned(v.id, lang)
+                            const label = i === 0 ? "Base" : (v.setLabel ? `${v.setLabel} — Para` : `Variante ${i}`)
+                            return (
+                              <button
+                                key={v.id}
+                                onClick={() => toggle(v.id, lang)}
+                                className={cn(
+                                  "cursor-pointer rounded-full border px-2.5 py-0.5 text-xs font-medium transition-all",
+                                  owned
+                                    ? "border-amber-400/40 bg-amber-400/10 text-amber-400"
+                                    : "border-border/50 text-muted-foreground hover:border-border hover:text-foreground"
+                                )}
+                              >
+                                {label}{owned ? " ✓" : " +"}
+                              </button>
+                            )
+                          })}
+                        </div>
+                      )}
+                    </div>
+                  )
+                })()}
 
                 <div className="grid grid-cols-3 gap-3">
                   <Stat label="Coût" value={card.cost} />

@@ -1,7 +1,8 @@
 import { createRootRoute, Link, Outlet } from "@tanstack/react-router"
-import { Anchor, BookOpen, LayoutGrid, LogIn, LogOut } from "lucide-react"
+import { Anchor, BookOpen, LayoutGrid, LogIn, LogOut, Moon, Sun } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
+import { useTheme } from "@/components/theme-provider"
 import { useAuth } from "@/context/auth"
 import { cn } from "@/lib/utils"
 
@@ -22,6 +23,11 @@ function NavLink({ to, search, children }: { to: string; search?: Record<string,
 
 function Navbar() {
   const { user, loading, signInWithDiscord, signOut } = useAuth()
+  const { theme, setTheme } = useTheme()
+
+  function toggleTheme() {
+    setTheme(theme === "dark" ? "light" : "dark")
+  }
 
   return (
     <header className="sticky top-0 z-50 border-b border-border/50 bg-background/80 backdrop-blur-md">
@@ -36,28 +42,38 @@ function Navbar() {
             <LayoutGrid className="size-3.5" />
             Séries
           </NavLink>
-          <NavLink to="/collection" search={{ lang: "en", view: "overview", hideUnowned: false }}>
+          <NavLink to="/collection" search={{ lang: "en", view: "overview", ownFilter: "all" }}>
             <BookOpen className="size-3.5" />
             Collection
           </NavLink>
         </nav>
 
-        {!loading && (
-          user ? (
-            <div className="flex items-center gap-3">
-              <span className="text-xs text-muted-foreground">{user.user_metadata?.full_name ?? user.email}</span>
-              <Button size="sm" variant="outline" className="gap-2 text-xs cursor-pointer" onClick={signOut}>
-                <LogOut className="size-3.5" />
-                Déconnexion
+        <div className="flex items-center gap-2">
+          <button
+            onClick={toggleTheme}
+            className="cursor-pointer rounded-md p-2 text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+            aria-label="Basculer le thème"
+          >
+            {theme === "dark" ? <Sun className="size-4" /> : <Moon className="size-4" />}
+          </button>
+
+          {!loading && (
+            user ? (
+              <div className="flex items-center gap-3">
+                <span className="text-xs text-muted-foreground">{user.user_metadata?.full_name ?? user.email}</span>
+                <Button size="sm" variant="outline" className="gap-2 text-xs cursor-pointer" onClick={signOut}>
+                  <LogOut className="size-3.5" />
+                  Déconnexion
+                </Button>
+              </div>
+            ) : (
+              <Button size="sm" variant="outline" className="gap-2 text-xs cursor-pointer" onClick={signInWithDiscord}>
+                <LogIn className="size-3.5" />
+                Connexion Discord
               </Button>
-            </div>
-          ) : (
-            <Button size="sm" variant="outline" className="gap-2 text-xs cursor-pointer" onClick={signInWithDiscord}>
-              <LogIn className="size-3.5" />
-              Connexion Discord
-            </Button>
-          )
-        )}
+            )
+          )}
+        </div>
       </div>
     </header>
   )

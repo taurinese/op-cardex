@@ -1,6 +1,9 @@
 import * as React from "react"
 import { createFileRoute, redirect, useNavigate } from "@tanstack/react-router"
 import { Check, CheckSquare, Square, X } from "lucide-react"
+import GB from "country-flag-icons/react/3x2/GB"
+import FR from "country-flag-icons/react/3x2/FR"
+import JP from "country-flag-icons/react/3x2/JP"
 
 import { CardModal } from "@/components/card-modal"
 import { cardImageUrl, fetchIndex, fetchSet } from "@/lib/data"
@@ -52,10 +55,16 @@ export const Route = createFileRoute("/series/")({
 // ---------------------------------------------------------------------------
 
 
-const LANG_OPTIONS: { value: Lang; label: string }[] = [
-  { value: "en", label: "English" },
-  { value: "fr", label: "Français" },
-  { value: "jp", label: "日本語" },
+const LANG_FLAGS: Record<Lang, React.ComponentType<React.SVGProps<SVGSVGElement>>> = {
+  en: GB,
+  fr: FR,
+  jp: JP,
+}
+
+const LANG_OPTIONS: { value: Lang }[] = [
+  { value: "en" },
+  { value: "fr" },
+  { value: "jp" },
 ]
 
 const RARITY_BADGE: Record<string, string> = {
@@ -70,16 +79,16 @@ const RARITY_BADGE: Record<string, string> = {
   Promo: "bg-cyan-400/15 text-cyan-400",
 }
 
-// Rarity display order
+// Rarity display order — least rare first (left)
 const RARITY_ORDER = [
   "Leader",
-  "SecretRare",
-  "TreasureRare",
-  "SuperRare",
-  "Rare",
-  "Uncommon",
   "Common",
+  "Uncommon",
+  "Rare",
+  "SuperRare",
+  "SecretRare",
   "Special",
+  "TreasureRare",
   "Promo",
 ]
 
@@ -113,14 +122,14 @@ function SeriesPage() {
   const { user } = useAuth()
   const { isOwned, toggle } = useCollection()
   const [selectedCard, setSelectedCard] = React.useState<{ card: Card; versionIndex: number } | null>(null)
-  const [rarityFilter, setRarityFilter] = React.useState<string | null>(null)
+  const [rarityFilter, setRarityFilter] = React.useState<Set<string>>(new Set())
   const [cardFilter, setCardFilter] = React.useState<"all" | "base" | "alt">("all")
   const [selectMode, setSelectMode] = React.useState(false)
   const [selectedIds, setSelectedIds] = React.useState<Set<string>>(new Set())
 
   // Reset filters + select mode when set changes
   React.useEffect(() => {
-    setRarityFilter(null)
+    setRarityFilter(new Set())
     setCardFilter("all")
     setSelectMode(false)
     setSelectedIds(new Set())
@@ -163,63 +172,52 @@ function SeriesPage() {
 
   const setsForLang = index.sets
     .filter((s) => s.langs?.includes(lang))
-    .sort((a, b) => a.id.slice(0, 4).localeCompare(b.id.slice(0, 4)))
 
   const filteredCards = cards
-    ? rarityFilter ? cards.filter((c) => c.rarity === rarityFilter) : cards
+    ? rarityFilter.size > 0 ? cards.filter((c) => rarityFilter.has(c.rarity)) : cards
     : null
 
   return (
     <div className="mx-auto max-w-7xl px-6 py-8">
-      {/* Filters bar */}
-      <div className="mb-8 flex flex-wrap items-end gap-4">
-        {/* Series select */}
+      {/* Filters — row 1: controls */}
+      <div className="mb-2 flex flex-wrap items-end gap-3">
         <div className="flex flex-col gap-1.5">
-          <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
-            Série
-          </label>
+          <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Série</label>
           <select
             value={set ?? ""}
             onChange={(e) => handleSetChange(e.target.value)}
-            className="h-9 w-72 rounded-md border border-border bg-background px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
+            className="h-9 w-64 rounded-md border border-border bg-background px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
           >
             <option value="">— Choisir une série —</option>
             {setsForLang.map((s) => (
-              <option key={s.id} value={s.id}>
-                {s.label} — {s.name}
-              </option>
+              <option key={s.id} value={s.id}>{s.label} — {s.name}</option>
             ))}
           </select>
         </div>
 
-        {/* Language select */}
         <div className="flex flex-col gap-1.5">
-          <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
-            Langue
-          </label>
+          <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Langue</label>
           <div className="flex h-9 overflow-hidden rounded-md border border-border">
-            {LANG_OPTIONS.map(({ value, label }) => (
-              <button
-                key={value}
-                onClick={() => handleLangChange(value)}
-                className={`px-4 text-sm font-medium transition-colors hover:text-foreground cursor-pointer ${
-                  lang === value
-                    ? "bg-amber-400 text-black"
-                    : "bg-background text-muted-foreground"
-                }`}
-              >
-                {label}
-              </button>
-            ))}
+            {LANG_OPTIONS.map(({ value }) => {
+              const Flag = LANG_FLAGS[value]
+              return (
+                <button
+                  key={value}
+                  onClick={() => handleLangChange(value)}
+                  className={`px-3 transition-colors hover:opacity-100 cursor-pointer ${
+                    lang === value ? "bg-amber-400/20 opacity-100" : "bg-background opacity-50"
+                  }`}
+                >
+                  <Flag className="h-4 w-6 rounded-sm" />
+                </button>
+              )
+            })}
           </div>
         </div>
 
-        {/* Card type filter */}
         {cards && cards.some((c) => c.variants.length > 0) && (
           <div className="flex flex-col gap-1.5">
-            <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
-              Version
-            </label>
+            <label className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Version</label>
             <div className="flex h-9 overflow-hidden rounded-md border border-border">
               {(["all", "base", "alt"] as const).map((f) => (
                 <button
@@ -236,36 +234,40 @@ function SeriesPage() {
           </div>
         )}
 
-        {/* Set info */}
-        {currentSet && (
-          <p className="ml-auto text-sm text-muted-foreground">
-            <span className="font-medium text-foreground">{currentSet.name}</span>
-            {" — "}
-            {currentSet.card_count} cartes
-          </p>
-        )}
-
-        {/* Select mode toggle */}
+        {/* Sélectionner always pinned to the right */}
         {user && cards && cards.length > 0 && (
-          <button
-            onClick={() => { setSelectMode((v) => !v); setSelectedIds(new Set()) }}
-            className={cn(
-              "flex h-9 cursor-pointer items-center gap-2 rounded-md border px-3 text-sm font-medium transition-colors",
-              selectMode
-                ? "border-amber-400/50 bg-amber-400/10 text-amber-400"
-                : "border-border bg-background text-muted-foreground hover:text-foreground"
-            )}
-          >
-            {selectMode ? <X className="size-3.5" /> : <CheckSquare className="size-3.5" />}
-            {selectMode ? "Annuler" : "Sélectionner"}
-          </button>
+          <div className="ml-auto flex flex-col gap-1.5">
+            <span className="text-xs font-medium text-muted-foreground uppercase tracking-wider invisible">.</span>
+            <button
+              onClick={() => { setSelectMode((v) => !v); setSelectedIds(new Set()) }}
+              className={cn(
+                "flex h-9 cursor-pointer items-center gap-2 rounded-md border px-3 text-sm font-medium transition-colors",
+                selectMode
+                  ? "border-amber-400/50 bg-amber-400/10 text-amber-400"
+                  : "border-border bg-background text-muted-foreground hover:text-foreground"
+              )}
+            >
+              {selectMode ? <X className="size-3.5" /> : <CheckSquare className="size-3.5" />}
+              {selectMode ? "Annuler" : "Sélectionner"}
+            </button>
+          </div>
         )}
       </div>
+
+      {/* Filters — row 2: set info */}
+      {currentSet && (
+        <p className="mb-6 text-sm text-muted-foreground">
+          <span className="font-medium text-foreground">{currentSet.name}</span>
+          {" — "}
+          {currentSet.card_count} cartes
+        </p>
+      )}
 
       {/* Rarity filter */}
       {cards && cards.length > 0 && (
         <RarityFilter cards={cards} active={rarityFilter} onChange={setRarityFilter} />
       )}
+
 
       {/* Content */}
       {!set ? (
@@ -315,41 +317,85 @@ function SeriesPage() {
 
 // ---------------------------------------------------------------------------
 
+const RARITY_COLOR: Record<string, string> = {
+  Leader:      "border-amber-400/60 bg-amber-400/10 text-amber-400 hover:bg-amber-400/20",
+  SecretRare:  "border-pink-400/60 bg-pink-400/10 text-pink-400 hover:bg-pink-400/20",
+  TreasureRare:"border-yellow-400/60 bg-yellow-400/10 text-yellow-400 hover:bg-yellow-400/20",
+  SuperRare:   "border-purple-400/60 bg-purple-400/10 text-purple-400 hover:bg-purple-400/20",
+  Rare:        "border-blue-400/60 bg-blue-400/10 text-blue-400 hover:bg-blue-400/20",
+  Uncommon:    "border-green-400/60 bg-green-400/10 text-green-400 hover:bg-green-400/20",
+  Common:      "border-border bg-muted/50 text-muted-foreground hover:bg-muted",
+  Special:     "border-orange-400/60 bg-orange-400/10 text-orange-400 hover:bg-orange-400/20",
+  Promo:       "border-cyan-400/60 bg-cyan-400/10 text-cyan-400 hover:bg-cyan-400/20",
+}
+
+const RARITY_COLOR_ACTIVE: Record<string, string> = {
+  Leader:      "border-amber-400 bg-amber-400 text-black",
+  SecretRare:  "border-pink-400 bg-pink-400 text-black",
+  TreasureRare:"border-yellow-400 bg-yellow-400 text-black",
+  SuperRare:   "border-purple-400 bg-purple-400 text-white",
+  Rare:        "border-blue-400 bg-blue-400 text-white",
+  Uncommon:    "border-green-400 bg-green-400 text-black",
+  Common:      "border-border bg-muted text-foreground",
+  Special:     "border-orange-400 bg-orange-400 text-black",
+  Promo:       "border-cyan-400 bg-cyan-400 text-black",
+}
+
 function RarityFilter({
   cards,
   active,
   onChange,
 }: {
   cards: Card[]
-  active: string | null
-  onChange: (rarity: string | null) => void
+  active: Set<string>
+  onChange: (rarity: Set<string>) => void
 }) {
   const available = RARITY_ORDER.filter((r) => cards.some((c) => c.rarity === r))
 
+  function toggle(rarity: string) {
+    const next = new Set(active)
+    if (next.has(rarity)) next.delete(rarity)
+    else next.add(rarity)
+    onChange(next)
+  }
+
   return (
-    <div className="mb-6 flex flex-wrap gap-2">
+    <div className="mb-6 flex flex-wrap items-center gap-2">
       {available.map((rarity) => {
         const count = cards.filter((c) => c.rarity === rarity).length
-        const isActive = active === rarity
-        const badgeClass = RARITY_BADGE[rarity] ?? RARITY_BADGE.Common
+        const isActive = active.has(rarity)
 
         return (
           <button
             key={rarity}
-            onClick={() => onChange(isActive ? null : rarity)}
-            className={`flex items-center gap-1.5 rounded-full border px-3 py-1 text-xs font-medium transition-all cursor-pointer ${
+            onClick={() => toggle(rarity)}
+            className={cn(
+              "flex cursor-pointer items-center gap-2 rounded-lg border px-3 py-1.5 text-xs font-semibold transition-all",
               isActive
-                ? `${badgeClass} border-current`
-                : "border-border/50 bg-background text-muted-foreground hover:border-border hover:text-foreground"
-            }`}
+                ? RARITY_COLOR_ACTIVE[rarity] ?? "border-border bg-muted text-foreground"
+                : (RARITY_COLOR[rarity] ?? RARITY_COLOR.Common)
+            )}
           >
             {RARITY_SHORT[rarity] ?? rarity}
-            <span className={`rounded-full px-1.5 py-0.5 text-[10px] ${isActive ? "bg-black/10" : "bg-muted"}`}>
+            <span className={cn(
+              "rounded px-1.5 py-0.5 text-[10px] font-medium tabular-nums",
+              isActive ? "bg-black/20" : "bg-background/50"
+            )}>
               {count}
             </span>
           </button>
         )
       })}
+
+      {active.size > 0 && (
+        <button
+          onClick={() => onChange(new Set())}
+          className="flex cursor-pointer items-center gap-1 rounded-lg border border-border/50 px-2.5 py-1.5 text-xs text-muted-foreground transition-colors hover:border-border hover:text-foreground"
+        >
+          <X className="size-3" />
+          Effacer
+        </button>
+      )}
     </div>
   )
 }

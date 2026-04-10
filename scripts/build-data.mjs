@@ -63,10 +63,20 @@ function deriveSetId(pack, packDir) {
     }
     return null
   }
-  return rawLabel
-    ?.replace(/^[A-Z0-9]+-(?=[A-Z]{2}\d)/, "") // strip "OP14-" prefix
-    ?.replace("-", "")                           // strip remaining hyphens
+  return rawLabel?.replace(/-/g, "")             // strip all hyphens: "OP-01" → "OP01"
 }
+
+/** Normalise a raw label for display: "OP14-EB04" → "OP-14 / EB-04", "OP-01" → "OP-01" */
+function normaliseLabel(rawLabel) {
+  if (!rawLabel) return rawLabel
+  // Step 1: insert hyphen between adjacent letters+digits: "OP14" → "OP-14"
+  // (only when not already separated by a hyphen)
+  const withHyphens = rawLabel.replace(/([A-Z]+)(\d+)/g, "$1-$2")
+  // Step 2: replace the compound separator (hyphen before an uppercase letter) with " / "
+  // "OP-14-EB-04" → "OP-14 / EB-04"
+  return withHyphens.replace(/-(?=[A-Z])/g, " / ")
+}
+
 
 const HTML_ENTITIES = { "&amp;": "&", "&lt;": "<", "&gt;": ">", "&quot;": '"', "&#39;": "'", "&apos;": "'" }
 
@@ -243,7 +253,7 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks) {
         id: setId,
         name: decodeEntities(pack.title_parts?.title ?? pack.raw_title),
         prefix: pack.title_parts?.prefix ?? "",
-        label: pack.title_parts?.label ?? setId,
+        label: normaliseLabel(pack.title_parts?.label ?? setId) ?? setId,
         card_count: cards.length,
         langs: [langCode],
       })
@@ -285,7 +295,18 @@ async function main() {
     await processLanguage(langPath, langCode, indexSets, imageTasks)
   }
 
-  indexSets.sort((a, b) => a.id.localeCompare(b.id))
+  // Sort by release order: OP first (by number), then ST, EB, PRB, PROMO
+  // Sort: OP first, then ST, EB, PRB, PROMO — most recent (highest number) within each group
+  const TYPE_PRIORITY = { OP: 0, ST: 1, EB: 2, PRB: 3, PROMO: 4 }
+  function setKey(id) {
+    const m = id.match(/^([A-Z]+)(\d+)/)
+    if (!m) return `9_0000`
+    const [, type, num] = m
+    const typePriority = (TYPE_PRIORITY[type] ?? 8).toString()
+    const numDesc = (9999 - parseInt(num, 10)).toString().padStart(4, "0")
+    return `${typePriority}_${numDesc}`
+  }
+  indexSets.sort((a, b) => setKey(a.id).localeCompare(setKey(b.id)))
   writeFileSync(
     join(OUTPUT_DIR, "index.json"),
     JSON.stringify({ sets: indexSets }, null, 2)

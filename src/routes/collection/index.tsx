@@ -1,6 +1,9 @@
 import * as React from "react"
 import { createFileRoute, useNavigate } from "@tanstack/react-router"
-import { Check, CheckSquare, LayoutGrid, List, Square, X } from "lucide-react"
+import { Check, CheckSquare, Download, LayoutGrid, List, Square, Upload, X } from "lucide-react"
+import GB from "country-flag-icons/react/3x2/GB"
+import FR from "country-flag-icons/react/3x2/FR"
+import JP from "country-flag-icons/react/3x2/JP"
 
 import { CardModal } from "@/components/card-modal"
 import { cardImageUrl, fetchIndex, fetchSet } from "@/lib/data"
@@ -51,10 +54,16 @@ export const Route = createFileRoute("/collection/")({
 
 // ---------------------------------------------------------------------------
 
-const LANG_OPTIONS: { value: Lang; label: string }[] = [
-  { value: "en", label: "English" },
-  { value: "fr", label: "Français" },
-  { value: "jp", label: "日本語" },
+const LANG_FLAGS: Record<Lang, React.ComponentType<React.SVGProps<SVGSVGElement>>> = {
+  en: GB,
+  fr: FR,
+  jp: JP,
+}
+
+const LANG_OPTIONS: { value: Lang }[] = [
+  { value: "en" },
+  { value: "fr" },
+  { value: "jp" },
 ]
 
 const RARITY_BADGE: Record<string, string> = {
@@ -97,7 +106,36 @@ function CollectionPage() {
   const { set, lang, view, ownFilter } = Route.useSearch()
   const navigate = useNavigate({ from: "/collection/" })
   const { user } = useAuth()
-  const { owned, isOwned, toggle } = useCollection()
+  const { owned, isOwned, toggle, exportCollection, bulkImport } = useCollection()
+  const importRef = React.useRef<HTMLInputElement>(null)
+  const [importStatus, setImportStatus] = React.useState<string | null>(null)
+
+  function handleExport() {
+    const data = exportCollection()
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement("a")
+    a.href = url
+    a.download = "op-cardex-collection.json"
+    a.click()
+    URL.revokeObjectURL(url)
+  }
+
+  async function handleImport(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0]
+    if (!file) return
+    e.target.value = ""
+    try {
+      const text = await file.text()
+      const data = JSON.parse(text)
+      if (!Array.isArray(data)) throw new Error("Format invalide")
+      const count = await bulkImport(data)
+      setImportStatus(`${count} carte${count !== 1 ? "s" : ""} importée${count !== 1 ? "s" : ""}`)
+    } catch {
+      setImportStatus("Erreur : fichier invalide")
+    }
+    setTimeout(() => setImportStatus(null), 3000)
+  }
   const [selectedCard, setSelectedCard] = React.useState<{
     card: Card
     versionIndex: number
@@ -107,7 +145,13 @@ function CollectionPage() {
   )
   const [selectMode, setSelectMode] = React.useState(false)
   const [selectedIds, setSelectedIds] = React.useState<Set<string>>(new Set())
-  const [columns, setColumns] = React.useState(4)
+  const [columns, setColumns] = React.useState(() =>
+    Math.min(10, Math.max(3, parseInt(localStorage.getItem("collection-columns") ?? "4", 10)))
+  )
+
+  React.useEffect(() => {
+    localStorage.setItem("collection-columns", String(columns))
+  }, [columns])
 
   React.useEffect(() => {
     setCardFilter("all")
@@ -153,7 +197,6 @@ function CollectionPage() {
     .filter((s) =>
       Array.from(owned).some((k) => k.startsWith(`${lang}/${s.id}-`))
     )
-    .sort((a, b) => a.id.slice(0, 4).localeCompare(b.id.slice(0, 4)))
 
   // Auto-select first set when entering vue sets with no set chosen
   React.useEffect(() => {
@@ -254,20 +297,21 @@ function CollectionPage() {
                 Langue
               </label>
               <div className="flex h-9 overflow-hidden rounded-md border border-border">
-                {LANG_OPTIONS.map(({ value, label }) => (
-                  <button
-                    key={value}
-                    onClick={() => handleLangChange(value)}
-                    className={cn(
-                      "cursor-pointer px-4 text-sm font-medium transition-colors hover:text-foreground",
-                      lang === value
-                        ? "bg-amber-400 text-black"
-                        : "bg-background text-muted-foreground"
-                    )}
-                  >
-                    {label}
-                  </button>
-                ))}
+                {LANG_OPTIONS.map(({ value }) => {
+                  const Flag = LANG_FLAGS[value]
+                  return (
+                    <button
+                      key={value}
+                      onClick={() => handleLangChange(value)}
+                      className={cn(
+                        "cursor-pointer px-3 transition-colors",
+                        lang === value ? "bg-amber-400/20 opacity-100" : "bg-background opacity-50"
+                      )}
+                    >
+                      <Flag className="h-4 w-6 rounded-sm" />
+                    </button>
+                  )
+                })}
               </div>
             </div>
 
@@ -356,6 +400,34 @@ function CollectionPage() {
                   )}
                   {selectMode ? "Annuler" : "Sélectionner"}
                 </button>
+
+                {/* Export / Import */}
+                {user && <div className="flex flex-col gap-1.5">
+                  <label className="invisible text-xs font-medium tracking-wider text-muted-foreground uppercase">.</label>
+                  <div className="flex items-center gap-1.5">
+                    <button
+                      onClick={handleExport}
+                      disabled={owned.size === 0}
+                      className="flex h-9 cursor-pointer items-center gap-1.5 rounded-md border border-border bg-background px-3 text-sm text-muted-foreground transition-colors hover:text-foreground disabled:cursor-not-allowed disabled:opacity-40"
+                      title="Exporter ma collection"
+                    >
+                      <Download className="size-3.5" />
+                      Export
+                    </button>
+                    <button
+                      onClick={() => importRef.current?.click()}
+                      className="flex h-9 cursor-pointer items-center gap-1.5 rounded-md border border-border bg-background px-3 text-sm text-muted-foreground transition-colors hover:text-foreground"
+                      title="Importer une collection"
+                    >
+                      <Upload className="size-3.5" />
+                      Import
+                    </button>
+                    <input ref={importRef} type="file" accept=".json" className="hidden" onChange={handleImport} />
+                    {importStatus && (
+                      <span className="text-xs text-muted-foreground">{importStatus}</span>
+                    )}
+                  </div>
+                </div>}
               </>
             )}
           </div>
@@ -601,6 +673,7 @@ function CollectionCardTile({
   onToggleSelect: () => void
 }) {
   const rarityClass = RARITY_BADGE[card.rarity] ?? RARITY_BADGE.Common
+  const { user } = useAuth()
   const { isOwned, toggle } = useCollection()
 
   const displayId =
@@ -675,7 +748,7 @@ function CollectionCardTile({
         ) : null}
 
         {/* Quick add button */}
-        {!selectMode && (
+        {user && !selectMode && (
           <button
             onClick={handleQuickAdd}
             className={cn(
