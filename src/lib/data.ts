@@ -4,8 +4,10 @@ function dataUrl(path: string) {
   return `${import.meta.env.BASE_URL}data/${path}`
 }
 
+const R2_BASE = "https://pub-6a5c5f1c4c814f3fb6ec33fee8a3d921.r2.dev"
+
 export function cardImageUrl(cardId: string, lang: Lang = "en") {
-  return `${import.meta.env.BASE_URL}images/cards/${lang}/${cardId}.png`
+  return `${R2_BASE}/${lang}/${cardId}.png`
 }
 
 export async function fetchIndex(): Promise<DataIndex> {

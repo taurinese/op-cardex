@@ -6,7 +6,6 @@ import { tanstackRouter } from "@tanstack/router-plugin/vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? "/op-cardex/" : "/",
   plugins: [tanstackRouter(), react(), tailwindcss()],
   resolve: {
     alias: {
