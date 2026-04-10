@@ -23,6 +23,7 @@
     ],
     "effect": "[Fin de votre tour] Vous pouvez épuiser ce Personnage&nbsp;: Redressez jusqu'à 1 de vos Personnages de type {FILM} autre que [Bartolomeo].",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Uta], jusqu'à 2 Personnages adverses épuisés ayant un coût de 4 ou moins ne pourront pas être redressés lors de la prochaine phase de Recharge de votre adversaire.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -69,6 +71,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Uta], redressez tous vos Personnages de type {FILM} à la fin de ce tour.",
     "trigger": "[Déclenchement] Redressez tous vos Personnages de type {FILM}.",
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -92,6 +95,7 @@
     ],
     "effect": "[Contre] Si votre Leader est [Uta], vous pouvez renvoyer à votre main autant de Personnages de votre terrain que vous le voulez. Pour chaque Personnage renvoyé, jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -115,6 +119,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 1 de vos [Uta]&nbsp;: Épuisez jusqu'à 2 cartes DON!! adverses.<br>",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -140,6 +145,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -164,6 +170,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] [Une fois par tour] Révélez 1 carte du dessus de votre deck, ajoutez à votre main jusqu'à 1 carte de type {FILM}. Puis, placez les cartes restantes au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -187,6 +194,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Uta], effectuez l'un des choix suivants&nbsp;:<br>• Épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.<br>• Mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -210,6 +218,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Uta], regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {FILM} autre que [Nouvelle ère] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -233,6 +242,7 @@
     ],
     "effect": "[Principale] Redressez jusqu'à 1 de vos Leaders [Uta].",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -257,6 +267,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez défausser 1 carte de type {FILM} de votre main&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -281,6 +292,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Attaque adverse] Vous pouvez défausser autant de cartes de type {Musique} de votre main que vous le voulez. Pour chaque carte défaussée, votre Leader ou 1 de vos Personnages gagne +1000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": []
   },
   {
@@ -306,6 +318,7 @@
     ],
     "effect": "Si votre Leader est de type {FILM} et que vous avez 6 cartes ou plus épuisées, ce Personnage gagne +2000 de puissance.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": [
       {
         "id": "ST16-003_p1",
@@ -349,6 +362,7 @@
     ],
     "effect": "[Jouée] Mettez KO jusqu'à 1 Personnage adverse épuisé.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": [
       {
         "id": "ST16-004_p3",
@@ -416,6 +430,7 @@
     ],
     "effect": "Si une de vos [Uta] est épuisée, ce Personnage gagne +1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "ST16",
     "variants": [
       {
         "id": "ST16-005_p1",

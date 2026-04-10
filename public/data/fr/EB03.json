@@ -23,6 +23,7 @@
     ],
     "effect": "[Une fois par tour] Si un de vos Personnages ayant un coût de base de 4 ou plus est mis KO, vous pouvez défausser 1 carte de votre main à la place.<br>[Activation&nbsp;: Principale] Vous pouvez épuiser ce Leader&nbsp;: Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour. Puis, jusqu'à 1 de vos Personnages n'ayant pas d'effet [En attaquant] gagne [Initiative] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-001_p1",
@@ -56,6 +57,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -81,6 +83,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Uta], piochez 2 cartes. Puis, jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et n'ayant pas d'effet de base.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-003_p1",
@@ -120,6 +123,7 @@
     ],
     "effect": "[Bloqueur]<br>[Tour adverse] Si votre Leader est multicolore et que vous n'avez pas de Personnage ayant 6000 de puissance de base ou plus, ce Personnage gagne +4000 de puissance.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -145,6 +149,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Sugar], jouez jusqu'à 1 carte Personnage de type {Équipage de Don Quijote} épuisée de votre main ayant 6000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -171,6 +176,7 @@
     ],
     "effect": "[Jouée] Vous pouvez faire perdre −5000 de puissance à votre Leader redressé pour tout le tour&nbsp;: Piochez 1 carte.<br>[Activation&nbsp;: Principale] [Une fois par tour] Si votre Leader est de type {Royaume d'Alabasta}, jusqu'à 1 Personnage adverse perd −1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -197,6 +203,7 @@
     ],
     "effect": "[Bloqueur]<br>[En cas de KO] Jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et n'ayant pas d'effet de base.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -223,6 +230,7 @@
     ],
     "effect": "[Jouée]/[En attaquant] Jusqu'à 1 de vos Leaders ou Personnages de type {SWORD} peut aussi attaquer les Personnages redressés durant ce tour.<br>[Activation&nbsp;: Principale] [Une fois par tour] Jusqu'à 1 Personnage adverse perd −1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-008_p1",
@@ -255,6 +263,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Jusqu'à 1 de vos Personnages n'ayant pas d'effet de base gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -281,6 +290,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage ayant 1000 de puissance ou moins ou jusqu'à 1 Événement et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -304,6 +314,7 @@
     ],
     "effect": "[Contre] Si votre Leader est [Nefertari Vivi], jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -329,6 +340,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Épuisez jusqu'à 1 carte DON!! adverse ou jusqu'à 1 Personnage adverse de type {Animal} ou {SMILE} ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -354,6 +366,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Si ce Personnage a été joué ce tour, mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 5 ou moins. Puis, jouez jusqu'à 1 [Zo] de votre main.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-013_p1",
@@ -387,6 +400,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ayant l'attribut",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -413,6 +427,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à 1 de vos Leaders ou Personnages de type {Hommes-poissons} ou {Sirènes}. Puis, épuisez jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -439,6 +454,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Oden Kozuki], piochez 1 carte.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader de type {Pays de Wano}.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -465,6 +481,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Supernovae}, redressez jusqu'à 1 de vos cartes DON!!. Puis, jusqu'à 1 Personnage adverse ayant un coût de 8 ou moins ne peut pas être épuisé jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -490,6 +507,7 @@
     ],
     "effect": "[Tour adverse] Ce Personnage ne peut pas être mis KO par un effet adverse et gagne [Bloqueur].<br>[Fin de votre tour] Vous pouvez épuiser 1 de vos cartes DON!! et défausser 1 carte de votre main&nbsp;: Redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-018_p1",
@@ -528,6 +546,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -551,6 +570,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, si vous avez 2 Personnages ou plus de type {FILM}, il gagne de nouveau +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Redressez jusqu'à 1 de vos Personnages.",
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -576,6 +596,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage adverse ayant 4000 de puissance de base ou moins et jusqu'à 1 Personnage adverse ayant un coût de base de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -601,6 +622,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -626,6 +648,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -651,6 +674,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Jouez jusqu'à 1 carte Personnage de type {Royaume d'Alabasta} ou {Équipage de Chapeau de paille} de votre main ayant un coût de 5 ou moins. Puis, vous ne pouvez pas jouer de carte Personnage sur votre terrain pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-024_p1",
@@ -689,6 +713,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant 6000 de puissance de base.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-025_p1",
@@ -722,6 +747,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a 5 cartes ou plus dans sa main, il place 1 carte de sa main au-dessous de son deck.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer 1 de vos Personnages au-dessous du deck de son propriétaire&nbsp;: Donnez à votre Leader et à 1 de vos Personnages jusqu'à 1 carte DON!! épuisée chacun.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-026_p1",
@@ -760,6 +786,7 @@
     ],
     "effect": "[Jouée] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant 7000 de puissance de base.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -785,6 +812,7 @@
     ],
     "effect": "[Jouée] Défaussez 1 carte de votre main.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si vous avez 4 cartes ou moins dans votre main, piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -809,6 +837,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 4 de vos cartes DON!!&nbsp;: Si votre Leader est [Boa Hancock], jouez jusqu'à 1 carte Personnage de type {Amazon Lily} ou {Équipage des Kuja} de votre main ayant un coût de 6 ou moins.<br>[Contre] Jusqu'à 1 de vos [Boa Hancock] gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -834,6 +863,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -860,6 +890,7 @@
     ],
     "effect": "[Votre tour] [Jouée] DON!!&nbsp;−1&nbsp;: Si votre Leader est [Sanji], activez l'effet [Principale] de jusqu'à 1 Événement de votre Défausse ayant un coût de 7 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-031_p1",
@@ -898,6 +929,7 @@
     ],
     "effect": "[Votre tour] [Jouée] Jusqu'à 1 de vos [Charlotte Katakuri] gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -923,6 +955,7 @@
     ],
     "effect": "[Tour adverse] [Une fois par tour] Quand une carte DON!! de votre terrain est renvoyée à votre deck DON!! grâce à un de vos effets, si votre Leader est de type {Équipage de Big Mom}, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -948,6 +981,7 @@
     ],
     "effect": "[Jouée] Piochez 1 carte et placez 1 carte de votre main au-dessus de votre deck. Puis, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.<br>[En cas de KO] DON!!&nbsp;−1&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-034_p1",
@@ -980,6 +1014,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1005,6 +1040,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;−1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Mettez KO jusqu'à 2 Personnages adverses ayant un coût de base de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1030,6 +1066,7 @@
     ],
     "effect": "[Jouée] Si vous avez 7 cartes DON!! ou plus sur votre terrain, votre Leader et tous vos Personnages, de type {ODYSSEY}, gagnent +1000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1054,6 +1091,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire et que tous vos Personnages incluent «Germa» dans leur type, ajoutez jusqu'à 2 cartes DON!! épuisées de votre deck DON!!.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1079,6 +1117,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Équipage des cent bêtes}, piochez 1 carte et défaussez 1 carte de votre main. Puis, jouez jusqu'à 1 carte Personnage de votre Défausse ayant 6000 de puissance ou moins et n'ayant pas d'effet de base.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1104,6 +1143,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1130,6 +1170,7 @@
     ],
     "effect": "[Tour adverse] Tous vos Personnages de type {SWORD} ayant un coût de 6 ou moins gagnent +2000 de puissance.<br>[Jouée] Vous pouvez défausser 1 carte de type {Marine} de votre main&nbsp;: Piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-041_p1",
@@ -1163,6 +1204,7 @@
     ],
     "effect": "Si votre Leader est de type {Armée révolutionnaire}, augmentez de +4 le coût de ce Personnage.<br>[Tour adverse] [En cas de KO] Jouez jusqu'à 1 carte Personnage de type {Armée révolutionnaire} de votre main ou votre Défausse ayant un coût de 6 ou moins autre que [Koala] ou jusqu'à 1 [Nico Robin] de votre main ou votre Défausse ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-042_p1",
@@ -1201,6 +1243,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Vous pouvez placer 2 cartes de votre Défausse incluant «CP» dans leur type au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1226,6 +1269,7 @@
     ],
     "effect": "Si votre Leader est multicolore, ce Personnage gagne [Bloqueur].<br>[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Onigashima] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 [Onigashima] de votre main.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1252,6 +1296,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages. Puis, si vous avez 10 cartes ou plus dans votre Défausse, jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-045_p1",
@@ -1290,6 +1335,7 @@
     ],
     "effect": "[Jouée] S'il y a un Personnage ayant un coût de 0 ou de 8 ou plus, piochez 1 carte.<br>[En cas de KO] Placez dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1315,6 +1361,7 @@
     ],
     "effect": "[Jouée] Placez dans votre Défausse 3 cartes du dessus de votre deck.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1340,6 +1387,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Lieu de type {Dressrosa} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 carte Lieu de type {Dressrosa} de votre main ayant un coût de 1.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1363,6 +1411,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 7 de vos cartes DON!!&nbsp;: Si votre Leader est [Perona], jouez jusqu'à 1 carte Personnage ayant un coût de 6 ou moins et jusqu'à 1 ayant un coût de 4 ou moins, de votre main ou votre Défausse, de type {Équipage de Thriller Bark}.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1388,6 +1437,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Personnages de type {Île céleste} gagne [Double attaque] pour tout le tour.<br>(Les dégâts infligés par cette carte passent à 2.)",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1413,6 +1463,7 @@
     ],
     "effect": "[Jouée] S'il y a des cartes de votre Vie face visible, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins. Puis, retournez toutes les cartes de votre Vie face cachée.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1439,6 +1490,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est [Shirahoshi], ajoutez au-dessus de votre Vie 1 carte du dessus de votre deck. Puis, tous vos Personnages de type {Monstres marins} gagnent +1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1464,6 +1516,7 @@
     ],
     "effect": "[Jouée] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader. Puis, si votre adversaire a 3 cartes ou plus dans sa Vie, ajoutez à la main de son propriétaire jusqu'à 1 carte du dessus de la Vie adverse.<br>[En cas de KO] Vous pouvez retourner 1 carte du dessus de votre Vie face visible&nbsp;: Jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-053_p1",
@@ -1502,6 +1555,7 @@
     ],
     "effect": "[Jouée] Vous pouvez placer dans votre Défausse 1 carte du dessus de votre Vie&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1527,6 +1581,7 @@
     ],
     "effect": "[Jouée] Vous pouvez placer dans votre Défausse 1 carte du dessus de votre Vie&nbsp;: Si votre Leader est de type {Équipage de Chapeau de paille}, ajoutez au-dessus de votre Vie jusqu'à 2 cartes du dessus de votre deck.<br>[Tour adverse] [En cas de KO] Vous pouvez infliger 1 dégât à votre adversaire.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-055_p1",
@@ -1565,6 +1620,7 @@
     ],
     "effect": "[Jouée] Vous pouvez retourner 1 carte du dessus de votre Vie face visible&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1590,6 +1646,7 @@
     ],
     "effect": "[Jouée] Donnez jusqu'à 3 cartes DON!! épuisées à votre Leader de type {Pays de Wano}.<br>[En cas de KO] Placez dans sa Défausse jusqu'à 1 carte du dessus de la Vie adverse.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-057_p1",
@@ -1623,6 +1680,7 @@
     ],
     "effect": "[Votre tour] [Jouée] Si vous avez 2 cartes ou moins dans votre Vie, piochez 1 carte.",
     "trigger": "[Déclenchement] Si votre Leader est [Végapunk], jouez cette carte.",
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1649,6 +1707,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Egg Head} et que vous avez 2 cartes ou plus dans votre Vie, ajoutez face visible au-dessus de votre Vie jusqu'à 1 carte Personnage de votre main ayant [Déclenchement].",
     "trigger": "[Déclenchement] Jusqu'à 1 Personnage adverse ayant un coût de 6 ou moins autre que [Monkey D. Luffy] ne peut pas attaquer pour tout le tour.",
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1672,6 +1731,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Nami], regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant un coût compris entre 2 et 8 et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "EB03",
     "variants": []
   },
   {
@@ -1697,6 +1757,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Redressez jusqu'à 1 de vos cartes DON!!. Puis, épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins ou jusqu'à 1 carte DON!! adverse.<br>[Fin de votre tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Redressez jusqu'à 1 de vos Personnages de type {FILM}.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-061_p1",
@@ -1735,6 +1796,7 @@
     ],
     "effect": "[Initiative]<br>[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main et placer ce Personnage dans votre Défausse&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, jouez jusqu'à 1 [Trafalgar Law] de votre main ayant un coût de 7 ou moins.",
     "trigger": null,
+    "tile_set_id": "EB03",
     "variants": [
       {
         "id": "EB03-062_p1",

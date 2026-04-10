@@ -22,6 +22,7 @@
     ],
     "effect": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "[On Play] Play up to 1 [Monster] from your hand.<br>[DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -94,6 +97,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -119,6 +123,7 @@
     ],
     "effect": "If your Character [Bonk Punch] would be K.O.'d by an effect, you may trash this Character instead.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -143,6 +148,7 @@
     ],
     "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -167,6 +173,7 @@
     ],
     "effect": "[On Play] Your opponent cannot activate up to 1 [Blocker] Character that has 4000 power or less during this turn.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -191,6 +198,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -215,6 +223,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -238,6 +247,7 @@
     ],
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Draw 1 card.",
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -262,6 +272,7 @@
     ],
     "effect": "If you have a Character with 10000 power or more, give this card in your hand −4 cost.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -287,6 +298,7 @@
     ],
     "effect": "If your opponent has a Character with 8000 base power or more, give this card in your hand −3 cost.<br>[On Play] If your Leader has the {Red-Haired Pirates} type or is [Uta], your Leader gains +2000 power until the end of your opponent's next End Phase.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -311,6 +323,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with 4000 base power or less.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -337,6 +350,7 @@
     ],
     "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -361,6 +375,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   }
 ]

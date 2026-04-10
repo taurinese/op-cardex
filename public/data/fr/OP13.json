@@ -22,6 +22,7 @@
     ],
     "effect": "[Jouée] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage ayant un coût de 2 et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 2.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -47,6 +48,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck et ajoutez à votre main jusqu'à 1 carte de type {Egg Head} autre que [Lilith]. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Si votre Leader est [Végapunk], jouez cette carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -71,6 +73,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -96,6 +99,7 @@
     ],
     "effect": "Tous les Personnages adverses perdent -1000 de puissance.<br>[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP09-004_p5",
@@ -127,6 +131,7 @@
     ],
     "effect": "[Jouée] Placez dans sa Défausse jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -152,6 +157,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>Quand votre adversaire active [Bloqueur], si vous ou votre adversaire n'avez plus de cartes dans votre Vie, vous remportez la partie.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -176,6 +182,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Piochez 1 carte&nbsp;; ce Personnage gagne [Initiative] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -201,6 +208,7 @@
     ],
     "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)<br>[Activation&nbsp;: Principale] Redressez jusqu'à 1 de vos cartes DON!!. Puis, vous ne pouvez pas redresser de carte DON!! grâce à l'effet d'un Personnage pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -225,6 +233,7 @@
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.<br>[Attaque adverse] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Jusqu'à 1 de vos Leaders gagne +1000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -251,6 +260,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [Attaque adverse] Si vous avez 5 cartes DON!! redressées ou moins, vous pouvez épuiser autant de vos cartes DON!! que vous le voulez. Pour chaque carte DON!! épuisée, ce Leader ou jusqu'à 1 de vos Personnages de type {Équipage de Chapeau de paille} gagne +2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-001_p1",
@@ -283,6 +293,7 @@
     ],
     "effect": "[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 Leader ou Personnage adverse perd −2000 de puissance pour tout le combat.<br>[DON!!&nbsp;x1] [Une fois par tour] Quand vous subissez des dégâts ou qu'un de vos Personnages ayant 6000 de puissance de base ou plus est mis KO, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-002_p1",
@@ -316,6 +327,7 @@
     ],
     "effect": "Si vous avez des cartes DON!! sur votre terrain, 1 carte DON!! placée durant votre phase de DON!! est donnée à votre Leader.<br>Si vous avez 9 cartes DON!! ou moins sur votre terrain, ce Leader perd −2000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-003_p1",
@@ -349,6 +361,7 @@
     ],
     "effect": "Si vous avez 4 cartes ou plus dans votre Vie, ce Leader perd −1000 de puissance.<br>[DON!!&nbsp;x1] Si vous avez un Personnage ayant un coût de 8 ou plus, votre Leader et tous vos Personnages gagnent +1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-004_p1",
@@ -380,6 +393,7 @@
     ],
     "effect": "[Jouée] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -404,6 +418,7 @@
     ],
     "effect": "[Jouée] Donnez jusqu'à 2 cartes DON!! épuisées à 1 de vos [Monkey D. Luffy].",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -428,6 +443,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez donner 1 de vos cartes DON!! redressées à votre Leader ou à 1 de vos Personnages et placer ce Personnage dans votre Défausse&nbsp;: Jusqu'à 1 Personnage adverse perd −3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-007_p1",
@@ -459,6 +475,7 @@
     ],
     "effect": "Si un de vos Personnages de type {Armée révolutionnaire} est mis KO par un effet adverse, vous pouvez placer ce Personnage dans votre Défausse à la place.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -483,6 +500,7 @@
     ],
     "effect": "Si vous avez un Personnage de type {Brigands} autre que cette carte, ce Personnage gagne [Double attaque].",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -508,6 +526,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -532,6 +551,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -556,6 +576,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Royaume d'Alabasta} ou {Équipage de Chapeau de paille} ayant un coût de 2 ou plus et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -580,6 +601,7 @@
     ],
     "effect": "[Jouée] Mettez KO jusqu'à 1 Personnage adverse ayant 0 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -604,6 +626,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos [Portgas D. Ace] gagne +3000 de puissance pour tout le tour.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -628,6 +651,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Jusqu'à 1 de vos [Monkey D. Luffy] gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -652,6 +676,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Sabo], [Portgas D. Ace] ou [Monkey D. Luffy], regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant un coût de 3 ou plus et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-016_p1",
@@ -683,6 +708,7 @@
     ],
     "effect": "[Une fois par tour] Si un de vos Personnages de type {Armée révolutionnaire} quitte le terrain à cause d'un effet adverse, vous pouvez faire perdre −2000 de puissance à ce Personnage pour tout le tour à la place.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -707,6 +733,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -730,6 +757,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 4 de vos cartes DON!!&nbsp;: Jusqu'à 1 Personnage adverse perd −3000 de puissance pour tout le tour. Puis, mettez KO jusqu'à 1 Personnage adverse ayant 3000 de puissance ou moins.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -752,6 +780,7 @@
     ],
     "effect": "[Principale] Jusqu'à 1 Personnage adverse perd −5000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -774,6 +803,7 @@
     ],
     "effect": "[Principale] Donnez jusqu'à 1 carte DON!! épuisée à 1 de vos [Monkey D. Luffy]. Puis, jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -796,6 +826,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Lieu&nbsp;: Jusqu'à 1 de vos Personnages ayant 2000 de puissance de base ou moins gagne +1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -820,6 +851,7 @@
     ],
     "effect": "[Jouée] Redressez jusqu'à 2 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 5 ou plus pour tout le tour.<br>[En cas de KO] Jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-023_p1",
@@ -851,6 +883,7 @@
     ],
     "effect": "[Jouée] Vous pouvez révéler 1 carte de type {Musique} ou {FILM} de votre main&nbsp;: Redressez jusqu'à 2 de vos cartes DON!! à la fin de ce tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -876,6 +909,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -901,6 +935,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Ce Personnage gagne +2000 de puissance jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -926,6 +961,7 @@
     ],
     "effect": "[Jouée] Redressez jusqu'à 2 de vos cartes DON!!.<br>[Fin de votre tour] Si votre Leader est de type {FILM} ou {Équipage de Chapeau de paille}, redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-027_p1",
@@ -959,6 +995,7 @@
     ],
     "effect": "[Jouée] Redressez toutes vos cartes DON!!. Puis, vous ne pouvez pas jouer de cartes de votre main pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-028_p1",
@@ -992,6 +1029,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1018,6 +1056,7 @@
     ],
     "effect": "[Jouée] Redressez jusqu'à 2 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1044,6 +1083,7 @@
     ],
     "effect": "Si vous avez 1 carte ou moins dans votre Vie, ce Personnage gagne [Bloqueur].<br>[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1069,6 +1109,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 Personnage adverse ayant un coût de 8 ou moins ne peut pas être épuisé jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1094,6 +1135,7 @@
     ],
     "effect": "[En cas de KO] Épuisez jusqu'à 2 cartes adverses.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1119,6 +1161,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {FILM} ou {Équipage de Chapeau de paille}, redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1145,6 +1188,7 @@
     ],
     "effect": "[Fin de votre tour] Redressez ce Personnage ou jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1170,6 +1214,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1196,6 +1241,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {FILM} ou {Équipage de Chapeau de paille}, redressez jusqu'à 2 de vos cartes DON!!.<br>[Fin de votre tour] Redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1219,6 +1265,7 @@
     ],
     "effect": "[Principale] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, redressez jusqu'à 2 de vos cartes DON!! à la fin de ce tour.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1243,6 +1290,7 @@
     ],
     "effect": "[Contre] Mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 4 ou moins.<br>[Déclenchement] Activez l'effet [Contre] de cette carte.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1266,6 +1314,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Jusqu'à 2 Personnages adverses épuisés ayant un coût de 7 ou moins ne pourront pas être redressés lors de la prochaine phase de Recharge de votre adversaire.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1291,6 +1340,7 @@
     ],
     "effect": "[Jouée] Piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1316,6 +1366,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Piochez 2 cartes et défaussez 1 carte de votre main. Puis, donnez à votre Leader et à 1 de vos Personnages jusqu'à 2 cartes DON!! épuisées chacun.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-042_p1",
@@ -1347,6 +1398,7 @@
     ],
     "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre Vie, piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1371,6 +1423,7 @@
     ],
     "effect": "[En attaquant] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages, incluant «Équipage de Barbe Blanche» dans leur type.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1395,6 +1448,7 @@
     ],
     "effect": "[En attaquant] Si vous avez 4 cartes ou moins dans votre main, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1419,6 +1473,7 @@
     ],
     "effect": "[Double attaque]<br>[Une fois par tour] Si ce Personnage est mis KO ou s'il quitte le terrain à cause d'un effet adverse, vous pouvez défausser 1 carte de votre main incluant «Équipage de Barbe Blanche» dans son type à la place.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1443,6 +1498,7 @@
     ],
     "effect": "Si un de vos Personnages incluant «Équipage de Barbe Blanche» dans son type est mis KO par un effet adverse, vous pouvez placer ce Personnage dans votre Défausse à la place.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1467,6 +1523,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1491,6 +1548,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1515,6 +1573,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Boa Hancock], jouez jusqu'à 1 [Boa Hancock] de votre main ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1540,6 +1599,7 @@
     ],
     "effect": "[En cas de KO] Si votre Leader est [Boa Hancock] ou multicolore, piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-051_p1",
@@ -1571,6 +1631,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Si votre Leader est [Boa Hancock], jouez jusqu'à 1 [Boa Hancock] de votre main ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1595,6 +1656,7 @@
     ],
     "effect": "[En attaquant] Vous pouvez placer dans votre Défausse 1 de vos Personnages incluant «Équipage de Barbe Blanche» dans son type&nbsp;: Piochez 1 carte&nbsp;; ce Personnage gagne [Exil] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1619,6 +1681,7 @@
     ],
     "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre Vie, piochez 2 cartes. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-054_p1",
@@ -1650,6 +1713,7 @@
     ],
     "effect": "[En attaquant] Si vous avez 4 cartes ou moins dans votre main, tous vos Personnages incluant «Équipage de Barbe Blanche» dans leur type gagnent +1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1675,6 +1739,7 @@
     ],
     "effect": "[En attaquant] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1697,6 +1762,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Si vous avez 1 carte ou moins dans votre Vie, votre adversaire ne peut pas activer [Bloqueur] pour tout le tour si votre Leader attaque.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1719,6 +1785,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage adverse ayant 3000 de puissance ou moins.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1741,6 +1808,7 @@
     ],
     "effect": "[Principale] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 6 ou moins.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1766,6 +1834,7 @@
     ],
     "effect": "Si un de vos Personnages incluant «Équipage de Roger» dans son type est mis KO par un effet adverse, vous pouvez placer ce Personnage dans votre Défausse à la place.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1791,6 +1860,7 @@
     ],
     "effect": "[Jouée] Si vous avez des cartes DON!! déjà données, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!. Puis, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1815,6 +1885,7 @@
     ],
     "effect": "[Jouée] Si vous avez des cartes DON!! déjà données, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.<br>[En attaquant] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant 3000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1841,6 +1912,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Si vous avez des cartes DON!! déjà données, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1866,6 +1938,7 @@
     ],
     "effect": "Les effets de votre Leader et de tous vos Personnages n'incluant pas «Équipage de Roger» dans leur type sont annulés.<br>[Jouée] DON!!&nbsp;−3&nbsp;: Votre Leader gagne +2000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire. Puis, tous les Personnages adverses perdent −2000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-064_p1",
@@ -1897,6 +1970,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Équipage de Roger» dans son type autre que [Shanks] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-065_p1",
@@ -1928,6 +2002,7 @@
     ],
     "effect": "[Initiative]<br>[Jouée] Si vous avez des cartes DON!! déjà données, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!! à la fin de ce tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-066_p1",
@@ -1959,6 +2034,7 @@
     ],
     "effect": "[Jouée] Si votre Leader inclut «Équipage de Roger» dans son type, piochez 2 cartes et défaussez 1 carte de votre main. Puis, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -1984,6 +2060,7 @@
     ],
     "effect": "Si vous avez 8 cartes DON!! ou plus sur votre terrain, ce Personnage gagne +2000 de puissance.<br>[Jouée] Si votre Leader inclut «Équipage de Roger» dans son type, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2009,6 +2086,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;−1&nbsp;: Ajoutez à votre main jusqu'à 1 carte Lieu de votre Défausse ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2034,6 +2112,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2059,6 +2138,7 @@
     ],
     "effect": "[Jouée] Si vous avez 8 cartes DON!! ou plus sur votre terrain, mettez KO jusqu'à 1 Personnage adverse ayant 3000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2083,6 +2163,7 @@
     ],
     "effect": "[Jouée] Si votre Leader inclut «Équipage de Roger» dans son type et que vous avez des cartes DON!! déjà données, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2108,6 +2189,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2133,6 +2215,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 carte Personnage de type {Homies} de votre main ayant 3000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2156,6 +2239,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Si votre Leader est [Gol D. Roger] et que vous avez des cartes DON!! déjà données, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2179,6 +2263,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 5 de vos cartes DON!!&nbsp;: Si vous avez des cartes DON!! déjà données, jusqu'à 1 Personnage adverse perd −8000 de puissance pour tout le tour.<br>[Contre] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-076_p1",
@@ -2208,6 +2293,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 3 de vos cartes DON!!&nbsp;: Si vous avez des cartes DON!! déjà données, mettez KO jusqu'à 1 Personnage adverse ayant 4000 de puissance de base ou moins et jusqu'à 1 Personnage adverse ayant 3000 de puissance de base ou moins.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2230,6 +2316,7 @@
     ],
     "effect": "[Une fois par tour] Quand un de vos Personnages incluant «Équipage de Roger» dans son type quitte le terrain à cause d'un effet adverse, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2254,6 +2341,7 @@
     ],
     "effect": "Vous ne pouvez pas ajouter de carte Événement ayant un coût de 2 ou plus à votre deck selon les règles. En début de partie, jouez jusqu'à 1 carte Lieu de type {Terre Sainte de Marie Joie} de votre deck.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer dans votre Défausse 1 Personnage de type {Dragon céleste} ou 1 carte de votre main&nbsp;: Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-079_p1",
@@ -2286,6 +2374,7 @@
     ],
     "effect": "Si vous avez 7 cartes ou plus dans votre Défausse, ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse et gagne [Initiative].<br>[En attaquant] Si vous avez 10 cartes ou plus dans votre Défausse, jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-080_p1",
@@ -2324,6 +2413,7 @@
     ],
     "effect": "Si votre Leader est de type {Armée révolutionnaire}, augmentez de +3 le coût de ce Personnage.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer 1 carte de votre Défausse au-dessous de votre deck&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2350,6 +2440,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Si votre Leader est [Imu], vous pouvez épuiser 1 de vos cartes DON!! et défausser 1 carte de votre main&nbsp;: Placez tous vos Personnages dans votre Défausse et jouez jusqu'à 5 cartes Personnage de type {Cinq Doyens} de votre Défausse ayant 5000 de puissance et des noms différents.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-082_p1",
@@ -2382,6 +2473,7 @@
     ],
     "effect": "Si vous avez 7 cartes ou plus dans votre Défausse, ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse.<br>[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cinq Doyens} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-083_p1",
@@ -2420,6 +2512,7 @@
     ],
     "effect": "Si vous avez 7 cartes ou plus dans votre Défausse, ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse.<br>[Votre tour] Si vous avez 10 cartes ou plus dans votre Défausse, passez à 7000 la puissance de base de tous vos Personnages de type {Cinq Doyens}.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-084_p1",
@@ -2457,6 +2550,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2481,6 +2575,7 @@
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Dragon céleste} autre que [Princesse Sharlia] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2505,6 +2600,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Placez dans votre Défausse 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2529,6 +2625,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2554,6 +2651,7 @@
     ],
     "effect": "Si vous avez 7 cartes ou plus dans votre Défausse, ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse et gagne [Bloqueur].<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-089_p1",
@@ -2593,6 +2691,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2618,6 +2717,7 @@
     ],
     "effect": "Si vous avez 7 cartes ou plus dans votre Défausse, ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse et gagne [Bloqueur].<br>[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-091_p1",
@@ -2655,6 +2755,7 @@
     ],
     "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre Vie, jouez jusqu'à 1 carte Lieu de type {Terre Sainte de Marie Joie} de votre Défausse ayant un coût de 1.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2679,6 +2780,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2704,6 +2806,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Personnages de type {Dragon céleste} gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2728,6 +2831,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Si tous vos Personnages sont de type {Dragon céleste}, mettez KO jusqu'à 2 Personnages adverses ayant un coût de base de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2751,6 +2855,7 @@
     ],
     "effect": "[Principale] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Dragon céleste} autre que [Les Cinq Doyens sont à genoux devant vous&nbsp;!!] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2774,6 +2879,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 5 de vos cartes DON!!&nbsp;: Si tous les Personnages de votre terrain sont de type {Dragon céleste}, mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 6 ou moins.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2797,6 +2903,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Si votre Leader est [Imu], mettez KO jusqu'à 1 Lieu adverse ayant un coût de 7.<br>[Contre] Si votre Leader est [Imu], jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2819,6 +2926,7 @@
     ],
     "effect": "[Votre tour] Si vous avez 19 cartes ou plus dans votre Défausse, votre Leader gagne +1000 de puissance.<br>[Activation&nbsp;: Principale] Vous pouvez épuiser cette carte et 3 de vos cartes DON!!&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Cinq Doyens} noire de votre main ayant un coût inférieur ou égal au nombre de cartes DON!! sur votre terrain.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2844,6 +2952,7 @@
     ],
     "effect": "[Votre tour] [Une fois par tour] Peut être activé quand un de vos Personnages ayant [Déclenchement] est joué. Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-100_p1",
@@ -2876,6 +2985,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2901,6 +3011,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si le nombre de cartes de votre Vie est inférieur ou égal à celui de la Vie adverse, piochez 1 carte. Puis, épuisez jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
     "trigger": "[Déclenchement] Piochez 1 carte et épuisez jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2925,6 +3036,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2950,6 +3062,7 @@
     ],
     "effect": "[Bloqueur]<br>[En cas de KO] Vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est multicolore, ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2975,6 +3088,7 @@
     ],
     "effect": "[Jouée] Regardez toutes les cartes de votre Vie et replacez-les dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -2999,6 +3113,7 @@
     ],
     "effect": "[Tour adverse] Quand [Déclenchement] est activé, ce Personnage gagne [Bloqueur] pour tout le tour.",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3024,6 +3139,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3049,6 +3165,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Egg Head}, ce Personnage gagne [Initiative] pour tout le tour. Puis, votre adversaire ajoute à sa main 1 carte du dessus de sa Vie.",
     "trigger": "[Déclenchement] Si vous avez 1 carte ou moins dans votre Vie, épuisez jusqu'à 1 Personnage adverse ayant un coût de 7 ou moins.",
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-108_p1",
@@ -3081,6 +3198,7 @@
     ],
     "effect": "Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez retourner 1 carte du dessus de votre Vie face visible à la place.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3106,6 +3224,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Si votre Leader est de type {Egg Head}, jouez jusqu'à 1 carte Personnage de votre main ayant [Déclenchement] et un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-110_p1",
@@ -3138,6 +3257,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3163,6 +3283,7 @@
     ],
     "effect": "Si vous avez un total de 2 cartes DON!! déjà données ou plus, ce Personnage gagne [Bloqueur].<br>(Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3188,6 +3309,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant [Déclenchement] autre que [Lilith] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Jouée] de cette carte.",
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-113_p1",
@@ -3220,6 +3342,7 @@
     ],
     "effect": "[Jouée]/[En attaquant] Vous pouvez retourner 1 carte du dessus de votre Vie face visible&nbsp;: Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-114_p1",
@@ -3250,6 +3373,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat. Puis, si votre adversaire a 2 cartes ou moins dans sa Vie, jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3273,6 +3397,7 @@
     ],
     "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage de type {Supernovae} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3297,6 +3422,7 @@
     ],
     "effect": "[Principale] Vous pouvez retourner 1 carte du dessus de votre Vie face visible&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 6 ou moins.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP13",
     "variants": []
   },
   {
@@ -3323,6 +3449,7 @@
     ],
     "effect": "[Double attaque]<br>[Jouée] Si votre Leader est multicolore, redressez jusqu'à 4 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 5 ou plus pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-118_p1",
@@ -3372,6 +3499,7 @@
     ],
     "effect": "Si vous avez 3 cartes ou moins dans votre Vie, ce Personnage gagne [Initiative].<br>[Jouée] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader. Puis, vous pouvez renvoyer à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Si vous faites ainsi, votre adversaire joue jusqu'à 1 carte Personnage de sa main ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-119_p1",
@@ -3422,6 +3550,7 @@
     ],
     "effect": "[Bloqueur]<br>[Activation&nbsp;: Principale] [Une fois par tour] Augmentez de +2 le coût de jusqu'à 1 de vos Personnages jusqu'à la fin du prochain tour adverse. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader.",
     "trigger": null,
+    "tile_set_id": "OP13",
     "variants": [
       {
         "id": "OP13-120_p1",

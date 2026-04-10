@@ -22,6 +22,7 @@
     ],
     "effect": "[Fin de votre tour] Ajoutez à votre main 1 carte du dessus de votre Vie.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Si vous avez 2 cartes ou moins dans votre Vie et que votre Leader inclut «Équipage de Barbe Blanche» dans son type, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Vous pouvez défausser 1 carte de votre main incluant «Équipage de Barbe Blanche» dans son type&nbsp;: Si vous avez 2 cartes ou moins dans votre Vie, jouez cette carte Personnage épuisée depuis votre Défausse.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -94,6 +97,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [Votre tour] Tous vos Personnages incluant «Équipage de Barbe Blanche» dans leur type gagnent +1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -117,6 +121,7 @@
     ],
     "effect": "[Principale] Si vous avez 3  cartes ou moins dans votre Vie, vous ne pouvez pas ajouter de cartes de votre Vie à votre main grâce à vos effets pour tout le tour.",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos Leaders gagne +1000 de puissance pour tout le tour.",
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -142,6 +147,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Équipage de Barbe Blanche» dans son type autre que [Izo] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -166,6 +172,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -191,6 +198,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -215,6 +223,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -239,6 +248,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -263,6 +273,7 @@
     ],
     "effect": "[En attaquant] Si votre Leader est [Edward Newgate], vous ne pouvez pas ajouter de cartes de votre Vie à votre main grâce à vos effets pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -288,6 +299,7 @@
     ],
     "effect": "[Jouée] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.<br>[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant 5000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": [
       {
         "id": "ST15-002_p1",
@@ -337,6 +349,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Tour adverse] Quand ce Personnage est mis KO par un effet, jusqu'à 1 de vos Leaders gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -361,6 +374,7 @@
     ],
     "effect": "[Jouée] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, jusqu'à 1 Personnage adverse perd -2000 de puissance pour tout le tour. Puis, ajoutez à votre main 1 carte du dessus de votre Vie.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": []
   },
   {
@@ -385,6 +399,7 @@
     ],
     "effect": "Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)<br>[Une fois par tour] Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez lui faire perdre -2000 de puissance pour tout le tour à la place.",
     "trigger": null,
+    "tile_set_id": "ST15",
     "variants": [
       {
         "id": "ST15-005_p1",

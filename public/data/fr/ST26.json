@@ -21,6 +21,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Tour adverse] Si vous avez 10 cartes DON!! sur votre terrain, ce Personnage gagne +1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Si vous avez 8 cartes DON!! ou plus sur votre terrain, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -96,6 +99,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Augmentez de +1 le coût de tous vos Personnages.<br>[Votre tour] [Une fois par tour] Quand 2 cartes DON!! ou plus de votre terrain sont renvoyées à votre deck DON!!, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!! et ajoutez jusqu'à 1 carte épuisée en plus.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -120,6 +124,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -144,6 +149,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -168,6 +174,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -191,6 +198,7 @@
     ],
     "effect": "[Principale] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
     "trigger": "[Déclenchement] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -214,6 +222,7 @@
     ],
     "effect": "[Contre] DON!!&nbsp;-2&nbsp;; vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est de type {Équipage de Chapeau de paille}, jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -238,6 +247,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": [
       {
         "id": "ST14-010_p1",
@@ -279,6 +289,7 @@
     ],
     "effect": "Si vous avez un Personnage [Sangoro] ou [Sanji] ayant 7000 de puissance de base ou plus, réduisez de -5 le coût de cette carte de votre main.<br>[Jouée] Renvoyez à la main de leur propriétaire tous vos [Sangoro] et [Sanji].",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -304,6 +315,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Épuisez jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins ou jusqu'à 1 carte DON!! adverse.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -328,6 +340,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -352,6 +365,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Jusqu'à 2 Personnages adverses perdent -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   },
   {
@@ -376,6 +390,7 @@
     ],
     "effect": "[Jouée]/[En attaquant] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Si votre Leader est multicolore et que votre adversaire a 5 cartes DON!! ou plus sur son terrain, passez à 7000 la puissance de base de votre Leader de type {Équipage de Chapeau de paille} jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "ST26",
     "variants": []
   }
 ]

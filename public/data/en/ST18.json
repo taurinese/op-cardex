@@ -21,6 +21,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -45,6 +46,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -69,6 +71,7 @@
     ],
     "effect": "[On Play] If you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -94,6 +97,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -118,6 +122,7 @@
     ],
     "effect": "[When Attacking] If you have 3 or less Life cards, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -143,6 +148,7 @@
     ],
     "effect": "[On Play] If you have 8 or more DON!! cards on your field, set up to 1 of your purple {Straw Hat Crew} type Characters with 6000 power or less as active.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -167,6 +173,7 @@
     ],
     "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -191,6 +198,7 @@
     ],
     "effect": "[On Play] If you have 8 or more DON!! cards on your field, give up to 2 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -213,6 +221,7 @@
     ],
     "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -238,6 +247,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -262,6 +272,7 @@
     ],
     "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-001_p1",
@@ -319,6 +330,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-002_p1",
@@ -360,6 +372,7 @@
     ],
     "effect": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-003_p2",
@@ -409,6 +422,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-004_p1",
@@ -450,6 +464,7 @@
     ],
     "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-005_p1",

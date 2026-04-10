@@ -29,6 +29,7 @@ export type CardVariant = {
 export type Card = {
   id: string
   pack_id: string
+  tile_set_id: string
   name: string
   rarity: CardRarity
   category: CardCategory
@@ -53,6 +54,8 @@ export type SetMeta = {
   card_count: number
   langs: Lang[]
 }
+
+export type CardMap = Record<string, string> // cardId → setId
 
 export type DataIndex = {
   sets: SetMeta[]

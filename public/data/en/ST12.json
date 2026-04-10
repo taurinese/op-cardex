@@ -23,6 +23,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] [Once Per Turn] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Set up to 1 of your Characters with 7000 power or less as active.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -47,6 +48,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
     "trigger": "[Trigger] Play this card.",
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -72,6 +74,7 @@
     ],
     "effect": "[On Play] If you have 2 or less Characters, play up to 1 {Muggy Kingdom} type or <Slash> attribute Character card with a cost of 4 or less other than [Dracule Mihawk] from your hand rested.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -97,6 +100,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -122,6 +126,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": [
       {
         "id": "ST12-005_p1",
@@ -163,6 +168,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Choose one:<br>• Rest up to 1 of your opponent's Characters with a cost of 2 or less.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -187,6 +193,7 @@
     ],
     "effect": "[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.): If your opponent has 3 or more Life cards, set up to 1 of your <Slash> attribute Characters with a cost of 4 or less as active.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -211,6 +218,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": [
       {
         "id": "ST12-008_p1",
@@ -244,6 +252,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -269,6 +278,7 @@
     ],
     "effect": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2. Then, place the rest at the top or bottom of your deck.<br>[When Attacking] [Once Per Turn] Draw 1 card if you have 6 or less cards in your hand.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -293,6 +303,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] If you have 5 or less cards in your hand, this Character gains +2000 power until the start of your next turn.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -317,6 +328,7 @@
     ],
     "effect": "[Activate: Main] Return this Character to the owner's hand.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": [
       {
         "id": "ST12-012_p1",
@@ -350,6 +362,7 @@
     ],
     "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.<br>[When Attacking] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2 rested. Then, place the rest at the top or bottom of your deck.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -374,6 +387,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": [
       {
         "id": "ST12-014_p2",
@@ -423,6 +437,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -445,6 +460,7 @@
     ],
     "effect": "[Main]/[Counter] Rest up to 1 of your opponent's Leader or Character cards with a cost of 4 or less.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "tile_set_id": "ST12",
     "variants": []
   },
   {
@@ -467,6 +483,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, reveal 1 card from the top of your deck, play up to 1 Character card with a cost of 2, and place the rest at the top or bottom of your deck.",
     "trigger": null,
+    "tile_set_id": "ST12",
     "variants": [
       {
         "id": "ST12-017_p1",

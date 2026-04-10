@@ -21,6 +21,7 @@
     ],
     "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Fin de votre tour] Redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -71,6 +73,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Thriller Bark} ou [Dracule Mihawk] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -97,6 +100,7 @@
     ],
     "effect": "[Tour adverse] Tous vos Personnages de type {Marine} ou {Punk Hazard} gagnent +1000 de puissance.<br>[Activation&nbsp;: Principale] [Une fois par tour] Si vous avez un Personnage ayant 7000 de puissance ou plus, redressez jusqu'à 2 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-001_p1",
@@ -130,6 +134,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] [En attaquant] Vous pouvez renvoyer à la main de son propriétaire 1 de vos Personnages de type {Punk Hazard} ayant un coût de 2 ou plus&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant 4000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-002_p1",
@@ -162,6 +167,7 @@
     ],
     "effect": "[Fin de votre tour] Si vous avez un Personnage de type {Équipage de Don Quijote} ayant 6000 de puissance ou plus, redressez jusqu'à 1 de vos cartes DON!!.<br>[Tour adverse] [Une fois par tour] Quand vous activez un Événement, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-003_p1",
@@ -195,6 +201,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Punk Hazard} autre que [Vergo] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -220,6 +227,7 @@
     ],
     "effect": "[Votre tour] Ce Personnage gagne +3000 de puissance.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-005_p1",
@@ -252,6 +260,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Smiley] et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 [Smiley] de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -276,6 +285,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 carte Personnage de type {Punk Hazard} de votre main ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -300,6 +310,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] S'il n'y a pas de [Rock] vous appartenant, jouez jusqu'à 1 [Rock] de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -325,6 +336,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Punk Hazard}, jusqu'à 1 Personnage adverse perd -3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -350,6 +362,7 @@
     ],
     "effect": "[En attaquant] Si vous avez 1 Personnage ou moins ayant 6000 de puissance ou plus, ce Personnage gagne +1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -375,6 +388,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Tour adverse] Ce Personnage gagne +2000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-011_p1",
@@ -417,6 +431,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -442,6 +457,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -468,6 +484,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -492,6 +509,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -517,6 +535,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages. Puis, jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-016_p1",
@@ -548,6 +567,7 @@
     ],
     "effect": "[Jouée] S'il n'y a pas de [Scotch] vous appartenant, jouez jusqu'à 1 [Scotch] de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -571,6 +591,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat. Puis, jusqu'à 1 Leader ou Personnage adverse perd -2000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-018_p1",
@@ -611,6 +632,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 5 de vos cartes DON!!&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant 8000 de puissance ou moins.<br>[Contre] Jusqu'à 1 de vos Leaders gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-019_p1",
@@ -641,6 +663,7 @@
     ],
     "effect": "[Principale] Jusqu'à 1 Personnage adverse perd -4000 de puissance pour tout le tour. Puis, si vous avez 2 cartes ou moins dans votre Vie, jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant 3000 de puissance ou moins.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -663,6 +686,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Lieu&nbsp;: Si votre Leader est [César Clown], donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -690,6 +714,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [Activation&nbsp;: Principale] [Une fois par tour] Si le coût total de vos Personnages est de 5 ou plus, vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Révélez 1 carte du dessus de votre Vie&nbsp;; si c'est une carte Personnage de type {Supernovae} ayant un coût de 5 ou moins, vous pouvez la jouer.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-022_p1",
@@ -722,6 +747,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Marine}, épuisez jusqu'à 2 Personnages adverses ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -748,6 +774,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -773,6 +800,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, piochez 3 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -799,6 +827,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage et 1 [Kinémon] de votre Défausse ayant 0 de puissance au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Jouez jusqu'à 1 [Kinémon] de votre main ayant un coût de 6.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -825,6 +854,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage et 1 [Kinémon] de votre Défausse ayant 1000 de puissance au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Jouez jusqu'à 1 [Kinémon] de votre main ayant un coût de 6.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -851,6 +881,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 2 de vos cartes DON!! et placer ce Personnage dans votre Défausse&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 2 cartes de type {Neuf fourreaux rouges} et ajoutez-les à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -876,6 +907,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, redressez jusqu'à 1 de vos Personnages épuisés de type {ODYSSEY} ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -901,6 +933,7 @@
     ],
     "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)<br>[Activation&nbsp;: Principale] Redressez jusqu'à 1 de vos cartes DON!!. Puis, vous ne pouvez pas redresser de carte DON!! grâce à l'effet d'un Personnage pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-030_p1",
@@ -941,6 +974,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -966,6 +1000,7 @@
     ],
     "effect": "Si un de vos Personnages verts autre que [Tashigi] quitte le terrain à cause d'un effet adverse, vous pouvez épuiser ce Personnage à la place.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-032_p1",
@@ -1006,6 +1041,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés de type {ODYSSEY}, jusqu'à 1 carte DON!! adverse épuisée ne pourra pas être redressée lors de la prochaine phase de Recharge de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1031,6 +1067,7 @@
     ],
     "effect": "[Une fois par tour] Si ce Personnage est mis KO en combat, vous pouvez ajouter à votre main 1 carte du dessus de votre Vie à la place.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1056,6 +1093,7 @@
     ],
     "effect": "[En cas de KO] Épuisez jusqu'à 1 Leader ou Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1082,6 +1120,7 @@
     ],
     "effect": "[Votre tour] [Une fois par tour] Quand un Personnage est épuisé à cause de vos effets, redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1106,6 +1145,7 @@
     ],
     "effect": "[Une fois par tour] Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez épuiser 1 de vos Personnages de type {ODYSSEY} à la place.<br>[Fin de votre tour] Redressez jusqu'à 1 de vos Personnages de type {ODYSSEY}.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-037_p1",
@@ -1139,6 +1179,7 @@
     ],
     "effect": "[Tour adverse] Si vous avez 2 Personnages ou plus épuisés, ce Personnage gagne +2000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1163,6 +1204,7 @@
     ],
     "effect": "[Principale] Si votre Leader est de type {ODYSSEY}, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 2 cartes Personnage de type {ODYSSEY} et ajoutez-les à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1187,6 +1229,7 @@
     ],
     "effect": "[Principale]/[Contre] Mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 7 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1211,6 +1254,7 @@
     ],
     "effect": "[Principale] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 6 ou moins. Puis, mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 5 ou moins.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1237,6 +1281,7 @@
     ],
     "effect": "Augmentez de +1 le coût de tous vos Personnages de type {Dressrosa} ayant un coût de 2 ou plus.<br>[Tour adverse] [Une fois par tour] Peut être activé quand un de vos Personnages de type {Dressrosa} quitte le terrain à cause d'un effet adverse ou est mis KO. Si vous avez 5 cartes ou moins dans votre main, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-042_p1",
@@ -1269,6 +1314,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Jusqu'à 1 de vos Personnages [Monkey D. Luffy] gagne [Exil] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1294,6 +1340,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1319,6 +1366,7 @@
     ],
     "effect": "[En attaquant] [Une fois par tour] Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-045_p1",
@@ -1350,6 +1398,7 @@
     ],
     "effect": "[Jouée] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-046_p1",
@@ -1390,6 +1439,7 @@
     ],
     "effect": "[En attaquant] Vous pouvez renvoyer à la main de son propriétaire 1 de vos Personnages de type {Armée révolutionnaire} ayant un coût de 3 ou plus&nbsp;: Ce Personnage gagne +3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1415,6 +1465,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1440,6 +1491,7 @@
     ],
     "effect": "Si un de vos Personnages ayant un coût de base de 7 ou moins autre que [Sabo] quitte le terrain à cause d'un effet adverse, vous pouvez renvoyer ce Personnage à la main de son propriétaire à la place.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-049_p1",
@@ -1475,6 +1527,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1501,6 +1554,7 @@
     ],
     "effect": "[DON!! x1] [En attaquant] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage de type {Armée révolutionnaire} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1526,6 +1580,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1551,6 +1606,7 @@
     ],
     "effect": "Si vous avez un Personnage de type {Tribu Tontatta} autre que [Bee Anne], ce Personnage gagne [Bloqueur].",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1575,6 +1631,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1599,6 +1656,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1624,6 +1682,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser votre Leader ou 1 de vos Lieux, de type {Dressrosa}, et renvoyer à la main de son propriétaire 1 de vos Personnages de type {Dressrosa} ayant un coût de 4 ou plus&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1649,6 +1708,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser votre Leader ou 1 de vos Lieux&nbsp;: Si votre Leader est [Usopp], regardez 5 cartes du dessus de votre deck, révélez jusqu'à 2 cartes de type {Dressrosa} autres que [Léo] et ajoutez-les à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1673,6 +1733,7 @@
     ],
     "effect": "[Jouée] S'il y a un Personnage ayant un coût de 8 ou plus, piochez 1 carte. Puis, révélez jusqu'à 2 cartes Personnage de type {Dressrosa} de votre main ayant un coût de 7 ou moins autres que [Rebecca]. Jouez 1 des cartes révélées&nbsp;; si la carte restante a un coût de 4 ou moins, jouez-la épuisée.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-058_p1",
@@ -1703,6 +1764,7 @@
     ],
     "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage de type {Dressrosa} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1726,6 +1788,7 @@
     ],
     "effect": "[Principale] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1749,6 +1812,7 @@
     ],
     "effect": "[Principale] Piochez 1 carte. Puis, renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
     "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 2 ou moins.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1773,6 +1837,7 @@
     ],
     "effect": "[Bloqueur]<br>[En cas de KO] DON!!&nbsp;-1&nbsp;: Si votre Leader est de type {Équipage de Don Quijote}, ajoutez à votre main jusqu'à 1 Événement violet de votre Défausse.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1798,6 +1863,7 @@
     ],
     "effect": "[Jouée] Si votre Leader inclut «Germa» dans son type, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Germa» dans son type et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1822,6 +1888,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1846,6 +1913,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-065_p1",
@@ -1879,6 +1947,7 @@
     ],
     "effect": "[Attaque adverse] [Une fois par tour] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1903,6 +1972,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Ajoutez à votre main jusqu'à 1 Événement violet de votre Défausse ayant un coût de 5 ou moins. Puis, redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-067_p1",
@@ -1934,6 +2004,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1959,6 +2030,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -1983,6 +2055,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Tous vos Personnages ayant 1000 de puissance de base ou moins ne peuvent pas être mis KO par un effet adverse jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2008,6 +2081,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-1&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Équipage de Don Quijote} de votre main ayant un coût de 5 ou moins.<br>[Attaque adverse] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-071_p1",
@@ -2040,6 +2114,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 Événement de votre main&nbsp;: Piochez 2 cartes.<br>[Fin de votre tour] Si vous avez 7 cartes DON!! ou plus sur votre terrain, redressez jusqu'à 2 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-072_p1",
@@ -2071,6 +2146,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2095,6 +2171,7 @@
     ],
     "effect": "[Une fois par tour] Si ce Personnage est mis KO par un effet adverse, vous pouvez épuiser 2 de vos cartes DON!! redressées à la place.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2119,6 +2196,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2143,6 +2221,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est de type {Équipage de Don Quijote}, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2167,6 +2246,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En bloquant] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2190,6 +2270,7 @@
     ],
     "effect": "[Principale]/[Contre] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} autre que [Alors ne vous avisez plus jamais de vous moquer d'eux...] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2213,6 +2294,7 @@
     ],
     "effect": "[Principale] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": "[Déclenchement] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-079_p1",
@@ -2252,6 +2334,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, si vous avez 7 cartes DON!! ou plus sur votre terrain et 5 cartes ou moins dans votre main, piochez 1 carte.",
     "trigger": "[Déclenchement] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2277,6 +2360,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins. Puis, placez dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2302,6 +2386,7 @@
     ],
     "effect": "Ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Piochez 1 carte. Puis, jouez jusqu'à 1 carte Personnage de type {Équipage de Barbe Noire} de votre Défausse ayant un coût de 5 ou moins autre que [Kuzan].",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-082_p1",
@@ -2343,6 +2428,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage ainsi que votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2368,6 +2454,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-084_r1",
@@ -2402,6 +2489,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Si vous avez 8 cartes ou plus dans votre Défausse, ce Personnage gagne [Initiative].",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2426,6 +2514,7 @@
     ],
     "effect": "[Tour adverse] Ce Personnage gagne +2000 de puissance.<br>[Activation&nbsp;: Principale] [Une fois par tour] Si votre Leader est de type {Équipage de Barbe Noire} et que ce Personnage a été joué ce tour, mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2452,6 +2541,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage ainsi que votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Si votre adversaire a 5 cartes ou plus dans sa main, il défausse 1 carte de sa main. Puis, placez dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2477,6 +2567,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage ainsi que votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Piochez 1 carte. Puis, placez dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2502,6 +2593,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2527,6 +2619,7 @@
     ],
     "effect": "[Bloqueur]<br>[En cas de KO] Jouez jusqu'à 1 carte Personnage de type {Dressrosa} épuisée de votre Défausse ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-090_p1",
@@ -2559,6 +2652,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage ainsi que votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins. Puis, placez dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2583,6 +2677,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer 2 cartes de type {Équipage de Thriller Bark} de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Jusqu'à 1 de vos Personnages autre que [Perona] gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2607,6 +2702,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Augmentez de +3 le coût de jusqu'à 1 de vos Personnages noirs jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2632,6 +2728,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Ce Personnage gagne [Double attaque].",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2658,6 +2755,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser votre Leader ou 1 de vos Lieux, de type {Dressrosa}&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins. Puis, placez dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-095_p1",
@@ -2697,6 +2795,7 @@
     ],
     "effect": "[Principale] Mettez KO jusqu'à 1 Personnage adverse de type {Sept grands corsaires} ayant un coût de 8 ou moins.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse de type {Sept grands corsaires} ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2721,6 +2820,7 @@
     ],
     "effect": "[Principale] Jusqu'à 1 de vos Personnages de type {Dressrosa} gagne +2000 de puissance pour tout le tour. Puis, si vous avez 10 cartes ou plus dans votre Défausse, il gagne [Exil] pour tout le tour.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2743,6 +2843,7 @@
     ],
     "effect": "[Principale] Si vous avez au moins 2 Personnages de moins que votre adversaire, mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 6 ou moins et jusqu'à 1 Personnage adverse ayant un coût de base de 4 ou moins.",
     "trigger": "[Déclenchement] Annulez les effets de jusqu'à 1 Leader et Personnage adverses de chaque pour tout le tour.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2768,6 +2869,7 @@
     ],
     "effect": "[Fin de votre tour] Vous pouvez retourner 1 carte du dessus de votre Vie face visible&nbsp;: Redressez jusqu'à 1 de vos Personnages de type {Supernovae} ayant un coût compris entre 3 et 8&nbsp;; il gagne [Bloqueur] jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-099_p1",
@@ -2799,6 +2901,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Épuisez jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre total de cartes dans votre Vie et celle de votre adversaire.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Armée révolutionnaire} et que vous et votre adversaire avez un total de 5 cartes ou moins dans vos Vies, jouez cette carte.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2824,6 +2927,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2848,6 +2952,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Jusqu'à 3 de vos Personnages de type {Armée révolutionnaire} gagnent +1000 de puissance pour tout le tour. Puis, ajoutez à votre main 1 carte du dessus de votre Vie.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2873,6 +2978,7 @@
     ],
     "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Ajoutez face visible au-dessus de votre Vie jusqu'à 1 carte Personnage de type {Supernovae} de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2898,6 +3004,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Si votre Leader est de type {Supernovae} et que votre adversaire a 3 cartes ou plus dans sa Vie, ce Personnage ne peut pas être mis KO en combat.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2924,6 +3031,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-105_p1",
@@ -2966,6 +3074,7 @@
     ],
     "effect": "[En cas de KO] Si votre Leader est de type {Supernovae}, regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Supernovae} ou {Équipage de Kidd} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -2991,6 +3100,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Ajoutez face visible au-dessus de votre Vie jusqu'à 1 carte Personnage de type {Supernovae} de votre main ayant un coût de 5.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3016,6 +3126,7 @@
     ],
     "effect": "Si vous avez un Personnage jaune de type {Supernovae} autre que [Scratchmen Apoo], ce Personnage gagne [Bloqueur].",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-108_p1",
@@ -3058,6 +3169,7 @@
     ],
     "effect": "[En cas de KO] Placez dans sa Défausse jusqu'à 1 carte du dessus de la Vie adverse.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-109_p1",
@@ -3100,6 +3212,7 @@
     ],
     "effect": "[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre de cartes dans la Vie adverse.",
     "trigger": "[Déclenchement] Si vous avez 2 cartes ou moins dans votre Vie, jouez cette carte.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3125,6 +3238,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Supernovae} autre que [Monkey D. Luffy] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-111_p1",
@@ -3157,6 +3271,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser ce Personnage&nbsp;: Placez dans sa Défausse jusqu'à 1 carte du dessus de la Vie adverse.<br>[Fin de votre tour] Si votre adversaire a 2 cartes ou moins dans sa Vie, piochez 1 carte et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-112_p1",
@@ -3197,6 +3312,7 @@
     ],
     "effect": "Si votre Vie comporte moins de cartes que celle de votre adversaire, ce Personnage gagne [Initiative].",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est de type {Supernovae}, jouez cette carte.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3223,6 +3339,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si le nombre de cartes de votre Vie est inférieur ou égal à celui de la Vie adverse, épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-114_p1",
@@ -3271,6 +3388,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, si vous avez 0 carte dans votre Vie, piochez 1 carte.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre de cartes dans la Vie adverse.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3294,6 +3412,7 @@
     ],
     "effect": "[Principale] Regardez jusqu'à 1 carte du dessus de votre Vie ou de celle de votre adversaire et placez-la au-dessus ou au-dessous de la Vie. Puis, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3317,6 +3436,7 @@
     ],
     "effect": "[Contre] Si vous avez 1 carte ou moins dans votre Vie, jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat. Puis, redressez jusqu'à 1 de vos Personnages ayant un coût de 5 ou moins.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3343,6 +3463,7 @@
     ],
     "effect": "Ce Personnage ne peut pas être mis KO par un effet adverse une fois par tour.<br>[En attaquant] Vous pouvez placer 3 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Si votre adversaire a 5 cartes ou plus dans sa main, il défausse 1 carte de sa main.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-118_p1",
@@ -3376,6 +3497,7 @@
     ],
     "effect": "[Jouée] Révélez jusqu'à 1 carte Personnage de type {Supernovae} de votre main et ajoutez-la face cachée au-dessus de votre Vie. Puis, donnez jusqu'à 1 carte DON!! épuisée à 1 de vos Leaders de type {Supernovae}.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": [
       {
         "id": "OP10-119_p1",
@@ -3429,6 +3551,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Renvoyez ce Personnage à la main de son propriétaire.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3453,6 +3576,7 @@
     ],
     "effect": "[Jouée] Si vous avez un Personnage ayant un coût de 6 ou plus, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3478,6 +3602,7 @@
     ],
     "effect": "[Jouée] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.<br>[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant 5000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   },
   {
@@ -3502,6 +3627,7 @@
     ],
     "effect": "[Jouée] Si vous avez 8 cartes DON!! ou plus sur votre terrain, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP10",
     "variants": []
   }
 ]

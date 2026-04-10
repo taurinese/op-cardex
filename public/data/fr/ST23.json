@@ -22,6 +22,7 @@
     ],
     "effect": "[Une fois par tour] Peut être activé quand votre adversaire attaque. Jusqu'à 1 Leader ou Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 [Monster] de votre main.<br>[DON!!&nbsp;x1] [En attaquant] Ce Personnage gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -94,6 +97,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre Leader est de type {Équipage du Roux}, jusqu'à 1 Personnage adverse perd -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -119,6 +123,7 @@
     ],
     "effect": "Si un de vos Personnages [Bonk Punch] est mis KO par un effet, vous pouvez placer ce Personnage dans votre Défausse à la place.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -143,6 +148,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Leaders gagne +1000 de puissance jusqu'à la fin du prochain tour adverse.<br>[DON!!&nbsp;x1] [En attaquant] Jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -167,6 +173,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 Personnage adverse ayant 4000 de puissance ou moins ne peut pas activer [Bloqueur] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -191,6 +198,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Si votre Leader est de type {Équipage du Roux}, mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -215,6 +223,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -238,6 +247,7 @@
     ],
     "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage du Roux} autre que [Qu'ils viennent&nbsp;!! On les attend de pied ferme&nbsp;!!] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -262,6 +272,7 @@
     ],
     "effect": "Si vous avez un Personnage ayant 10000 de puissance ou plus, réduisez de -4 le coût de cette carte de votre main.<br>[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -287,6 +298,7 @@
     ],
     "effect": "Si votre adversaire a un Personnage ayant 8000 de puissance de base ou plus, réduisez de -3 le coût de cette carte de votre main.<br>[Jouée] Si votre Leader est de type {Équipage du Roux} ou est [Uta], votre Leader gagne +2000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -311,6 +323,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est de type {Équipage du Roux}, mettez KO jusqu'à 1 Personnage adverse ayant 4000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -337,6 +350,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   },
   {
@@ -361,6 +375,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "ST23",
     "variants": []
   }
 ]

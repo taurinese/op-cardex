@@ -22,6 +22,7 @@
     ],
     "effect": "[DON!! x1] [Votre tour] Pour chaque tranche de 3 cartes DON!! épuisées vous appartenant, ce Personnage gagne +1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "EB01-014_p2",
@@ -54,6 +55,7 @@
     ],
     "effect": "[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "EB01-015_p2",
@@ -83,6 +85,7 @@
     ],
     "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage incluant «Équipage de Barbe Blanche» dans son type et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP02-022_p2",
@@ -116,6 +119,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP02-034_p2",
@@ -147,6 +151,7 @@
     ],
     "effect": "[Jouée] Piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -171,6 +176,7 @@
     ],
     "effect": "[Jouée] Piochez 3 cartes et défaussez 2 cartes de votre main.",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP03-116_p2",
@@ -202,6 +208,7 @@
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Dressrosa} autre que [Rebecca] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP04-092_p2",
@@ -231,6 +238,7 @@
     ],
     "effect": "[Contre] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP05-037_p2",
@@ -266,6 +274,7 @@
     ],
     "effect": "[Principale] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille}, {Équipage de Kidd} ou {Équipage du Heart} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -290,6 +299,7 @@
     ],
     "effect": "[Jouée] Votre adversaire doit renvoyer toutes les cartes de sa main à son deck et le mélanger. Puis, votre adversaire doit piocher 5 cartes.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP06-047_p2",
@@ -321,6 +331,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 2 cartes de votre main&nbsp;: Votre adversaire renvoie 1 de ses Personnages à la main de son propriétaire.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP06-051_p2",
@@ -354,6 +365,7 @@
     ],
     "effect": "[Votre tour] [Une fois par tour] Quand une carte DON!! de votre terrain est renvoyée à votre deck DON!!, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP06-076_p2",
@@ -383,6 +395,7 @@
     ],
     "effect": "[Contre] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Si vous avez 0 carte dans votre Vie, ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, défaussez 1 carte de votre main.",
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -408,6 +421,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP07-040_p2",
@@ -439,6 +453,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Piochez 2 cartes, réorganisez 2 cartes de votre main dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP07-053_p2",
@@ -470,6 +485,7 @@
     ],
     "effect": "[Jouée] Vous pouvez placer 2 cartes de votre Défausse incluant «CP» dans leur type au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Réduisez de -3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP07-080_p2",
@@ -501,6 +517,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer 1 de vos Personnages autre que celui-ci à la main de son propriétaire&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -525,6 +542,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -550,6 +568,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Upper Yard] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 [Upper Yard] de votre main.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP08-110_p2",
@@ -581,6 +600,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre Leader est de type {Équipage du Roux}, jusqu'à 1 Personnage adverse perd -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP09-011_p2",
@@ -613,6 +633,7 @@
     ],
     "effect": "[En attaquant] [Une fois par tour] Si vous avez 3 Personnages ou plus épuisés, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP09-027_p3",
@@ -645,6 +666,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Si votre Leader est de type {Armée révolutionnaire} et que vous et votre adversaire avez un total de 5 cartes ou moins dans vos Vies, jouez cette carte.",
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "OP09-108_p2",
@@ -676,6 +698,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Épuisez jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -701,6 +724,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a 6 cartes ou plus dans sa main, il ajoute à sa main 1 carte de sa Vie.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -726,6 +750,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -750,6 +775,7 @@
     ],
     "effect": "[Double attaque] (Les dégâts infligés par cette carte passent à 2.)",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -774,6 +800,7 @@
     ],
     "effect": "[Jouée] Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -798,6 +825,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [Votre tour] Si vous avez 2 cartes ou moins dans votre Vie, ce Personnage gagne +2000 de puissance.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -822,6 +850,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 0.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -847,6 +876,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "P-041_p1",
@@ -880,6 +910,7 @@
     ],
     "effect": "[Jouée] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -904,6 +935,7 @@
     ],
     "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "P-045_p2",
@@ -936,6 +968,7 @@
     ],
     "effect": "[Tour adverse] Ce Personnage perd −3000 de puissance.<br>[En attaquant] Si votre Leader est de type {Marine}, passez à 7000 la puissance de base de votre Leader jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "P-092_p1",
@@ -968,6 +1001,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -993,6 +1027,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Équipage de Chapeau de paille}, redressez jusqu'à 2 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1017,6 +1052,7 @@
     ],
     "effect": "[Jouée] Piochez 2 cartes, réorganisez 2 cartes de votre main dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1043,6 +1079,7 @@
     ],
     "effect": "S'il y a 10 cartes DON!! sur votre terrain ou sur celui de votre adversaire, ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1067,6 +1104,7 @@
     ],
     "effect": "Si votre Leader est de type {Armée révolutionnaire}, ce Personnage gagne [Bloqueur]&nbsp;; augmentez de +4 le coût de ce Personnage.<br>[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1093,6 +1131,7 @@
     ],
     "effect": "[Fin de votre tour] Vous pouvez retourner 1 carte du dessus de votre Vie face visible&nbsp;: Redressez jusqu'à 1 de vos Personnages de type {Egg Head}.",
     "trigger": "[Déclenchement] Piochez 1 carte, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.",
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1118,6 +1157,7 @@
     ],
     "effect": "[Jouée] S'il y a 10 cartes DON!! sur votre terrain ou sur celui de votre adversaire, votre Leader gagne +2000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1142,6 +1182,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1167,6 +1208,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[DON!!&nbsp;x2] [En attaquant] Votre adversaire ne peut pas activer [Bloqueur] pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST01-012_p2",
@@ -1199,6 +1241,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Supernovae} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1223,6 +1266,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1247,6 +1291,7 @@
     ],
     "effect": "Ce Personnage ne peut pas être mis KO par un effet.<br>[DON!!&nbsp;x1] S'il y a un Personnage ayant un coût de 0, ce Personnage gagne [Double attaque].<br>(Les dégâts infligés par cette carte passent à 2.)",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1271,6 +1316,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST06-006_p2",
@@ -1303,6 +1349,7 @@
     ],
     "effect": "[Jouée] Votre adversaire effectue l'un des choix suivants&nbsp;:<br>• Votre adversaire place dans sa Défausse 1 carte du dessus de sa Vie.<br>• Ajoutez au-dessus de votre Vie 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1327,6 +1374,7 @@
     ],
     "effect": "[Jouée] Si vous avez 3 cartes DON!! ou moins sur votre terrain, ajoutez jusqu'à 2 cartes DON!! épuisées de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST10-008_p2",
@@ -1360,6 +1408,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez ajouter face visible au-dessus de votre Vie 1 de vos Personnages ayant un coût de 3 ou plus et 7000 de puissance ou plus&nbsp;: Jusqu'à 1 de vos Personnages gagne +2000 de puissance jusqu'au début de votre prochain tour.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1385,6 +1434,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] [Activation&nbsp;: Principale] [Une fois par tour] Regardez 5 cartes du dessus de votre deck et ajoutez face visible au-dessus de votre Vie jusqu'à 1 carte Personnage ayant un coût de 5. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.<br>[Fin de votre tour] Placez dans votre Défausse toutes les cartes face visible de votre Vie.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1411,6 +1461,7 @@
     ],
     "effect": "Les cartes face visible de votre Vie sont placées au-dessous de votre deck au lieu d'être ajoutées à votre main selon les règles.<br>[DON!!&nbsp;x2] [Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Si vous avez 0 carte dans votre Vie, ajoutez face visible au-dessus de votre Vie jusqu'à 2 cartes Personnage de votre main ou votre Défausse ayant un coût de 5.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": []
   },
   {
@@ -1435,6 +1486,7 @@
     ],
     "effect": "Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)<br>[Une fois par tour] Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez lui faire perdre -2000 de puissance pour tout le tour à la place.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST15-005_p2",
@@ -1468,6 +1520,7 @@
     ],
     "effect": "[Jouée] Mettez KO jusqu'à 1 Personnage adverse épuisé.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST16-004_p2",
@@ -1500,6 +1553,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages, de type {Sept grands corsaires}.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST17-004_p2",
@@ -1531,6 +1585,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Équipage de Chapeau de paille} violette de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST18-005_p2",
@@ -1562,6 +1617,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Smoker], réduisez de -4 le coût de jusqu'à 1 Personnage adverse pour tout le tour.<br>[Activation&nbsp;: Principale] [Une fois par tour] Si ce Personnage a été joué ce tour, placez dans sa Défausse jusqu'à 1 Personnage adverse ayant un coût de 0.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST19-003_p2",
@@ -1594,6 +1650,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Votre adversaire effectue l'un des choix suivants&nbsp;:<br>• Votre adversaire défausse 2 cartes de sa main.<br>• Votre adversaire place dans sa Défausse 1 carte du dessus de sa Vie.",
     "trigger": null,
+    "tile_set_id": "PROMO",
     "variants": [
       {
         "id": "ST20-005_p2",

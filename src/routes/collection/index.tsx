@@ -6,11 +6,11 @@ import FR from "country-flag-icons/react/3x2/FR"
 import JP from "country-flag-icons/react/3x2/JP"
 
 import { CardModal } from "@/components/card-modal"
-import { cardImageUrl, fetchIndex, fetchSet } from "@/lib/data"
+import { cardImageUrl, fetchCardMap, fetchIndex, fetchSet } from "@/lib/data"
 import { useCollection } from "@/lib/collection.tsx"
 import { useAuth } from "@/context/auth"
 import { cn } from "@/lib/utils"
-import type { Card, Lang, SetMeta } from "@/types/card"
+import type { Card, CardMap, Lang, SetMeta } from "@/types/card"
 
 // ---------------------------------------------------------------------------
 // Search params
@@ -45,9 +45,12 @@ export const Route = createFileRoute("/collection/")({
   validateSearch,
   loaderDeps: ({ search }) => ({ set: search.set, lang: search.lang }),
   loader: async ({ deps: { set, lang } }) => {
-    const index = await fetchIndex()
-    const cards = set ? await fetchSet(set, lang) : null
-    return { index, cards }
+    const [index, cardMap, cards] = await Promise.all([
+      fetchIndex(),
+      fetchCardMap(),
+      set ? fetchSet(set, lang) : Promise.resolve(null),
+    ])
+    return { index, cardMap, cards }
   },
   component: CollectionPage,
 })
@@ -102,7 +105,7 @@ const COLOR_DOT: Record<string, string> = {
 // ---------------------------------------------------------------------------
 
 function CollectionPage() {
-  const { index, cards } = Route.useLoaderData()
+  const { index, cardMap, cards } = Route.useLoaderData()
   const { set, lang, view, ownFilter } = Route.useSearch()
   const navigate = useNavigate({ from: "/collection/" })
   const { user } = useAuth()
@@ -195,7 +198,11 @@ function CollectionPage() {
   const setsForLang = index.sets
     .filter((s) => s.langs?.includes(lang))
     .filter((s) =>
-      Array.from(owned).some((k) => k.startsWith(`${lang}/${s.id}-`))
+      Array.from(owned).some((k) => {
+        if (!k.startsWith(`${lang}/`)) return false
+        const cardId = k.slice(lang.length + 1)
+        return cardMap[cardId] === s.id
+      })
     )
 
   // Auto-select first set when entering vue sets with no set chosen
@@ -266,6 +273,7 @@ function CollectionPage() {
         <OverviewView
           sets={setsForLang}
           lang={lang}
+          cardMap={cardMap}
           onSelectSet={(id) => {
             navigate({ search: (prev) => ({ ...prev, set: id, view: "sets" }) })
           }}
@@ -497,17 +505,25 @@ function CollectionPage() {
 function OverviewView({
   sets,
   lang,
+  cardMap,
   onSelectSet,
 }: {
   sets: SetMeta[]
   lang: Lang
+  cardMap: CardMap
   onSelectSet: (id: string) => void
 }) {
   const { owned } = useCollection()
 
-  const setsWithCards = sets.filter((s) =>
-    Array.from(owned).some((k) => k.startsWith(`${lang}/${s.id}-`))
-  )
+  function ownedCountForSet(s: SetMeta): number {
+    return Array.from(owned).filter((k) => {
+      if (!k.startsWith(`${lang}/`)) return false
+      const cardId = k.slice(lang.length + 1)
+      return cardMap[cardId] === s.id
+    }).length
+  }
+
+  const setsWithCards = sets.filter((s) => ownedCountForSet(s) > 0)
 
   if (setsWithCards.length === 0) {
     return (
@@ -520,10 +536,7 @@ function OverviewView({
   return (
     <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
       {setsWithCards.map((s) => {
-        // Count owned cards for this set in the current language
-        const ownedInSet = Array.from(owned).filter((k) =>
-          k.startsWith(`${lang}/${s.id}-`)
-        ).length
+        const ownedInSet = ownedCountForSet(s)
         const total = s.card_count
         const pct = total > 0 ? Math.round((ownedInSet / total) * 100) : 0
 

@@ -22,6 +22,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 5 de vos cartes DON!! et défausser 1 carte de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Cross Guild} de votre main.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[En cas de KO] Si votre Leader est de type {Cross Guild}, jouez jusqu'à 1 carte Personnage de votre main ayant un coût de 5 ou moins autre que [Alvida].",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "Si vous avez un Personnage [Baggy] ou [Morge], ce Personnage ne peut pas être mis KO en combat.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -95,6 +98,7 @@
     ],
     "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -119,6 +123,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Richie] et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 [Richie] de votre main.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -144,6 +149,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -169,6 +175,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -194,6 +201,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} ou incluant «Baroque Works» dans son type autre que [Mr 3 (Galdino)] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -216,6 +224,7 @@
     ],
     "effect": "[Principale] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -241,6 +250,7 @@
     ],
     "effect": "Ce Personnage ne peut pas attaquer.<br>Si votre Leader est [Baggy], tous les Personnages ayant un coût de 3 ou 4 ne peuvent pas attaquer.<br>[Jouée] Jouez jusqu'à 1 carte Personnage de type {Cross Guild} de votre main ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -265,6 +275,7 @@
     ],
     "effect": "Si vous avez 2 Personnages ou plus ayant un coût de base de 5 ou plus, augmentez de +1 le coût de ce Personnage.<br>[Jouée] Si votre Leader est [Baggy], piochez 3 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -289,6 +300,7 @@
     ],
     "effect": "Si vous avez 2 Personnages ou plus ayant un coût de base de 5 ou plus, ce Personnage gagne [Bloqueur]&nbsp;; augmentez de +1 le coût de ce Personnage.<br>(Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Tour adverse] Ce Personnage gagne +5000 de puissance.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -315,6 +327,7 @@
     ],
     "effect": "[Jouée] Piochez 2 cartes et défaussez 1 carte de votre main. Puis, jouez jusqu'à 1 carte Personnage de type {Cross Guild} de votre main ayant un coût de 4 ou moins.<br>[Une fois par tour] Si un de vos Personnages de type {Cross Guild} quitte le terrain à cause d'un effet adverse, vous pouvez défausser 1 carte de votre main à la place.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -340,6 +353,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main et placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est [Baggy], jouez jusqu'à 1 carte Personnage de type {Cross Guild} de votre main ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -364,6 +378,7 @@
     ],
     "effect": "Si vous avez 2 Personnages ou plus ayant un coût de base de 5 ou plus, ce Personnage gagne [Bloqueur]&nbsp;; augmentez de +1 le coût de ce Personnage.<br>(Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Si votre Leader est [Baggy] et que vous avez 3 cartes ou moins dans votre main, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   }
 ]

@@ -22,6 +22,7 @@
     ],
     "effect": "Vos effets [Jouée] sont annulés.<br>[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main&nbsp;: Les effets [Jouée] de votre adversaire sont annulés jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, réduisez de -3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "Ce Personnage ne peut pas être mis KO par un effet adverse.<br>Si votre Leader est de type {Équipage de Barbe Noire}, pour chaque tranche de 4 cartes dans votre Défausse, ce Personnage gagne +1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -94,6 +97,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Vous pouvez défausser 2 cartes de votre main&nbsp;: Piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -119,6 +123,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main et placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, piochez 1 carte. Puis, réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -143,6 +148,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -167,6 +173,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -191,6 +198,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Barbe Noire} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -213,6 +221,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main et épuiser ce Lieu&nbsp;: Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Barbe Noire} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -238,6 +247,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -262,6 +272,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 1 de vos [Ruche]&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, ce Personnage gagne +4000 de puissance pour tout le tour.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -286,6 +297,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, réduisez de -1 le coût de jusqu'à 1 Personnage adverse pour tout le tour.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -311,6 +323,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Jouez jusqu'à 1 carte Personnage de type {Équipage de Barbe Noire} épuisée de votre Défausse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -336,6 +349,7 @@
     ],
     "effect": "Si votre Leader est de type {Équipage de Barbe Noire}, ce Personnage gagne [Bloqueur]&nbsp;; pour chaque tranche de 4 cartes dans votre Défausse, augmentez de +1 le coût de ce Personnage.<br>(Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   },
   {
@@ -361,6 +375,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Mettez KO jusqu'à 1 Personnage ayant un coût de 3 ou moins.<br>[En cas de KO] Ajoutez à votre main jusqu'à 1 carte noire de votre Défausse.",
     "trigger": null,
+    "tile_set_id": "ST27",
     "variants": []
   }
 ]

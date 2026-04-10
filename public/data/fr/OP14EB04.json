@@ -24,6 +24,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En attaquant] Si votre adversaire a 2 cartes ou moins dans sa Vie, ce Personnage gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -49,6 +50,7 @@
     ],
     "effect": "[Jouée] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -74,6 +76,7 @@
     ],
     "effect": "[Initiative&nbsp;: Personnage] (Cette carte peut attaquer un Personnage durant le tour où elle est jouée.)<br>[Jouée] Pour chacun de vos Personnages de type {Monstres marins}, piochez 1 carte. Puis, défaussez un nombre de cartes de votre main égal au nombre de cartes piochées.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -100,6 +103,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Si ce Personnage a été joué ce tour, redressez votre Leader de type {Pays de Wano}.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-012_p1",
@@ -132,6 +136,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Minks}, redressez jusqu'à 2 de vos Personnages de type {Minks} et votre Leader.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-013_p1",
@@ -165,6 +170,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader de type {Pays de Wano}.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -192,6 +198,7 @@
     ],
     "effect": "[Bloqueur]<br>[En cas de KO] Vous pouvez épuiser 1 de vos cartes&nbsp;: Si votre Leader est de type {Hommes-poissons} ou {Sirènes}, jouez jusqu'à 1 carte Personnage verte de votre main ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -217,6 +224,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Redressez jusqu'à 1 de vos cartes DON!!. Puis, vous ne pouvez pas redresser de carte DON!! grâce à l'effet d'un Personnage pour tout le tour.<br>[En attaquant] Si vous avez 3 Personnages ou plus de type {Monstres marins}, épuisez jusqu'à 1 Personnage adverse ayant un coût de 8 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -243,6 +251,7 @@
     ],
     "effect": "[Votre tour] Si vous avez 3 Personnages ou plus de type {Minks}, réduisez de −1 le coût de tous les Personnages adverses.<br>[Jouée] Si votre Leader est de type {Minks}, jouez jusqu'à 1 carte Personnage de type {Minks} de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -269,6 +278,7 @@
     ],
     "effect": "[Jouée] Vous pouvez épuiser ce Personnage&nbsp;: Mettez KO jusqu'à 1 Personnage adverse épuisé ayant 8000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-018_p1",
@@ -299,6 +309,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 1 de vos cartes&nbsp;: Si votre Leader est de type {Minks}, réduisez de −3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.<br>[Contre] Jusqu'à 1 de vos Leaders ou Personnages, de type {Minks}, gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -324,6 +335,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages, de type {Hommes-poissons}, gagne +3000 de puissance pour tout le combat. Puis, redressez jusqu'à 1 de vos Personnages de type {Hommes-poissons}.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -349,6 +361,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Nefertari Vivi], piochez 2 cartes et défaussez 1 carte de votre main.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -375,6 +388,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 2 cartes de votre main&nbsp;: Si votre adversaire a 6 cartes ou plus dans sa main, il place 2 cartes de sa main au-dessous de son deck dans l'ordre de son choix.<br>[DON!!&nbsp;x1] [En attaquant] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-022_p1",
@@ -407,6 +421,7 @@
     ],
     "effect": "[Double attaque] (Les dégâts infligés par cette carte passent à 2.)<br>[Jouée] Vous pouvez faire perdre −5000 de puissance à votre Leader redressé pour tout le tour&nbsp;: Piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -432,6 +447,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage et défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Personnages de type {Royaume d'Alabasta} gagne [Imblocable] pour tout le tour.<br>(Cette carte ne peut pas être bloquée.)",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -457,6 +473,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 carte Personnage de type {Royaume d'Alabasta} de votre main ayant un coût de 8 ou moins autre que [Nefertari Vivi]. Puis, votre adversaire place 1 carte de sa main au-dessous de son deck.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-025_p1",
@@ -490,6 +507,7 @@
     ],
     "effect": "[Jouée] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.<br>[En attaquant] Piochez 1 carte et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -516,6 +534,7 @@
     ],
     "effect": "[Jouée] Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre main ayant 5000 de puissance ou moins et [Déclenchement].",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -539,6 +558,7 @@
     ],
     "effect": "[Principale] Vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est de type {Marine}, jusqu'à 2 Personnages adverses ayant 10000 de puissance ou moins ne peuvent pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 5 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -563,6 +583,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Sanji], regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 [Sanji] ou jusqu'à 1 Événement et ajoutez-le à votre main. Puis, placez les cartes restantes dans votre Défausse.<br>[Contre] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos [Sanji] gagne +4000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -589,6 +610,7 @@
     ],
     "effect": "Si ce Personnage est mis KO, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain à la place.<br>[Jouée] DON!!&nbsp;−2&nbsp;: Si votre Leader est de type {Équipage des cent bêtes}, ce Personnage gagne [Initiative] pour tout le tour. Puis, épuisez jusqu'à 1 Personnage adverse ayant un coût de 7 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -615,6 +637,7 @@
     ],
     "effect": "Si ce Personnage est mis KO, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain à la place.<br>[Activation&nbsp;: Principale] [Une fois par tour] Si votre Leader est de type {Équipage des cent bêtes} et que vous n'avez pas d'autre Personnage [King], ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!, puis ajoutez jusqu'à 1 carte DON!! épuisée en plus.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-031_p1",
@@ -647,6 +670,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de type {Équipage des cent bêtes} de votre main&nbsp;: Piochez 2 cartes.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Si votre Leader est de type {Équipage des cent bêtes}, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -674,6 +698,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;−1&nbsp;: Si vous avez 3 Personnages ou plus de type {Équipage de Foxy}, mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -699,6 +724,7 @@
     ],
     "effect": "[Bloqueur]<br>[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Si vous avez 4 Événements ou plus dans votre Défausse, jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -726,6 +752,7 @@
     ],
     "effect": "[Bloqueur]<br>[Votre tour] [Une fois par tour] Quand une carte DON!! de votre terrain est renvoyée à votre deck DON!!, si votre Leader est de type {Équipage de Kidd}, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -751,6 +778,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;−1&nbsp;: Si votre Leader est de type {Équipage de Foxy}, piochez 2 cartes et défaussez 1 carte de votre main. Puis, épuisez jusqu'à 1 Personnage adverse ayant un coût de 9 ou moins.<br>[Activation&nbsp;: Principale] [Une fois par tour] Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-036_p1",
@@ -783,6 +811,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Équipage de Foxy}, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Foxy} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -810,6 +839,7 @@
     ],
     "effect": "Le nom de cette carte est aussi considéré comme [Trafalgar Law] et [Don Quijote Rosinante] selon les règles.<br>[Bloqueur]<br>[Jouée] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, piochez 1 carte. Puis, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-038_p1",
@@ -843,6 +873,7 @@
     ],
     "effect": "[Jouée] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Équipage de Kidd} de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "EB04-039_p1",
@@ -874,6 +905,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 6 de vos cartes DON!!&nbsp;: Jusqu'à 1 de vos [Kaido] gagne +3000 de puissance pour tout le tour. Puis, épuisez jusqu'à 1 Personnage adverse.<br>[Contre] DON!!&nbsp;−1&nbsp;: Votre Leader gagne +4000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -897,6 +929,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Sanji] et que vous avez 4 cartes DON!! ou plus sur votre terrain, jouez jusqu'à 1 [Sanji] de votre main ou votre Défausse ayant 6000 de puissance ou moins.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -922,6 +955,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a 5 cartes ou plus dans sa main, effectuez l'un des choix suivants&nbsp;:<br>• Votre adversaire défausse 1 carte de sa main.<br>• Réduisez de −3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -947,6 +981,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Sept grands corsaires} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -973,6 +1008,7 @@
     ],
     "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP09-051_p5",
@@ -1005,6 +1041,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1031,6 +1068,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Redressez jusqu'à 4 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 7 ou plus pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1057,6 +1095,7 @@
     ],
     "effect": "[En cas de KO] Si votre Leader est de type {Supernovae}, jouez jusqu'à 1 carte Personnage de type {Supernovae} épuisée de votre main ayant un coût de 4 ou moins.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins et ajoutez cette carte à votre main.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1084,6 +1123,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Choisissez 2 de vos Personnages de type {Supernovae} ou {Équipage du Heart}. Échangez la puissance de base des Personnages choisis pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-001_p1",
@@ -1117,6 +1157,7 @@
     ],
     "effect": "[En attaquant] Si ce Personnage a 5000 de puissance ou plus, piochez 1 carte et mettez KO jusqu'à 1 Personnage adverse ayant 3000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1143,6 +1184,7 @@
     ],
     "effect": "Ce Personnage ne peut pas être mis KO par un effet d'un Personnage adverse ayant 5000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1170,6 +1212,7 @@
     ],
     "effect": "Si ce Personnage a 5000 de puissance ou plus, il gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1196,6 +1239,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1221,6 +1265,7 @@
     ],
     "effect": "[En attaquant] Si ce Personnage a 5000 de puissance ou plus, jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1247,6 +1292,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1273,6 +1319,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1300,6 +1347,7 @@
     ],
     "effect": "[Initiative]<br>[Attaque adverse] [Une fois par tour] Vous pouvez défausser 2 cartes de votre main&nbsp;: Choisissez votre Leader et 1 de vos Personnages. Échangez la puissance de base des cartes choisies pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-009_p1",
@@ -1333,6 +1381,7 @@
     ],
     "effect": "[En cas de KO] Regardez 5 cartes du dessus de votre deck et jouez jusqu'à 1 carte Personnage de type {Supernovae} ayant 2000 de puissance ou moins autre que [Basil Hawkins]. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1360,6 +1409,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] Ce Personnage gagne [Bloqueur].<br>(Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1386,6 +1436,7 @@
     ],
     "effect": "[En attaquant] Si ce Personnage a 5000 de puissance ou plus, donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1412,6 +1463,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Supernovae} autre que [Monkey D. Luffy] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.<br>[En attaquant] Jusqu'à 1 Personnage adverse perd −1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-013_p1",
@@ -1445,6 +1497,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Si votre Leader est de type {Supernovae}, jouez jusqu'à 1 carte Personnage rouge de votre main ayant 2000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1471,6 +1524,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En attaquant] Jusqu'à 1 Personnage adverse perd −1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-015_p1",
@@ -1505,6 +1559,7 @@
     ],
     "effect": "[Tour adverse] [Une fois par tour] Si un de vos Personnages de type {Supernovae} quitte le terrain à cause d'un effet adverse, vous pouvez faire perdre −2000 de puissance à votre Leader pour tout le tour à la place.<br>[DON!!&nbsp;x1] [En attaquant] Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1530,6 +1585,7 @@
     ],
     "effect": "[Principale] Choisissez 2 Personnages adverses ayant 9000 de puissance de base ou moins. Échangez la puissance de base des Personnages choisis pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1555,6 +1611,7 @@
     ],
     "effect": "[Contre] S'il y a un Personnage ayant 8000 de puissance ou plus, jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage rouge de votre main ayant 2000 de puissance ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1580,6 +1637,7 @@
     ],
     "effect": "[Principale] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage de type {Supernovae} ou {Équipage de Chapeau de paille} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1605,6 +1663,7 @@
     ],
     "effect": "Si le Leader adverse a l'attribut",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-020_p1",
@@ -1638,6 +1697,7 @@
     ],
     "effect": "[Votre tour] Quand ce Personnage est épuisé, vous pouvez ajouter à votre main 1 carte du dessus de votre Vie. Si vous faites ainsi, jusqu'à 1 Personnage adverse épuisé ou jusqu'à 1 Lieu adverse épuisé ne pourra pas être redressé lors de la prochaine phase de Recharge de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1664,6 +1724,7 @@
     ],
     "effect": "[Fin de votre tour] Si votre Leader est de type {FILM} ou {Équipage de Chapeau de paille}, redressez jusqu'à 2 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1690,6 +1751,7 @@
     ],
     "effect": "[Fin de votre tour] Redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1716,6 +1778,7 @@
     ],
     "effect": "[Jouée] Redressez jusqu'à 3 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage pour tout le tour.<br>[En cas de KO] Épuisez jusqu'à 1 carte adverse.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1742,6 +1805,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Kuro], jouez jusqu'à 1 carte Personnage de type {East Blue} de votre main ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1768,6 +1832,7 @@
     ],
     "effect": "[Tour adverse] Si ce Personnage est épuisé, il gagne +2000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1795,6 +1860,7 @@
     ],
     "effect": "[Votre tour] Quand ce Personnage est épuisé, épuisez jusqu'à 1 Personnage adverse ayant 7000 de puissance de base ou moins.<br>[Tour adverse] Si ce Personnage est épuisé, tous les Personnages adverses perdent −1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-027_p1",
@@ -1827,6 +1893,7 @@
     ],
     "effect": "[Votre tour] Quand ce Personnage est épuisé, mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1852,6 +1919,7 @@
     ],
     "effect": "[Tour adverse] Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez épuiser 1 de vos cartes à la place.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 2 de vos cartes&nbsp;: Ce Personnage gagne +2000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1877,6 +1945,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1903,6 +1972,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Épuisez jusqu'à 2 Personnages adverses ayant un coût de 8 ou moins. Puis, redressez jusqu'à 5 de vos cartes DON!! à la fin de ce tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-031_p1",
@@ -1936,6 +2006,7 @@
     ],
     "effect": "[Votre tour] Quand ce Personnage est épuisé, épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -1962,6 +2033,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 2 Personnages adverses ayant un coût de 5 ou moins ne peuvent pas être épuisés jusqu'à la fin de la prochaine phase de Fin de votre adversaire.<br>[En cas de KO] Vous pouvez épuiser 1 de vos cartes&nbsp;: Jouez jusqu'à 1 carte Personnage verte de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-033_p1",
@@ -1996,6 +2068,7 @@
     ],
     "effect": "[Votre tour] Tous vos Personnages verts de type {Équipage de Chapeau de paille} ayant un coût de base de 4 ou plus gagnent +1000 de puissance.<br>[Une fois par tour] Si un de vos Personnages de type {Équipage de Chapeau de paille} est mis KO par un effet adverse, vous pouvez épuiser 1 de vos Personnages à la place.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2021,6 +2094,7 @@
     ],
     "effect": "[Votre tour] Quand ce Personnage est épuisé, jusqu'à 1 Personnage adverse épuisé ayant un coût de 4 ou moins ne pourra pas être redressé lors de la prochaine phase de Recharge de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2045,6 +2119,7 @@
     ],
     "effect": "[Contre] Vous pouvez épuiser 1 de vos cartes&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Vous pouvez épuiser 1 de vos cartes&nbsp;: Épuisez jusqu'à 1 Personnage adverse ayant 7000 de puissance de base ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2069,6 +2144,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 3 de vos cartes&nbsp;: Mettez KO jusqu'à 1 Personnage adverse épuisé ayant 7000 de puissance de base ou moins.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2092,6 +2168,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 2 de vos cartes&nbsp;: Piochez 1 carte et épuisez jusqu'à 1 Personnage adverse ayant 7000 de puissance de base ou moins.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2116,6 +2193,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Dracule Mihawk], piochez 1 carte.<br>[Fin de votre tour] Si votre Leader est [Dracule Mihawk], redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2143,6 +2221,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages, de type {Hommes-poissons} ou {Sirènes}.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-040_p1",
@@ -2177,6 +2256,7 @@
     ],
     "effect": "[Tour adverse] Quand un de vos Personnages est joué, piochez 1 carte.<br>[DON!!&nbsp;x1] [Une fois par tour] Quand un de vos Personnages de type {Amazon Lily} ou {Équipage des Kuja} ayant 5000 de puissance de base ou plus est mis KO, ajoutez à la main de son propriétaire jusqu'à 1 carte du dessus de la Vie adverse.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-041_p1",
@@ -2210,6 +2290,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Hommes-poissons}, regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant un coût de 2 ou plus et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-042_p1",
@@ -2243,6 +2324,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 carte Personnage de type {Hommes-poissons} ou {Sirènes} de votre main ayant un coût de 3 ou moins.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2269,6 +2351,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Révélez 1 carte du dessus de votre deck&nbsp;; si elle inclut «Équipage de Barbe Blanche» dans son type, piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2295,6 +2378,7 @@
     ],
     "effect": "Quand une ou plusieurs cartes de votre main ont été défaussées à cause d'un effet, ce Personnage gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2320,6 +2404,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages, de type {Hommes-poissons} ou {Sirènes}, gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2346,6 +2431,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Piochez 1 carte et jouez jusqu'à 1 carte Personnage de type {Hommes-poissons} ou {Sirènes} de votre main ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2371,6 +2457,7 @@
     ],
     "effect": "[Jouée] Renvoyez jusqu'à 1 Personnage adverse à la main de son propriétaire. Puis, défaussez toute votre main.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2398,6 +2485,7 @@
     ],
     "effect": "Quand une ou plusieurs cartes de votre main ont été défaussées à cause d'un effet, ce Personnage gagne [Initiative] pour tout le tour.<br>[Jouée] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Piochez 2 cartes et renvoyez jusqu'à 1 Personnage ayant un coût de 7 ou moins à la main de son propriétaire.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-049_p1",
@@ -2431,6 +2519,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Hommes-poissons}, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2457,6 +2546,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] [En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2482,6 +2572,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Vous pouvez défausser 3 cartes de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Impel Down} de votre main ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2507,6 +2598,7 @@
     ],
     "effect": "[Bloqueur]<br>[Tour adverse] Si vous avez 7 cartes ou moins dans votre main, la puissance de base de ce Personnage devient identique à la puissance de base de votre Leader.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2533,6 +2625,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Hommes-poissons}, piochez 3 cartes.<br>[Fin de votre tour] Défaussez des cartes de votre main jusqu'à n'en avoir plus que 5.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2559,6 +2652,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2585,6 +2679,7 @@
     ],
     "effect": "Ce Personnage ne peut pas attaquer.<br>Quand une ou plusieurs cartes de votre main ont été défaussées à cause d'un effet, l'effet de ce Personnage est annulé pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2610,6 +2705,7 @@
     ],
     "effect": "[Principale] Votre Leader et tous vos Personnages, de type {Hommes-poissons} ou {Sirènes}, gagnent +1000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Piochez 2 cartes.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2635,6 +2731,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 3 de vos cartes DON!!&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Hommes-poissons} de votre main ayant un coût de 3 ou moins. Puis, renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant 6000 de puissance de base.<br>[Contre] Piochez 1 carte, votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2660,6 +2757,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Jinbe] et que vous avez 2 cartes ou moins dans votre main, piochez 2 cartes.",
     "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2686,6 +2784,7 @@
     ],
     "effect": "[Attaque adverse] [Une fois par tour] DON!!&nbsp;−1&nbsp;: Choisissez votre Leader ou 1 de vos Personnages de type {Équipage de Don Quijote}. Changez la cible de l'attaque par la carte choisie.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-060_p1",
@@ -2720,6 +2819,7 @@
     ],
     "effect": "[Une fois par tour] Si un de vos Personnages de type {Équipage de Don Quijote} quitte le terrain à cause d'un effet adverse, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain à la place.<br>[En attaquant] DON!!&nbsp;−1&nbsp;: Jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-061_p1",
@@ -2752,6 +2852,7 @@
     ],
     "effect": "[En cas de KO] DON!!&nbsp;−1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Mettez KO ou épuisez jusqu'à 1 Personnage adverse ayant 6000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2777,6 +2878,7 @@
     ],
     "effect": "[Jouée] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.<br>[En cas de KO] Si votre adversaire a 6 cartes DON!! ou plus sur son terrain, jouez jusqu'à 1 carte Personnage de type {Équipage de Don Quijote} de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2802,6 +2904,7 @@
     ],
     "effect": "[En cas de KO] Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!. Puis, mettez KO jusqu'à 1 Personnage adverse ayant 0 de puissance de base.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2827,6 +2930,7 @@
     ],
     "effect": "[En cas de KO] Votre adversaire renvoie à son deck DON!! 1 carte DON!! de son terrain.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2852,6 +2956,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2877,6 +2982,7 @@
     ],
     "effect": "[En cas de KO] Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!&nbsp;; regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2902,6 +3008,7 @@
     ],
     "effect": "[Tour adverse] [Une fois par tour] Quand une carte DON!! de votre terrain est renvoyée à votre deck DON!!, si votre Leader est de type {Équipage de Don Quijote}, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2928,6 +3035,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;−3&nbsp;: Effectuez l'un des choix suivants&nbsp;:<br>• Si votre Leader est de type {Équipage de Don Quijote}, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 8 ou moins.<br>• Jusqu'à 3 Personnages adverses ayant un coût de 7 ou moins ne peuvent pas être épuisés jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-069_p1",
@@ -2960,6 +3068,7 @@
     ],
     "effect": "Quand ce Personnage est épuisé par un effet d'un Personnage adverse, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain. Si vous faites ainsi, redressez ce Personnage.<br>[Bloqueur]",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -2985,6 +3094,7 @@
     ],
     "effect": "[Fin de votre tour] Si votre Leader est de type {Équipage de Don Quijote}, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3010,6 +3120,7 @@
     ],
     "effect": "[Jouée] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.<br>[En cas de KO] DON!!&nbsp;−1&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3035,6 +3146,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3061,6 +3173,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Équipage de Don Quijote}, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.<br>[En cas de KO] Piochez 2 cartes et défaussez 1 carte de votre main. Puis, ajoutez jusqu'à 2 cartes DON!! épuisées de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3086,6 +3199,7 @@
     ],
     "effect": "[En cas de KO] Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!. Puis, jusqu'à 1 Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3110,6 +3224,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Si votre Leader est de type {Équipage de Don Quijote}, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3134,6 +3249,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, s'il y a un Personnage adverse ayant 6000 de puissance ou plus, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3158,6 +3274,7 @@
     ],
     "effect": "[Contre] DON!!&nbsp;−1&nbsp;: Si votre Leader est de type {Équipage de Don Quijote}, jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, il gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3184,6 +3301,7 @@
     ],
     "effect": "Tous les Personnages adverses ne peuvent pas quitter le terrain à cause de vos effets.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez mettre KO 1 de vos Personnages incluant «Baroque Works» dans son type&nbsp;: Réduisez de −10 le coût de jusqu'à 1 Personnage adverse pour tout le tour. Puis, vous pouvez placer dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-079_p1",
@@ -3218,6 +3336,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez mettre KO 1 de vos Personnages de type {Équipage de Thriller Bark}&nbsp;: Votre Leader et tous vos Personnages gagnent +1000 de puissance pour tout le tour.<br>[En attaquant] Vous pouvez défausser 3 cartes de votre main&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-080_p1",
@@ -3250,6 +3369,7 @@
     ],
     "effect": "[Jouée] Placez dans votre Défausse 3 cartes du dessus de votre deck.<br>[En cas de KO] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 1.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3275,6 +3395,7 @@
     ],
     "effect": "[En cas de KO] Augmentez de +4 le coût de tous vos Personnages de type {Équipage de Thriller Bark} jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 2 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3300,6 +3421,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Jusqu'à 1 Personnage adverse ayant un coût de 0 perd −3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3325,6 +3447,7 @@
     ],
     "effect": "[Jouée] Si votre Leader inclut «Baroque Works» dans son type, jouez jusqu'à 1 carte Personnage ayant un coût de 4 ou moins et jusqu'à 1 ayant un coût de 1, de votre Défausse, incluant «Baroque Works» dans leur type.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-084_p1",
@@ -3357,6 +3480,7 @@
     ],
     "effect": "[En cas de KO] Piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3382,6 +3506,7 @@
     ],
     "effect": "Si vous avez 7 cartes ou plus dans votre Défausse, ce Personnage gagne +1000 de puissance&nbsp;; augmentez de +2 le coût de tous vos Personnages incluant «Baroque Works» dans leur type.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3407,6 +3532,7 @@
     ],
     "effect": "[Jouée] Si votre Leader inclut «Baroque Works» dans son type, regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Baroque Works» dans son type autre que [Miss Valentine(Mikita)] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3432,6 +3558,7 @@
     ],
     "effect": "[En cas de KO] Si votre Leader inclut «Baroque Works» dans son type, piochez 1 carte et mettez KO jusqu'à 1 Lieu adverse ayant un coût de 1.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3458,6 +3585,7 @@
     ],
     "effect": "[En cas de KO] Piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3483,6 +3611,7 @@
     ],
     "effect": "S'il y a un Personnage ayant un coût de 0 ou de 8 ou plus, ce Personnage peut attaquer un Personnage durant le tour où il est joué.<br>[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 0.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-090_p1",
@@ -3515,6 +3644,7 @@
     ],
     "effect": "[En cas de KO] Jouez jusqu'à 1 carte Personnage de votre main ou votre Défausse incluant «Baroque Works» dans son type et ayant un coût de 5 ou moins autre que [Mr 2 Bonclay(Bentham)].",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-091_p1",
@@ -3547,6 +3677,7 @@
     ],
     "effect": "[Tour adverse] [Une fois par tour] Si ce Personnage est mis KO, vous pouvez placer 3 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix à la place.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3572,6 +3703,7 @@
     ],
     "effect": "[Bloqueur]<br>[En cas de KO] Ajoutez à votre main jusqu'à 1 carte Personnage de votre Défausse incluant «Baroque Works» dans son type et ayant un coût de 8 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3597,6 +3729,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] S'il y a un Personnage ayant un coût de 0 ou de 8 ou plus, piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3622,6 +3755,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3646,6 +3780,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Annulez les effets de jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins pour tout le tour.<br>[Contre] Si vous avez 10 cartes ou plus dans votre Défausse, jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-096_p1",
@@ -3677,6 +3812,7 @@
     ],
     "effect": "[Principale] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Thriller Bark} autre que [Je veux que vous fassiez de moi le roi des pirates&nbsp;!!] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3701,6 +3837,7 @@
     ],
     "effect": "[Principale] S'il y a un Personnage ayant un coût de 0 ou de 8 ou plus, augmentez de +3 le coût de tous vos Personnages incluant «Baroque Works» dans leur type jusqu'à la fin de la prochaine phase de Fin de votre adversaire.<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3725,6 +3862,7 @@
     ],
     "effect": "[Principale] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Baroque Works» dans son type autre que [Un souci&nbsp;?] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3750,6 +3888,7 @@
     ],
     "effect": "[En cas de KO] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Thriller Bark} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3776,6 +3915,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3801,6 +3941,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3826,6 +3967,7 @@
     ],
     "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Placez jusqu'à 1 carte de votre main au-dessus de votre Vie.",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3852,6 +3994,7 @@
     ],
     "effect": "[Jouée] Jouez ou ajoutez face visible au-dessus de votre Vie jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} de votre Défausse ayant un coût de 4 ou moins.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-104_p1",
@@ -3886,6 +4029,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez révéler 3 cartes de type {Amazon Lily} ou {Équipage des Kuja} de votre main&nbsp;: Donnez à votre Leader et à tous vos Personnages jusqu'à 1 carte DON!! épuisée chacun.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Équipage des Kuja}, jouez cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3912,6 +4056,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3937,6 +4082,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a 3 cartes ou moins dans sa Vie, piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Équipage des Kuja}, jouez cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3962,6 +4108,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est multicolore et que votre adversaire a 3 cartes ou moins dans sa Vie, mettez KO jusqu'à 1 Personnage adverse ayant 7000 de puissance de base ou moins.",
     "trigger": "[Déclenchement] Activez l'effet [Jouée] de cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -3987,6 +4134,7 @@
     ],
     "effect": "[Bloqueur]",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -4012,6 +4160,7 @@
     ],
     "effect": "[En cas de KO] Jouez jusqu'à 1 carte Personnage de votre Défausse ayant un coût de 4 ou moins et [Déclenchement] autre que [Docteur Hogback].",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -4037,6 +4186,7 @@
     ],
     "effect": "[Jouée]/[En cas de KO] Jusqu'à 1 Personnage adverse ayant un coût de 6 ou moins ne peut pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-111_p1",
@@ -4070,6 +4220,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Sept grands corsaires}, ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, ajoutez à la main de son propriétaire jusqu'à 1 carte du dessus de la Vie adverse.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et [Déclenchement].",
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-112_p1",
@@ -4108,6 +4259,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Amazon Lily} ou {Équipage des Kuja} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et défaussez 1 carte de votre main.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Équipage des Kuja}, jouez cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -4133,6 +4285,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages, de type {Équipage des Kuja}.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Équipage des Kuja}, jouez cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -4158,6 +4311,7 @@
     ],
     "effect": "[Tour adverse] [En cas de KO] Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, vous subissez 1 dégât.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Équipage des Kuja}, jouez cette carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -4181,6 +4335,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, jouez jusqu'à 1 carte Personnage de type {Amazon Lily} ou {Équipage des Kuja} de votre main ayant un coût de 4 ou moins.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -4204,6 +4359,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages, de type {Équipage de Thriller Bark}, gagne +3000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP14EB04",
     "variants": []
   },
   {
@@ -4228,6 +4384,7 @@
     ],
     "effect": "[Contre] Si vous avez 2 cartes ou moins dans votre Vie, jusqu'à 1 Personnage adverse redressé ne peut pas attaquer pour tout le tour.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de votre main ayant 6000 de puissance ou moins et [Déclenchement].",
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-118_p1",
@@ -4260,6 +4417,7 @@
     ],
     "effect": "[Votre tour] Quand ce Personnage est épuisé, jusqu'à 1 Personnage adverse ayant un coût de 9 ou moins ne peut pas être épuisé jusqu'à la fin de la prochaine phase de Fin de votre adversaire.<br>[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-119_p1",
@@ -4299,6 +4457,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 Personnage adverse ayant un coût de 9 ou moins ne peut pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire. Puis, s'il y a un Personnage adverse ayant un coût de 0 ou de 8 ou plus, piochez 1 carte.<br>[En cas de KO] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte Personnage depuis votre Défausse.",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": [
       {
         "id": "OP14-120_p1",
@@ -4332,6 +4491,7 @@
     ],
     "effect": "[Tour adverse] Si ce Personnage est épuisé par un effet d'un Personnage adverse, vous pouvez épuiser 1 autre de vos Personnages à la place.<br>[Bloqueur]",
     "trigger": null,
+    "tile_set_id": "OP14EB04",
     "variants": []
   }
 ]

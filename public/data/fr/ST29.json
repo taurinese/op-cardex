@@ -24,6 +24,7 @@
     ],
     "effect": "[En attaquant] Si vous avez 2 cartes ou moins dans votre Vie, piochez 1 carte et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-001_p1",
@@ -57,6 +58,7 @@
     ],
     "effect": "[Jouée]/[En attaquant] Épuisez jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre de cartes dans la Vie adverse.",
     "trigger": null,
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-002_p1",
@@ -90,6 +92,7 @@
     ],
     "effect": "Si le nombre de cartes de votre Vie est inférieur ou égal à celui de la Vie adverse, ce Personnage gagne +1000 de puissance.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-003_p1",
@@ -123,6 +126,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-004_p1",
@@ -157,6 +161,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Si votre Leader est [Monkey D. Luffy], jouez cette carte.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-005_p1",
@@ -189,6 +194,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-006_p1",
@@ -223,6 +229,7 @@
     ],
     "effect": "[En cas de KO] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Placez jusqu'à 1 carte de votre main au-dessus de votre Vie.",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos [Monkey D. Luffy] gagne +2000 de puissance pour tout le tour.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-007_p1",
@@ -256,6 +263,7 @@
     ],
     "effect": "Si un de vos Personnages de type {Egg Head} est mis KO par un effet adverse, vous pouvez retourner 1 carte du dessus de votre Vie face visible à la place.",
     "trigger": "[Déclenchement] Si votre Leader est [Monkey D. Luffy], jouez cette carte.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-008_p1",
@@ -289,6 +297,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Si votre Leader est [Monkey D. Luffy], jouez cette carte.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-009_p1",
@@ -322,6 +331,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-010_p1",
@@ -355,6 +365,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-011_p1",
@@ -389,6 +400,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 1 carte DON!! épuisée à 1 de vos [Monkey D. Luffy].",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-012_p1",
@@ -422,6 +434,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre total de cartes dans votre Vie et celle de votre adversaire.",
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-013_p1",
@@ -455,6 +468,7 @@
     ],
     "effect": "[Initiative&nbsp;: Personnage] (Cette carte peut attaquer un Personnage durant le tour où elle est jouée.)<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement]&nbsp;: Piochez 1 carte et donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "ST29",
     "variants": [
       {
         "id": "ST29-014_p1",
@@ -486,6 +500,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, si vous avez 1 carte ou moins dans votre Vie, jusqu'à 1 Leader ou Personnage adverse perd −2000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "ST29",
     "variants": []
   },
   {
@@ -511,6 +526,7 @@
     ],
     "effect": "[Principale] Jusqu'à 1 de vos [Monkey D. Luffy] gagne [Imblocable] pour tout le tour.<br>(Cette carte ne peut pas être bloquée.)<br>[Contre] Votre Leader gagne +3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "ST29",
     "variants": []
   },
   {
@@ -535,6 +551,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, si vous avez 2 cartes ou moins dans votre Vie, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
+    "tile_set_id": "ST29",
     "variants": []
   }
 ]

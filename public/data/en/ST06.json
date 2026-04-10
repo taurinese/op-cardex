@@ -21,6 +21,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -45,6 +46,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -69,6 +71,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -93,6 +96,7 @@
     ],
     "effect": "This Character cannot be K.O.'d by effects.<br>[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].<br>(This card deals 2 damage.)",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -117,6 +121,7 @@
     ],
     "effect": "[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -141,6 +146,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": [
       {
         "id": "ST06-006_p2",
@@ -190,6 +196,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -214,6 +221,7 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": [
       {
         "id": "ST06-008_p1",
@@ -255,6 +263,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -279,6 +288,7 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": [
       {
         "id": "ST06-010_p2",
@@ -328,6 +338,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -352,6 +363,7 @@
     ],
     "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -376,6 +388,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -398,6 +411,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "tile_set_id": "ST06",
     "variants": [
       {
         "id": "ST06-014_p2",
@@ -445,6 +459,7 @@
     ],
     "effect": "[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": "[Trigger] Your opponent chooses 1 card from their hand and trashes it.",
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -467,6 +482,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
     "trigger": "[Trigger] Draw 1 card and none of your Characters can be K.O.'d during this turn.",
+    "tile_set_id": "ST06",
     "variants": []
   },
   {
@@ -489,6 +505,7 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.<br>[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST06",
     "variants": []
   }
 ]

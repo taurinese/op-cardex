@@ -1,4 +1,4 @@
-import type { Card, DataIndex, Lang } from "@/types/card"
+import type { Card, CardMap, DataIndex, Lang } from "@/types/card"
 
 function dataUrl(path: string) {
   return `${import.meta.env.BASE_URL}data/${path}`
@@ -21,5 +21,11 @@ export async function fetchSet(setId: string, lang: Lang = "en"): Promise<Card[]
   if (!res.ok) return []
   const contentType = res.headers.get("content-type") ?? ""
   if (!contentType.includes("application/json")) return []
+  return res.json()
+}
+
+export async function fetchCardMap(): Promise<CardMap> {
+  const res = await fetch(dataUrl("cardmap.json"))
+  if (!res.ok) return {}
   return res.json()
 }

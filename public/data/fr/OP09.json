@@ -22,6 +22,7 @@
     ],
     "effect": "[Tour adverse] Si ce Personnage est épuisé, vos Personnages redressés ayant un coût de base de 5 ne peuvent pas être mis KO par un effet.<br>[Jouée] Vous pouvez épuiser ce Personnage&nbsp;: Jouez jusqu'à 1 carte Personnage verte de votre main ayant un coût de 5.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[En attaquant] Si vous avez 3 cartes ou moins dans votre Vie, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "[Jouée] Vous pouvez placer 3 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -95,6 +98,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-10&nbsp;: Placez tous vos Personnages autres que celui-ci au-dessous de votre deck dans l'ordre de votre choix. Puis, jouez un nouveau tour après celui-ci.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -119,6 +123,7 @@
     ],
     "effect": "[Jouée] Révélez 1 carte du dessus de votre deck et jouez jusqu'à 1 Personnage ayant un coût de 9 ou moins autre que [Sanji]. Puis, placez les cartes restantes au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -143,6 +148,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[Jouée] Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -168,6 +174,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 Personnage adverse autre que [Monkey D. Luffy] ne peut pas attaquer jusqu'à la fin du prochain tour adverse. Puis, placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -193,6 +200,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement]&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, si vous avez 3 cartes ou moins dans votre main, piochez 1 carte.",
     "trigger": "[Déclenchement] Activez l'effet [Jouée] de cette carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -218,6 +226,7 @@
     ],
     "effect": "[Une fois par tour] Peut être activé quand votre adversaire attaque. Jusqu'à 1 Leader ou Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-001_p1",
@@ -257,6 +266,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage du Roux} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-002_p1",
@@ -296,6 +306,7 @@
     ],
     "effect": "[En attaquant] Jusqu'à 1 Personnage adverse perd -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -321,6 +332,7 @@
     ],
     "effect": "Tous les Personnages adverses perdent -1000 de puissance.<br>[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-004_p1",
@@ -388,6 +400,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Si votre adversaire a 2 Personnages ou plus ayant 5000 de puissance de base ou plus, piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-005_p1",
@@ -429,6 +442,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-006_r1",
@@ -462,6 +476,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Jusqu'à 1 de vos Leaders ayant 4000 de puissance ou moins gagne +1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -486,6 +501,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage au-dessous du deck de son propriétaire&nbsp;: Jusqu'à 1 Personnage adverse perd -3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -510,6 +526,7 @@
     ],
     "effect": "[Jouée] Placez dans sa Défausse jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-009_p1",
@@ -557,6 +574,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 [Monster] de votre main.<br>[DON!!&nbsp;x1] [En attaquant] Ce Personnage gagne +2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-010_r1",
@@ -590,6 +608,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre Leader est de type {Équipage du Roux}, jusqu'à 1 Personnage adverse perd -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-011_p1",
@@ -640,6 +659,7 @@
     ],
     "effect": "Si un de vos Personnages [Bonk Punch] est mis KO par un effet, vous pouvez placer ce Personnage dans votre Défausse à la place.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-012_r1",
@@ -673,6 +693,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Leaders gagne +1000 de puissance jusqu'à la fin du prochain tour adverse.<br>[DON!!&nbsp;x1] [En attaquant] Jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-013_p2",
@@ -714,6 +735,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 Personnage adverse ayant 4000 de puissance ou moins ne peut pas activer [Bloqueur] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-014_p1",
@@ -771,6 +793,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Si votre Leader est de type {Équipage du Roux}, mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance de base ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-015_r1",
@@ -804,6 +827,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-016_r1",
@@ -837,6 +861,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Si votre Leader est de type {Équipage de Kidd} et a 7000 de puissance ou plus, ce Personnage gagne [Initiative].",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -859,6 +884,7 @@
     ],
     "effect": "[Principale] Mettez KO jusqu'à 2 Personnages adverses ayant 4000 ou moins de puissance combinée.<br>",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -881,6 +907,7 @@
     ],
     "effect": "[Principale] Si votre Leader est de type {Équipage du Roux}, jusqu'à 1 Personnage adverse perd -3000 de puissance pour tout le tour. Puis, s'il y a un Personnage adverse ayant 5000 de puissance ou plus, piochez 1 carte.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -904,6 +931,7 @@
     ],
     "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage du Roux} autre que [Qu'ils viennent&nbsp;!! On les attend de pied ferme&nbsp;!!] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-020_p2",
@@ -951,6 +979,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Lieu&nbsp;: Si votre Leader est de type {Équipage du Roux}, jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.<br>",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -976,6 +1005,7 @@
     ],
     "effect": "Vos cartes Personnage sont jouées épuisées.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 3 de vos cartes DON!!&nbsp;: Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!! et jouez jusqu'à 1 carte Personnage de type {ODYSSEY} de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-022_p1",
@@ -1007,6 +1037,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {ODYSSEY}, redressez jusqu'à 3 de vos cartes DON!!.<br>[Attaque adverse] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-023_p1",
@@ -1039,6 +1070,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1065,6 +1097,7 @@
     ],
     "effect": "Si votre Leader est de type {ODYSSEY}, ce Personnage ne peut pas être mis KO par le Leader adverse en combat.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1090,6 +1123,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1115,6 +1149,7 @@
     ],
     "effect": "[En attaquant] [Une fois par tour] Si vous avez 3 Personnages ou plus épuisés, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-027_p1",
@@ -1173,6 +1208,7 @@
     ],
     "effect": "[En cas de KO] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Jouez jusqu'à 1 carte Personnage de type {ODYSSEY} ou {Équipage de Chapeau de paille} épuisée de votre Défausse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1199,6 +1235,7 @@
     ],
     "effect": "[Fin de votre tour] Redressez jusqu'à 1 de vos Personnages de type {ODYSSEY} ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1225,6 +1262,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Jouez jusqu'à 1 carte Personnage de type {ODYSSEY} de votre main ayant un coût de 3 ou moins autre que [Trafalgar Law].",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1251,6 +1289,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Fin de votre tour] Si vous avez 2 Personnages ou plus épuisés, redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1277,6 +1316,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Attaque adverse] [Une fois par tour] Redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1302,6 +1342,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, tous vos Personnages de type {ODYSSEY} ou {Équipage de Chapeau de paille} ne peuvent pas être mis KO par un effet jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-033_p1",
@@ -1344,6 +1385,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Thriller Bark} ou [Dracule Mihawk] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-034_p1",
@@ -1384,6 +1426,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-035_r1",
@@ -1419,6 +1462,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 Personnages ou plus épuisés, épuisez jusqu'à 1 carte DON!! adverse ou 1 Personnage adverse ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1443,6 +1487,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {ODYSSEY} autre que [Lim] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.<br>[Fin de votre tour] Si vous avez 3 Personnages ou plus épuisés, redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-037_p1",
@@ -1483,6 +1528,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1507,6 +1553,7 @@
     ],
     "effect": "[Contre] Si votre Leader est de type {ODYSSEY} et que vous avez 2 Personnages ou plus épuisés, jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1531,6 +1578,7 @@
     ],
     "effect": "[Principale] Si vous avez 2 Personnages ou plus épuisés, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1554,6 +1602,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, si votre Leader est de type {ODYSSEY} et que vous avez 2 Personnages ou plus épuisés, redressez jusqu'à 2 de vos Personnages.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1579,6 +1628,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 5 de vos cartes DON!! et défausser 1 carte de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Cross Guild} de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-042_p1",
@@ -1618,6 +1668,7 @@
     ],
     "effect": "[En cas de KO] Si votre Leader est de type {Cross Guild}, jouez jusqu'à 1 carte Personnage de votre main ayant un coût de 5 ou moins autre que [Alvida].",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-043_r1",
@@ -1652,6 +1703,7 @@
     ],
     "effect": "[En attaquant] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Pays de Wano} ou incluant «Équipage de Barbe Blanche» dans son type et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1676,6 +1728,7 @@
     ],
     "effect": "Si vous avez un Personnage [Baggy] ou [Morge], ce Personnage ne peut pas être mis KO en combat.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-045_r1",
@@ -1710,6 +1763,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 carte Personnage de type {Cross Guild} ou incluant «Baroque Works» dans son type se trouvant dans votre main et ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-046_p1",
@@ -1750,6 +1804,7 @@
     ],
     "effect": "[Double attaque] (Les dégâts infligés par cette carte passent à 2.)<br>[En cas de KO] Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1774,6 +1829,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-048_p1",
@@ -1813,6 +1869,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1837,6 +1894,7 @@
     ],
     "effect": "[En attaquant] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 Événement bleu et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-050_p1",
@@ -1869,6 +1927,7 @@
     ],
     "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-051_p1",
@@ -1936,6 +1995,7 @@
     ],
     "effect": "[Tour adverse] Vous pouvez défausser 1 carte de votre main&nbsp;: Quand ce Personnage est mis KO par un effet adverse, jouez cette carte Personnage épuisée depuis votre Défausse.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -1960,6 +2020,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Richie] et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 [Richie] de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-053_r1",
@@ -1994,6 +2055,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-054_r1",
@@ -2028,6 +2090,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-055_r1",
@@ -2062,6 +2125,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} ou incluant «Baroque Works» dans son type autre que [Mr 3 (Galdino)] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-056_p1",
@@ -2109,6 +2173,7 @@
     ],
     "effect": "[Principale] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-057_p2",
@@ -2156,6 +2221,7 @@
     ],
     "effect": "[Principale] Votre adversaire doit renvoyer à la main de son propriétaire 1 de ses Personnages ayant un coût de 6 ou moins.",
     "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 3 ou moins.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2178,6 +2244,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat. Puis, défaussez jusqu'à 2 cartes de votre main. Placez dans votre Défausse autant de cartes du dessus de votre deck que précédemment défaussées.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2200,6 +2267,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer 2 cartes de votre main au-dessous de votre deck dans l'ordre de votre choix et épuiser ce Lieu&nbsp;: Si votre Leader est de type {Cross Guild}, piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2226,6 +2294,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Augmentez de +1 le coût de tous vos Personnages.<br>[Votre tour] [Une fois par tour] Quand 2 cartes DON!! ou plus de votre terrain sont renvoyées à votre deck DON!!, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!! et ajoutez jusqu'à 1 carte épuisée en plus.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-061_p1",
@@ -2266,6 +2335,7 @@
     ],
     "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)<br>[En attaquant] Vous pouvez défausser 1 carte de votre main ayant",
     "trigger": "[Déclenchement]&nbsp;: Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-062_p1",
@@ -2297,6 +2367,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-063_r1",
@@ -2330,6 +2401,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Redressez jusqu'à 1 de vos Leaders de type {Équipage de Kidd}.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2354,6 +2426,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Ce Personnage gagne [Initiative] pour tout le tour. Puis, épuisez jusqu'à 1 Personnage adverse ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-065_p1",
@@ -2393,6 +2466,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a plus de cartes DON!! sur son terrain que vous n'en avez sur le vôtre, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2418,6 +2492,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2443,6 +2518,7 @@
     ],
     "effect": "[Fin de votre tour] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Redressez ce Personnage. Puis, ce Personnage gagne [Bloqueur] jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2467,6 +2543,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille} ou {Équipage du Heart} ayant un coût de 2 ou plus et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-069_p1",
@@ -2506,6 +2583,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-070_r1",
@@ -2539,6 +2617,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2563,6 +2642,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] DON!!&nbsp;-2&nbsp;; vous pouvez défausser 1 carte de votre main&nbsp;: Piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-072_p1",
@@ -2602,6 +2682,7 @@
     ],
     "effect": "[En attaquant] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Jusqu'à 2 Personnages adverses perdent -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2627,6 +2708,7 @@
     ],
     "effect": "[Votre tour] [Une fois par tour] Quand une carte DON!! de votre terrain est renvoyée à votre deck DON!!, jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2651,6 +2733,7 @@
     ],
     "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus de votre Vie&nbsp;: Si votre Leader est de type {Équipage de Kidd}, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2675,6 +2758,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-076_p1",
@@ -2723,6 +2807,7 @@
     ],
     "effect": "[Principale] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
     "trigger": "[Déclenchement] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-077_p1",
@@ -2771,6 +2856,7 @@
     ],
     "effect": "[Contre] DON!!&nbsp;-2&nbsp;; vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est de type {Équipage de Chapeau de paille}, jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-078_p2",
@@ -2819,6 +2905,7 @@
     ],
     "effect": "[Principale] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins. Puis, piochez 1 carte.",
     "trigger": "[Déclenchement] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-079_p1",
@@ -2858,6 +2945,7 @@
     ],
     "effect": "[Tour adverse] Vous pouvez épuiser ce Lieu&nbsp;: Quand un de vos Personnages de type {Équipage de Chapeau de paille} quitte le terrain à cause d'un effet adverse, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2883,6 +2971,7 @@
     ],
     "effect": "Vos effets [Jouée] sont annulés.<br>[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main&nbsp;: Les effets [Jouée] de votre adversaire sont annulés jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-081_p1",
@@ -2922,6 +3011,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -2946,6 +3036,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, réduisez de -3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-083_r1",
@@ -2979,6 +3070,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Si votre Leader est de type {Équipage de Barbe Noire}, ce Personnage gagne [Double attaque], [Exil] ou [Bloqueur] jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-084_p1",
@@ -3020,6 +3112,7 @@
     ],
     "effect": "[Jouée] Jouez jusqu'à 1 carte Personnage de type {Équipage de Thriller Bark} épuisée de votre Défausse ayant un coût de 2 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3044,6 +3137,7 @@
     ],
     "effect": "Ce Personnage ne peut pas être mis KO par un effet adverse.<br>Si votre Leader est de type {Équipage de Barbe Noire}, pour chaque tranche de 4 cartes dans votre Défausse, ce Personnage gagne +1000 de puissance.<br>",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-086_p1",
@@ -3093,6 +3187,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a 5 cartes ou plus dans sa main, il doit défausser 1 carte de sa main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3117,6 +3212,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Vous pouvez défausser 2 cartes de votre main&nbsp;: Piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-088_r1",
@@ -3151,6 +3247,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main et placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, piochez 1 carte. Puis, réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-089_r1",
@@ -3184,6 +3281,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre Leader est de type {Équipage de Barbe Noire}, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.<br>[En cas de KO] Piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-090_r1",
@@ -3217,6 +3315,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-091_r1",
@@ -3250,6 +3349,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Si votre main comporte au moins 3 cartes de moins que celle de votre adversaire, piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3275,6 +3375,7 @@
     ],
     "effect": "[Bloqueur]<br>[Activation&nbsp;: Principale] [Une fois par tour] Si votre Leader est de type {Équipage de Barbe Noire} et que ce Personnage a été joué ce tour, annulez les effets de jusqu'à 1 Leader adverse pour tout le tour. Puis, annulez les effets de jusqu'à 1 Personnage adverse et empêchez-le d'attaquer jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-093_p1",
@@ -3343,6 +3444,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3367,6 +3469,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Barbe Noire} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-095_r1",
@@ -3398,6 +3501,7 @@
     ],
     "effect": "[Principale] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Barbe Noire} autre que [L'avènement de mon règne&nbsp;!!] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-096_p1",
@@ -3437,6 +3541,7 @@
     ],
     "effect": "[Contre] Annulez les effets de jusqu'à 1 Leader ou Personnage adverse et faites-lui perdre -4000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Annulez les effets de jusqu'à 1 Leader ou Personnage adverse pour tout le tour.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-097_p1",
@@ -3476,6 +3581,7 @@
     ],
     "effect": "[Principale] Si votre Leader est de type {Équipage de Barbe Noire}, annulez les effets de jusqu'à 1 Personnage adverse pour tout le tour. Puis, si ce Personnage a un coût de 4 ou moins, mettez-le KO.",
     "trigger": "[Déclenchement] Annulez les effets de jusqu'à 1 Leader ou Personnage adverse pour tout le tour.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-098_p1",
@@ -3515,6 +3621,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main et épuiser ce Lieu&nbsp;: Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Barbe Noire} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-099_r1",
@@ -3548,6 +3655,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Si votre Leader est de type {Armée révolutionnaire} et que vous et votre adversaire avez un total de 5 cartes ou moins dans vos Vies, jouez cette carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3572,6 +3680,7 @@
     ],
     "effect": "[Jouée] Placez face visible au-dessus ou au-dessous de la Vie adverse 1 Personnage adverse ayant un coût de 3 ou moins&nbsp;: Votre adversaire doit défausser 1 carte de sa main.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3596,6 +3705,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Nico Robin], regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant [Déclenchement] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Jouée] de cette carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3620,6 +3730,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Armée révolutionnaire} de votre main ayant un coût de 4 ou moins. Si vous l'avez jouée, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-103_p1",
@@ -3651,6 +3762,7 @@
     ],
     "effect": "[Jouée] Ajoutez face visible au-dessus de votre Vie jusqu'à 1 carte Personnage de type {Armée révolutionnaire} de votre main. Puis, si vous avez 2 cartes ou plus dans votre Vie, ajoutez à votre main 1 carte du dessus ou du dessous de votre Vie.",
     "trigger": "[Déclenchement] Si votre Leader est multicolore, piochez 2 cartes.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3676,6 +3788,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Si votre Leader est de type {Egg Head}, ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, défaussez 2 cartes de votre main.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3700,6 +3813,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Leaders [Nico Robin] gagne +3000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Si votre Leader est [Nico Robin], piochez 3 cartes et défaussez 2 cartes de votre main.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3724,6 +3838,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a 3 cartes ou plus dans sa Vie, placez dans sa Défausse jusqu'à 1 carte du dessus de sa Vie.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage jaune de votre main ayant un coût de 3 ou moins.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-107_p1",
@@ -3756,6 +3871,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Si votre Leader est de type {Armée révolutionnaire} et que vous et votre adversaire avez un total de 5 cartes ou moins dans vos Vies, jouez cette carte.",
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-108_p1",
@@ -3799,6 +3915,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Si votre Leader est [Nico Robin], jouez cette carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3824,6 +3941,7 @@
     ],
     "effect": "[Jouée] Piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3849,6 +3967,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Si votre Leader est de type {Egg Head} et que votre adversaire a 6 cartes ou plus dans sa main, votre adversaire doit défausser 2 cartes de sa main.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3873,6 +3992,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 cartes ou moins dans votre Vie, piochez 1 carte.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Armée révolutionnaire} et que vous et votre adversaire avez un total de 5 cartes ou moins dans vos Vies, jouez cette carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3898,6 +4018,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3923,6 +4044,7 @@
     ],
     "effect": "[Jouée] Si vous et votre adversaire avez un total de 5 cartes ou moins dans vos Vies, mettez KO jusqu'à 1 Personnage adverse ayant 2000 de puissance ou moins.",
     "trigger": "[Déclenchement] Si vous et votre adversaire avez un total de 5 cartes ou moins dans vos Vies, jouez cette carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3945,6 +4067,7 @@
     ],
     "effect": "[Principale] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins et [Déclenchement].",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3967,6 +4090,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage de type {Armée révolutionnaire} de votre main ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -3989,6 +4113,7 @@
     ],
     "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 2 cartes ayant [Déclenchement] autres que [Dereshi] et ajoutez-les à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP09",
     "variants": []
   },
   {
@@ -4014,6 +4139,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>Quand votre adversaire active [Bloqueur], si vous ou votre adversaire n'avez plus de cartes dans votre Vie, vous remportez la partie.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-118_p1",
@@ -4059,6 +4185,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Piochez 1 carte&nbsp;; ce Personnage gagne [Initiative] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP09",
     "variants": [
       {
         "id": "OP09-119_p1",

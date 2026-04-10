@@ -21,6 +21,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[Rush] (This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -71,6 +73,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with 3000 power or less at the bottom of the owner's deck, and play up to 1 Character card with a cost of 4 or less from your hand.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -96,6 +99,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] If you have 0 DON!! cards on your field or 8 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -121,6 +125,7 @@
     ],
     "effect": "[Your Turn] If you have 4 or more Life cards, give this Leader −1000 power.<br>[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Leader gains +2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -145,6 +150,7 @@
     ],
     "effect": "[On Play] If your opponent has a Character with 5000 or more power, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -170,6 +176,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": [
       {
         "id": "ST10-005_p1",
@@ -219,6 +226,7 @@
     ],
     "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": [
       {
         "id": "ST10-006_p2",
@@ -268,6 +276,7 @@
     ],
     "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -292,6 +301,7 @@
     ],
     "effect": "[On Play] If you have 3 or less DON!! cards on your field, add up to 2 DON!! cards from your DON!! deck and rest them.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": [
       {
         "id": "ST10-008_p3",
@@ -349,6 +359,7 @@
     ],
     "effect": "[On Play] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -373,6 +384,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": [
       {
         "id": "ST10-010_p2",
@@ -430,6 +442,7 @@
     ],
     "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, this Character gains +2000 power until the start of your next turn.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -455,6 +468,7 @@
     ],
     "effect": "[On Play]/[When Attacking] If your opponent has more DON!! cards on their field than you, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -479,6 +493,7 @@
     ],
     "effect": "[On Play]/[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader gains +1000 power until the start of your next turn.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": [
       {
         "id": "ST10-013_p1",
@@ -512,6 +527,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card and trash 1 card from your hand.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -534,6 +550,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle, and K.O. up to 1 of your opponent's Characters with 2000 power or less.",
     "trigger": null,
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -556,6 +573,7 @@
     ],
     "effect": "[Main] K.O. up to 1 of your opponent's Characters with 7000 power or less.",
     "trigger": "[Trigger] Up to 1 of your Leader gains +1000 power until the end of your next turn.",
+    "tile_set_id": "ST10",
     "variants": []
   },
   {
@@ -578,6 +596,7 @@
     ],
     "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 2 or less, and add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "tile_set_id": "ST10",
     "variants": []
   }
 ]

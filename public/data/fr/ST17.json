@@ -22,6 +22,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] [En attaquant] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Révélez la carte du dessus de votre deck&nbsp;; si c'est une carte Personnage de type {Sept grands corsaires} ayant un coût de 4 ou moins, vous pouvez la jouer épuisée.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -47,6 +48,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Regardez 5 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, renvoyez à la main de son propriétaire jusqu'à 1 Personnage redressé ayant un coût de 3 ou moins.",
     "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -95,6 +98,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -120,6 +124,7 @@
     ],
     "effect": "[Jouée] Regardez 2 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Sept grands corsaires} et ajoutez-la à votre main. Puis, réorganisez les cartes restantes dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -146,6 +151,7 @@
     ],
     "effect": "[En cas de KO] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -170,6 +176,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -195,6 +202,7 @@
     ],
     "effect": "[Jouée] Ajoutez à votre main jusqu'à 1 carte Personnage de type {Sept grands corsaires} ou {Équipage de Thriller Bark} de votre Défausse ayant un coût de 4 ou moins autre que [Gecko Moria].",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -219,6 +227,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -244,6 +253,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -269,6 +279,7 @@
     ],
     "effect": "[Jouée] Révélez 1 carte du dessus de votre deck&nbsp;; si elle est de type {Sept grands corsaires}, piochez 2 cartes et placez 1 carte de votre main au-dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": []
   },
   {
@@ -294,6 +305,7 @@
     ],
     "effect": "[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Si votre Leader est de type {Sept grands corsaires}, renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": [
       {
         "id": "ST17-002_p1",
@@ -336,6 +348,7 @@
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": [
       {
         "id": "ST17-003_p1",
@@ -378,6 +391,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages, de type {Sept grands corsaires}.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": [
       {
         "id": "ST17-004_p1",
@@ -420,6 +434,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer 1 carte de votre main au-dessus de votre deck&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "ST17",
     "variants": [
       {
         "id": "ST17-005_p1",

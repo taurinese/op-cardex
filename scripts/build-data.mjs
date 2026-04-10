@@ -129,7 +129,7 @@ async function runConcurrent(tasks, limit) {
 
 // ---------------------------------------------------------------------------
 
-async function processLanguage(langPath, langCode, indexSets, imageTasks) {
+async function processLanguage(langPath, langCode, indexSets, imageTasks, cardMap) {
   const packsRaw = JSON.parse(readFileSync(join(langPath, "packs.json"), "utf-8"))
   const packs = Object.values(packsRaw)
 
@@ -205,7 +205,7 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks) {
           return (a.set_id ?? "").localeCompare(b.set_id ?? "")
         })
 
-      cards.push({ ...baseCard, variants: allVariants })
+      cards.push({ ...baseCard, tile_set_id: setId, variants: allVariants })
     }
 
     // ── Orphan variants: variant cards whose base card lives in another pack ─
@@ -232,7 +232,7 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks) {
         img_full_url: v.card.img_full_url,
         rarity: v.card.rarity,
       }))
-      cards.push({ ...first.card, variants })
+      cards.push({ ...first.card, tile_set_id: setId, variants })
     }
 
     if (cards.length === 0) continue
@@ -243,6 +243,11 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks) {
       join(outputLangDir, `${setId}.json`),
       JSON.stringify(cards, null, 2)
     )
+
+    // Populate cardMap (card ID → set ID) — language-agnostic, same IDs across langs
+    for (const card of cards) {
+      cardMap.set(card.id, setId)
+    }
 
     // Update index
     const existing = indexSets.find((s) => s.id === setId)
@@ -285,6 +290,7 @@ async function main() {
 
   const indexSets = []
   const imageTasks = []
+  const cardMap = new Map() // cardId → setId
 
   for (const [langDir, langCode] of Object.entries(LANG_MAP)) {
     const langPath = join(CACHE_DIR, langDir)
@@ -292,7 +298,7 @@ async function main() {
       console.warn(`  ⚠ Language folder not found: ${langDir}`)
       continue
     }
-    await processLanguage(langPath, langCode, indexSets, imageTasks)
+    await processLanguage(langPath, langCode, indexSets, imageTasks, cardMap)
   }
 
   // Sort by release order: OP first (by number), then ST, EB, PRB, PROMO
@@ -311,7 +317,12 @@ async function main() {
     join(OUTPUT_DIR, "index.json"),
     JSON.stringify({ sets: indexSets }, null, 2)
   )
+  writeFileSync(
+    join(OUTPUT_DIR, "cardmap.json"),
+    JSON.stringify(Object.fromEntries(cardMap))
+  )
   console.log(`\n${indexSets.length} sets written to ${OUTPUT_DIR}/`)
+  console.log(`${cardMap.size} cards in cardmap.json`)
 
   if (DOWNLOAD_IMAGES && imageTasks.length > 0) {
     console.log(

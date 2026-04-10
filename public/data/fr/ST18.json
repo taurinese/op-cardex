@@ -21,6 +21,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez ajouter à votre main 1 carte du dessus de votre Vie&nbsp;: Si vous avez 0 ou 3 cartes DON!! ou plus sur votre terrain, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -45,6 +46,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Si vous avez 8 cartes DON!! ou plus sur votre terrain, épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -69,6 +71,7 @@
     ],
     "effect": "[Jouée] Si vous avez 8 cartes DON!! ou plus sur votre terrain, mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -94,6 +97,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Tour adverse] Si vous avez 10 cartes DON!! sur votre terrain, ce Personnage gagne +1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -118,6 +122,7 @@
     ],
     "effect": "[En attaquant] Si vous avez 3 cartes ou moins dans votre Vie, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -143,6 +148,7 @@
     ],
     "effect": "[Jouée] Si vous avez 8 cartes DON!! ou plus sur votre terrain, redressez jusqu'à 1 Personnage de type {Équipage de Chapeau de paille} violet ayant 6000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -167,6 +173,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Si vous avez 8 cartes DON!! ou plus sur votre terrain, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -191,6 +198,7 @@
     ],
     "effect": "[Jouée] Si vous avez 8 cartes DON!! ou plus sur votre terrain, jusqu'à 2 Personnages adverses perdent -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -213,6 +221,7 @@
     ],
     "effect": "[Principale] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille}, {Équipage de Kidd} ou {Équipage du Heart} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -238,6 +247,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": []
   },
   {
@@ -262,6 +272,7 @@
     ],
     "effect": "[Jouée] Si vous avez 8 cartes DON!! ou plus sur votre terrain, épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-001_p1",
@@ -319,6 +330,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Si vous avez 8 cartes DON!! ou plus sur votre terrain, défaussez 1 carte de votre main et piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-002_p1",
@@ -360,6 +372,7 @@
     ],
     "effect": "[En attaquant] [Une fois par tour] Si vous avez 8 cartes DON!! ou plus sur votre terrain, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-003_p1",
@@ -401,6 +414,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille} violette et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-004_p1",
@@ -434,6 +448,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Équipage de Chapeau de paille} violette de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST18",
     "variants": [
       {
         "id": "ST18-005_p3",

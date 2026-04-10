@@ -21,6 +21,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Marine} autre que [Tashigi] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -45,6 +46,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Leaders gagne 1000 de puissance jusqu'à la fin du prochain tour adverse.<br>[DON!!&nbsp;x1] [En attaquant] Jusqu'à 1 Personnage adverse perd -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -69,6 +71,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {ODYSSEY} autre que [Lim] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.<br>[Fin de votre tour] Si vous avez 3 Personnages ou plus épuisés, redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -94,6 +97,7 @@
     ],
     "effect": "[Bloqueur]<br>[Activation&nbsp;: Principale] [Une fois par tour] Si votre Leader est de type {Équipage de Barbe Noire} et que ce Personnage a été joué ce tour, annulez les effets de jusqu'à 1 Leader adverse pour tout le tour. Puis, annulez les effets de jusqu'à 1 Personnage adverse et empêchez-le d'attaquer jusqu'à la fin du prochain tour adverse.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP09-093_p5",
@@ -126,6 +130,7 @@
     ],
     "effect": "Si un de vos Personnages ayant un coût de base de 7 ou moins autre que [Sabo] quitte le terrain à cause d'un effet adverse, vous pouvez renvoyer ce Personnage à la main de son propriétaire à la place.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -151,6 +156,7 @@
     ],
     "effect": "Ce Personnage ne peut pas quitter le terrain à cause d'un effet adverse.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Piochez 1 carte. Puis, jouez jusqu'à 1 carte Personnage de type {Équipage de Barbe Noire} de votre Défausse ayant un coût de 5 ou moins autre que [Kuzan].",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -175,6 +181,7 @@
     ],
     "effect": "Vous ne pouvez pas ajouter de carte ayant un coût de 5 ou plus à votre deck selon les règles.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez révéler 2 Événements de votre main&nbsp;: Jusqu'à 1 de vos Personnages ayant 4000 de puissance de base ou moins gagne 2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-001_p1",
@@ -206,6 +213,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -230,6 +238,7 @@
     ],
     "effect": "[En cas de KO] Vous pouvez révéler 2 Événements de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage rouge de votre main ayant 3000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -256,6 +265,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez révéler 2 Événements de votre main&nbsp;: Ce Personnage gagne 2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -281,6 +291,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -305,6 +316,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Monkey D. Luffy] ou jusqu'à 1 Événement rouge et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -329,6 +341,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Personnages incluant «Équipage de Roger» dans son type autre que [Shanks] gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -354,6 +367,7 @@
     ],
     "effect": "[Bloqueur]<br>[Attaque adverse] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 Leader ou Personnage adverse perd -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-008_p1",
@@ -386,6 +400,7 @@
     ],
     "effect": "[Jouée] Vous pouvez révéler 2 Événements de votre main&nbsp;: Ce Personnage gagne [Initiative] pour tout le tour. Puis, ce Personnage gagne 1000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -412,6 +427,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -436,6 +452,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -460,6 +477,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Personnages incluant «Équipage de Roger» dans son type autre que [Baggy] gagne [Bloqueur] jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -485,6 +503,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage et révéler 2 Événements de votre main&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -510,6 +529,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Monkey D. Luffy] ou jusqu'à 1 Événement rouge et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-014_p1",
@@ -542,6 +562,7 @@
     ],
     "effect": "Si vous avez un total de 2 cartes DON!! déjà données ou plus, ce Personnage gagne 2000 de puissance.<br>[Jouée] Vous pouvez révéler 2 Événements de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage rouge de votre main ayant 3000 de puissance ou moins. Puis, donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-015_p1",
@@ -571,6 +592,7 @@
     ],
     "effect": "[Principale] Vous pouvez donner 2 cartes DON!! redressées à 1 de vos [Silvers Rayleigh]&nbsp;: Si la carte à laquelle les cartes DON!! ont été données attaque, votre adversaire ne peut pas activer [Bloqueur] pour tout le tour.<br>[Contre] Jusqu'à 1 de vos Personnages ou jusqu'à 1 de vos [Silvers Rayleigh] gagne 2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -593,6 +615,7 @@
     ],
     "effect": "[Principale] Vous pouvez donner 1 carte DON!! redressée à 1 de vos [Silvers Rayleigh]&nbsp;: Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 Événement rouge ou jusqu'à 1 carte Personnage ayant un coût de 3 ou plus et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -615,6 +638,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Personnages ou jusqu'à 1 de vos [Silvers Rayleigh] gagne 2000 de puissance pour tout le combat. Puis, vous pouvez épuiser 1 de vos cartes DON!!. Si vous faites ainsi, le Leader et tous les Personnages adverses perdent -1000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -637,6 +661,7 @@
     ],
     "effect": "[Principale] Vous pouvez donner 1 carte DON!! redressée à 1 de vos [Silvers Rayleigh]&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne 1000 de puissance pour tout le tour.<br>[Contre] Jusqu'à 1 de vos Personnages ou jusqu'à 1 de vos [Silvers Rayleigh] gagne 2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -662,6 +687,7 @@
     ],
     "effect": "[DON!!&nbsp;x3] [Activation&nbsp;: Principale] [Une fois par tour] Si ce Leader combat contre un Personnage adverse durant ce tour, redressez-le. Puis, ce Leader ne peut pas attaquer les Personnages adverses ayant un coût de base de 7 ou moins pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-020_p1",
@@ -701,6 +727,7 @@
     ],
     "effect": "Si votre Leader a l'attribut",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -727,6 +754,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Jusqu'à 1 Personnage adverse épuisé ayant un coût de 5 ou moins ne pourra pas être redressé lors de la prochaine phase de Recharge de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -753,6 +781,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -778,6 +807,7 @@
     ],
     "effect": "Si ce Personnage est redressé, il ne peut pas être mis KO par un effet adverse.<br>[En attaquant] Si vous avez un total de 3 cartes DON!! déjà données ou plus, épuisez jusqu'à 1 Personnage adverse ayant un coût de base de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -803,6 +833,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -828,6 +859,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Épuisez jusqu'à 1 Personnage adverse ayant un coût de base de 4 ou moins. Puis, donnez jusqu'à 3 cartes DON!! épuisées à votre Leader [Roronoa Zoro].",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -853,6 +885,7 @@
     ],
     "effect": "Si un de vos Personnages ayant un coût de 5 ou moins et l'attribut",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -878,6 +911,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Si votre Leader est [Roronoa Zoro], regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte ayant l'attribut",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -904,6 +938,7 @@
     ],
     "effect": "[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins. Puis, mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de base de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -929,6 +964,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Redressez jusqu'à 4 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 7 ou plus pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-030_p1",
@@ -969,6 +1005,7 @@
     ],
     "effect": "[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de base de 6 ou moins. Puis, donnez jusqu'à 3 cartes DON!! épuisées à votre Leader [Roronoa Zoro].",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-031_p1",
@@ -1002,6 +1039,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1027,6 +1065,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En bloquant] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1052,6 +1091,7 @@
     ],
     "effect": "[Jouée] Si votre Leader a l'attribut </tranche>",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-034_p1",
@@ -1084,6 +1124,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1109,6 +1150,7 @@
     ],
     "effect": "Cette carte de votre main ne peut pas être jouée grâce à un effet.</tranche>",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1131,6 +1173,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 3 de vos cartes DON!!&nbsp;: Épuisez un total de jusqu'à 2 Personnages ou cartes DON!! adverses.<br>[Contre] Votre Leader gagne 3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-037_p1",
@@ -1160,6 +1203,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Mettez KO jusqu'à 2 Personnages adverses épuisés ayant un coût de base de 4 ou moins.<br>[Contre] Votre Leader gagne 3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1182,6 +1226,7 @@
     ],
     "effect": "[Principale] Redressez votre Leader [Roronoa Zoro].",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos Leaders ou Personnages gagne 1000 de puissance pour tout le tour.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1206,6 +1251,7 @@
     ],
     "effect": "Quand une ou plusieurs cartes de votre main ont été défaussées à cause de l'effet d'une de vos cartes de type {Marine}, piochez un nombre de cartes égal au nombre de cartes défaussées.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-040_p1",
@@ -1239,6 +1285,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] DON!!&nbsp;－1&nbsp;: Activez jusqu'à 1 Événement de type {Équipage de Chapeau de paille} de votre main ayant un coût de base de 3 ou moins.<br>[En attaquant] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-041_p1",
@@ -1270,6 +1317,7 @@
     ],
     "effect": "Si vous avez 2 Personnages ou plus ayant un coût de base de 5 ou plus, augmentez de 1 le coût de ce Personnage.<br>[Jouée] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de base de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1294,6 +1342,7 @@
     ],
     "effect": "Si vous avez 5 cartes ou plus dans votre main, augmentez de 1 le coût de ce Personnage.<br>[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 Personnage adverse ne peut pas attaquer jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-043_p1",
@@ -1325,6 +1374,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Marine}, piochez 2 cartes.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez défausser 1 carte de votre main&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1349,6 +1399,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1374,6 +1425,7 @@
     ],
     "effect": "[Jouée] Défaussez 2 cartes de votre main.<br>[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1398,6 +1450,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 2 cartes de type {Marine} autres que [Sengoku] et ajoutez-les à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1422,6 +1475,7 @@
     ],
     "effect": "[Tour adverse] Si un de vos Personnages bleus de type {Marine} quitte le terrain à cause d'un effet adverse, vous pouvez épuiser ce Personnage et défausser 1 carte de votre main à la place.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1447,6 +1501,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1473,6 +1528,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1497,6 +1553,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage et défausser 1 carte de votre main&nbsp;: Jusqu'à 1 Personnage adverse ayant un coût de base de 4 ou moins ne peut pas activer [Bloqueur] pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1521,6 +1578,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1545,6 +1603,7 @@
     ],
     "effect": "[Une fois par tour] Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez défausser 1 carte de votre main à la place.<br>[Tour adverse] Si votre Leader est de type {Marine}, ce Personnage gagne [Bloqueur] et 1000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1570,6 +1629,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Sept grands corsaires}, renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 1 ou moins autre que ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1595,6 +1655,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1619,6 +1680,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Marine} bleue de votre main ayant 8000 de puissance ou moins autre que [Monkey D. Garp].",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-056_p1",
@@ -1648,6 +1710,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne 4000 de puissance pour tout le combat. Puis, défaussez 1 carte de votre main.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Piochez 1 carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1670,6 +1733,7 @@
     ],
     "effect": "[Principale] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, révélez 1 carte du dessus de votre deck&nbsp;; si c'est une carte Personnage incluant «Équipage de Barbe Blanche» dans son type et ayant un coût de 9 ou moins, vous pouvez la jouer. Si vous l'avez jouée, elle gagne [Initiative] pour tout le tour.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1693,6 +1757,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Sanji], piochez 1 carte.<br>[Contre] Si vous avez 4 Événements ou plus dans votre Défausse, jusqu'à 1 de vos Leaders gagne 4000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1715,6 +1780,7 @@
     ],
     "effect": "[Principale] Si votre Leader est multicolore, effectuez l'un des choix suivants&nbsp;:<br>• Renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.<br>• Si vous avez 6 cartes ou moins dans votre main, piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-060_p1",
@@ -1748,6 +1814,7 @@
     ],
     "effect": "[Une fois par tour] Si un de vos [Trafalgar Law] est mis KO, vous pouvez ajouter à votre main 1 carte du dessus de votre Vie à la place.<br>[Activation&nbsp;: Principale] [Une fois par tour] DON!!&nbsp;－1&nbsp;: Le coût du prochain [Trafalgar Law] de votre main ayant un coût de 4 ou plus que vous jouez est réduit de -2 pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-061_p1",
@@ -1780,6 +1847,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est [Sanji] et que le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!. Puis, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1805,6 +1873,7 @@
     ],
     "effect": "Si vous avez 4 Événements ou plus dans votre Défausse, ce Personnage gagne 2000 de puissance&nbsp;; augmentez de 5 le coût de ce Personnage.<br>[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-063_p1",
@@ -1838,6 +1907,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1863,6 +1933,7 @@
     ],
     "effect": "Si vous avez 4 Événements ou plus dans votre Défausse, ce Personnage gagne [Bloqueur].<br>[En cas de KO] Ajoutez à votre main jusqu'à 1 Événement de votre Défausse.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1887,6 +1958,7 @@
     ],
     "effect": "Si vous avez 4 Événements ou plus dans votre Défausse, ce Personnage gagne [Bloqueur].<br>(Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1911,6 +1983,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1936,6 +2009,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1961,6 +2035,7 @@
     ],
     "effect": "[Attaque adverse] [Une fois par tour] DON!!&nbsp;－1&nbsp;: Si votre Leader inclut «Baroque Works» dans son type, jusqu'à 1 de vos Leaders ou Personnages gagne 2000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -1986,6 +2061,7 @@
     ],
     "effect": "Pour chaque tranche de 5 Événements dans votre Défausse, ce Personnage gagne 1000 de puissance.<br>Si ce Personnage quitte le terrain à cause d'un effet adverse, vous pouvez renvoyer à votre deck DON!! 1 carte DON!! de votre terrain à la place.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-070_p1",
@@ -2017,6 +2093,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 [Sanji] ou jusqu'à 1 Événement et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2041,6 +2118,7 @@
     ],
     "effect": "Quand une carte DON!! de votre terrain est renvoyée à votre deck DON!!, si votre Leader est [Sanji], ce Personnage gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2067,6 +2145,7 @@
     ],
     "effect": "[Jouée] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!. Puis, tous vos [Don Quijote Rosinante] et tous vos Personnages de type {Équipage du Heart} gagnent 1000 de puissance jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-073_p1",
@@ -2098,6 +2177,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 Événement de votre main&nbsp;: Si votre Leader est [Sanji], ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2122,6 +2202,7 @@
     ],
     "effect": "[Jouée] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins. Puis, votre adversaire peut ajouter 1 carte DON!! redressée de son deck DON!!.",
     "trigger": "[Déclenchement] DON!!&nbsp;－1&nbsp;: Jouez cette carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2147,6 +2228,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2169,6 +2251,7 @@
     ],
     "effect": "[Principale] Choisissez jusqu'à 1 de vos [Trafalgar Law]&nbsp;; il gagne 2000 de puissance pour tout le tour. Puis, si la carte choisie attaque durant ce tour, votre adversaire ne peut pas activer [Bloqueur].",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2191,6 +2274,7 @@
     ],
     "effect": "[Principale] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, piochez 1 carte. Puis, jusqu'à 1 Personnage adverse perd -3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2213,6 +2297,7 @@
     ],
     "effect": "[Principale] Si votre Leader est [Sanji], regardez 3 cartes du dessus de votre deck et ajoutez jusqu'à 1 carte à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2235,6 +2320,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Lieu au-dessous du deck de son propriétaire&nbsp;: Si votre Leader est [Sanji], regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 Événement et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2261,6 +2347,7 @@
     ],
     "effect": "Quand ce Leader attaque le Leader adverse, si vous avez 2 Personnages ou plus ayant un coût de 8 ou plus, piochez 1 carte.<br>[Une fois par tour] Peut être activé quand votre adversaire joue un Personnage ayant un coût de base de 8 ou plus ou quand il joue un Personnage grâce à l'effet d'un Personnage. Votre adversaire ajoute à sa main 1 carte du dessus de sa Vie.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-081_p1",
@@ -2293,6 +2380,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2317,6 +2405,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2341,6 +2430,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Si votre Leader est de type {Armée révolutionnaire}, placez dans votre Défausse 3 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2365,6 +2455,7 @@
     ],
     "effect": "Si votre Leader est de type {Armée révolutionnaire}, augmentez de 3 le coût de ce Personnage.<br>[En attaquant] Si votre Leader est de type {Armée révolutionnaire} et que votre adversaire a 5 cartes ou plus dans sa main, il défausse 1 carte de sa main.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2390,6 +2481,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Armée révolutionnaire}, regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Armée révolutionnaire} autre que [Koala] ou jusqu'à 1 [Nico Robin] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-086_p1",
@@ -2421,6 +2513,7 @@
     ],
     "effect": "Si votre Leader est [Koala] ou [Monkey D. Luffy], ce Personnage gagne [Bloqueur]&nbsp;; augmentez de 3 le coût de ce Personnage.<br>[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Si votre adversaire a 5 cartes ou plus dans sa main, il défausse 2 cartes de sa main.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-087_p1",
@@ -2453,6 +2546,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2479,6 +2573,7 @@
     ],
     "effect": "Si votre Leader est de type {Armée révolutionnaire}, ce Personnage gagne [Bloqueur]&nbsp;; augmentez de 4 le coût de ce Personnage.<br>[En cas de KO] Si votre Leader est de type {Armée révolutionnaire}, mettez KO jusqu'à 1 Personnage adverse ayant un coût de base de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2503,6 +2598,7 @@
     ],
     "effect": "[En attaquant] Vous pouvez placer dans votre Défausse 2 cartes du dessus de votre deck&nbsp;: Réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2528,6 +2624,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez placer 3 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Jusqu'à 2 de vos Personnages de type {SMILE} gagnent 2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2553,6 +2650,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2578,6 +2676,7 @@
     ],
     "effect": "Si votre Leader est de type {Armée révolutionnaire}, augmentez de 4 le coût de ce Personnage.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2602,6 +2701,7 @@
     ],
     "effect": "[Jouée] Vous pouvez placer 3 cartes de type {Armée révolutionnaire} de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Si votre Leader est de type {Armée révolutionnaire}, jouez jusqu'à 1 carte Personnage de votre Défausse ayant un coût de 6 ou moins.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-094_p1",
@@ -2634,6 +2734,7 @@
     ],
     "effect": "Si votre Leader est de type {Armée révolutionnaire}, augmentez de 4 le coût de ce Personnage.<br>[Jouée] Piochez 1 carte et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2657,6 +2758,7 @@
     ],
     "effect": "[Principale] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins. Si vous avez un Personnage ayant un coût de 8 ou plus, choisissez un Personnage adverse ayant un coût de 6 ou moins à la place.",
     "trigger": "[Déclenchement] Piochez 1 carte et placez dans votre Défausse 1 carte du dessus de votre deck.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2679,6 +2781,7 @@
     ],
     "effect": "[Principale] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Armée révolutionnaire} autre que [Commandants réunis] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2702,6 +2805,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne 2000 de puissance pour tout le combat. Puis, si vous avez un Personnage de type {Armée révolutionnaire} ayant un coût de 8 ou plus, il gagne 2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Piochez 1 carte et placez dans votre Défausse 1 carte du dessus de votre deck.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2728,6 +2832,7 @@
     ],
     "effect": "[Votre tour] Quand une carte quitte la Vie d'un joueur, piochez 1 carte. Puis, vous ne pouvez pas piocher de carte grâce à un de vos effets pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2753,6 +2858,7 @@
     ],
     "effect": "Si vous avez 3 cartes ou moins dans votre Vie, ce Personnage gagne [Bloqueur]&nbsp;; augmentez de 3 le coût de ce Personnage.<br>[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus de votre Vie&nbsp;: Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2778,6 +2884,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Votre Leader de type {Supernovae} gagne 1000 de puissance jusqu'à la fin du prochain tour adverse.",
     "trigger": "[Déclenchement] Si votre Leader est de type {Supernovae}, jouez cette carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2803,6 +2910,7 @@
     ],
     "effect": "Si un de vos Personnages ayant un coût de base de 6 ou moins quitte le terrain à cause d'un effet adverse, vous pouvez retourner 1 carte du dessus de votre Vie face visible à la place.<br>[Tour adverse] Si vous n'avez pas d'autre [Shirahoshi] ayant un coût de base de 2, tous vos Personnages de type {Monstres marins} gagnent 2000 de puissance.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-102_p1",
@@ -2836,6 +2944,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2861,6 +2970,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2885,6 +2995,7 @@
     ],
     "effect": "[Votre tour] [Jouée] Jusqu'à 1 de vos [Trafalgar Law] gagne 2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2911,6 +3022,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2936,6 +3048,7 @@
     ],
     "effect": "Si vous avez 2 cartes ou moins dans votre Vie, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)<br>[Tour adverse] [En cas de KO] Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -2961,6 +3074,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Trafalgar Law] et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-108_p1",
@@ -2994,6 +3108,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins et ajoutez cette carte à votre main.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3018,6 +3133,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3042,6 +3158,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3066,6 +3183,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Si votre Leader est multicolore, piochez 2 cartes.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3091,6 +3209,7 @@
     ],
     "effect": "[En cas de KO] Si votre Leader est de type {Supernovae}, jouez jusqu'à 1 carte Personnage de type {Supernovae} épuisée de votre main ayant un coût de 4 ou moins.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins et ajoutez cette carte à votre main.",
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-113_p1",
@@ -3125,6 +3244,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3148,6 +3268,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne 2000 de puissance pour tout le combat. Puis, si vous avez 2 cartes ou moins dans votre Vie, ajoutez à votre main jusqu'à 1 [Trafalgar Law] de votre Défausse.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3172,6 +3293,7 @@
     ],
     "effect": "[Principale] Regardez 5 cartes du dessus de votre deck, révélez un total de jusqu'à 2 cartes Personnage de type {Guerriers de Shandora} ou [Montblanc Norland] et ajoutez-les à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Piochez 1 carte.",
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3195,6 +3317,7 @@
     ],
     "effect": "[Principale] Vous pouvez épuiser 5 de vos cartes DON!!&nbsp;: Si votre Leader est de type {Supernovae}, ajoutez face cachée au-dessus ou au-dessous de la Vie de son propriétaire jusqu'à 1 Personnage ayant un coût de 9 ou moins.<br>[Contre] Votre Leader gagne 3000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3220,6 +3343,7 @@
     ],
     "effect": "[Bloqueur]<br>[Jouée] Si vous avez 8 cartes ou plus épuisées, piochez 2 cartes et défaussez 1 carte de votre main. Puis, redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-118_p1",
@@ -3258,6 +3382,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck. Puis, augmentez de 2 le coût de ce Personnage jusqu'à la fin de la prochaine phase de Fin de votre adversaire.<br>[Tour adverse] [En cas de KO] Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": [
       {
         "id": "OP12-119_p1",
@@ -3289,6 +3414,7 @@
     ],
     "effect": "[Jouée] Si vous avez 2 cartes ou moins dans votre Vie, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   },
   {
@@ -3313,6 +3439,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille} violette et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "OP12",
     "variants": []
   }
 ]

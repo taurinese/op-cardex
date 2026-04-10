@@ -21,6 +21,7 @@
     ],
     "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -45,6 +46,7 @@
     ],
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or {Big Mom Pirates} type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -71,6 +73,7 @@
     ],
     "effect": "[Activate: Main] You may trash this Character: If you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, draw 1 card.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -98,6 +101,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] Give up to 3 of your {Animal} or {Drum Kingdom} type Characters up to 1 rested DON!! card each.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-001_p1",
@@ -138,6 +142,7 @@
     ],
     "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Draw 1 card and place 1 card from your hand at the top or bottom of your deck. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-002_p1",
@@ -177,6 +182,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -201,6 +207,7 @@
     ],
     "effect": "[On Play] If you have [Chess], K.O. up to 1 of your opponent's Characters with 3000 power or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -225,6 +232,7 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn. Then, if you don't have [Kuromarimo], play up to 1 [Kuromarimo] from your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -250,6 +258,7 @@
     ],
     "effect": "[Your Turn] If you have [Kuromarimo] and [Chess] in your trash, this Character gains +2000 power.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -276,6 +285,7 @@
     ],
     "effect": "[Your Turn] [On Play]/[When Attacking] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with 4000 power or less rested. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-007_p1",
@@ -307,6 +317,7 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −1000 power during this turn.<br>[DON!! x1] [Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: This Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -331,6 +342,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -356,6 +368,7 @@
     ],
     "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Up to 1 of your {Animal} type Characters other than this Character gains +1000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -381,6 +394,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -406,6 +420,7 @@
     ],
     "effect": "[DON!! x2] [When Attacking] If your Leader has the {Drum Kingdom} type, K.O. up to 1 of your opponent's Characters with 4000 power or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -431,6 +446,7 @@
     ],
     "effect": "[DON!! x2] This Character gains [Rush].<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -455,6 +471,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn. Then, this Character gains +2000 power until the end of your opponent's next turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -479,6 +496,7 @@
     ],
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Tony Tony.Chopper] or {Drum Kingdom} type card other than [Dr.Kureha] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-015_p1",
@@ -510,6 +528,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: If your Leader is [Tony Tony.Chopper], all of your [Tony Tony.Chopper] Characters gain +2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -532,6 +551,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
     "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -556,6 +576,7 @@
     ],
     "effect": "[Main] Up to 3 of your Characters gain +1000 power during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -578,6 +599,7 @@
     ],
     "effect": "[Main]/[Counter] Give up to 1 of your opponent's Characters −3000 power during this turn. Then, up to 1 of your Characters gains +3000 power during this turn.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -600,6 +622,7 @@
     ],
     "effect": "[Opponent's Turn] All of your {Drum Kingdom} type Characters gain +1000 power.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -624,6 +647,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] If you have a {Minks} type Character, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-021_p1",
@@ -664,6 +688,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Minks} type, up to 2 of your opponent's rested Characters with a cost of 5 or less will not become active in your opponent's next Refresh Phase.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -688,6 +713,7 @@
     ],
     "effect": "[On Play]/[When Attacking] Up to 1 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-023_p1",
@@ -735,6 +761,7 @@
     ],
     "effect": "[When Attacking] Up to 1 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -759,6 +786,7 @@
     ],
     "effect": "[On Play] Up to 1 of your opponent's rested Characters with a cost of 3 or less will not become active in your opponent's next Refresh Phase.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -783,6 +811,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Up to 1 of your opponent's rested Characters with a cost of 1 or less will not become active in your opponent's next Refresh Phase.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -807,6 +836,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -832,6 +862,7 @@
     ],
     "effect": "[On Play] If your opponent has 7 or more rested cards, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -857,6 +888,7 @@
     ],
     "effect": "If this Character is active, your {Minks} type Characters with a cost of 3 or less other than [Pekoms] cannot be K.O.'d by effects.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -881,6 +913,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Choose one:<br>• Rest up to 1 of your opponent's DON!! cards.<br>• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-030_p1",
@@ -912,6 +945,7 @@
     ],
     "effect": "[On Play] Set up to 1 of your {Minks} type Characters with a cost of 2 or less as active.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -936,6 +970,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -960,6 +995,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Minks} type and your opponent has 7 or more rested cards, K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -984,6 +1020,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Minks} type card other than [Wanda] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1008,6 +1045,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1030,6 +1068,7 @@
     ],
     "effect": "[Main] All of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
     "trigger": "[Trigger] Rest up to 1 of your opponent's Characters.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1052,6 +1091,7 @@
     ],
     "effect": "[Main] You may rest 1 of your {Minks} type Characters: Rest up to 1 of your opponent's Characters.",
     "trigger": "[Trigger] Draw 1 card.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1075,6 +1115,7 @@
     ],
     "effect": "[Main] You may rest 2 of your Characters: None of your Characters can be K.O.'d by your opponent's effects until the end of your opponent's next turn.",
     "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1097,6 +1138,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active.<br>[End of Your Turn] Set up to 1 of your {Minks} type Characters as active.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1121,6 +1163,7 @@
     ],
     "effect": "[On Play] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: If your Leader's type includes \"Whitebeard Pirates\", return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1145,6 +1188,7 @@
     ],
     "effect": "[Activate: Main] You may return this Character to the owner's hand: If your Leader has the {Kuja Pirates} type, place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1169,6 +1213,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1194,6 +1239,7 @@
     ],
     "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\" and you have 2 or less Life cards, select all of your opponent's Characters on their field. Until the end of your opponent's next turn, none of the selected Characters can attack unless your opponent trashes 2 cards from their hand whenever they attack.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-043_p1",
@@ -1225,6 +1271,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: This Character gains +2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1249,6 +1296,7 @@
     ],
     "effect": "If this Character would be removed from the field by your opponent's effect or K.O.'d, trash this Character and draw 1 card instead.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1273,6 +1321,7 @@
     ],
     "effect": "[Your Turn] [Once Per Turn] When a Character is removed from the field by your effect, if your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. Then, rest this Character.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1297,6 +1346,7 @@
     ],
     "effect": "[On Play] You may return 1 of your Characters other than this Character to the owner's hand: Return up to 1 Character with a cost of 6 or less to the owner's hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1321,6 +1371,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1345,6 +1396,7 @@
     ],
     "effect": "[On Play] Reveal 1 card from the top of your deck and place it at the top or bottom of your deck. If the revealed card's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1370,6 +1422,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1394,6 +1447,7 @@
     ],
     "effect": "[Your Turn] [On Play] Up to 1 of your [Edward Weevil] cards gains +2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1418,6 +1472,7 @@
     ],
     "effect": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 4 or less. Then, place the rest at the top or bottom of your deck.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-052_p1",
@@ -1455,6 +1510,7 @@
     ],
     "effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", look at 3 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Pirates\" or [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the top or bottom of your deck in any order.",
     "trigger": "[Trigger] Draw 1 card.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1477,6 +1533,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 3 or less. Then, place the rest at the top or bottom of your deck.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1499,6 +1556,7 @@
     ],
     "effect": "[Main] You may reveal 2 cards with a type including \"Whitebeard Pirates\" from your hand: Place up to 1 Character with a cost of 6 or less at the bottom of the owner's deck.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1521,6 +1579,7 @@
     ],
     "effect": "[Your Turn] [Once Per Turn] When your Character with a type including \"Whitebeard Pirates\" is removed from the field by an effect, draw 1 card. Then, place 1 card from your hand at the top or bottom of your deck.",
     "trigger": "[Trigger] Play this card.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1546,6 +1605,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:<br>• If you have 5 or less cards in your hand, draw 1 card.<br>• Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-057_p1",
@@ -1586,6 +1646,7 @@
     ],
     "effect": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-058_p1",
@@ -1626,6 +1687,7 @@
     ],
     "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Animal Kingdom Pirates} type and you have 10 DON!! cards on your field, play up to 1 [King] with a cost of 7 or less from your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1650,6 +1712,7 @@
     ],
     "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 5 or more DON!! cards on their field, this Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1674,6 +1737,7 @@
     ],
     "effect": "[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1698,6 +1762,7 @@
     ],
     "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Big Mom Pirates} type, play up to 1 [Charlotte Katakuri] from your hand with a cost of 3 or more that is equal to or less than the number of DON!! cards on your opponent's field.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-062_p1",
@@ -1739,6 +1804,7 @@
     ],
     "effect": "[On Play] You may turn 1 card from the top of your Life cards face-down: Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1763,6 +1829,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Biscuit Warrior] from your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1787,6 +1854,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1811,6 +1879,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1835,6 +1904,7 @@
     ],
     "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-067_p1",
@@ -1882,6 +1952,7 @@
     ],
     "effect": "[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
     "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1907,6 +1978,7 @@
     ],
     "effect": "[On Play] DON!! −1, You may trash 1 card from your hand: Add up to 1 card from the top of your deck to the top of your Life cards. Then, add up to 1 of your opponent's Characters with a cost of 6 or less to the top or bottom of your opponent's Life cards face-up.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-069_p1",
@@ -1938,6 +2010,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Viscount Hiyoko] with a cost of 5 or less from your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1962,6 +2035,7 @@
     ],
     "effect": "[Opponent's Turn] [On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Baron Tamago] with a cost of 4 or less from your deck. Then, shuffle your deck.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -1986,6 +2060,7 @@
     ],
     "effect": "Under the rules of this game, you may have any number of this card in your deck.<br>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2010,6 +2085,7 @@
     ],
     "effect": "[Opponent's Turn] [On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Count Niwatori] with a cost of 6 or less from your deck. Then, shuffle your deck.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2034,6 +2110,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] If you have no other [Black Maria] Characters, add up to 5 DON!! cards from your DON!! deck and rest them. Then, at the end of this turn, return DON!! cards from your field to your DON!! deck until you have the same number of DON!! cards on your field as your opponent.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-074_p1",
@@ -2071,6 +2148,7 @@
     ],
     "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 2 or less. Then, turn all of your Life cards face-down.",
     "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2094,6 +2172,7 @@
     ],
     "effect": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if your opponent has a Character with 6000 power or more, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-076_p1",
@@ -2135,6 +2214,7 @@
     ],
     "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Animal Kingdom Pirates} or {Big Mom Pirates} type, K.O. up to 2 of your opponent's Characters with a cost of 6 or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2159,6 +2239,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2184,6 +2265,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: If this Character was played on this turn, trash up to 1 of your opponent's Characters with a cost of 7 or less. Then, your opponent trashes 1 card from their hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-079_p1",
@@ -2215,6 +2297,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Queen] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-080_p1",
@@ -2246,6 +2329,7 @@
     ],
     "effect": "[When Attacking] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2270,6 +2354,7 @@
     ],
     "effect": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2295,6 +2380,7 @@
     ],
     "effect": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2319,6 +2405,7 @@
     ],
     "effect": "This Character gains +4 cost.<br>[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-084_p1",
@@ -2359,6 +2446,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] If you have a Character with a cost of 8 or more, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2384,6 +2472,7 @@
     ],
     "effect": "[On Play] If your opponent has a Character with a cost of 0, draw 2 cards and trash 2 cards from your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2409,6 +2498,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-087_p1",
@@ -2450,6 +2540,7 @@
     ],
     "effect": "[On Play] Up to 1 of your Characters gains +1 cost until the end of your opponent's next turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2475,6 +2566,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2500,6 +2592,7 @@
     ],
     "effect": "[On Play] Play up to 1 {SMILE} type Character card with a cost of 2 or less from your trash.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2525,6 +2618,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2549,6 +2643,7 @@
     ],
     "effect": "[On Play] Play up to 1 [Ulti] with a cost of 4 or less from your trash.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2575,6 +2670,7 @@
     ],
     "effect": "[DON!! x1] This Character gains +2 cost.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2597,6 +2693,7 @@
     ],
     "effect": "[Main]/[Counter] You may place 3 cards from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2620,6 +2717,7 @@
     ],
     "effect": "[Main] If you have 10 or more cards in your trash, up to 1 of your Characters gains +2000 power until the end of your opponent's next turn.",
     "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2642,6 +2740,7 @@
     ],
     "effect": "[Counter] Trash 1 card from the top of your deck. If the trashed card has a cost of 6 or more, up to 1 of your Leader or Character cards gains +5000 power during this battle.",
     "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2664,6 +2763,7 @@
     ],
     "effect": "[Main] If your Leader has the {Animal Kingdom Pirates} type, give up to 1 of your opponent's Characters −2 cost during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 0.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2690,6 +2790,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Play up to 1 {Shandian Warrior} type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-098_p1",
@@ -2731,6 +2832,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-099_p1",
@@ -2774,6 +2876,7 @@
     ],
     "effect": "[On Play] Look at 7 cards from the top of your deck and play up to 1 [Upper Yard]. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2798,6 +2901,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from the top of your Life cards: If your Leader has the {Big Mom Pirates} type, add 1 card from the top of your deck to the top of your Life cards at the end of this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2822,6 +2926,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost equal to or less than your number of Life cards.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2846,6 +2951,7 @@
     ],
     "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: Up to 1 of your Characters gains +1000 power until the end of your opponent's next turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2870,6 +2976,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] You may trash 1 card from your hand: Play this card. Then, draw 1 card.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2895,6 +3002,7 @@
     ],
     "effect": "[DON!! x1] [Your Turn] [Once Per Turn] When a card is removed from your opponent's Life cards, draw 2 cards and trash 1 card from your hand.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-105_p1",
@@ -2927,6 +3035,7 @@
     ],
     "effect": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card.",
     "trigger": "[Trigger] Activate this card's [On Play] effect.",
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-106_p1",
@@ -2967,6 +3076,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Pudding] cards gains +2000 power during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -2992,6 +3102,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3017,6 +3128,7 @@
     ],
     "effect": "[On Play] If your Leader has the {Shandian Warrior} type and you have a [Kalgara] Character, add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3042,6 +3154,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-110_p1",
@@ -3098,6 +3211,7 @@
     ],
     "effect": "[DON!! x1] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
     "trigger": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3123,6 +3237,7 @@
     ],
     "effect": "[On Play] Up to 1 of your opponent's Characters with a cost of 6 or less other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn.",
     "trigger": "[Trigger] Activate this card's [On Play] effect.",
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-112_p1",
@@ -3155,6 +3270,7 @@
     ],
     "effect": "-",
     "trigger": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card and K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3180,6 +3296,7 @@
     ],
     "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character cannot be K.O.'d in battle by <Slash> attribute cards and gains +2000 power.",
     "trigger": "[Trigger] You may trash 1 card from your hand: If you have 2 or less Life cards, play this card.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3203,6 +3320,7 @@
     ],
     "effect": "[Counter] If your Leader has the {Shandian Warrior} type, up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, play up to 1 [Upper Yard] from your hand.",
     "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3226,6 +3344,7 @@
     ],
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, you may add 1 card from the top or bottom of your Life cards to your hand. If you do, add up to 1 {Shandian Warrior} type card from your hand to the top of your Life cards face-up.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3249,6 +3368,7 @@
     ],
     "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 7 or less.",
     "trigger": "[Trigger] You may add 1 card from the top of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3273,6 +3393,7 @@
     ],
     "effect": "[On Play] Select up to 2 of your opponent's Characters, and give 1 Character −3000 power and the other −2000 power until the end of your opponent's next turn. Then, K.O. up to 1 of your opponent's Characters with 3000 power or less.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-118_p1",
@@ -3321,6 +3442,7 @@
     ],
     "effect": "[When Attacking] DON!! −10: K.O. all Characters other than this Character. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash up to 1 card from the top of your opponent's Life cards.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": [
       {
         "id": "OP08-119_p1",
@@ -3353,6 +3475,7 @@
     ],
     "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3378,6 +3501,7 @@
     ],
     "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3402,6 +3526,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   },
   {
@@ -3426,6 +3551,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "OP08",
     "variants": []
   }
 ]

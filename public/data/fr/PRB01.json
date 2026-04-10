@@ -22,6 +22,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[DON!!&nbsp;x2] [En attaquant] Jusqu'à 1 Personnage adverse perd -3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 Personnage adverse perd -2000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-006_p2",
@@ -89,6 +91,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Chapeau de paille} autre que [Nami] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": []
   },
   {
@@ -114,6 +117,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] Ce Personnage ne peut pas être mis KO en combat par un Personnage ayant l'attribut <Frappe>.<br>[Activation&nbsp;: Principale] [Une fois par tour] Donnez jusqu'à 2 cartes DON!! épuisées à ce Personnage.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-024_p2",
@@ -143,6 +147,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, si vous avez 2 cartes ou moins dans votre Vie, il gagne de nouveau +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-029_p2",
@@ -181,6 +186,7 @@
     ],
     "effect": "[Jouée] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-033_p2",
@@ -225,6 +231,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Pays de Wano} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-041_p2",
@@ -269,6 +276,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Jouez jusqu'à 1 carte Personnage de votre main ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-047_p2",
@@ -301,6 +309,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [Tour adverse] Si ce Personnage est épuisé, votre adversaire ne peut attaquer aucune autre carte qu'un Personnage [Eustass \"Captain\" Kidd].<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser ce Personnage&nbsp;: Jouez jusqu'à 1 carte Personnage de votre main ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-051_p2",
@@ -333,6 +342,7 @@
     ],
     "effect": "[En attaquant] [Une fois par tour] Si vous avez 2 Personnages ou plus épuisés, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-052_p2",
@@ -370,6 +380,7 @@
     ],
     "effect": "[Jouée] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 7 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-070_p2",
@@ -402,6 +413,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[DON!!&nbsp;x1] [En attaquant]/[En bloquant] Si vous avez 5 cartes ou moins dans votre main, piochez 1 carte.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-078_p2",
@@ -434,6 +446,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En attaquant] Votre adversaire ne peut pas activer l'effet [Bloqueur] de ses Personnages ayant 2000 de puissance ou moins pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-120_p2",
@@ -471,6 +484,7 @@
     ],
     "effect": "Le nom de cette carte est aussi considéré comme [Oden Kozuki] selon les règles.<br>[Double attaque] (Les dégâts infligés par cette carte passent à 2.)<br>[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP01-121_p2",
@@ -503,6 +517,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 1 de vos Leaders gagne +2000 de puissance jusqu'au début de votre prochain tour. Puis, vous ne pouvez pas ajouter de cartes de votre Vie à votre main grâce à vos effets pour tout le tour.<br>[DON!!&nbsp;x2] [En attaquant] Mettez KO jusqu'à 1 Personnage adverse ayant 3000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-004_p2",
@@ -534,6 +549,7 @@
     ],
     "effect": "[Jouée] Jusqu'à 2 Personnages adverses perdent -3000 de puissance pour tout le tour. Puis, si votre Leader inclut «Équipage de Barbe Blanche» dans son type, ce Personnage gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": []
   },
   {
@@ -558,6 +574,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage&nbsp;: Jusqu'à 1 de vos Personnages rouges ayant un coût de 1 gagne +3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-015_p2",
@@ -595,6 +612,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[En cas de KO] Vous pouvez défausser 1 carte de votre main incluant «Équipage de Barbe Blanche» dans son type&nbsp;: Si vous avez 2 cartes ou moins dans votre Vie, jouez cette carte Personnage épuisée depuis votre Défausse.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-018_p4",
@@ -636,6 +654,7 @@
     ],
     "effect": "[Contre] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Un total de jusqu'à 2 Leaders ou Personnages adverses perdent -3000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Si votre adversaire a 6 cartes DON!! ou plus sur son terrain, il doit renvoyer à son deck DON!! 1 carte DON!! de son terrain.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-089_p2",
@@ -679,6 +698,7 @@
     ],
     "effect": "[Jouée] Piochez 1 carte.<br>[En attaquant] Réduisez de -4 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-096_p2",
@@ -710,6 +730,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-099_p2",
@@ -741,6 +762,7 @@
     ],
     "effect": "[Jouée] Réduisez de -2 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-106_p4",
@@ -778,6 +800,7 @@
     ],
     "effect": "[Tour adverse] Ce Personnage ne peut pas être mis KO par un effet et gagne +1000 de puissance.<br>[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-114_p2",
@@ -807,6 +830,7 @@
     ],
     "effect": "[Principale] Réduisez de -5 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-117_p4",
@@ -844,6 +868,7 @@
     ],
     "effect": "[Votre tour] Réduisez de -5 le coût de tous les Personnages adverses.<br>[Jouée] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 0.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP02-121_p2",
@@ -876,6 +901,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Équipage de Barbe Blanche» dans son type autre que [Izo] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-003_p4",
@@ -918,6 +944,7 @@
     ],
     "effect": "[Contre] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 de vos Leaders gagne +4000 de puissance pour tout le combat. Puis, vous pouvez placer dans votre Défausse 2 cartes du dessus de votre deck.",
     "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-055_p2",
@@ -953,6 +980,7 @@
     ],
     "effect": "[Principale] Piochez 2 cartes.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-056_p2",
@@ -995,6 +1023,7 @@
     ],
     "effect": "[Principale] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 5 ou moins.",
     "trigger": "[Déclenchement] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 3 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-057_p2",
@@ -1039,6 +1068,7 @@
     ],
     "effect": "[En attaquant] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-060_p2",
@@ -1077,6 +1107,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Ce Personnage ne peut pas être mis KO en combat.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-079_p4",
@@ -1114,6 +1145,7 @@
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Marine} autre que [Brandnew] et ajoutez-la à votre main. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-089_p4",
@@ -1155,6 +1187,7 @@
     ],
     "effect": "[Principale] Si votre Leader inclut «CP» dans son type, regardez 5 cartes du dessus de votre deck et jouez jusqu'à 1 carte Personnage incluant «CP» dans son type et ayant un coût de 5 ou moins. Puis, placez les cartes restantes dans votre Défausse.",
     "trigger": "[Déclenchement] Jouez jusqu'à 1 carte Personnage noire de votre Défausse ayant un coût de 3 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-094_p2",
@@ -1192,6 +1225,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] Si votre Vie comporte moins de cartes que celle de votre adversaire, ce Personnage gagne [Double attaque] et +1000 de puissance.<br>(Les dégâts infligés par cette carte passent à 2.)",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-108_p2",
@@ -1223,6 +1257,7 @@
     ],
     "effect": "[En attaquant] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Ce Personnage gagne +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-110_p3",
@@ -1266,6 +1301,7 @@
     ],
     "effect": "[En cas de KO] Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Big Mom} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-113_p2",
@@ -1297,6 +1333,7 @@
     ],
     "effect": "[Jouée] Piochez 3 cartes et défaussez 2 cartes de votre main.",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-116_p4",
@@ -1333,6 +1370,7 @@
     ],
     "effect": "[Principale] Vous pouvez placer dans votre Défausse 1 carte du dessus de votre Vie&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-121_p3",
@@ -1370,6 +1408,7 @@
     ],
     "effect": "Le nom de cette carte est aussi considéré comme [Usopp] selon les règles.<br>[Jouée] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 6 ou moins. Puis, piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": []
   },
   {
@@ -1394,6 +1433,7 @@
     ],
     "effect": "[Jouée] Ajoutez face visible au-dessus ou au-dessous de la Vie de son propriétaire jusqu'à 1 Personnage ayant un coût de 8 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP03-123_p2",
@@ -1425,6 +1465,7 @@
     ],
     "effect": "[Fin de votre tour] Redressez jusqu'à 1 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-029_p2",
@@ -1463,6 +1504,7 @@
     ],
     "effect": "[Jouée] Un total de jusqu'à 3 Leaders et Personnages adverses épuisés ne pourront pas être redressés lors de la prochaine phase de Recharge de votre adversaire.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-031_p2",
@@ -1494,6 +1536,7 @@
     ],
     "effect": "[Fin de votre tour] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Redressez jusqu'à 2 de vos cartes DON!!.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-032_p2",
@@ -1529,6 +1572,7 @@
     ],
     "effect": "[Contre] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Contre] de cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-036_p2",
@@ -1567,6 +1611,7 @@
     ],
     "effect": "[Jouée] Renvoyez à la main de leur propriétaire jusqu'à 1 Personnage ayant un coût de 8 ou moins et jusqu'à 1 Personnage ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-044_p2",
@@ -1596,6 +1641,7 @@
     ],
     "effect": "[Principale] Placez jusqu'à 1 Personnage au-dessous du deck de son propriétaire.",
     "trigger": "[Déclenchement] Placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 4 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-056_p2",
@@ -1640,6 +1686,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Vos Personnages ne peuvent pas être mis KO par un effet jusqu'au début de votre prochain tour. Puis, piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": []
   },
   {
@@ -1665,6 +1712,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-089_p2",
@@ -1707,6 +1755,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, si vous avez 15 cartes ou plus dans votre Défausse, il gagne de nouveau +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-095_p2",
@@ -1744,6 +1793,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Jusqu'à 1 Leader ou Personnage adverse ne peut pas attaquer pour tout le tour.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-100_p2",
@@ -1787,6 +1837,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-104_p2",
@@ -1818,6 +1869,7 @@
     ],
     "effect": "[Jouée] Mettez KO jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre total de cartes dans votre Vie et celle de votre adversaire. Puis, si vous avez 1 carte ou moins dans votre Vie, ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP04-112_p2",
@@ -1849,6 +1901,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Armée révolutionnaire}, jusqu'à 1 Personnage adverse perd -3000 de puissance pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-006_p2",
@@ -1880,6 +1933,7 @@
     ],
     "effect": "[Jouée] Mettez KO jusqu'à 2 Personnages adverses ayant 4000 ou moins de puissance combinée.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-007_p2",
@@ -1911,6 +1965,7 @@
     ],
     "effect": "[Jouée] Mettez KO jusqu'à 1 Personnage adverse ayant 1000 de puissance ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-010_p2",
@@ -1948,6 +2003,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Armée révolutionnaire} autre que [Belo Betty] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-015_p2",
@@ -1991,6 +2047,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-034_p2",
@@ -2034,6 +2091,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est multicolore, regardez 3 cartes du dessus de votre deck et ajoutez jusqu'à 1 carte à votre main. Puis, réorganisez les cartes restantes dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-043_p2",
@@ -2063,6 +2121,7 @@
     ],
     "effect": "[Principale] Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le tour. Puis, placez au-dessous du deck de son propriétaire jusqu'à 1 Personnage ayant un coût de 2 ou moins.",
     "trigger": "[Déclenchement] Renvoyez à la main de son propriétaire jusqu'à 1 Personnage ayant un coût de 3 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-057_p2",
@@ -2106,6 +2165,7 @@
     ],
     "effect": "[En attaquant] Si votre adversaire a plus de cartes DON!! sur son terrain que vous n'en avez sur le vôtre, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage du Heart} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": []
   },
   {
@@ -2130,6 +2190,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Ajoutez jusqu'à 1 carte DON!! épuisée de votre deck DON!!.",
     "trigger": "[Déclenchement] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-073_p2",
@@ -2167,6 +2228,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Votre tour] [Une fois par tour] Quand une carte DON!! de votre terrain est renvoyée à votre deck DON!!, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-074_p2",
@@ -2204,6 +2266,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Réduisez de -3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-081_p2",
@@ -2247,6 +2310,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser ce Personnage et placer 2 cartes de votre Défausse au-dessous de votre deck dans l'ordre de votre choix&nbsp;: Si votre adversaire a 6 cartes ou plus dans sa main, il doit défausser 1 carte de sa main.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-082_p2",
@@ -2291,6 +2355,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-105_p2",
@@ -2332,6 +2397,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, si votre adversaire a 2 cartes ou moins dans sa Vie, il gagne de nouveau +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre de cartes dans la Vie adverse.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-114_p2",
@@ -2367,6 +2433,7 @@
     ],
     "effect": "[Principale] Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le tour. Puis, si vous avez 1 carte ou moins dans votre Vie, épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": "[Déclenchement] Vous pouvez défausser 2 cartes de votre main&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-115_p2",
@@ -2408,6 +2475,7 @@
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Île céleste} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-117_p2",
@@ -2452,6 +2520,7 @@
     ],
     "effect": "[Jouée] Si votre adversaire a 3 cartes ou moins dans sa Vie, piochez 4 cartes.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-118_p2",
@@ -2484,6 +2553,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-10&nbsp;: Placez tous vos Personnages autres que celui-ci au-dessous de votre deck dans l'ordre de votre choix. Puis, jouez un nouveau tour après celui-ci.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP05-119_p3",
@@ -2521,6 +2591,7 @@
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck et jouez jusqu'à 1 carte Personnage de type {Armée révolutionnaire} ayant 5000 de puissance ou moins. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-003_p2",
@@ -2560,6 +2631,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Jusqu'à 1 Leader adverse épuisé ne peut pas attaquer jusqu'à la fin du prochain tour adverse.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-023_p2",
@@ -2604,6 +2676,7 @@
     ],
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[Jouée] Épuisez jusqu'à 2 cartes Personnage ou DON!! adverses. Puis, ajoutez à votre main 1 carte du dessus de votre Vie.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-035_p2",
@@ -2636,6 +2709,7 @@
     ],
     "effect": "[Jouée]/[En cas de KO] Mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-036_p2",
@@ -2678,6 +2752,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +2000 de puissance pour tout le combat. Puis, si vous avez 8 cartes ou plus épuisées, il gagne de nouveau +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse épuisé ayant un coût de 3 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-038_p2",
@@ -2713,6 +2788,7 @@
     ],
     "effect": "[Principale] Placez jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins au-dessous du deck de leur propriétaire dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-056_p2",
@@ -2751,6 +2827,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;; vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est de type {Germa 66}, jouez jusqu'à 1 [Ichiji Vinsmoke] de votre main ou votre Défausse ayant un coût de 7.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-060_p2",
@@ -2789,6 +2866,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;; vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est de type {Germa 66}, jouez jusqu'à 1 [Niji Vinsmoke] de votre main ou votre Défausse ayant un coût de 5.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-064_p2",
@@ -2827,6 +2905,7 @@
     ],
     "effect": "[Jouée] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, effectuez l'un des choix suivants&nbsp;:<br>• Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 2 ou moins.<br>• Renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-065_p2",
@@ -2871,6 +2950,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;; vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est de type {Germa 66}, jouez jusqu'à 1 [Yonji Vinsmoke] de votre main ou votre Défausse ayant un coût de 4.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-066_p2",
@@ -2909,6 +2989,7 @@
     ],
     "effect": "Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire, ce Personnage gagne +1000 de puissance.<br>[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-067_p2",
@@ -2953,6 +3034,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;; vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Si votre Leader est de type {Germa 66}, jouez jusqu'à 1 [Reiju Vinsmoke] de votre main ou votre Défausse ayant un coût de 4.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-068_p2",
@@ -2991,6 +3073,7 @@
     ],
     "effect": "[Jouée] Si le nombre de cartes DON!! sur votre terrain est inférieur ou égal à celui du terrain de votre adversaire et que vous avez 5 cartes ou moins dans votre main, piochez 2 cartes.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-069_p2",
@@ -3020,6 +3103,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] Vous pouvez défausser 1 carte de votre main et épuiser ce Lieu&nbsp;: Regardez 3 cartes du dessus de votre deck, révélez jusqu'à 1 carte incluant «Germa» dans son type et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-079_p2",
@@ -3064,6 +3148,7 @@
     ],
     "effect": "[Jouée] Choisissez jusqu'à 1 carte Personnage ayant un coût de 4 ou moins et jusqu'à 1 carte Personnage ayant un coût de 2 ou moins de votre Défausse&nbsp;; jouez-en une et jouez l'autre épuisée.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-086_p2",
@@ -3095,6 +3180,7 @@
     ],
     "effect": "[Jouée] Si votre Leader est de type {Équipage de Thriller Bark}, placez dans votre Défausse 5 cartes du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-091_p2",
@@ -3134,6 +3220,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] [En attaquant] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût inférieur ou égal au nombre de cartes dans la Vie adverse.",
     "trigger": "[Déclenchement] Si votre adversaire a 3 cartes ou moins dans sa Vie, jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-100_p2",
@@ -3172,6 +3259,7 @@
     ],
     "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Placez jusqu'à 1 carte de votre main au-dessus de votre Vie.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-106_p2",
@@ -3205,6 +3293,7 @@
     ],
     "effect": "[DON!!&nbsp;x2] Ce Personnage peut aussi attaquer les Personnages adverses redressés.",
     "trigger": "[Déclenchement] Si votre adversaire a 3 cartes ou moins dans sa Vie, jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-110_p2",
@@ -3243,6 +3332,7 @@
     ],
     "effect": "[Jouée] Vous pouvez placer 1 Lieu ayant un coût de 1 au-dessous du deck de son propriétaire&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Upper Yard] ou jusqu'à 1 carte de type {Guerriers de Shandora} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "OP06-114_p2",
@@ -3280,6 +3370,7 @@
     ],
     "effect": "[En attaquant] [Une fois par tour] Vous pouvez épuiser 1 de vos cartes DON!!&nbsp;: Redressez ce Personnage.<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez épuiser 2 de vos cartes DON!!&nbsp;: Redressez ce Personnage.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": []
   },
   {
@@ -3305,6 +3396,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "P-014_p1",
@@ -3344,6 +3436,7 @@
     ],
     "effect": "[Fin de votre tour] Vous pouvez épuiser ce Personnage&nbsp;: Redressez jusqu'à 1 de vos Personnages de type {FILM} autre que [Bartolomeo].",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "P-029_p3",
@@ -3381,6 +3474,7 @@
     ],
     "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre main, renvoyez à la main de son propriétaire jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "P-053_p1",
@@ -3418,6 +3512,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 2 cartes de votre main&nbsp;: Votre adversaire doit placer 1 de ses Personnages au-dessous du deck de son propriétaire.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "P-055_p1",
@@ -3455,6 +3550,7 @@
     ],
     "effect": "[Activation&nbsp;: Principale] [Une fois par tour] Jusqu'à 1 de vos Personnages ayant un coût de 8 ou moins et n'ayant pas d'effet [Jouée] gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "PRB01-001_p1",
@@ -3487,6 +3583,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST01-006_p2",
@@ -3529,6 +3626,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +3000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Jusqu'à 1 de vos Leaders ou Personnages gagne +1000 de puissance pour tout le tour.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST01-014_p2",
@@ -3567,6 +3665,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST02-004_p2",
@@ -3610,6 +3709,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Piochez 2 cartes et défaussez 2 cartes de votre main.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST03-005_p3",
@@ -3648,6 +3748,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST03-008_p3",
@@ -3686,6 +3787,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST03-013_p2",
@@ -3730,6 +3832,7 @@
     ],
     "effect": "[Jouée] DON!!&nbsp;-5 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 6 ou moins&nbsp;; ce Personnage gagne [Initiative] pour tout le tour.<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST04-003_p2",
@@ -3761,6 +3864,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST04-005_p3",
@@ -3797,6 +3901,7 @@
     ],
     "effect": "[Contre] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST04-016_p2",
@@ -3834,6 +3939,7 @@
     ],
     "effect": "[Jouée] Réduisez de -3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST06-010_p2",
@@ -3869,6 +3975,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, mettez KO jusqu'à 1 Personnage adverse redressé ayant un coût de 3 ou moins.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 4 ou moins.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST06-014_p2",
@@ -3906,6 +4013,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": "[Déclenchement] Jouez cette carte.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST07-007_p2",
@@ -3941,6 +4049,7 @@
     ],
     "effect": "[Contre] Si vous avez 2 cartes ou moins dans votre Vie, jusqu'à 1 Leader ou Personnage adverse perd -3000 de puissance pour tout le tour.",
     "trigger": "[Déclenchement] Vous pouvez défausser 2 cartes de votre main&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST09-014_p2",
@@ -3978,6 +4087,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] DON!!&nbsp;-1 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Si votre adversaire a 7 cartes ou plus dans sa main, défaussez 2 cartes de sa main.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST10-010_p2",
@@ -4009,6 +4119,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.",
     "trigger": null,
+    "tile_set_id": "PRB01",
     "variants": [
       {
         "id": "ST12-014_p2",

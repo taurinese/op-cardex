@@ -21,6 +21,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Regardez jusqu'à 1 carte du dessus de votre Vie ou de celle de votre adversaire et placez-la au-dessus ou au-dessous de la Vie. Puis, ce Leader gagne +1000 de puissance pour tout le combat.",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -45,6 +46,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -69,6 +71,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -93,6 +96,7 @@
     ],
     "effect": "[En attaquant] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Ce Personnage gagne +2000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -117,6 +121,7 @@
     ],
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Big Mom} autre que [Charlotte Pudding] ou jusqu'à 1 [Sanji] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -141,6 +146,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main ayant [Déclenchement]&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 1 ou moins.",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -164,6 +170,7 @@
     ],
     "effect": "[Contre] Jusqu'à 1 de vos Leaders ou Personnages gagne +5000 de puissance pour tout le combat.",
     "trigger": "[Déclenchement] Vous pouvez défausser 2 cartes de votre main&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -187,6 +194,7 @@
     ],
     "effect": "[Principale] Vous pouvez placer dans votre Défausse 1 carte du dessus de votre Vie&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
     "trigger": "[Déclenchement] Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins.",
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -211,6 +219,7 @@
     ],
     "effect": "[DON!!&nbsp;x1] [En attaquant] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Ajoutez au-dessus de votre Vie jusqu'à 1 carte du dessus de votre deck.",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -236,6 +245,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -260,6 +270,7 @@
     ],
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Activation&nbsp;: Principale] [Une fois par tour] Vous pouvez retourner 1 carte du dessus de votre Vie face visible&nbsp;: Donnez jusqu'à 1 carte DON!! épuisée à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -284,6 +295,7 @@
     ],
     "effect": "[Une fois par tour] Si ce Personnage est mis KO par un effet, vous pouvez placer dans votre Défausse 1 carte du dessus de votre Vie à la place.",
     "trigger": "[Déclenchement] Vous pouvez défausser 1 carte de votre main&nbsp;: Jouez cette carte.",
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -308,6 +320,7 @@
     ],
     "effect": "-",
     "trigger": "[Déclenchement] Regardez jusqu'à 1 carte du dessus de votre Vie ou de celle de votre adversaire et placez-la au-dessus ou au-dessous de la Vie. Puis, ajoutez cette carte à votre main.",
+    "tile_set_id": "ST20",
     "variants": [
       {
         "id": "ST20-003_p1",
@@ -341,6 +354,7 @@
     ],
     "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus de votre Vie&nbsp;: Redressez jusqu'à 1 de vos Personnages de type {Équipage de Big Mom} ayant un coût de 3 ou moins.",
     "trigger": "[Déclenchement] Épuisez jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
+    "tile_set_id": "ST20",
     "variants": []
   },
   {
@@ -366,6 +380,7 @@
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Votre adversaire effectue l'un des choix suivants&nbsp;:<br>• Votre adversaire défausse 2 cartes de sa main.<br>• Votre adversaire place dans sa Défausse 1 carte du dessus de sa Vie.",
     "trigger": null,
+    "tile_set_id": "ST20",
     "variants": [
       {
         "id": "ST20-005_p1",

@@ -22,6 +22,7 @@
     ],
     "effect": "[Activate: Main] You may rest 5 of your DON!! cards and trash 1 card from your hand: Play up to 1 {Cross Guild} type Character card from your hand.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -46,6 +47,7 @@
     ],
     "effect": "[On K.O.] If your Leader has the {Cross Guild} type, play up to 1 Character card with a cost of 5 or less other than [Alvida] from your hand.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -70,6 +72,7 @@
     ],
     "effect": "If you have a [Buggy] or [Mohji] Character, this Character cannot be K.O.'d in battle.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -95,6 +98,7 @@
     ],
     "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -119,6 +123,7 @@
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Richie] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Richie] from your hand.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -144,6 +149,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -169,6 +175,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -194,6 +201,7 @@
     ],
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card or card with a type including \"Baroque Works\" other than [Mr.3(Galdino)] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -216,6 +224,7 @@
     ],
     "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -241,6 +250,7 @@
     ],
     "effect": "This Character cannot attack.<br>If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack.<br>[On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -265,6 +275,7 @@
     ],
     "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost.<br>[On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -289,6 +300,7 @@
     ],
     "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[Opponent's Turn] This Character gains +5000 power.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -315,6 +327,7 @@
     ],
     "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand.<br>[Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -340,6 +353,7 @@
     ],
     "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader is [Buggy], play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   },
   {
@@ -364,6 +378,7 @@
     ],
     "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.<br>(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
     "trigger": null,
+    "tile_set_id": "ST25",
     "variants": []
   }
 ]

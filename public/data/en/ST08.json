@@ -21,6 +21,7 @@
     ],
     "effect": "[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -45,6 +46,7 @@
     ],
     "effect": "This Character cannot be K.O.'d in battle by Leaders.<br>[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -69,6 +71,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -93,6 +96,7 @@
     ],
     "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -117,6 +121,7 @@
     ],
     "effect": "[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -141,6 +146,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -165,6 +171,7 @@
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": "[Trigger] Play this card.",
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -189,6 +196,7 @@
     ],
     "effect": "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -213,6 +221,7 @@
     ],
     "effect": "[On Play] If there is a Character with a cost of 0, draw 1 card.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -237,6 +246,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -261,6 +271,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -285,6 +296,7 @@
     ],
     "effect": "-",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -309,6 +321,7 @@
     ],
     "effect": "[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
     "trigger": null,
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -331,6 +344,7 @@
     ],
     "effect": "[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
     "trigger": "[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.",
+    "tile_set_id": "ST08",
     "variants": []
   },
   {
@@ -353,6 +367,7 @@
     ],
     "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
     "trigger": "[Trigger] Draw 1 card.",
+    "tile_set_id": "ST08",
     "variants": []
   }
 ]
