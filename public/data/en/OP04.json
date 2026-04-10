@@ -1,133 +1,5 @@
 [
   {
-    "id": "OP01-047_p2",
-    "pack_id": "569104",
-    "name": "Trafalgar Law",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP01-047_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 6000,
-    "counter": null,
-    "types": [
-      "Supernovas",
-      "Heart Pirates"
-    ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
-    "trigger": null,
-    "tile_set_id": "OP04",
-    "variants": []
-  },
-  {
-    "id": "OP01-078_p2",
-    "pack_id": "569104",
-    "name": "Boa Hancock",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP01-078_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p2.png?251017",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 4,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": 1000,
-    "types": [
-      "The Seven Warlords of the Sea",
-      "Kuja Pirates"
-    ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
-    "trigger": null,
-    "tile_set_id": "OP04",
-    "variants": []
-  },
-  {
-    "id": "OP02-004_p2",
-    "pack_id": "569104",
-    "name": "Edward.Newgate",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-004_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p2.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 9,
-    "attributes": [
-      "Special"
-    ],
-    "power": 10000,
-    "counter": null,
-    "types": [
-      "The Four Emperors",
-      "Whitebeard Pirates"
-    ],
-    "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.<br>[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
-    "trigger": null,
-    "tile_set_id": "OP04",
-    "variants": []
-  },
-  {
-    "id": "OP02-085_p2",
-    "pack_id": "569104",
-    "name": "Magellan",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-085_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-085_p2.png?251017",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Special"
-    ],
-    "power": 6000,
-    "counter": null,
-    "types": [
-      "Impel Down"
-    ],
-    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.<br>[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
-    "trigger": null,
-    "tile_set_id": "OP04",
-    "variants": []
-  },
-  {
-    "id": "OP02-099_p2",
-    "pack_id": "569104",
-    "name": "Sakazuki",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-099_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p2.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 6,
-    "attributes": [
-      "Special"
-    ],
-    "power": 7000,
-    "counter": null,
-    "types": [
-      "Navy"
-    ],
-    "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
-    "trigger": null,
-    "tile_set_id": "OP04",
-    "variants": []
-  },
-  {
     "id": "OP04-001",
     "pack_id": "569104",
     "name": "Nefeltari Vivi",
@@ -3705,5 +3577,133 @@
         "set_label": "OP-09"
       }
     ]
+  },
+  {
+    "id": "OP01-047_p2",
+    "pack_id": "569104",
+    "name": "Trafalgar Law",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-047_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+    "trigger": null,
+    "tile_set_id": "OP04",
+    "variants": []
+  },
+  {
+    "id": "OP01-078_p2",
+    "pack_id": "569104",
+    "name": "Boa Hancock",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-078_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p2.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+    "trigger": null,
+    "tile_set_id": "OP04",
+    "variants": []
+  },
+  {
+    "id": "OP02-004_p2",
+    "pack_id": "569104",
+    "name": "Edward.Newgate",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-004_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p2.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 9,
+    "attributes": [
+      "Special"
+    ],
+    "power": 10000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.<br>[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+    "trigger": null,
+    "tile_set_id": "OP04",
+    "variants": []
+  },
+  {
+    "id": "OP02-085_p2",
+    "pack_id": "569104",
+    "name": "Magellan",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-085_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-085_p2.png?251017",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": null,
+    "types": [
+      "Impel Down"
+    ],
+    "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.<br>[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+    "trigger": null,
+    "tile_set_id": "OP04",
+    "variants": []
+  },
+  {
+    "id": "OP02-099_p2",
+    "pack_id": "569104",
+    "name": "Sakazuki",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-099_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p2.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "trigger": null,
+    "tile_set_id": "OP04",
+    "variants": []
   }
 ]

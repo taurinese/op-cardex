@@ -1,131 +1,5 @@
 [
   {
-    "id": "OP01-016_p4",
-    "pack_id": "569105",
-    "name": "Nami",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP01-016_p4.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p4.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 1,
-    "attributes": [
-      "Special"
-    ],
-    "power": 2000,
-    "counter": 1000,
-    "types": [
-      "Straw Hat Crew"
-    ],
-    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": null,
-    "tile_set_id": "OP05",
-    "variants": []
-  },
-  {
-    "id": "OP01-121_p2",
-    "pack_id": "569105",
-    "name": "Yamato",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP01-121_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 5000,
-    "counter": 1000,
-    "types": [
-      "Land of Wano"
-    ],
-    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
-    "trigger": null,
-    "tile_set_id": "OP05",
-    "variants": []
-  },
-  {
-    "id": "OP02-120_p2",
-    "pack_id": "569105",
-    "name": "Uta",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-120_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-120_p2.png?251017",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 8,
-    "attributes": [
-      "Special"
-    ],
-    "power": 8000,
-    "counter": null,
-    "types": [
-      "FILM"
-    ],
-    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your Leader and all of your Characters gain +1000 power until the start of your next turn.",
-    "trigger": null,
-    "tile_set_id": "OP05",
-    "variants": []
-  },
-  {
-    "id": "OP03-092_p2",
-    "pack_id": "569105",
-    "name": "Rob Lucci",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-092_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-092_p2.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 6,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 7000,
-    "counter": null,
-    "types": [
-      "CP9"
-    ],
-    "effect": "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: This Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
-    "trigger": null,
-    "tile_set_id": "OP05",
-    "variants": []
-  },
-  {
-    "id": "OP04-044_p2",
-    "pack_id": "569105",
-    "name": "Kaido",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP04-044_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-044_p2.png?251017",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 12000,
-    "counter": null,
-    "types": [
-      "The Four Emperors",
-      "Animal Kingdom Pirates"
-    ],
-    "effect": "[On Play] Return up to 1 Character with a cost of 8 or less and up to 1 Character with a cost of 3 or less to the owner's hand.",
-    "trigger": null,
-    "tile_set_id": "OP05",
-    "variants": []
-  },
-  {
     "id": "OP05-001",
     "pack_id": "569105",
     "name": "Sabo",
@@ -4245,5 +4119,131 @@
         "rarity": "SuperRare"
       }
     ]
+  },
+  {
+    "id": "OP01-016_p4",
+    "pack_id": "569105",
+    "name": "Nami",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-016_p4.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p4.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "types": [
+      "Straw Hat Crew"
+    ],
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "tile_set_id": "OP05",
+    "variants": []
+  },
+  {
+    "id": "OP01-121_p2",
+    "pack_id": "569105",
+    "name": "Yamato",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP01-121_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Land of Wano"
+    ],
+    "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.<br>[Double Attack] (This card deals 2 damage.)<br>[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+    "trigger": null,
+    "tile_set_id": "OP05",
+    "variants": []
+  },
+  {
+    "id": "OP02-120_p2",
+    "pack_id": "569105",
+    "name": "Uta",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-120_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-120_p2.png?251017",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 8,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "FILM"
+    ],
+    "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your Leader and all of your Characters gain +1000 power until the start of your next turn.",
+    "trigger": null,
+    "tile_set_id": "OP05",
+    "variants": []
+  },
+  {
+    "id": "OP03-092_p2",
+    "pack_id": "569105",
+    "name": "Rob Lucci",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-092_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-092_p2.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "CP9"
+    ],
+    "effect": "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: This Character gains [Rush] during this turn.<br>(This card can attack on the turn in which it is played.)",
+    "trigger": null,
+    "tile_set_id": "OP05",
+    "variants": []
+  },
+  {
+    "id": "OP04-044_p2",
+    "pack_id": "569105",
+    "name": "Kaido",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP04-044_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-044_p2.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "effect": "[On Play] Return up to 1 Character with a cost of 8 or less and up to 1 Character with a cost of 3 or less to the owner's hand.",
+    "trigger": null,
+    "tile_set_id": "OP05",
+    "variants": []
   }
 ]

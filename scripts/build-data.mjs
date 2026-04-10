@@ -237,7 +237,13 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks, cardMa
 
     if (cards.length === 0) continue
 
-    cards.sort((a, b) => a.id.localeCompare(b.id))
+    // SP (Special) cards are orphan tiles from other sets — sort them last
+    cards.sort((a, b) => {
+      const aSpecial = a.rarity === "Special" ? 1 : 0
+      const bSpecial = b.rarity === "Special" ? 1 : 0
+      if (aSpecial !== bSpecial) return aSpecial - bSpecial
+      return a.id.localeCompare(b.id)
+    })
 
     writeFileSync(
       join(outputLangDir, `${setId}.json`),
@@ -246,8 +252,12 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks, cardMa
 
     // Populate cardMap (lang/cardId → setId) — per-language so JP-only cards
     // in a set don't get counted toward the EN version of that set.
+    // Also index same-set variants (no set_id) so they count toward the set total.
     for (const card of cards) {
       cardMap.set(`${langCode}/${card.id}`, setId)
+      for (const v of card.variants ?? []) {
+        if (!v.set_id) cardMap.set(`${langCode}/${v.id}`, setId)
+      }
     }
 
     // Update index

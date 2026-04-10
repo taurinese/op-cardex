@@ -1,172 +1,5 @@
 [
   {
-    "id": "EB01-003_p3",
-    "pack_id": "550114",
-    "name": "キッド&キラー",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB01-003_p3.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-003_p3.png?2602273",
-    "cost": 4,
-    "attributes": [
-      "Slash",
-      "Special"
-    ],
-    "power": 5000,
-    "counter": null,
-    "colors": [
-      "Red"
-    ],
-    "block_number": 2,
-    "types": [
-      "超新星",
-      "キッド海賊団"
-    ],
-    "effect": "【速攻】(このカードは登場したターンにアタックできる)<br>【アタック時】相手のライフが2枚以下の場合、このキャラは、このターン中、パワー+2000。",
-    "trigger": null,
-    "tile_set_id": "OP14",
-    "variants": []
-  },
-  {
-    "id": "OP06-093_p3",
-    "pack_id": "550114",
-    "name": "ペローナ",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-093_p3.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-093_p3.png?2602273",
-    "cost": 4,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": 2000,
-    "colors": [
-      "Black"
-    ],
-    "block_number": 2,
-    "types": [
-      "スリラーバーク海賊団"
-    ],
-    "effect": "【登場時】相手の手札が5枚以上ある場合、以下から1つを選ぶ。<br>・相手は自身の手札1枚を捨てる。<br>・相手のキャラ1枚までを、このターン中、コスト-3。",
-    "trigger": null,
-    "tile_set_id": "OP14",
-    "variants": []
-  },
-  {
-    "id": "OP07-046_p2",
-    "pack_id": "550114",
-    "name": "センゴク",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-046_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-046_p2.png?2602273",
-    "cost": 1,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 2000,
-    "counter": 1000,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 2,
-    "types": [
-      "海軍"
-    ],
-    "effect": "【登場時】自分のデッキの上から5枚を見て、特徴《王下七武海》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-    "trigger": null,
-    "tile_set_id": "OP14",
-    "variants": []
-  },
-  {
-    "id": "OP09-051_p5",
-    "pack_id": "550114",
-    "name": "バギー",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-051_p5.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?2602273",
-    "cost": 10,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 12000,
-    "counter": null,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 3,
-    "types": [
-      "四皇",
-      "クロスギルド"
-    ],
-    "effect": "【登場時】相手のキャラ1枚までを、持ち主のデッキの下に置く。その後、自分のコスト5以上のキャラが5枚いない場合、このキャラを持ち主のデッキの下に置く。",
-    "trigger": null,
-    "tile_set_id": "OP14",
-    "variants": [
-      {
-        "id": "OP09-051_p6",
-        "img_url": "../images/cardlist/card/OP09-051_p6.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p6.png?2602273",
-        "rarity": "Special"
-      }
-    ]
-  },
-  {
-    "id": "OP10-065_p1",
-    "pack_id": "550114",
-    "name": "シュガー",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-065_p1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.png?2602273",
-    "cost": 1,
-    "attributes": [
-      "Special"
-    ],
-    "power": 1000,
-    "counter": 1000,
-    "colors": [
-      "Purple"
-    ],
-    "block_number": 3,
-    "types": [
-      "ドンキホーテ海賊団"
-    ],
-    "effect": "【起動メイン】自分のドン‼1枚をレストにし、このキャラをレストにできる：自分のデッキの上から5枚を見て、特徴《ドンキホーテ海賊団》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-    "trigger": null,
-    "tile_set_id": "OP14",
-    "variants": []
-  },
-  {
-    "id": "OP12-030_p2",
-    "pack_id": "550114",
-    "name": "ジュラキュール・ミホーク",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP12-030_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png?2602273",
-    "cost": 8,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 8000,
-    "counter": null,
-    "colors": [
-      "Green"
-    ],
-    "block_number": 3,
-    "types": [
-      "シッケアール王国",
-      "王下七武海"
-    ],
-    "effect": "【ブロッカー】<br>【登場時】自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト7以上のキャラカードを登場できない。",
-    "trigger": null,
-    "tile_set_id": "OP14",
-    "variants": []
-  },
-  {
     "id": "OP14-001",
     "pack_id": "550114",
     "name": "トラファルガー・ロー",
@@ -3622,5 +3455,172 @@
         "rarity": "SecretRare"
       }
     ]
+  },
+  {
+    "id": "EB01-003_p3",
+    "pack_id": "550114",
+    "name": "キッド&キラー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-003_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB01-003_p3.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 2,
+    "types": [
+      "超新星",
+      "キッド海賊団"
+    ],
+    "effect": "【速攻】(このカードは登場したターンにアタックできる)<br>【アタック時】相手のライフが2枚以下の場合、このキャラは、このターン中、パワー+2000。",
+    "trigger": null,
+    "tile_set_id": "OP14",
+    "variants": []
+  },
+  {
+    "id": "OP06-093_p3",
+    "pack_id": "550114",
+    "name": "ペローナ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP06-093_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-093_p3.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
+    "types": [
+      "スリラーバーク海賊団"
+    ],
+    "effect": "【登場時】相手の手札が5枚以上ある場合、以下から1つを選ぶ。<br>・相手は自身の手札1枚を捨てる。<br>・相手のキャラ1枚までを、このターン中、コスト-3。",
+    "trigger": null,
+    "tile_set_id": "OP14",
+    "variants": []
+  },
+  {
+    "id": "OP07-046_p2",
+    "pack_id": "550114",
+    "name": "センゴク",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-046_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-046_p2.png?2602273",
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "海軍"
+    ],
+    "effect": "【登場時】自分のデッキの上から5枚を見て、特徴《王下七武海》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": null,
+    "tile_set_id": "OP14",
+    "variants": []
+  },
+  {
+    "id": "OP09-051_p5",
+    "pack_id": "550114",
+    "name": "バギー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-051_p5.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?2602273",
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
+    "types": [
+      "四皇",
+      "クロスギルド"
+    ],
+    "effect": "【登場時】相手のキャラ1枚までを、持ち主のデッキの下に置く。その後、自分のコスト5以上のキャラが5枚いない場合、このキャラを持ち主のデッキの下に置く。",
+    "trigger": null,
+    "tile_set_id": "OP14",
+    "variants": [
+      {
+        "id": "OP09-051_p6",
+        "img_url": "../images/cardlist/card/OP09-051_p6.png?2602273",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p6.png?2602273",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
+    "id": "OP10-065_p1",
+    "pack_id": "550114",
+    "name": "シュガー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-065_p1.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.png?2602273",
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
+    "types": [
+      "ドンキホーテ海賊団"
+    ],
+    "effect": "【起動メイン】自分のドン‼1枚をレストにし、このキャラをレストにできる：自分のデッキの上から5枚を見て、特徴《ドンキホーテ海賊団》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": null,
+    "tile_set_id": "OP14",
+    "variants": []
+  },
+  {
+    "id": "OP12-030_p2",
+    "pack_id": "550114",
+    "name": "ジュラキュール・ミホーク",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP12-030_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png?2602273",
+    "cost": 8,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 8000,
+    "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
+    "types": [
+      "シッケアール王国",
+      "王下七武海"
+    ],
+    "effect": "【ブロッカー】<br>【登場時】自分のドン‼4枚までを、アクティブにする。その後、自分は、このターン中、元々のコスト7以上のキャラカードを登場できない。",
+    "trigger": null,
+    "tile_set_id": "OP14",
+    "variants": []
   }
 ]

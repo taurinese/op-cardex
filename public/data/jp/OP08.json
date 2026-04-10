@@ -1,57 +1,5 @@
 [
   {
-    "id": "OP02-013_p3",
-    "pack_id": "550108",
-    "name": "ポートガス・D・エース",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-013_p3.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png?2602273",
-    "cost": 7,
-    "attributes": [
-      "Special"
-    ],
-    "power": 7000,
-    "counter": null,
-    "colors": [
-      "Red"
-    ],
-    "block_number": 1,
-    "types": [
-      "白ひげ海賊団"
-    ],
-    "effect": "【登場時】相手のキャラ2枚までを、このターン中、パワー-3000。その後、自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、このキャラは、このターン中、【速攻】を得る。<br>(このカードは登場したターンにアタックできる)",
-    "trigger": null,
-    "tile_set_id": "OP08",
-    "variants": []
-  },
-  {
-    "id": "OP03-112_p4",
-    "pack_id": "550108",
-    "name": "シャーロット・プリン",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-112_p4.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p4.png?2602273",
-    "cost": 1,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 2000,
-    "counter": 1000,
-    "colors": [
-      "Yellow"
-    ],
-    "block_number": 1,
-    "types": [
-      "ビッグ・マム海賊団"
-    ],
-    "effect": "【登場時】自分のデッキの上から4枚を見て、「シャーロット・プリン」以外の特徴《ビッグ・マム海賊団》を持つカードか「サンジ」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-    "trigger": null,
-    "tile_set_id": "OP08",
-    "variants": []
-  },
-  {
     "id": "OP08-001",
     "pack_id": "550108",
     "name": "トニートニー・チョッパー",
@@ -3620,6 +3568,58 @@
         "rarity": "SecretRare"
       }
     ]
+  },
+  {
+    "id": "OP02-013_p3",
+    "pack_id": "550108",
+    "name": "ポートガス・D・エース",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP02-013_p3.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png?2602273",
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 7000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 1,
+    "types": [
+      "白ひげ海賊団"
+    ],
+    "effect": "【登場時】相手のキャラ2枚までを、このターン中、パワー-3000。その後、自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、このキャラは、このターン中、【速攻】を得る。<br>(このカードは登場したターンにアタックできる)",
+    "trigger": null,
+    "tile_set_id": "OP08",
+    "variants": []
+  },
+  {
+    "id": "OP03-112_p4",
+    "pack_id": "550108",
+    "name": "シャーロット・プリン",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-112_p4.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p4.png?2602273",
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
+    "types": [
+      "ビッグ・マム海賊団"
+    ],
+    "effect": "【登場時】自分のデッキの上から4枚を見て、「シャーロット・プリン」以外の特徴《ビッグ・マム海賊団》を持つカードか「サンジ」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": null,
+    "tile_set_id": "OP08",
+    "variants": []
   },
   {
     "id": "ST02-007_p3",

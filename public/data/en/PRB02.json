@@ -313,39 +313,6 @@
     "variants": []
   },
   {
-    "id": "EB02-061_p3",
-    "pack_id": "569302",
-    "name": "Monkey.D.Luffy",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB02-061_p3.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p3.png?251017",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 6,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 7000,
-    "counter": null,
-    "types": [
-      "Water Seven",
-      "Straw Hat Crew"
-    ],
-    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].<br>[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
-    "trigger": null,
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "EB02-061_r1",
-        "img_url": "../images/cardlist/card/EB02-061_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-061_r1.png?251017",
-        "rarity": "SecretRare"
-      }
-    ]
-  },
-  {
     "id": "OP01-039_p1",
     "pack_id": "569302",
     "name": "Killer",
@@ -947,38 +914,6 @@
     ]
   },
   {
-    "id": "OP05-091_p4",
-    "pack_id": "569302",
-    "name": "Rebecca",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-091_p4.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p4.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 4,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": null,
-    "counter": 1000,
-    "types": [
-      "Dressrosa"
-    ],
-    "effect": "[Blocker]<br>[On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
-    "trigger": null,
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP05-091_r1",
-        "img_url": "../images/cardlist/card/OP05-091_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_r1.png?251017",
-        "rarity": "SuperRare"
-      }
-    ]
-  },
-  {
     "id": "OP05-097_p1",
     "pack_id": "569302",
     "name": "Mary Geoise",
@@ -1041,40 +976,6 @@
     "variants": []
   },
   {
-    "id": "OP06-007_p2",
-    "pack_id": "569302",
-    "name": "Shanks",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-007_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-007_p2.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 12000,
-    "counter": null,
-    "types": [
-      "FILM",
-      "The Four Emperors",
-      "Red-Haired Pirates"
-    ],
-    "effect": "[On Play] K.O. up to 1 of your opponent's Characters with 10000 power or less.",
-    "trigger": null,
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP06-007_r1",
-        "img_url": "../images/cardlist/card/OP06-007_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-007_r1.png?251017",
-        "rarity": "SuperRare"
-      }
-    ]
-  },
-  {
     "id": "OP06-044_p1",
     "pack_id": "569302",
     "name": "Gion",
@@ -1103,38 +1004,6 @@
         "img_url": "../images/cardlist/card/OP06-044_r1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-044_r1.png?251017",
         "rarity": "Uncommon"
-      }
-    ]
-  },
-  {
-    "id": "OP06-047_p2",
-    "pack_id": "569302",
-    "name": "Charlotte Pudding",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-047_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-047_p2.png?251017",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 4,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 4000,
-    "counter": 1000,
-    "types": [
-      "Big Mom Pirates"
-    ],
-    "effect": "[On Play] Your opponent returns all cards in their hand to their deck and shuffles their deck. Then, your opponent draws 5 cards.",
-    "trigger": null,
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP06-047_r1",
-        "img_url": "../images/cardlist/card/OP06-047_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-047_r1.png?251017",
-        "rarity": "Rare"
       }
     ]
   },
@@ -1969,38 +1838,6 @@
     "variants": []
   },
   {
-    "id": "OP08-023_p2",
-    "pack_id": "569302",
-    "name": "Carrot",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP08-023_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Special"
-    ],
-    "power": 6000,
-    "counter": 1000,
-    "types": [
-      "Minks"
-    ],
-    "effect": "[On Play]/[When Attacking] Up to 1 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
-    "trigger": null,
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP08-023_r1",
-        "img_url": "../images/cardlist/card/OP08-023_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_r1.png?251017",
-        "rarity": "SuperRare"
-      }
-    ]
-  },
-  {
     "id": "OP08-067_r1",
     "pack_id": "569302",
     "name": "Charlotte Pudding",
@@ -2313,37 +2150,6 @@
     ]
   },
   {
-    "id": "OP09-020_p2",
-    "pack_id": "569302",
-    "name": "Come On!! We'll Fight You!!",
-    "rarity": "Special",
-    "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-020_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_p2.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 1,
-    "attributes": [],
-    "power": null,
-    "counter": null,
-    "types": [
-      "The Four Emperors",
-      "Red-Haired Pirates"
-    ],
-    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": "[Trigger] Draw 1 card.",
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP09-020_r2",
-        "img_url": "../images/cardlist/card/OP09-020_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r2.png?251017",
-        "rarity": "Rare"
-      }
-    ]
-  },
-  {
     "id": "OP09-027_p1",
     "pack_id": "569302",
     "name": "Sabo",
@@ -2494,36 +2300,6 @@
     ]
   },
   {
-    "id": "OP09-057_p2",
-    "pack_id": "569302",
-    "name": "Cross Guild",
-    "rarity": "Special",
-    "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-057_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_p2.png?251017",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 1,
-    "attributes": [],
-    "power": null,
-    "counter": null,
-    "types": [
-      "Cross Guild"
-    ],
-    "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": "[Trigger] Activate this card's [Main] effect.",
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP09-057_r2",
-        "img_url": "../images/cardlist/card/OP09-057_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_r2.png?251017",
-        "rarity": "Rare"
-      }
-    ]
-  },
-  {
     "id": "OP09-065_r1",
     "pack_id": "569302",
     "name": "Sanji",
@@ -2662,37 +2438,6 @@
     ]
   },
   {
-    "id": "OP09-078_p2",
-    "pack_id": "569302",
-    "name": "Gum-Gum Giant",
-    "rarity": "Special",
-    "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-078_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p2.png?251017",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 1,
-    "attributes": [],
-    "power": null,
-    "counter": null,
-    "types": [
-      "The Four Emperors",
-      "Straw Hat Crew"
-    ],
-    "effect": "[Counter] DON!! −2, You may trash 1 card from your hand: If your Leader has the {Straw Hat Crew} type, up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 2 cards.",
-    "trigger": null,
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP09-078_r1",
-        "img_url": "../images/cardlist/card/OP09-078_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_r1.png?251017",
-        "rarity": "Rare"
-      }
-    ]
-  },
-  {
     "id": "OP09-079_p1",
     "pack_id": "569302",
     "name": "Gum-Gum Jump Rope",
@@ -2812,36 +2557,6 @@
     "trigger": null,
     "tile_set_id": "PRB02",
     "variants": []
-  },
-  {
-    "id": "OP09-096_p1",
-    "pack_id": "569302",
-    "name": "My Era...Begins!!",
-    "rarity": "Special",
-    "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-096_p1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_p1.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 1,
-    "attributes": [],
-    "power": null,
-    "counter": null,
-    "types": [
-      "Blackbeard Pirates"
-    ],
-    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest.",
-    "trigger": "[Trigger] Activate this card's [Main] effect.",
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP09-096_r1",
-        "img_url": "../images/cardlist/card/OP09-096_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_r1.png?251017",
-        "rarity": "Rare"
-      }
-    ]
   },
   {
     "id": "OP09-097_p1",
@@ -3246,40 +2961,6 @@
         "img_url": "../images/cardlist/card/OP10-114_r1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-114_r1.png?251017",
         "rarity": "Uncommon"
-      }
-    ]
-  },
-  {
-    "id": "OP10-119_p3",
-    "pack_id": "569302",
-    "name": "Trafalgar Law",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-119_p3.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-119_p3.png?251017",
-    "colors": [
-      "Yellow"
-    ],
-    "cost": 7,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 9000,
-    "counter": null,
-    "types": [
-      "Dressrosa",
-      "Supernovas",
-      "Heart Pirates"
-    ],
-    "effect": "[On Play] Reveal up to 1 {Supernovas} type Character card from your hand and add it to the top of your Life cards face-down. Then, give up to 1 rested DON!! card to 1 of your {Supernovas} type Leader.",
-    "trigger": null,
-    "tile_set_id": "PRB02",
-    "variants": [
-      {
-        "id": "OP10-119_r1",
-        "img_url": "../images/cardlist/card/OP10-119_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-119_r1.png?251017",
-        "rarity": "SecretRare"
       }
     ]
   },
@@ -5343,6 +5024,325 @@
         "img_url": "../images/cardlist/card/ST21-003_r1.png?251017",
         "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-003_r1.png?251017",
         "rarity": "Common"
+      }
+    ]
+  },
+  {
+    "id": "EB02-061_p3",
+    "pack_id": "569302",
+    "name": "Monkey.D.Luffy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB02-061_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p3.png?251017",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 6,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 7000,
+    "counter": null,
+    "types": [
+      "Water Seven",
+      "Straw Hat Crew"
+    ],
+    "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].<br>[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
+    "trigger": null,
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "EB02-061_r1",
+        "img_url": "../images/cardlist/card/EB02-061_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-061_r1.png?251017",
+        "rarity": "SecretRare"
+      }
+    ]
+  },
+  {
+    "id": "OP05-091_p4",
+    "pack_id": "569302",
+    "name": "Rebecca",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-091_p4.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p4.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "[Blocker]<br>[On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
+    "trigger": null,
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP05-091_r1",
+        "img_url": "../images/cardlist/card/OP05-091_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_r1.png?251017",
+        "rarity": "SuperRare"
+      }
+    ]
+  },
+  {
+    "id": "OP06-007_p2",
+    "pack_id": "569302",
+    "name": "Shanks",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP06-007_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-007_p2.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "FILM",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[On Play] K.O. up to 1 of your opponent's Characters with 10000 power or less.",
+    "trigger": null,
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP06-007_r1",
+        "img_url": "../images/cardlist/card/OP06-007_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-007_r1.png?251017",
+        "rarity": "SuperRare"
+      }
+    ]
+  },
+  {
+    "id": "OP06-047_p2",
+    "pack_id": "569302",
+    "name": "Charlotte Pudding",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP06-047_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-047_p2.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 4000,
+    "counter": 1000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] Your opponent returns all cards in their hand to their deck and shuffles their deck. Then, your opponent draws 5 cards.",
+    "trigger": null,
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP06-047_r1",
+        "img_url": "../images/cardlist/card/OP06-047_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-047_r1.png?251017",
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "id": "OP08-023_p2",
+    "pack_id": "569302",
+    "name": "Carrot",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP08-023_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Special"
+    ],
+    "power": 6000,
+    "counter": 1000,
+    "types": [
+      "Minks"
+    ],
+    "effect": "[On Play]/[When Attacking] Up to 1 of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase.",
+    "trigger": null,
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP08-023_r1",
+        "img_url": "../images/cardlist/card/OP08-023_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-023_r1.png?251017",
+        "rarity": "SuperRare"
+      }
+    ]
+  },
+  {
+    "id": "OP09-020_p2",
+    "pack_id": "569302",
+    "name": "Come On!! We'll Fight You!!",
+    "rarity": "Special",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP09-020_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_p2.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Draw 1 card.",
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP09-020_r2",
+        "img_url": "../images/cardlist/card/OP09-020_r2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r2.png?251017",
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "id": "OP09-057_p2",
+    "pack_id": "569302",
+    "name": "Cross Guild",
+    "rarity": "Special",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP09-057_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_p2.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Cross Guild"
+    ],
+    "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP09-057_r2",
+        "img_url": "../images/cardlist/card/OP09-057_r2.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_r2.png?251017",
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "id": "OP09-078_p2",
+    "pack_id": "569302",
+    "name": "Gum-Gum Giant",
+    "rarity": "Special",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP09-078_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p2.png?251017",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
+    "effect": "[Counter] DON!! −2, You may trash 1 card from your hand: If your Leader has the {Straw Hat Crew} type, up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 2 cards.",
+    "trigger": null,
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP09-078_r1",
+        "img_url": "../images/cardlist/card/OP09-078_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_r1.png?251017",
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "id": "OP09-096_p1",
+    "pack_id": "569302",
+    "name": "My Era...Begins!!",
+    "rarity": "Special",
+    "category": "Event",
+    "img_url": "../images/cardlist/card/OP09-096_p1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_p1.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 1,
+    "attributes": [],
+    "power": null,
+    "counter": null,
+    "types": [
+      "Blackbeard Pirates"
+    ],
+    "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest.",
+    "trigger": "[Trigger] Activate this card's [Main] effect.",
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP09-096_r1",
+        "img_url": "../images/cardlist/card/OP09-096_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_r1.png?251017",
+        "rarity": "Rare"
+      }
+    ]
+  },
+  {
+    "id": "OP10-119_p3",
+    "pack_id": "569302",
+    "name": "Trafalgar Law",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-119_p3.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-119_p3.png?251017",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 9000,
+    "counter": null,
+    "types": [
+      "Dressrosa",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "effect": "[On Play] Reveal up to 1 {Supernovas} type Character card from your hand and add it to the top of your Life cards face-down. Then, give up to 1 rested DON!! card to 1 of your {Supernovas} type Leader.",
+    "trigger": null,
+    "tile_set_id": "PRB02",
+    "variants": [
+      {
+        "id": "OP10-119_r1",
+        "img_url": "../images/cardlist/card/OP10-119_r1.png?251017",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-119_r1.png?251017",
+        "rarity": "SecretRare"
       }
     ]
   }

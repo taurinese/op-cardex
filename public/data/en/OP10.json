@@ -1,56 +1,5 @@
 [
   {
-    "id": "EB01-056_p2",
-    "pack_id": "569110",
-    "name": "Charlotte Flampe",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB01-056_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p2.png?251017",
-    "colors": [
-      "Yellow"
-    ],
-    "cost": 1,
-    "attributes": [
-      "Special"
-    ],
-    "power": 1000,
-    "counter": 2000,
-    "types": [
-      "Big Mom Pirates"
-    ],
-    "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
-    "trigger": null,
-    "tile_set_id": "OP10",
-    "variants": []
-  },
-  {
-    "id": "OP07-021_p2",
-    "pack_id": "569110",
-    "name": "Urouge",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-021_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-021_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
-    "cost": 4,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 5000,
-    "counter": 1000,
-    "types": [
-      "Supernovas",
-      "Fallen Monk Pirates"
-    ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] Set up to 1 of your DON!! cards as active.",
-    "trigger": null,
-    "tile_set_id": "OP10",
-    "variants": []
-  },
-  {
     "id": "OP08-052_p2",
     "pack_id": "569110",
     "name": "Portgas.D.Ace",
@@ -3569,6 +3518,57 @@
         "set_label": "PRB-02"
       }
     ]
+  },
+  {
+    "id": "EB01-056_p2",
+    "pack_id": "569110",
+    "name": "Charlotte Flampe",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-056_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p2.png?251017",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 2000,
+    "types": [
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
+    "trigger": null,
+    "tile_set_id": "OP10",
+    "variants": []
+  },
+  {
+    "id": "OP07-021_p2",
+    "pack_id": "569110",
+    "name": "Urouge",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-021_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-021_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Supernovas",
+      "Fallen Monk Pirates"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+    "trigger": null,
+    "tile_set_id": "OP10",
+    "variants": []
   },
   {
     "id": "ST12-012_p1",

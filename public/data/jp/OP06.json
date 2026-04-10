@@ -1,162 +1,5 @@
 [
   {
-    "id": "OP03-008_p1",
-    "pack_id": "550106",
-    "name": "バギー",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-008_p1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png?2602273",
-    "cost": 1,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 3000,
-    "counter": null,
-    "colors": [
-      "Red"
-    ],
-    "block_number": 1,
-    "types": [
-      "バギー海賊団"
-    ],
-    "effect": "このキャラは属性(斬)を持つカードとのバトルでKOされない。<br>【登場時】自分のデッキの上から5枚を見て、赤のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP03-114_p2",
-    "pack_id": "550106",
-    "name": "シャーロット・リンリン",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-114_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-114_p2.png?2602273",
-    "cost": 10,
-    "attributes": [
-      "Special"
-    ],
-    "power": 12000,
-    "counter": null,
-    "colors": [
-      "Yellow"
-    ],
-    "block_number": 1,
-    "types": [
-      "四皇",
-      "ビッグ・マム海賊団"
-    ],
-    "effect": "【登場時】自分のリーダーが特徴《ビッグ・マム海賊団》を持つ場合、自分のデッキの上から1枚までを、ライフの上に加える。その後、相手のライフの上から1枚までを、トラッシュに置く。",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP04-024_p2",
-    "pack_id": "550106",
-    "name": "シュガー",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP04-024_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-024_p2.png?2602273",
-    "cost": 2,
-    "attributes": [
-      "Special"
-    ],
-    "power": null,
-    "counter": 1000,
-    "colors": [
-      "Green"
-    ],
-    "block_number": 1,
-    "types": [
-      "ドンキホーテ海賊団"
-    ],
-    "effect": "【相手のターン中】【ターン1回】相手がキャラを登場させた時、自分のリーダーが特徴《ドンキホーテ海賊団》を持つ場合、相手のキャラ1枚までを、レストにする。その後、このキャラをレストにする。<br>【登場時】相手のコスト4以下のキャラ1枚までを、レストにする。",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP04-064_p2",
-    "pack_id": "550106",
-    "name": "ミス・オールサンデー",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP04-064_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-064_p2.png?2602273",
-    "cost": 5,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 5000,
-    "counter": null,
-    "colors": [
-      "Purple"
-    ],
-    "block_number": 1,
-    "types": [
-      "B・W"
-    ],
-    "effect": "【登場時】ドン !!デッキからドン !!1枚までを、レストで追加する。その後、自分の場にドン !!が6枚以上ある場合、カード1枚を引く。",
-    "trigger": "【トリガー】ドン‼-2(自分の場のドン‼を指定の数ドン‼デッキに戻すことができる)：このカードを登場させる。",
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP05-051_p2",
-    "pack_id": "550106",
-    "name": "ボルサリーノ",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-051_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-051_p2.png?2602273",
-    "cost": 7,
-    "attributes": [
-      "Special"
-    ],
-    "power": 8000,
-    "counter": null,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 2,
-    "types": [
-      "海軍"
-    ],
-    "effect": "【登場時】コスト4以下のキャラ1枚までを、持ち主のデッキの下に置く。",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP05-091_p2",
-    "pack_id": "550106",
-    "name": "レベッカ",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-091_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png?2602273",
-    "cost": 4,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": null,
-    "counter": 1000,
-    "colors": [
-      "Black"
-    ],
-    "block_number": 2,
-    "types": [
-      "ドレスローザ"
-    ],
-    "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】自分のトラッシュの「レベッカ」以外のコスト3から7の黒のキャラカード1枚までを、手札に加える。その後、自分の手札からコスト3以下の黒のキャラカード1枚までを、レストで登場させる。",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
     "id": "OP06-001",
     "pack_id": "550106",
     "name": "ウタ",
@@ -4495,5 +4338,162 @@
         "set_label": null
       }
     ]
+  },
+  {
+    "id": "OP03-008_p1",
+    "pack_id": "550106",
+    "name": "バギー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-008_p1.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png?2602273",
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 1,
+    "types": [
+      "バギー海賊団"
+    ],
+    "effect": "このキャラは属性(斬)を持つカードとのバトルでKOされない。<br>【登場時】自分のデッキの上から5枚を見て、赤のイベント1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP03-114_p2",
+    "pack_id": "550106",
+    "name": "シャーロット・リンリン",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-114_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-114_p2.png?2602273",
+    "cost": 10,
+    "attributes": [
+      "Special"
+    ],
+    "power": 12000,
+    "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
+    "types": [
+      "四皇",
+      "ビッグ・マム海賊団"
+    ],
+    "effect": "【登場時】自分のリーダーが特徴《ビッグ・マム海賊団》を持つ場合、自分のデッキの上から1枚までを、ライフの上に加える。その後、相手のライフの上から1枚までを、トラッシュに置く。",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP04-024_p2",
+    "pack_id": "550106",
+    "name": "シュガー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP04-024_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-024_p2.png?2602273",
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 1,
+    "types": [
+      "ドンキホーテ海賊団"
+    ],
+    "effect": "【相手のターン中】【ターン1回】相手がキャラを登場させた時、自分のリーダーが特徴《ドンキホーテ海賊団》を持つ場合、相手のキャラ1枚までを、レストにする。その後、このキャラをレストにする。<br>【登場時】相手のコスト4以下のキャラ1枚までを、レストにする。",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP04-064_p2",
+    "pack_id": "550106",
+    "name": "ミス・オールサンデー",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP04-064_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP04-064_p2.png?2602273",
+    "cost": 5,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 1,
+    "types": [
+      "B・W"
+    ],
+    "effect": "【登場時】ドン !!デッキからドン !!1枚までを、レストで追加する。その後、自分の場にドン !!が6枚以上ある場合、カード1枚を引く。",
+    "trigger": "【トリガー】ドン‼-2(自分の場のドン‼を指定の数ドン‼デッキに戻すことができる)：このカードを登場させる。",
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP05-051_p2",
+    "pack_id": "550106",
+    "name": "ボルサリーノ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-051_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-051_p2.png?2602273",
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "海軍"
+    ],
+    "effect": "【登場時】コスト4以下のキャラ1枚までを、持ち主のデッキの下に置く。",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP05-091_p2",
+    "pack_id": "550106",
+    "name": "レベッカ",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-091_p2.png?2602273",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png?2602273",
+    "cost": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": null,
+    "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
+    "types": [
+      "ドレスローザ"
+    ],
+    "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【登場時】自分のトラッシュの「レベッカ」以外のコスト3から7の黒のキャラカード1枚までを、手札に加える。その後、自分の手札からコスト3以下の黒のキャラカード1枚までを、レストで登場させる。",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
   }
 ]

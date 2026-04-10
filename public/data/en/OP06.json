@@ -1,156 +1,5 @@
 [
   {
-    "id": "OP03-008_p1",
-    "pack_id": "569106",
-    "name": "Buggy",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-008_p1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png?251017",
-    "colors": [
-      "Red"
-    ],
-    "cost": 1,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 3000,
-    "counter": null,
-    "types": [
-      "Buggy Pirates"
-    ],
-    "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP03-114_p2",
-    "pack_id": "569106",
-    "name": "Charlotte Linlin",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-114_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-114_p2.png?251017",
-    "colors": [
-      "Yellow"
-    ],
-    "cost": 10,
-    "attributes": [
-      "Special"
-    ],
-    "power": 12000,
-    "counter": null,
-    "types": [
-      "The Four Emperors",
-      "Big Mom Pirates"
-    ],
-    "effect": "[On Play] If your Leader has the {Big Mom Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, trash up to 1 card from the top of your opponent's Life cards.",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP04-024_p2",
-    "pack_id": "569106",
-    "name": "Sugar",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP04-024_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-024_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
-    "cost": 2,
-    "attributes": [
-      "Special"
-    ],
-    "power": null,
-    "counter": 1000,
-    "types": [
-      "Donquixote Pirates"
-    ],
-    "effect": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters. Then, rest this Character.<br>[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP04-064_p2",
-    "pack_id": "569106",
-    "name": "Ms. All Sunday",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP04-064_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-064_p2.png?251017",
-    "colors": [
-      "Purple"
-    ],
-    "cost": 5,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 5000,
-    "counter": null,
-    "types": [
-      "Baroque Works"
-    ],
-    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.",
-    "trigger": "[Trigger] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP05-051_p2",
-    "pack_id": "569106",
-    "name": "Borsalino",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-051_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-051_p2.png?251017",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 7,
-    "attributes": [
-      "Special"
-    ],
-    "power": 8000,
-    "counter": null,
-    "types": [
-      "Navy"
-    ],
-    "effect": "[On Play] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
-    "id": "OP05-091_p2",
-    "pack_id": "569106",
-    "name": "Rebecca",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-091_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png?251017",
-    "colors": [
-      "Black"
-    ],
-    "cost": 4,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": null,
-    "counter": 1000,
-    "types": [
-      "Dressrosa"
-    ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
-    "trigger": null,
-    "tile_set_id": "OP06",
-    "variants": []
-  },
-  {
     "id": "OP06-001",
     "pack_id": "569106",
     "name": "Uta",
@@ -4334,6 +4183,157 @@
       "Straw Hat Crew"
     ],
     "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP03-008_p1",
+    "pack_id": "569106",
+    "name": "Buggy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-008_p1.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png?251017",
+    "colors": [
+      "Red"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 3000,
+    "counter": null,
+    "types": [
+      "Buggy Pirates"
+    ],
+    "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.<br>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP03-114_p2",
+    "pack_id": "569106",
+    "name": "Charlotte Linlin",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP03-114_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-114_p2.png?251017",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 10,
+    "attributes": [
+      "Special"
+    ],
+    "power": 12000,
+    "counter": null,
+    "types": [
+      "The Four Emperors",
+      "Big Mom Pirates"
+    ],
+    "effect": "[On Play] If your Leader has the {Big Mom Pirates} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, trash up to 1 card from the top of your opponent's Life cards.",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP04-024_p2",
+    "pack_id": "569106",
+    "name": "Sugar",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP04-024_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-024_p2.png?251017",
+    "colors": [
+      "Green"
+    ],
+    "cost": 2,
+    "attributes": [
+      "Special"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Donquixote Pirates"
+    ],
+    "effect": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters. Then, rest this Character.<br>[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP04-064_p2",
+    "pack_id": "569106",
+    "name": "Ms. All Sunday",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP04-064_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-064_p2.png?251017",
+    "colors": [
+      "Purple"
+    ],
+    "cost": 5,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 5000,
+    "counter": null,
+    "types": [
+      "Baroque Works"
+    ],
+    "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.",
+    "trigger": "[Trigger] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP05-051_p2",
+    "pack_id": "569106",
+    "name": "Borsalino",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-051_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-051_p2.png?251017",
+    "colors": [
+      "Blue"
+    ],
+    "cost": 7,
+    "attributes": [
+      "Special"
+    ],
+    "power": 8000,
+    "counter": null,
+    "types": [
+      "Navy"
+    ],
+    "effect": "[On Play] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+    "trigger": null,
+    "tile_set_id": "OP06",
+    "variants": []
+  },
+  {
+    "id": "OP05-091_p2",
+    "pack_id": "569106",
+    "name": "Rebecca",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP05-091_p2.png?251017",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png?251017",
+    "colors": [
+      "Black"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": null,
+    "counter": 1000,
+    "types": [
+      "Dressrosa"
+    ],
+    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
     "trigger": null,
     "tile_set_id": "OP06",
     "variants": []

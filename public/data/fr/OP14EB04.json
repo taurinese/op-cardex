@@ -1,59 +1,5 @@
 [
   {
-    "id": "EB01-003_p1",
-    "pack_id": "622114",
-    "name": "Kidd et Killer",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB01-003_p1.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.webp?260119",
-    "cost": 4,
-    "attributes": [
-      "Slash",
-      "Special"
-    ],
-    "power": 5000,
-    "counter": null,
-    "colors": [
-      "Red"
-    ],
-    "block_number": 2,
-    "types": [
-      "Supernovae",
-      "Équipage de Kidd"
-    ],
-    "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En attaquant] Si votre adversaire a 2 cartes ou moins dans sa Vie, ce Personnage gagne +2000 de puissance pour tout le tour.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "EB01-023_p1",
-    "pack_id": "622114",
-    "name": "Edward Weeble",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB01-023_p1.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.webp?260119",
-    "cost": 4,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 6000,
-    "counter": null,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 2,
-    "types": [
-      "Sept grands corsaires"
-    ],
-    "effect": "[Jouée] Piochez 1 carte.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
     "id": "EB04-011",
     "pack_id": "622114",
     "name": "L'Écaillé",
@@ -929,145 +875,6 @@
     ],
     "effect": "[Principale] Si votre Leader est [Sanji] et que vous avez 4 cartes DON!! ou plus sur votre terrain, jouez jusqu'à 1 [Sanji] de votre main ou votre Défausse ayant 6000 de puissance ou moins.",
     "trigger": "[Déclenchement] Piochez 2 cartes et défaussez 1 carte de votre main.",
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP06-093_p1",
-    "pack_id": "622114",
-    "name": "Perona",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-093_p1.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP06-093_p1.webp?260119",
-    "cost": 4,
-    "attributes": [
-      "Special"
-    ],
-    "power": 5000,
-    "counter": 2000,
-    "colors": [
-      "Black"
-    ],
-    "block_number": 2,
-    "types": [
-      "Équipage de Thriller Bark"
-    ],
-    "effect": "[Jouée] Si votre adversaire a 5 cartes ou plus dans sa main, effectuez l'un des choix suivants&nbsp;:<br>• Votre adversaire défausse 1 carte de sa main.<br>• Réduisez de −3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP07-046_p1",
-    "pack_id": "622114",
-    "name": "Sengoku",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-046_p1.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-046_p1.webp?260119",
-    "cost": 1,
-    "attributes": [
-      "Wisdom"
-    ],
-    "power": 2000,
-    "counter": 1000,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 2,
-    "types": [
-      "Marine"
-    ],
-    "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Sept grands corsaires} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP09-051_p4",
-    "pack_id": "622114",
-    "name": "Baggy",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-051_p4.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.webp?260119",
-    "cost": 10,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 12000,
-    "counter": null,
-    "colors": [
-      "Blue"
-    ],
-    "block_number": 3,
-    "types": [
-      "Quatre Empereurs",
-      "Cross Guild"
-    ],
-    "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": [
-      {
-        "id": "OP09-051_p5",
-        "img_url": "../images/cardlist/card/OP09-051_p5.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.webp?260119",
-        "rarity": "Special"
-      }
-    ]
-  },
-  {
-    "id": "OP10-065_p1",
-    "pack_id": "622114",
-    "name": "Sugar",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-065_p1.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.webp?260119",
-    "cost": 1,
-    "attributes": [
-      "Special"
-    ],
-    "power": 1000,
-    "counter": 1000,
-    "colors": [
-      "Purple"
-    ],
-    "block_number": 3,
-    "types": [
-      "Équipage de Don Quijote"
-    ],
-    "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
-    "trigger": null,
-    "tile_set_id": "OP14EB04",
-    "variants": []
-  },
-  {
-    "id": "OP12-030_p2",
-    "pack_id": "622114",
-    "name": "Dracule Mihawk",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP12-030_p2.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.webp?260119",
-    "cost": 8,
-    "attributes": [
-      "Slash"
-    ],
-    "power": 8000,
-    "counter": null,
-    "colors": [
-      "Green"
-    ],
-    "block_number": 3,
-    "types": [
-      "Royaume de Ceglok",
-      "Sept grands corsaires"
-    ],
-    "effect": "[Bloqueur]<br>[Jouée] Redressez jusqu'à 4 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 7 ou plus pour tout le tour.",
-    "trigger": null,
     "tile_set_id": "OP14EB04",
     "variants": []
   },
@@ -4466,6 +4273,199 @@
         "rarity": "SecretRare"
       }
     ]
+  },
+  {
+    "id": "EB01-003_p1",
+    "pack_id": "622114",
+    "name": "Kidd et Killer",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-003_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.webp?260119",
+    "cost": 4,
+    "attributes": [
+      "Slash",
+      "Special"
+    ],
+    "power": 5000,
+    "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 2,
+    "types": [
+      "Supernovae",
+      "Équipage de Kidd"
+    ],
+    "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>[En attaquant] Si votre adversaire a 2 cartes ou moins dans sa Vie, ce Personnage gagne +2000 de puissance pour tout le tour.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "EB01-023_p1",
+    "pack_id": "622114",
+    "name": "Edward Weeble",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-023_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-023_p1.webp?260119",
+    "cost": 4,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 6000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "Sept grands corsaires"
+    ],
+    "effect": "[Jouée] Piochez 1 carte.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP06-093_p1",
+    "pack_id": "622114",
+    "name": "Perona",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP06-093_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP06-093_p1.webp?260119",
+    "cost": 4,
+    "attributes": [
+      "Special"
+    ],
+    "power": 5000,
+    "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
+    "types": [
+      "Équipage de Thriller Bark"
+    ],
+    "effect": "[Jouée] Si votre adversaire a 5 cartes ou plus dans sa main, effectuez l'un des choix suivants&nbsp;:<br>• Votre adversaire défausse 1 carte de sa main.<br>• Réduisez de −3 le coût de jusqu'à 1 Personnage adverse pour tout le tour.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP07-046_p1",
+    "pack_id": "622114",
+    "name": "Sengoku",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-046_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-046_p1.webp?260119",
+    "cost": 1,
+    "attributes": [
+      "Wisdom"
+    ],
+    "power": 2000,
+    "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
+    "types": [
+      "Marine"
+    ],
+    "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Sept grands corsaires} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP09-051_p4",
+    "pack_id": "622114",
+    "name": "Baggy",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP09-051_p4.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.webp?260119",
+    "cost": 10,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 12000,
+    "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
+    "types": [
+      "Quatre Empereurs",
+      "Cross Guild"
+    ],
+    "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": [
+      {
+        "id": "OP09-051_p5",
+        "img_url": "../images/cardlist/card/OP09-051_p5.webp?260119",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.webp?260119",
+        "rarity": "Special"
+      }
+    ]
+  },
+  {
+    "id": "OP10-065_p1",
+    "pack_id": "622114",
+    "name": "Sugar",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP10-065_p1.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.webp?260119",
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
+    "types": [
+      "Équipage de Don Quijote"
+    ],
+    "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 1 de vos cartes DON!! et ce Personnage&nbsp;: Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Équipage de Don Quijote} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
+  },
+  {
+    "id": "OP12-030_p2",
+    "pack_id": "622114",
+    "name": "Dracule Mihawk",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP12-030_p2.webp?260119",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.webp?260119",
+    "cost": 8,
+    "attributes": [
+      "Slash"
+    ],
+    "power": 8000,
+    "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
+    "types": [
+      "Royaume de Ceglok",
+      "Sept grands corsaires"
+    ],
+    "effect": "[Bloqueur]<br>[Jouée] Redressez jusqu'à 4 de vos cartes DON!!. Puis, vous ne pouvez pas jouer de carte Personnage ayant un coût de base de 7 ou plus pour tout le tour.",
+    "trigger": null,
+    "tile_set_id": "OP14EB04",
+    "variants": []
   },
   {
     "id": "PRB02-006_p2",

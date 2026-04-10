@@ -1,56 +1,5 @@
 [
   {
-    "id": "EB01-056_p1",
-    "pack_id": "622110",
-    "name": "Charlotte Flampée",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/EB01-056_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
-    "cost": 1,
-    "attributes": [
-      "Special"
-    ],
-    "power": 1000,
-    "counter": 2000,
-    "types": [
-      "Équipage de Big Mom"
-    ],
-    "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Piochez 1 carte.",
-    "trigger": null,
-    "tile_set_id": "OP10",
-    "variants": []
-  },
-  {
-    "id": "OP07-021_p1",
-    "pack_id": "622110",
-    "name": "Urouge",
-    "rarity": "Special",
-    "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-021_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-021_p1.webp?251024",
-    "colors": [
-      "Green"
-    ],
-    "cost": 4,
-    "attributes": [
-      "Strike"
-    ],
-    "power": 5000,
-    "counter": 1000,
-    "types": [
-      "Supernovae",
-      "Équipage des moines dépravés"
-    ],
-    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Fin de votre tour] Redressez jusqu'à 1 de vos cartes DON!!.",
-    "trigger": null,
-    "tile_set_id": "OP10",
-    "variants": []
-  },
-  {
     "id": "OP09-034_p2",
     "pack_id": "622110",
     "name": "Perona",
@@ -3528,6 +3477,57 @@
         "set_label": "PRB-02"
       }
     ]
+  },
+  {
+    "id": "EB01-056_p1",
+    "pack_id": "622110",
+    "name": "Charlotte Flampée",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/EB01-056_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.webp?251024",
+    "colors": [
+      "Yellow"
+    ],
+    "cost": 1,
+    "attributes": [
+      "Special"
+    ],
+    "power": 1000,
+    "counter": 2000,
+    "types": [
+      "Équipage de Big Mom"
+    ],
+    "effect": "[Jouée] Vous pouvez ajouter à votre main 1 carte du dessus ou du dessous de votre Vie&nbsp;: Piochez 1 carte.",
+    "trigger": null,
+    "tile_set_id": "OP10",
+    "variants": []
+  },
+  {
+    "id": "OP07-021_p1",
+    "pack_id": "622110",
+    "name": "Urouge",
+    "rarity": "Special",
+    "category": "Character",
+    "img_url": "../images/cardlist/card/OP07-021_p1.webp?251024",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-021_p1.webp?251024",
+    "colors": [
+      "Green"
+    ],
+    "cost": 4,
+    "attributes": [
+      "Strike"
+    ],
+    "power": 5000,
+    "counter": 1000,
+    "types": [
+      "Supernovae",
+      "Équipage des moines dépravés"
+    ],
+    "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Fin de votre tour] Redressez jusqu'à 1 de vos cartes DON!!.",
+    "trigger": null,
+    "tile_set_id": "OP10",
+    "variants": []
   },
   {
     "id": "ST12-012_p1",
