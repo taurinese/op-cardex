@@ -604,7 +604,9 @@ function SetView({
   const items = cards
     .flatMap((card) => [
       { card, versionIndex: 0 },
-      ...card.variants.map((_, i) => ({ card, versionIndex: i + 1 })),
+      ...card.variants
+        .map((v, i) => ({ card, versionIndex: i + 1, variant: v }))
+        .filter(({ variant }) => variant.set_id === undefined),
     ])
     .filter(({ versionIndex }) =>
       cardFilter === "all"

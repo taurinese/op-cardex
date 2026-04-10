@@ -514,7 +514,10 @@ function CardsGrid({
 }) {
   const items = cards.flatMap((card) => [
     { card, versionIndex: 0 },
-    ...card.variants.map((_, i) => ({ card, versionIndex: i + 1 })),
+    // Exclude cross-set variants (set_id defined) — they appear as standalone tiles in their own set
+    ...card.variants
+      .map((v, i) => ({ card, versionIndex: i + 1, variant: v }))
+      .filter(({ variant }) => variant.set_id === undefined),
   ]).filter(({ versionIndex }) =>
     cardFilter === "all" ? true : cardFilter === "base" ? versionIndex === 0 : versionIndex > 0
   )
