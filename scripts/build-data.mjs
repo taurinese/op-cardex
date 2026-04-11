@@ -272,7 +272,7 @@ async function processLanguage(langPath, langCode, indexSets, imageTasks, cardMa
     for (const card of cards) {
       cardMap.set(`${langCode}/${card.id}`, setId)
       for (const v of card.variants ?? []) {
-        if (!v.set_id) cardMap.set(`${langCode}/${v.id}`, setId)
+        if (v.set_id === undefined) cardMap.set(`${langCode}/${v.id}`, setId)
       }
     }
 

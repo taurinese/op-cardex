@@ -6,6 +6,8 @@ import FR from "country-flag-icons/react/3x2/FR"
 import JP from "country-flag-icons/react/3x2/JP"
 
 import { CardModal } from "@/components/card-modal"
+import { CardGrid } from "@/components/card-grid"
+import { RarityFilter } from "@/components/card-grid/rarity-filter"
 import { cardImageUrl, fetchCardMap, fetchIndex, fetchSet } from "@/lib/data"
 import { useCollection } from "@/lib/collection.tsx"
 import { useAuth } from "@/context/auth"
@@ -69,67 +71,6 @@ const LANG_OPTIONS: { value: Lang }[] = [
   { value: "jp" },
 ]
 
-const RARITY_BADGE: Record<string, string> = {
-  Leader: "bg-amber-400/15 text-amber-400",
-  SecretRare: "bg-pink-400/15 text-pink-400",
-  TreasureRare: "bg-yellow-400/15 text-yellow-400",
-  SuperRare: "bg-purple-400/15 text-purple-400",
-  Rare: "bg-blue-400/15 text-blue-400",
-  Uncommon: "bg-green-400/15 text-green-400",
-  Common: "bg-muted text-muted-foreground",
-  Special: "bg-orange-400/15 text-orange-400",
-  Promo: "bg-cyan-400/15 text-cyan-400",
-}
-
-const RARITY_SHORT: Record<string, string> = {
-  Leader: "L",
-  SecretRare: "SEC",
-  TreasureRare: "TR",
-  SuperRare: "SR",
-  Rare: "R",
-  Uncommon: "UC",
-  Common: "C",
-  Special: "SP",
-  Promo: "P",
-}
-
-const RARITY_ORDER = [
-  "Leader", "Common", "Uncommon", "Rare", "SuperRare", "SecretRare", "Special", "TreasureRare", "Promo",
-]
-
-const RARITY_COLOR: Record<string, string> = {
-  Leader:       "border-amber-400/60 bg-amber-400/10 text-amber-400 hover:bg-amber-400/20",
-  SecretRare:   "border-pink-400/60 bg-pink-400/10 text-pink-400 hover:bg-pink-400/20",
-  TreasureRare: "border-yellow-400/60 bg-yellow-400/10 text-yellow-400 hover:bg-yellow-400/20",
-  SuperRare:    "border-purple-400/60 bg-purple-400/10 text-purple-400 hover:bg-purple-400/20",
-  Rare:         "border-blue-400/60 bg-blue-400/10 text-blue-400 hover:bg-blue-400/20",
-  Uncommon:     "border-green-400/60 bg-green-400/10 text-green-400 hover:bg-green-400/20",
-  Common:       "border-border bg-muted/50 text-muted-foreground hover:bg-muted",
-  Special:      "border-orange-400/60 bg-orange-400/10 text-orange-400 hover:bg-orange-400/20",
-  Promo:        "border-cyan-400/60 bg-cyan-400/10 text-cyan-400 hover:bg-cyan-400/20",
-}
-
-const RARITY_COLOR_ACTIVE: Record<string, string> = {
-  Leader:       "border-amber-400 bg-amber-400 text-black",
-  SecretRare:   "border-pink-400 bg-pink-400 text-black",
-  TreasureRare: "border-yellow-400 bg-yellow-400 text-black",
-  SuperRare:    "border-purple-400 bg-purple-400 text-white",
-  Rare:         "border-blue-400 bg-blue-400 text-white",
-  Uncommon:     "border-green-400 bg-green-400 text-black",
-  Common:       "border-border bg-muted text-foreground",
-  Special:      "border-orange-400 bg-orange-400 text-black",
-  Promo:        "border-cyan-400 bg-cyan-400 text-black",
-}
-
-const COLOR_DOT: Record<string, string> = {
-  Red: "bg-red-500",
-  Green: "bg-green-500",
-  Blue: "bg-blue-500",
-  Purple: "bg-purple-500",
-  Black: "bg-slate-400",
-  Yellow: "bg-yellow-400",
-}
-
 // ---------------------------------------------------------------------------
 
 function CollectionPage() {
@@ -167,6 +108,7 @@ function CollectionPage() {
     }
     setTimeout(() => setImportStatus(null), 3000)
   }
+
   const [selectedCard, setSelectedCard] = React.useState<{
     card: Card
     versionIndex: number
@@ -251,6 +193,12 @@ function CollectionPage() {
       </div>
     )
   }
+
+  const emptyMessage = ownFilter === "owned"
+    ? "Aucune carte possédée dans cette série"
+    : ownFilter === "unowned"
+      ? "Tu possèdes toutes les cartes de cette série"
+      : "Aucune carte dans cette série"
 
   return (
     <div className="mx-auto max-w-7xl px-6 py-8">
@@ -467,27 +415,31 @@ function CollectionPage() {
             )}
           </div>
 
-          {/* Cards grid */}
+          {/* Rarity filter + cards grid */}
           {!set ? (
             <p className="py-16 text-center text-sm text-muted-foreground">
               Choisis une série pour voir ta collection
             </p>
           ) : !cards ? null : (
-            <SetView
-              cards={cards}
-              lang={lang}
-              cardFilter={cardFilter}
-              rarityFilter={rarityFilter}
-              onRarityFilterChange={setRarityFilter}
-              ownFilter={ownFilter}
-              columns={columns}
-              selectMode={selectMode}
-              selectedIds={selectedIds}
-              onCardClick={(card, versionIndex) =>
-                setSelectedCard({ card, versionIndex })
-              }
-              onToggleSelect={handleToggleSelect}
-            />
+            <>
+              <RarityFilter cards={cards} active={rarityFilter} onChange={setRarityFilter} />
+              <CardGrid
+                cards={cards}
+                lang={lang}
+                cardFilter={cardFilter}
+                rarityFilter={rarityFilter}
+                columns={columns}
+                selectMode={selectMode}
+                selectedIds={selectedIds}
+                onCardClick={(card, versionIndex) =>
+                  setSelectedCard({ card, versionIndex })
+                }
+                onToggleSelect={handleToggleSelect}
+                ownFilter={ownFilter}
+                dimUnowned
+                emptyMessage={emptyMessage}
+              />
+            </>
           )}
         </>
       )}
@@ -621,326 +573,6 @@ function OverviewView({
           </button>
         )
       })}
-    </div>
-  )
-}
-
-// ---------------------------------------------------------------------------
-
-const GRID_COLS: Record<number, string> = {
-  3: "grid-cols-3",
-  4: "grid-cols-4",
-  5: "grid-cols-5",
-  6: "grid-cols-6",
-  7: "grid-cols-7",
-  8: "grid-cols-8",
-  9: "grid-cols-9",
-  10: "grid-cols-10",
-}
-
-function SetView({
-  cards,
-  lang,
-  cardFilter,
-  rarityFilter,
-  onRarityFilterChange,
-  ownFilter,
-  columns,
-  selectMode,
-  selectedIds,
-  onCardClick,
-  onToggleSelect,
-}: {
-  cards: Card[]
-  lang: Lang
-  ownFilter: "all" | "owned" | "unowned"
-  columns: number
-  selectMode: boolean
-  selectedIds: Set<string>
-  cardFilter: "all" | "base" | "alt"
-  rarityFilter: Set<string>
-  onRarityFilterChange: (r: Set<string>) => void
-  onCardClick: (card: Card, versionIndex: number) => void
-  onToggleSelect: (cardId: string) => void
-}) {
-  const { isOwned } = useCollection()
-
-  const items = cards
-    .flatMap((card) => [
-      { card, versionIndex: 0 },
-      ...card.variants
-        .map((v, i) => ({ card, versionIndex: i + 1, variant: v }))
-        .filter(({ variant }) => variant.set_id === undefined),
-    ])
-    .filter(({ versionIndex }) =>
-      cardFilter === "all"
-        ? true
-        : cardFilter === "base"
-          ? versionIndex === 0
-          : versionIndex > 0
-    )
-    .filter(({ card, versionIndex }) => {
-      if (rarityFilter.size === 0) return true
-      const rarity = versionIndex === 0 ? card.rarity : (card.variants[versionIndex - 1].rarity ?? card.rarity)
-      return rarityFilter.has(rarity)
-    })
-    .sort((a, b) => {
-      const ra = a.versionIndex === 0 ? a.card.rarity : (a.card.variants[a.versionIndex - 1].rarity ?? a.card.rarity)
-      const rb = b.versionIndex === 0 ? b.card.rarity : (b.card.variants[b.versionIndex - 1].rarity ?? b.card.rarity)
-      const rank = (r: string) => r === "TreasureRare" ? 2 : r === "Special" ? 1 : 0
-      return rank(ra) - rank(rb)
-    })
-
-  const displayed = ownFilter === "all"
-    ? items
-    : items.filter(({ card, versionIndex }) => {
-        const id = versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
-        return ownFilter === "owned" ? isOwned(id, lang) : !isOwned(id, lang)
-      })
-
-  return (
-    <>
-      <RarityFilter cards={cards} active={rarityFilter} onChange={onRarityFilterChange} />
-
-      {displayed.length === 0 ? (
-        <p className="py-16 text-center text-sm text-muted-foreground">
-          {ownFilter === "owned"
-            ? "Aucune carte possédée dans cette série"
-            : ownFilter === "unowned"
-              ? "Tu possèdes toutes les cartes de cette série"
-              : "Aucune carte dans cette série"}
-        </p>
-      ) : (
-        <div className={cn("grid gap-3", GRID_COLS[columns])}>
-          {displayed.map(({ card, versionIndex }) => {
-            const displayId =
-              versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
-            return (
-              <CollectionCardTile
-                key={displayId}
-                card={card}
-                versionIndex={versionIndex}
-                lang={lang}
-                selectMode={selectMode}
-                isSelected={selectedIds.has(displayId)}
-                onClick={() => onCardClick(card, versionIndex)}
-                onToggleSelect={() => onToggleSelect(displayId)}
-              />
-            )
-          })}
-        </div>
-      )}
-    </>
-  )
-}
-
-function RarityFilter({
-  cards,
-  active,
-  onChange,
-}: {
-  cards: Card[]
-  active: Set<string>
-  onChange: (rarity: Set<string>) => void
-}) {
-  const allRarities = React.useMemo(() => {
-    const seen = new Set<string>()
-    for (const card of cards) {
-      seen.add(card.rarity)
-      for (const v of card.variants ?? []) {
-        if (!v.set_id && v.rarity) seen.add(v.rarity)
-      }
-    }
-    return RARITY_ORDER.filter((r) => seen.has(r))
-  }, [cards])
-
-  if (allRarities.length === 0) return null
-
-  function toggle(rarity: string) {
-    const next = new Set(active)
-    if (next.has(rarity)) next.delete(rarity)
-    else next.add(rarity)
-    onChange(next)
-  }
-
-  return (
-    <div className="mb-6 flex flex-wrap items-center gap-2">
-      {allRarities.map((rarity) => {
-        const isActive = active.has(rarity)
-        return (
-          <button
-            key={rarity}
-            onClick={() => toggle(rarity)}
-            className={cn(
-              "flex cursor-pointer items-center gap-2 rounded-lg border px-3 py-1.5 text-xs font-semibold transition-all",
-              isActive
-                ? RARITY_COLOR_ACTIVE[rarity] ?? "border-border bg-muted text-foreground"
-                : (RARITY_COLOR[rarity] ?? RARITY_COLOR.Common)
-            )}
-          >
-            {RARITY_SHORT[rarity] ?? rarity}
-          </button>
-        )
-      })}
-
-      {active.size < allRarities.length && (
-        <button
-          onClick={() => onChange(new Set(allRarities))}
-          className="flex cursor-pointer items-center gap-1 rounded-lg border border-border/50 px-2.5 py-1.5 text-xs text-muted-foreground transition-colors hover:border-border hover:text-foreground"
-        >
-          <Check className="size-3" />
-          Toutes
-        </button>
-      )}
-
-      {active.size > 0 && (
-        <button
-          onClick={() => onChange(new Set())}
-          className="flex cursor-pointer items-center gap-1 rounded-lg border border-border/50 px-2.5 py-1.5 text-xs text-muted-foreground transition-colors hover:border-border hover:text-foreground"
-        >
-          <X className="size-3" />
-          Effacer
-        </button>
-      )}
-    </div>
-  )
-}
-
-// ---------------------------------------------------------------------------
-
-function CollectionCardTile({
-  card,
-  versionIndex,
-  lang,
-  selectMode,
-  isSelected,
-  onClick,
-  onToggleSelect,
-}: {
-  card: Card
-  versionIndex: number
-  lang: Lang
-  selectMode: boolean
-  isSelected: boolean
-  onClick: () => void
-  onToggleSelect: () => void
-}) {
-  const { user } = useAuth()
-  const { isOwned, toggle } = useCollection()
-
-  const displayId =
-    versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
-  const isVariant = versionIndex > 0
-  const owned = isOwned(displayId, lang)
-  const currentRarity = versionIndex === 0 ? card.rarity : (card.variants[versionIndex - 1]?.rarity ?? card.rarity)
-  const rarityClass = RARITY_BADGE[currentRarity] ?? RARITY_BADGE.Common
-
-  function handleQuickAdd(e: React.MouseEvent) {
-    e.stopPropagation()
-    toggle(displayId, lang)
-  }
-
-  function handleClick() {
-    if (selectMode) onToggleSelect()
-    else onClick()
-  }
-
-  return (
-    <div
-      className="group flex cursor-pointer flex-col gap-1.5"
-      onClick={handleClick}
-    >
-      <div
-        className={cn(
-          "relative aspect-[63/88] overflow-hidden rounded-lg border transition-all group-hover:-translate-y-0.5",
-          isSelected
-            ? "border-amber-400 bg-muted ring-2 ring-amber-400/30"
-            : owned
-              ? "border-amber-400/30 bg-muted group-hover:border-amber-400/60 group-hover:shadow-lg group-hover:shadow-amber-400/10"
-              : "border-border/30 bg-muted group-hover:border-border/60"
-        )}
-      >
-        <img
-          src={cardImageUrl(displayId, lang)}
-          alt={card.name}
-          loading="lazy"
-          className={cn(
-            "h-full w-full object-cover transition-all",
-            !owned &&
-              "opacity-30 grayscale group-hover:opacity-60 group-hover:grayscale-0"
-          )}
-          onError={(e) => {
-            e.currentTarget.style.display = "none"
-          }}
-        />
-
-        {/* Variant label */}
-        {isVariant && (
-          <span className="absolute right-1 bottom-1 rounded bg-black/70 px-1 py-0.5 text-[9px] font-medium text-white backdrop-blur-sm">
-            para
-          </span>
-        )}
-
-        {/* Owned badge / select checkbox */}
-        {selectMode ? (
-          <div
-            className={cn(
-              "absolute top-1 left-1 rounded p-0.5",
-              isSelected ? "text-amber-400" : "text-white/70"
-            )}
-          >
-            {isSelected ? (
-              <CheckSquare className="size-4 drop-shadow" />
-            ) : (
-              <Square className="size-4 drop-shadow" />
-            )}
-          </div>
-        ) : owned ? (
-          <span className="absolute top-1 left-1 rounded bg-amber-400 px-1 py-0.5 text-[9px] font-bold text-black">
-            ✓
-          </span>
-        ) : null}
-
-        {/* Quick add button */}
-        {user && !selectMode && (
-          <button
-            onClick={handleQuickAdd}
-            className={cn(
-              "absolute bottom-1 left-1 cursor-pointer rounded px-1.5 py-0.5 text-[9px] font-bold backdrop-blur-sm transition-all",
-              "opacity-0 group-hover:opacity-100",
-              owned
-                ? "bg-amber-400/90 text-black"
-                : "bg-black/70 text-white hover:bg-amber-400/90 hover:text-black"
-            )}
-          >
-            {owned ? "✓" : "+"}
-          </button>
-        )}
-      </div>
-
-      <div className="flex items-start justify-between gap-1 px-0.5">
-        <div className="min-w-0">
-          <p className="truncate text-[11px] leading-tight font-medium">
-            {card.name}
-          </p>
-          <p className="text-[10px] text-muted-foreground">{displayId}</p>
-        </div>
-        <div className="flex shrink-0 flex-col items-end gap-1">
-          <span
-            className={`rounded px-1 py-0.5 text-[9px] font-bold ${rarityClass}`}
-          >
-            {RARITY_SHORT[currentRarity] ?? currentRarity}
-          </span>
-          <div className="flex gap-0.5">
-            {card.colors.map((color) => (
-              <span
-                key={color}
-                className={`size-2 rounded-full ${COLOR_DOT[color] ?? "bg-muted"}`}
-              />
-            ))}
-          </div>
-        </div>
-      </div>
     </div>
   )
 }
