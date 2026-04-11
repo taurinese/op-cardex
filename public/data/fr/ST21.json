@@ -5,17 +5,18 @@
     "name": "Monkey D. Luffy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/ST21-001.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-001.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-001.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-001.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Chapeau de paille"
@@ -26,14 +27,14 @@
     "variants": [
       {
         "id": "ST21-001_p1",
-        "img_url": "../images/cardlist/card/ST21-001_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-001_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-001_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-001_p1.webp?260410",
         "rarity": "Leader"
       },
       {
         "id": "ST21-001_p2",
-        "img_url": "../images/cardlist/card/ST21-001_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-001_p2.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-001_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-001_p2.webp?260410",
         "rarity": "Leader",
         "set_id": null,
         "set_label": null
@@ -46,17 +47,18 @@
     "name": "Usopp",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-002.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-002.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-002.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-002.webp?260410",
     "cost": 2,
     "attributes": [
       "Ranged"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -66,9 +68,17 @@
     "variants": [
       {
         "id": "ST21-002_p1",
-        "img_url": "../images/cardlist/card/ST21-002_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-002_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-002_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-002_p1.webp?260410",
         "rarity": "Common"
+      },
+      {
+        "id": "ST21-002_p2",
+        "img_url": "../images/cardlist/card/ST21-002_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-002_p2.webp?260410",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -78,17 +88,18 @@
     "name": "Sanji",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-003.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-003.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003.webp?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -98,22 +109,22 @@
     "variants": [
       {
         "id": "ST21-003_p1",
-        "img_url": "../images/cardlist/card/ST21-003_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-003_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003_p1.webp?260410",
         "rarity": "Common"
       },
       {
         "id": "ST21-003_p2",
-        "img_url": "../images/cardlist/card/ST21-003_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003_p2.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-003_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003_p2.webp?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST21-003_r1",
-        "img_url": "../images/cardlist/card/ST21-003_r1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003_r1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-003_r1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-003_r1.webp?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -126,17 +137,18 @@
     "name": "Jewelry Bonney",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-004.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-004.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-004.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-004.webp?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 3000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Egg Head",
       "Équipage de Bonney"
@@ -147,8 +159,8 @@
     "variants": [
       {
         "id": "ST21-004_p1",
-        "img_url": "../images/cardlist/card/ST21-004_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-004_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-004_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-004_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -159,17 +171,18 @@
     "name": "Jinbe",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-005.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-005.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-005.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-005.webp?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Hommes-poissons",
       "Équipage de Chapeau de paille"
@@ -180,8 +193,8 @@
     "variants": [
       {
         "id": "ST21-005_p1",
-        "img_url": "../images/cardlist/card/ST21-005_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-005_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-005_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-005_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -192,17 +205,18 @@
     "name": "Stussy",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-006.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-006.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-006.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-006.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Egg Head"
     ],
@@ -212,8 +226,8 @@
     "variants": [
       {
         "id": "ST21-006_p1",
-        "img_url": "../images/cardlist/card/ST21-006_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-006_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-006_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-006_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -224,17 +238,18 @@
     "name": "Sentomaru",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-007.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-007.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-007.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-007.webp?260410",
     "cost": 2,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Egg Head",
       "Marine"
@@ -245,8 +260,8 @@
     "variants": [
       {
         "id": "ST21-007_p1",
-        "img_url": "../images/cardlist/card/ST21-007_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-007_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-007_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-007_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -257,17 +272,18 @@
     "name": "Tony-Tony Chopper",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-008.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-008.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-008.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-008.webp?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Équipage de Chapeau de paille"
@@ -278,8 +294,8 @@
     "variants": [
       {
         "id": "ST21-008_p1",
-        "img_url": "../images/cardlist/card/ST21-008_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-008_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-008_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-008_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -290,17 +306,18 @@
     "name": "Nami",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-009.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-009.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-009.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-009.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -310,8 +327,8 @@
     "variants": [
       {
         "id": "ST21-009_p1",
-        "img_url": "../images/cardlist/card/ST21-009_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-009_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-009_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-009_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -322,17 +339,18 @@
     "name": "Nico Robin",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-010.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-010.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-010.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-010.webp?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -342,8 +360,8 @@
     "variants": [
       {
         "id": "ST21-010_p1",
-        "img_url": "../images/cardlist/card/ST21-010_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-010_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-010_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-010_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -354,17 +372,18 @@
     "name": "Franky",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-011.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-011.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-011.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-011.webp?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -374,8 +393,8 @@
     "variants": [
       {
         "id": "ST21-011_p1",
-        "img_url": "../images/cardlist/card/ST21-011_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-011_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-011_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-011_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -386,17 +405,18 @@
     "name": "Brook",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-012.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-012.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-012.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-012.webp?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -406,8 +426,8 @@
     "variants": [
       {
         "id": "ST21-012_p1",
-        "img_url": "../images/cardlist/card/ST21-012_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-012_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-012_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-012_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -418,17 +438,18 @@
     "name": "Végapunk",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-013.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-013.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-013.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-013.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 3000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Scientifique",
       "Egg Head"
@@ -439,8 +460,8 @@
     "variants": [
       {
         "id": "ST21-013_p1",
-        "img_url": "../images/cardlist/card/ST21-013_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-013_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-013_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-013_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -451,17 +472,18 @@
     "name": "Monkey D. Luffy",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-014.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-014.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-014.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-014.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Chapeau de paille"
@@ -472,8 +494,8 @@
     "variants": [
       {
         "id": "ST21-014_p1",
-        "img_url": "../images/cardlist/card/ST21-014_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-014_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-014_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-014_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -484,17 +506,18 @@
     "name": "Roronoa Zoro",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST21-015.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-015.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-015.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-015.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -504,8 +527,8 @@
     "variants": [
       {
         "id": "ST21-015_p1",
-        "img_url": "../images/cardlist/card/ST21-015_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-015_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST21-015_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-015_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -516,15 +539,16 @@
     "name": "Gum Gum Dawn Whip",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST21-016.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-016.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-016.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-016.webp?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Chapeau de paille"
@@ -540,15 +564,16 @@
     "name": "Gum Gum Taupe Bullet",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST21-017.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-017.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST21-017.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST21-017.webp?260410",
     "cost": 4,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Chapeau de paille"

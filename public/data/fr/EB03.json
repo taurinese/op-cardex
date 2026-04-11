@@ -5,8 +5,8 @@
     "name": "Nefertari Vivi",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/EB03-001.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-001.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-001.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-001.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -27,8 +27,8 @@
     "variants": [
       {
         "id": "EB03-001_p1",
-        "img_url": "../images/cardlist/card/EB03-001_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-001_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-001_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-001_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -39,8 +39,8 @@
     "name": "Aïn",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-002.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-002.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-002.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-002.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -66,8 +66,8 @@
     "name": "Uta",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-003.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-003.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-003.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-003.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -87,14 +87,14 @@
     "variants": [
       {
         "id": "EB03-003_p1",
-        "img_url": "../images/cardlist/card/EB03-003_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-003_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-003_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-003_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-003_p2",
-        "img_url": "../images/cardlist/card/EB03-003_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-003_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-003_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-003_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -105,8 +105,8 @@
     "name": "Carina",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-004.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-004.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-004.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-004.webp?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
@@ -132,8 +132,8 @@
     "name": "Sugar",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-005.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-005.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-005.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-005.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
@@ -158,8 +158,8 @@
     "name": "Nami",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-006.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-006.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-006.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-006.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -185,8 +185,8 @@
     "name": "Baccarat",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-007.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-007.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-007.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-007.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
@@ -212,8 +212,8 @@
     "name": "Hibari",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-008.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-008.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-008.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-008.webp?260410",
     "cost": 3,
     "attributes": [
       "Ranged"
@@ -234,8 +234,8 @@
     "variants": [
       {
         "id": "EB03-008_p1",
-        "img_url": "../images/cardlist/card/EB03-008_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-008_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-008_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-008_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -246,8 +246,8 @@
     "name": "Makino",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-009.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-009.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-009.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-009.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -272,8 +272,8 @@
     "name": "Monet",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-010.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-010.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-010.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-010.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -299,8 +299,8 @@
     "name": "Mais si un jour nous nous retrouvons... est-ce que je serai toujours votre amie&nbsp;?!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/EB03-011.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-011.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-011.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-011.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -323,8 +323,8 @@
     "name": "O-Tama",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-012.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-012.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-012.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-012.webp?260410",
     "cost": 2,
     "attributes": [
       "Special"
@@ -349,8 +349,8 @@
     "name": "Carrot",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-013.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-013.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-013.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-013.webp?260410",
     "cost": 6,
     "attributes": [
       "Special"
@@ -370,8 +370,8 @@
     "variants": [
       {
         "id": "EB03-013_p1",
-        "img_url": "../images/cardlist/card/EB03-013_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-013_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-013_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-013_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -382,8 +382,8 @@
     "name": "Kuina",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-014.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-014.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-014.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-014.webp?260410",
     "cost": 2,
     "attributes": [
       "Slash"
@@ -409,8 +409,8 @@
     "name": "Keimi",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-015.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-015.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-015.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-015.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -436,8 +436,8 @@
     "name": "Hiyori Kozuki",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-016.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-016.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-016.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-016.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -463,8 +463,8 @@
     "name": "Jewelry Bonney",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-017.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-017.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-017.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-017.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -490,8 +490,8 @@
     "name": "Tashigi",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-018.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-018.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-018.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-018.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -511,14 +511,14 @@
     "variants": [
       {
         "id": "EB03-018_p1",
-        "img_url": "../images/cardlist/card/EB03-018_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-018_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-018_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-018_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-018_p2",
-        "img_url": "../images/cardlist/card/EB03-018_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-018_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-018_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-018_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -529,8 +529,8 @@
     "name": "Wanda",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-019.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-019.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-019.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-019.webp?260410",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -555,8 +555,8 @@
     "name": "Toujours aussi mauvais perdant&nbsp;!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/EB03-020.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-020.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-020.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-020.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -579,8 +579,8 @@
     "name": "Alvida",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-021.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-021.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-021.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-021.webp?260410",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -605,8 +605,8 @@
     "name": "Iska",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-022.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-022.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-022.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-022.webp?260410",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -631,8 +631,8 @@
     "name": "Kaya",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-023.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-023.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-023.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-023.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -657,8 +657,8 @@
     "name": "Nefertari Vivi",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-024.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-024.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-024.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-024.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -678,14 +678,14 @@
     "variants": [
       {
         "id": "EB03-024_p1",
-        "img_url": "../images/cardlist/card/EB03-024_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-024_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-024_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-024_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-024_p2",
-        "img_url": "../images/cardlist/card/EB03-024_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-024_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-024_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-024_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -696,8 +696,8 @@
     "name": "Hina",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-025.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-025.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-025.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-025.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -717,8 +717,8 @@
     "variants": [
       {
         "id": "EB03-025_p1",
-        "img_url": "../images/cardlist/card/EB03-025_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-025_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-025_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-025_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -729,8 +729,8 @@
     "name": "Boa Hancock",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-026.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-026.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-026.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-026.webp?260410",
     "cost": 6,
     "attributes": [
       "Special"
@@ -751,14 +751,14 @@
     "variants": [
       {
         "id": "EB03-026_p1",
-        "img_url": "../images/cardlist/card/EB03-026_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-026_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-026_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-026_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-026_p2",
-        "img_url": "../images/cardlist/card/EB03-026_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-026_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-026_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-026_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -769,8 +769,8 @@
     "name": "Margaret",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-027.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-027.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-027.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-027.webp?260410",
     "cost": 6,
     "attributes": [
       "Wisdom"
@@ -795,8 +795,8 @@
     "name": "Yû",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-028.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-028.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-028.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-028.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -821,8 +821,8 @@
     "name": "Reste où tu es, insolent&nbsp;!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/EB03-029.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-029.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-029.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-029.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -846,8 +846,8 @@
     "name": "Viola",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-030.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-030.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-030.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-030.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -872,8 +872,8 @@
     "name": "Reiju Vinsmoke",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-031.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-031.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-031.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-031.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -894,14 +894,14 @@
     "variants": [
       {
         "id": "EB03-031_p1",
-        "img_url": "../images/cardlist/card/EB03-031_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-031_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-031_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-031_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-031_p2",
-        "img_url": "../images/cardlist/card/EB03-031_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-031_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-031_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-031_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -912,8 +912,8 @@
     "name": "Charlotte Flampée",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-032.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-032.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-032.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-032.webp?260410",
     "cost": 1,
     "attributes": [
       "Ranged"
@@ -938,8 +938,8 @@
     "name": "Charlotte Brûlée",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-033.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-033.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-033.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-033.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -964,8 +964,8 @@
     "name": "Charlotte Linlin",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-034.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-034.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-034.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-034.webp?260410",
     "cost": 7,
     "attributes": [
       "Special"
@@ -985,8 +985,8 @@
     "variants": [
       {
         "id": "EB03-034_p1",
-        "img_url": "../images/cardlist/card/EB03-034_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-034_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-034_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-034_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -997,8 +997,8 @@
     "name": "Charlotte Pudding",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-035.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-035.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-035.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-035.webp?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
@@ -1023,8 +1023,8 @@
     "name": "Baby 5",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-036.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-036.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-036.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-036.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
@@ -1049,8 +1049,8 @@
     "name": "Lim",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-037.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-037.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-037.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-037.webp?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
@@ -1075,8 +1075,8 @@
     "name": "C'était délicieux&nbsp;! ♡",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/EB03-038.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-038.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-038.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-038.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -1100,8 +1100,8 @@
     "name": "Ulti",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-039.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-039.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-039.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-039.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -1126,8 +1126,8 @@
     "name": "Kalifa",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-040.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-040.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-040.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-040.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -1152,8 +1152,8 @@
     "name": "Kujaku",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-041.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-041.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-041.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-041.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
@@ -1174,8 +1174,8 @@
     "variants": [
       {
         "id": "EB03-041_p1",
-        "img_url": "../images/cardlist/card/EB03-041_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-041_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-041_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-041_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -1186,8 +1186,8 @@
     "name": "Koala",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-042.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-042.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-042.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-042.webp?260410",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -1208,14 +1208,14 @@
     "variants": [
       {
         "id": "EB03-042_p1",
-        "img_url": "../images/cardlist/card/EB03-042_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-042_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-042_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-042_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-042_p2",
-        "img_url": "../images/cardlist/card/EB03-042_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-042_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-042_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-042_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -1226,8 +1226,8 @@
     "name": "Stussy",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-043.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-043.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-043.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-043.webp?260410",
     "cost": 7,
     "attributes": [
       "Special"
@@ -1252,8 +1252,8 @@
     "name": "Black Maria",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-044.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-044.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-044.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-044.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
@@ -1278,8 +1278,8 @@
     "name": "Perona",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-045.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-045.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-045.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-045.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
@@ -1300,14 +1300,14 @@
     "variants": [
       {
         "id": "EB03-045_p1",
-        "img_url": "../images/cardlist/card/EB03-045_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-045_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-045_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-045_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-045_p2",
-        "img_url": "../images/cardlist/card/EB03-045_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-045_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-045_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-045_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -1318,8 +1318,8 @@
     "name": "Miss Doublefinger(Zala)",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-046.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-046.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-046.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-046.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -1344,8 +1344,8 @@
     "name": "Miss Valentine(Mikita)",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-047.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-047.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-047.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-047.webp?260410",
     "cost": 2,
     "attributes": [
       "Strike"
@@ -1370,8 +1370,8 @@
     "name": "Rebecca",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-048.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-048.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-048.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-048.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -1396,8 +1396,8 @@
     "name": "Décidément, vous ne pouvez pas vous rendre quelque part sans faire un boucan du diable",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/EB03-049.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-049.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-049.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-049.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -1420,8 +1420,8 @@
     "name": "Conis",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-050.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-050.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-050.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-050.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -1446,8 +1446,8 @@
     "name": "Charlotte Smoothie",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-051.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-051.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-051.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-051.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
@@ -1472,8 +1472,8 @@
     "name": "Shirahoshi",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-052.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-052.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-052.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-052.webp?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
@@ -1499,8 +1499,8 @@
     "name": "Nami",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-053.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-053.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-053.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-053.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
@@ -1520,14 +1520,14 @@
     "variants": [
       {
         "id": "EB03-053_p1",
-        "img_url": "../images/cardlist/card/EB03-053_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-053_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-053_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-053_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-053_p2",
-        "img_url": "../images/cardlist/card/EB03-053_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-053_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-053_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-053_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -1538,8 +1538,8 @@
     "name": "Nico Robin",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-054.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-054.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-054.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-054.webp?260410",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -1564,8 +1564,8 @@
     "name": "Nico Robin",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-055.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-055.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-055.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-055.webp?260410",
     "cost": 7,
     "attributes": [
       "Strike"
@@ -1585,14 +1585,14 @@
     "variants": [
       {
         "id": "EB03-055_p1",
-        "img_url": "../images/cardlist/card/EB03-055_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-055_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-055_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-055_p1.webp?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "EB03-055_p2",
-        "img_url": "../images/cardlist/card/EB03-055_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-055_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-055_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-055_p2.webp?260410",
         "rarity": "Special"
       }
     ]
@@ -1603,8 +1603,8 @@
     "name": "Belo Betty",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-056.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-056.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-056.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-056.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
@@ -1629,8 +1629,8 @@
     "name": "Yamato",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-057.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-057.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-057.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-057.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -1650,8 +1650,8 @@
     "variants": [
       {
         "id": "EB03-057_p1",
-        "img_url": "../images/cardlist/card/EB03-057_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-057_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-057_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-057_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -1662,8 +1662,8 @@
     "name": "Lilith",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-058.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-058.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-058.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-058.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -1689,8 +1689,8 @@
     "name": "S-Snake",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-059.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-059.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-059.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-059.webp?260410",
     "cost": 6,
     "attributes": [
       "Special"
@@ -1716,8 +1716,8 @@
     "name": "Accepterais-tu de devenir mon serviteur&nbsp;?",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/EB03-060.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-060.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-060.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-060.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -1740,8 +1740,8 @@
     "name": "Uta",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-061.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-061.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-061.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-061.webp?260410",
     "cost": 7,
     "attributes": [
       "Special"
@@ -1761,14 +1761,14 @@
     "variants": [
       {
         "id": "EB03-061_p1",
-        "img_url": "../images/cardlist/card/EB03-061_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-061_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-061_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-061_p1.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "EB03-061_p2",
-        "img_url": "../images/cardlist/card/EB03-061_p2.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-061_p2.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-061_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-061_p2.webp?260410",
         "rarity": "SecretRare"
       }
     ]
@@ -1779,8 +1779,8 @@
     "name": "Trafalgar Law",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB03-062.webp?260119",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-062.webp?260119",
+    "img_url": "../images/cardlist/card/EB03-062.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-062.webp?260410",
     "cost": 8,
     "attributes": [
       "Slash"
@@ -1800,8 +1800,8 @@
     "variants": [
       {
         "id": "EB03-062_p1",
-        "img_url": "../images/cardlist/card/EB03-062_p1.webp?260119",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-062_p1.webp?260119",
+        "img_url": "../images/cardlist/card/EB03-062_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB03-062_p1.webp?260410",
         "rarity": "SecretRare"
       }
     ]

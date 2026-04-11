@@ -5,17 +5,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/ST14-001.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-001.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-001.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-001.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -30,17 +31,18 @@
     "name": "Usopp",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-002.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-002.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-002.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-002.png?260410",
     "cost": 3,
     "attributes": [
       "Ranged"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -55,17 +57,18 @@
     "name": "Sanji",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-003.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-003.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-003.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-003.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -75,8 +78,8 @@
     "variants": [
       {
         "id": "ST14-003_p1",
-        "img_url": "../images/cardlist/card/ST14-003_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-003_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-003_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-003_p1.png?260410",
         "rarity": "Special",
         "set_id": "OP10",
         "set_label": "OP-10"
@@ -89,17 +92,18 @@
     "name": "Jinbe",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-004.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-004.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-004.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-004.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Fish-Man",
       "The Sun Pirates"
@@ -115,17 +119,18 @@
     "name": "Tony Tony.Chopper",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-005.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-005.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-005.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-005.png?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Animal",
       "Straw Hat Crew"
@@ -141,17 +146,18 @@
     "name": "Nami",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-006.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-006.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-006.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-006.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -166,17 +172,18 @@
     "name": "Nico Robin",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-007.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-007.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007.png?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -186,16 +193,16 @@
     "variants": [
       {
         "id": "ST14-007_p1",
-        "img_url": "../images/cardlist/card/ST14-007_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-007_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST14-007_r1",
-        "img_url": "../images/cardlist/card/ST14-007_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007_r1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-007_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-007_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -208,17 +215,18 @@
     "name": "Haredas",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-008.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-008.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-008.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-008.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Sky Island"
     ],
@@ -233,17 +241,18 @@
     "name": "Franky",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-009.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-009.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-009.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-009.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -258,17 +267,18 @@
     "name": "Brook",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-010.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-010.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -278,24 +288,24 @@
     "variants": [
       {
         "id": "ST14-010_p1",
-        "img_url": "../images/cardlist/card/ST14-010_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-010_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST14-010_r2",
-        "img_url": "../images/cardlist/card/ST14-010_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.png?251017",
+        "img_url": "../images/cardlist/card/ST14-010_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST14-010_r1",
-        "img_url": "../images/cardlist/card/ST14-010_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-010_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST26",
         "set_label": "ST-26"
@@ -308,17 +318,18 @@
     "name": "Heracles",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-011.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-011.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-011.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-011.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Bowin Island"
     ],
@@ -333,17 +344,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-012.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-012.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-012.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-012.png?260410",
     "cost": 8,
     "attributes": [
       "Strike"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -358,17 +370,18 @@
     "name": "Roronoa Zoro",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-013.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-013.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013.png?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 8000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -378,16 +391,16 @@
     "variants": [
       {
         "id": "ST14-013_p1",
-        "img_url": "../images/cardlist/card/ST14-013_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-013_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST14-013_r1",
-        "img_url": "../images/cardlist/card/ST14-013_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013_r1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-013_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-013_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -400,15 +413,16 @@
     "name": "Gum-Gum Giant Rifle",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST14-014.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-014.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-014.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-014.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -423,15 +437,16 @@
     "name": "Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST14-015.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-015.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-015.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-015.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -446,15 +461,16 @@
     "name": "I Have My Crew!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST14-016.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-016.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -464,16 +480,16 @@
     "variants": [
       {
         "id": "ST14-016_p1",
-        "img_url": "../images/cardlist/card/ST14-016_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-016_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST14-016_r1",
-        "img_url": "../images/cardlist/card/ST14-016_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016_r1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-016_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-016_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -486,15 +502,16 @@
     "name": "Thousand Sunny",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/ST14-017.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-017.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
@@ -504,16 +521,16 @@
     "variants": [
       {
         "id": "ST14-017_p1",
-        "img_url": "../images/cardlist/card/ST14-017_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-017_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST14-017_r1",
-        "img_url": "../images/cardlist/card/ST14-017_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017_r1.png?251017",
+        "img_url": "../images/cardlist/card/ST14-017_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-017_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"

@@ -5,17 +5,18 @@
     "name": "Portgas D. Ace",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB02-028_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/EB02-028_p1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Royaume d'Alabasta",
       "Équipage de Barbe Blanche"
@@ -23,7 +24,16 @@
     "effect": "[Jouée] Si votre Leader inclut «Équipage de Barbe Blanche» dans son type, regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 carte Personnage ayant un coût de 2 et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 2.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "EB02-028",
+        "img_url": "../images/cardlist/card/EB02-028.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/EB02-028.webp?260410",
+        "rarity": "Rare",
+        "set_id": "EB02",
+        "set_label": "EB-02"
+      }
+    ]
   },
   {
     "id": "OP07-111_p1",
@@ -31,17 +41,18 @@
     "name": "Lilith",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-111_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-111_p1.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP07-111_p1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-111_p1.webp?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 2,
     "types": [
       "Scientifique",
       "Egg Head"
@@ -57,24 +68,34 @@
     "name": "Sabo",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-118_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-118_p1.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP07-118_p1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-118_p1.webp?260410",
     "cost": 8,
     "attributes": [
       "Special"
     ],
     "power": 9000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Armée révolutionnaire"
     ],
     "effect": "[Jouée] Vous pouvez défausser 1 carte de votre main&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant un coût de 5 ou moins et jusqu'à 1 Personnage adverse ayant un coût de 3 ou moins.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP07-118_r1",
+        "img_url": "../images/cardlist/card/OP07-118_r1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP07-118_r1.webp?260410",
+        "rarity": "SecretRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP09-004_p4",
@@ -82,17 +103,18 @@
     "name": "Shanks",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-004_p4.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-004_p4.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.webp?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage du Roux"
@@ -103,9 +125,49 @@
     "variants": [
       {
         "id": "OP09-004_p5",
-        "img_url": "../images/cardlist/card/OP09-004_p5.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.webp?251024",
+        "img_url": "../images/cardlist/card/OP09-004_p5.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.webp?260410",
         "rarity": "Special"
+      },
+      {
+        "id": "OP09-004",
+        "img_url": "../images/cardlist/card/OP09-004.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-004_p1",
+        "img_url": "../images/cardlist/card/OP09-004_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p1.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-004_p2",
+        "img_url": "../images/cardlist/card/OP09-004_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p2.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-004_p3",
+        "img_url": "../images/cardlist/card/OP09-004_p3.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_p3.webp?260410",
+        "rarity": "Special",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-004_r1",
+        "img_url": "../images/cardlist/card/OP09-004_r1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-004_r1.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
       }
     ]
   },
@@ -115,42 +177,69 @@
     "name": "Ben Beckmann",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-009_p2.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-009_p2.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.webp?260410",
     "cost": 7,
     "attributes": [
       "Ranged"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage du Roux"
     ],
     "effect": "[Jouée] Placez dans sa Défausse jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-009",
+        "img_url": "../images/cardlist/card/OP09-009.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-009.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-009_p1",
+        "img_url": "../images/cardlist/card/OP09-009_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-009_p1.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-009_r1",
+        "img_url": "../images/cardlist/card/OP09-009_r1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-009_r1.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP09-118_p3",
     "pack_id": "622113",
     "name": "Gol D. Roger",
-    "rarity": "SecretRare",
+    "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-118_p3.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-118_p3.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.webp?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 13000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Roi des pirates",
       "Équipage de Roger"
@@ -158,7 +247,32 @@
     "effect": "[Initiative] (Cette carte peut attaquer durant le tour où elle est jouée.)<br>Quand votre adversaire active [Bloqueur], si vous ou votre adversaire n'avez plus de cartes dans votre Vie, vous remportez la partie.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-118",
+        "img_url": "../images/cardlist/card/OP09-118.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-118.webp?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-118_p1",
+        "img_url": "../images/cardlist/card/OP09-118_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-118_p1.webp?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-118_p2",
+        "img_url": "../images/cardlist/card/OP09-118_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-118_p2.webp?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-119_p3",
@@ -166,24 +280,50 @@
     "name": "Monkey D. Luffy",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-119_p3.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-119_p3.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.webp?260410",
     "cost": 9,
     "attributes": [
       "Strike"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Piochez 1 carte&nbsp;; ce Personnage gagne [Initiative] pour tout le tour.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-119",
+        "img_url": "../images/cardlist/card/OP09-119.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-119.webp?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-119_p1",
+        "img_url": "../images/cardlist/card/OP09-119_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-119_p1.webp?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-119_p2",
+        "img_url": "../images/cardlist/card/OP09-119_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.webp?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP10-030_p2",
@@ -191,17 +331,18 @@
     "name": "Smoker",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-030_p2.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP10-030_p2.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "Punk Hazard",
       "Marine"
@@ -209,32 +350,59 @@
     "effect": "[Exil] (Quand cette carte inflige des dégâts, la carte cible est placée dans la Défausse sans activer Déclenchement.)<br>[Activation&nbsp;: Principale] Redressez jusqu'à 1 de vos cartes DON!!. Puis, vous ne pouvez pas redresser de carte DON!! grâce à l'effet d'un Personnage pour tout le tour.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP10-030",
+        "img_url": "../images/cardlist/card/OP10-030.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-030.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP10",
+        "set_label": "OP-10"
+      },
+      {
+        "id": "OP10-030_p1",
+        "img_url": "../images/cardlist/card/OP10-030_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP10-030_p1.webp?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP10",
+        "set_label": "OP-10"
+      }
+    ]
   },
   {
     "id": "OP11-049_p1",
     "pack_id": "622113",
     "name": "Carrot",
-    "rarity": "Rare",
+    "rarity": "TreasureRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP11-049_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP11-049_p1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP11-049_p1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP11-049_p1.webp?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Minks"
     ],
     "effect": "[Jouée] Regardez 3 cartes du dessus de votre deck, réorganisez-les dans l'ordre de votre choix et placez-les au-dessus ou au-dessous de votre deck.<br>[Attaque adverse] Vous pouvez placer ce Personnage dans votre Défausse&nbsp;: Jusqu'à 1 de vos Leaders gagne +1000 de puissance pour tout le combat.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP11-049",
+        "img_url": "../images/cardlist/card/OP11-049.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP11-049.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP11",
+        "set_label": "OP-11"
+      }
+    ]
   },
   {
     "id": "OP13-001",
@@ -242,18 +410,19 @@
     "name": "Monkey D. Luffy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-001.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-001.webp?251024",
-    "colors": [
-      "Red",
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-001.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-001.webp?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Red",
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Supernovae",
       "Équipage de Chapeau de paille"
@@ -264,8 +433,8 @@
     "variants": [
       {
         "id": "OP13-001_p1",
-        "img_url": "../images/cardlist/card/OP13-001_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-001_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -276,18 +445,19 @@
     "name": "Portgas D. Ace",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-002.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-002.webp?251024",
-    "colors": [
-      "Red",
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-002.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-002.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Red",
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -297,8 +467,8 @@
     "variants": [
       {
         "id": "OP13-002_p1",
-        "img_url": "../images/cardlist/card/OP13-002_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-002_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -309,18 +479,19 @@
     "name": "Gol D. Roger",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-003.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-003.webp?251024",
-    "colors": [
-      "Red",
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-003.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-003.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Red",
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Roi des pirates",
       "Équipage de Roger"
@@ -331,8 +502,8 @@
     "variants": [
       {
         "id": "OP13-003_p1",
-        "img_url": "../images/cardlist/card/OP13-003_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-003_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -343,18 +514,19 @@
     "name": "Sabo",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-004.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-004.webp?251024",
-    "colors": [
-      "Red",
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-004.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-004.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dressrosa",
       "Armée révolutionnaire"
@@ -365,8 +537,8 @@
     "variants": [
       {
         "id": "OP13-004_p1",
-        "img_url": "../images/cardlist/card/OP13-004_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-004_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -377,17 +549,18 @@
     "name": "Inazuma",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-005.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-005.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-005.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-005.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Armée révolutionnaire"
     ],
@@ -402,17 +575,18 @@
     "name": "Woop Slap",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-006.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-006.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-006.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-006.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Village de Fuchsia"
     ],
@@ -427,17 +601,18 @@
     "name": "Ace, Sabo et Luffy",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-007.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-007.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-007.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-007.webp?260410",
     "cost": 1,
     "attributes": [
       "Strike"
     ],
     "power": 1000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Royaume de Goa"
     ],
@@ -447,8 +622,8 @@
     "variants": [
       {
         "id": "OP13-007_p1",
-        "img_url": "../images/cardlist/card/OP13-007_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-007_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-007_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-007_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -459,17 +634,18 @@
     "name": "Emporio Ivankov",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-008.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-008.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-008.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-008.webp?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": 3000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Armée révolutionnaire"
     ],
@@ -484,17 +660,18 @@
     "name": "Curly Dadan",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-009.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-009.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-009.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-009.webp?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Brigands"
     ],
@@ -509,17 +686,18 @@
     "name": "Maître des lieux",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-010.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-010.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-010.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-010.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 8000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Monstres marins",
       "East Blue"
@@ -535,17 +713,18 @@
     "name": "Nefertari Cobra",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-011.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-011.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-011.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-011.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
     ],
     "power": 6000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Royaume d'Alabasta"
     ],
@@ -560,17 +739,18 @@
     "name": "Nefertari Vivi",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-012.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-012.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-012.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-012.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Royaume d'Alabasta"
     ],
@@ -585,17 +765,18 @@
     "name": "Higuma",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-013.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-013.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-013.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-013.webp?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 3000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Brigands"
     ],
@@ -610,17 +791,18 @@
     "name": "Portgas D. Rouge",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-014.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-014.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-014.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-014.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Baterilla"
     ],
@@ -635,17 +817,18 @@
     "name": "Makino",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-015.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-015.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-015.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-015.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Village de Fuchsia"
     ],
@@ -660,17 +843,18 @@
     "name": "Monkey D. Garp",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-016.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-016.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-016.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-016.webp?260410",
     "cost": 1,
     "attributes": [
       "Strike"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Marine"
     ],
@@ -680,8 +864,8 @@
     "variants": [
       {
         "id": "OP13-016_p1",
-        "img_url": "../images/cardlist/card/OP13-016_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-016_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-016_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-016_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -692,17 +876,18 @@
     "name": "Monkey D. Dragon",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-017.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-017.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-017.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-017.webp?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Armée révolutionnaire"
     ],
@@ -717,17 +902,18 @@
     "name": "Wapol",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-018.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-018.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-018.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-018.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Royaume maléfique de Black Drum"
     ],
@@ -742,15 +928,16 @@
     "name": "Les flammes d'Ace, elles, ne vous ont pas pardonnés&nbsp;!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-019.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-019.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-019.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-019.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Dressrosa",
       "Armée révolutionnaire"
@@ -766,15 +953,16 @@
     "name": "Poing météore",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-020.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-020.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-020.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-020.webp?260410",
     "cost": 3,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Marine"
     ],
@@ -789,15 +977,16 @@
     "name": "Gum Gum Rafale",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-021.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-021.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-021.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-021.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -812,15 +1001,16 @@
     "name": "Village de Fuchsia",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP13-022.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-022.webp?251024",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP13-022.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-022.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 4,
     "types": [
       "Village de Fuchsia"
     ],
@@ -835,17 +1025,18 @@
     "name": "Uta",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-023.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-023.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-023.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-023.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM"
     ],
@@ -855,8 +1046,8 @@
     "variants": [
       {
         "id": "OP13-023_p1",
-        "img_url": "../images/cardlist/card/OP13-023_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-023_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-023_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-023_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -867,17 +1058,18 @@
     "name": "Gordon",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-024.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-024.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-024.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-024.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM"
     ],
@@ -892,17 +1084,18 @@
     "name": "Kobby",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-025.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-025.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-025.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-025.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Marine"
@@ -918,17 +1111,18 @@
     "name": "Sunny",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-026.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-026.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-026.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-026.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Équipage de Chapeau de paille"
@@ -944,17 +1138,18 @@
     "name": "Sanji",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-027.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-027.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-027.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-027.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Équipage de Chapeau de paille"
@@ -965,8 +1160,8 @@
     "variants": [
       {
         "id": "OP13-027_p1",
-        "img_url": "../images/cardlist/card/OP13-027_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-027_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-027_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-027_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -977,17 +1172,18 @@
     "name": "Shanks",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-028.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-028.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-028.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-028.webp?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Quatre Empereurs",
@@ -999,8 +1195,8 @@
     "variants": [
       {
         "id": "OP13-028_p1",
-        "img_url": "../images/cardlist/card/OP13-028_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-028_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-028_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-028_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -1011,17 +1207,18 @@
     "name": "Jinbe",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-029.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-029.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-029.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-029.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 2000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Hommes-poissons",
       "FILM",
@@ -1038,17 +1235,18 @@
     "name": "Tony-Tony Chopper",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-030.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-030.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-030.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-030.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Animal",
       "FILM",
@@ -1065,17 +1263,18 @@
     "name": "Trafalgar Law",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-031.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-031.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-031.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-031.webp?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Supernovae",
@@ -1084,7 +1283,16 @@
     "effect": "Si vous avez 1 carte ou moins dans votre Vie, ce Personnage gagne [Bloqueur].<br>[Jouée] Vous pouvez renvoyer 1 de vos Personnages à la main de son propriétaire&nbsp;: Jouez jusqu'à 1 carte Personnage épuisée de votre main ayant un coût de 5 ou moins.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-031_p1",
+        "img_url": "../images/cardlist/card/OP13-031_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-031_p1.webp?260410",
+        "rarity": "Special",
+        "set_id": "OP15EB04",
+        "set_label": "OP15-EB04"
+      }
+    ]
   },
   {
     "id": "OP13-032",
@@ -1092,17 +1300,18 @@
     "name": "Nico Robin",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-032.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-032.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-032.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-032.webp?260410",
     "cost": 7,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Équipage de Chapeau de paille"
@@ -1118,17 +1327,18 @@
     "name": "Franky",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-033.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-033.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-033.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-033.webp?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Équipage de Chapeau de paille"
@@ -1144,17 +1354,18 @@
     "name": "Brook",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-034.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-034.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-034.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-034.webp?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Équipage de Chapeau de paille"
@@ -1170,17 +1381,18 @@
     "name": "Bepo",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-035.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-035.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-035.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-035.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Minks",
       "FILM",
@@ -1197,17 +1409,18 @@
     "name": "Hermep",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-036.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-036.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-036.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-036.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": 2000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Marine"
@@ -1223,17 +1436,18 @@
     "name": "Roronoa Zoro",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-037.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-037.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-037.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-037.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Supernovae",
@@ -1250,15 +1464,16 @@
     "name": "Gum Gum Elephant Gun",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-038.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-038.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-038.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-038.webp?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Supernovae",
       "Équipage de Chapeau de paille"
@@ -1274,15 +1489,16 @@
     "name": "Gum Gum Snake Shot",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-039.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-039.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-039.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-039.webp?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Île des hommes-poissons",
       "Supernovae",
@@ -1299,15 +1515,16 @@
     "name": "S'il est aussi fort que vous le dites... Il va falloir mettre les bouchées doubles dès le début&nbsp;!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-040.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-040.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-040.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-040.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Supernovae",
       "Équipage de Chapeau de paille"
@@ -1323,17 +1540,18 @@
     "name": "Izo",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-041.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-041.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-041.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-041.webp?260410",
     "cost": 6,
     "attributes": [
       "Ranged"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Pays de Wano",
       "Équipage de Barbe Blanche"
@@ -1349,17 +1567,18 @@
     "name": "Edward Newgate",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-042.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-042.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-042.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-042.webp?260410",
     "cost": 10,
     "attributes": [
       "Special"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Quatre Empereurs",
       "Équipage de Barbe Blanche"
@@ -1370,9 +1589,17 @@
     "variants": [
       {
         "id": "OP13-042_p1",
-        "img_url": "../images/cardlist/card/OP13-042_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-042_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-042_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-042_p1.webp?260410",
         "rarity": "SuperRare"
+      },
+      {
+        "id": "OP13-042_p2",
+        "img_url": "../images/cardlist/card/OP13-042_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-042_p2.webp?260410",
+        "rarity": "Special",
+        "set_id": "OP15EB04",
+        "set_label": "OP15-EB04"
       }
     ]
   },
@@ -1382,24 +1609,34 @@
     "name": "O-Tama",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-043.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-043.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-043.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-043.webp?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Pays de Wano"
     ],
     "effect": "[Jouée] Si vous avez 3 cartes ou moins dans votre Vie, piochez 2 cartes et défaussez 1 carte de votre main.",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP13-043_p1",
+        "img_url": "../images/cardlist/card/OP13-043_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-043_p1.webp?260410",
+        "rarity": "TreasureRare",
+        "set_id": "OP15EB04",
+        "set_label": "OP15-EB04"
+      }
+    ]
   },
   {
     "id": "OP13-044",
@@ -1407,17 +1644,18 @@
     "name": "Curiel",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-044.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-044.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-044.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-044.webp?260410",
     "cost": 3,
     "attributes": [
       "Ranged"
     ],
     "power": 4000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1432,17 +1670,18 @@
     "name": "Haruta",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-045.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-045.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-045.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-045.webp?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1457,17 +1696,18 @@
     "name": "Vista",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-046.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-046.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-046.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-046.webp?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 8000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1482,17 +1722,18 @@
     "name": "Fossa",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-047.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-047.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-047.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-047.webp?260410",
     "cost": 2,
     "attributes": [
       "Slash"
     ],
     "power": 3000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1507,17 +1748,18 @@
     "name": "Blamenco",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-048.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-048.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-048.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-048.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1532,17 +1774,18 @@
     "name": "Blenheim",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-049.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-049.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-049.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-049.webp?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1557,17 +1800,18 @@
     "name": "Boa Sandersonia",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-050.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-050.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-050.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-050.webp?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 3000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage des Kuja"
     ],
@@ -1582,17 +1826,18 @@
     "name": "Boa Hancock",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-051.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-051.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-051.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-051.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Sept grands corsaires",
       "Équipage des Kuja"
@@ -1603,8 +1848,8 @@
     "variants": [
       {
         "id": "OP13-051_p1",
-        "img_url": "../images/cardlist/card/OP13-051_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-051_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-051_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-051_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -1615,17 +1860,18 @@
     "name": "Boa Marigold",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-052.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-052.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-052.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-052.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage des Kuja"
     ],
@@ -1640,17 +1886,18 @@
     "name": "Marshall D. Teach",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-053.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-053.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-053.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-053.webp?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1665,17 +1912,18 @@
     "name": "Yamato",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-054.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-054.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-054.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-054.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Pays de Wano"
     ],
@@ -1685,8 +1933,8 @@
     "variants": [
       {
         "id": "OP13-054_p1",
-        "img_url": "../images/cardlist/card/OP13-054_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-054_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-054_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-054_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -1697,17 +1945,18 @@
     "name": "Rakuyo",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-055.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-055.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-055.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-055.webp?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1722,17 +1971,18 @@
     "name": "Little Oz Junior",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-056.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-056.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-056.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-056.webp?260410",
     "cost": 7,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Géants",
       "Alliés de l'équipage de Barbe Blanche"
@@ -1748,15 +1998,16 @@
     "name": "Je ne suis pas né homme pour céder devant la force",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-057.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-057.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-057.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-057.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1771,15 +2022,16 @@
     "name": "Don du phénix",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-058.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-058.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-058.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-058.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Ex-Équipage de Barbe Blanche"
     ],
@@ -1794,15 +2046,16 @@
     "name": "Brilliant Punk",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-059.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-059.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-059.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-059.webp?260410",
     "cost": 4,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -1817,17 +2070,18 @@
     "name": "Toki Amatsuki",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-060.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-060.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-060.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-060.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
     ],
     "power": 3000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Pays de Wano",
       "Équipage de Roger"
@@ -1843,17 +2097,18 @@
     "name": "Caborage",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-061.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-061.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-061.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-061.webp?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 3000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Minks",
       "Équipage de Roger"
@@ -1869,17 +2124,18 @@
     "name": "Crocus",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-062.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-062.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-062.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-062.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Roger"
     ],
@@ -1894,17 +2150,18 @@
     "name": "Oden Kozuki",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-063.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-063.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-063.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-063.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Pays de Wano",
       "Clan Kozuki",
@@ -1921,17 +2178,18 @@
     "name": "Gol D. Roger",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-064.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-064.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-064.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-064.webp?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 13000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Roi des pirates",
       "Équipage de Roger"
@@ -1942,8 +2200,8 @@
     "variants": [
       {
         "id": "OP13-064_p1",
-        "img_url": "../images/cardlist/card/OP13-064_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-064_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-064_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-064_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -1954,17 +2212,18 @@
     "name": "Shanks",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-065.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-065.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-065.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-065.webp?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Roger"
     ],
@@ -1974,8 +2233,8 @@
     "variants": [
       {
         "id": "OP13-065_p1",
-        "img_url": "../images/cardlist/card/OP13-065_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-065_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-065_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-065_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -1986,17 +2245,18 @@
     "name": "Silvers Rayleigh",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-066.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-066.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-066.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-066.webp?260410",
     "cost": 8,
     "attributes": [
       "Slash"
     ],
     "power": 9000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Roger"
     ],
@@ -2006,8 +2266,8 @@
     "variants": [
       {
         "id": "OP13-066_p1",
-        "img_url": "../images/cardlist/card/OP13-066_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-066_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-066_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-066_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -2018,17 +2278,18 @@
     "name": "Scopper Gaban",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-067.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-067.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-067.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-067.webp?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Roger"
     ],
@@ -2043,17 +2304,18 @@
     "name": "Douglas Bullet",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-068.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-068.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-068.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-068.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "FILM",
       "Ex-Équipage de Roger"
@@ -2069,17 +2331,18 @@
     "name": "Tom",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-069.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-069.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-069.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-069.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Hommes-poissons",
       "Water Seven"
@@ -2095,17 +2358,18 @@
     "name": "Napoléon",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-070.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-070.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-070.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-070.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Homies",
       "Équipage de Big Mom"
@@ -2121,17 +2385,18 @@
     "name": "Chavipère",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-071.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-071.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-071.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-071.webp?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Minks",
       "Équipage de Roger"
@@ -2147,17 +2412,18 @@
     "name": "Baggy",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-072.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-072.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-072.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-072.webp?260410",
     "cost": 2,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Roger"
     ],
@@ -2172,17 +2438,18 @@
     "name": "Prométhée",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-073.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-073.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-073.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-073.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Homies",
       "Équipage de Big Mom"
@@ -2198,17 +2465,18 @@
     "name": "Héra",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-074.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-074.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-074.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-074.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Homies",
       "Équipage de Big Mom"
@@ -2224,15 +2492,16 @@
     "name": "Rien de mieux qu'un combat à mort pour se rappeler qu'on est vivant&nbsp;!",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-075.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-075.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-075.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-075.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Roi des pirates",
       "Équipage de Roger"
@@ -2248,15 +2517,16 @@
     "name": "Trépas divin",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-076.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-076.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-076.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-076.webp?260410",
     "cost": null,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Roi des pirates",
       "Équipage de Roger"
@@ -2267,8 +2537,8 @@
     "variants": [
       {
         "id": "OP13-076_p1",
-        "img_url": "../images/cardlist/card/OP13-076_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-076_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-076_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-076_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -2279,15 +2549,16 @@
     "name": "Atteins les plus hauts sommets de ce monde&nbsp;!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-077.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-077.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-077.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-077.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Ex-Équipage de Roger"
     ],
@@ -2302,15 +2573,16 @@
     "name": "Oro Jackson",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP13-078.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-078.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP13-078.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-078.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Roger"
     ],
@@ -2325,17 +2597,18 @@
     "name": "Imu",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-079.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-079.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-079.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-079.webp?260410",
     "cost": 4,
     "attributes": [
       "Unknown"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "?"
     ],
@@ -2345,8 +2618,8 @@
     "variants": [
       {
         "id": "OP13-079_p1",
-        "img_url": "../images/cardlist/card/OP13-079_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-079_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -2357,17 +2630,18 @@
     "name": "Saint Ethanbaron V. Nusjuro",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-080.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-080.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-080.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-080.webp?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2378,14 +2652,14 @@
     "variants": [
       {
         "id": "OP13-080_p1",
-        "img_url": "../images/cardlist/card/OP13-080_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-080_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-080_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-080_p1.webp?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP13-080_p2",
-        "img_url": "../images/cardlist/card/OP13-080_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-080_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-080_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-080_p2.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -2396,17 +2670,18 @@
     "name": "Koala",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-081.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-081.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-081.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-081.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dressrosa",
       "Armée révolutionnaire"
@@ -2422,11 +2697,8 @@
     "name": "Cinq Doyens",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-082.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-082.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-082.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-082.webp?260410",
     "cost": 10,
     "attributes": [
       "Slash",
@@ -2434,6 +2706,10 @@
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2444,8 +2720,8 @@
     "variants": [
       {
         "id": "OP13-082_p1",
-        "img_url": "../images/cardlist/card/OP13-082_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-082_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-082_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-082_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -2456,17 +2732,18 @@
     "name": "Saint Jaygarcia Saturn",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-083.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-083.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-083.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-083.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2477,14 +2754,14 @@
     "variants": [
       {
         "id": "OP13-083_p1",
-        "img_url": "../images/cardlist/card/OP13-083_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-083_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-083_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-083_p1.webp?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP13-083_p2",
-        "img_url": "../images/cardlist/card/OP13-083_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-083_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-083_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-083_p2.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -2495,17 +2772,18 @@
     "name": "Saint Shepherd Ju Peter",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-084.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-084.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-084.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-084.webp?260410",
     "cost": 7,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2516,14 +2794,14 @@
     "variants": [
       {
         "id": "OP13-084_p1",
-        "img_url": "../images/cardlist/card/OP13-084_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-084_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-084_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-084_p1.webp?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP13-084_p2",
-        "img_url": "../images/cardlist/card/OP13-084_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-084_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-084_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-084_p2.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -2534,17 +2812,18 @@
     "name": "Saint Jalmack",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-085.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-085.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-085.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-085.webp?260410",
     "cost": 2,
     "attributes": [
       "Ranged"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste"
     ],
@@ -2559,17 +2838,18 @@
     "name": "Princesse Sharlia",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-086.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-086.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-086.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-086.webp?260410",
     "cost": 1,
     "attributes": [
       "Ranged"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste"
     ],
@@ -2584,17 +2864,18 @@
     "name": "Saint Charloss",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-087.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-087.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-087.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-087.webp?260410",
     "cost": 2,
     "attributes": [
       "Ranged"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste"
     ],
@@ -2609,17 +2890,18 @@
     "name": "Terry Gilteo",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-088.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-088.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-088.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-088.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
     ],
     "power": 6000,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Armée révolutionnaire"
     ],
@@ -2634,17 +2916,18 @@
     "name": "Saint Topman Warcury",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-089.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-089.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-089.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-089.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2655,14 +2938,14 @@
     "variants": [
       {
         "id": "OP13-089_p1",
-        "img_url": "../images/cardlist/card/OP13-089_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-089_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-089_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-089_p1.webp?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP13-089_p2",
-        "img_url": "../images/cardlist/card/OP13-089_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-089_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-089_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-089_p2.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -2673,17 +2956,18 @@
     "name": "Hack",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-090.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-090.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-090.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-090.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Hommes-poissons",
       "Dressrosa",
@@ -2700,17 +2984,18 @@
     "name": "Saint Marcus Mars",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-091.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-091.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-091.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-091.webp?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2721,14 +3006,14 @@
     "variants": [
       {
         "id": "OP13-091_p1",
-        "img_url": "../images/cardlist/card/OP13-091_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-091_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-091_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-091_p1.webp?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP13-091_p2",
-        "img_url": "../images/cardlist/card/OP13-091_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-091_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-091_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-091_p2.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -2739,17 +3024,18 @@
     "name": "Saint Myosgard",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-092.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-092.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-092.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-092.webp?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste"
     ],
@@ -2764,17 +3050,18 @@
     "name": "Morgans",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-093.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-093.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-093.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-093.webp?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Journaliste"
     ],
@@ -2789,17 +3076,18 @@
     "name": "York",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-094.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-094.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-094.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-094.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Scientifique"
@@ -2815,17 +3103,18 @@
     "name": "Saint Roswald",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-095.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-095.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-095.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-095.webp?260410",
     "cost": 3,
     "attributes": [
       "Ranged"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste"
     ],
@@ -2840,15 +3129,16 @@
     "name": "Les Cinq Doyens sont à genoux devant vous&nbsp;!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-096.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-096.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-096.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-096.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2864,15 +3154,16 @@
     "name": "Nous ne pourrons pas préserver indéfiniment l'équilibre du monde",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-097.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-097.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-097.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-097.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2888,15 +3179,16 @@
     "name": "Aucun pays de ce nom... n'a jamais... existé",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-098.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-098.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-098.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-098.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dragon céleste",
       "Cinq Doyens"
@@ -2912,15 +3204,16 @@
     "name": "Le trône vide",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP13-099.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-099.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-099.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-099.webp?260410",
     "cost": 7,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Terre Sainte de Marie Joie"
     ],
@@ -2935,17 +3228,18 @@
     "name": "Jewelry Bonney",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-100.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-100.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-100.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-100.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Équipage de Bonney"
@@ -2956,8 +3250,8 @@
     "variants": [
       {
         "id": "OP13-100_p1",
-        "img_url": "../images/cardlist/card/OP13-100_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-100_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -2968,17 +3262,18 @@
     "name": "Atlas",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-101.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-101.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-101.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-101.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
     ],
     "power": 6000,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Scientifique"
@@ -2994,17 +3289,18 @@
     "name": "Edison",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-102.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-102.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-102.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-102.webp?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Scientifique"
@@ -3020,17 +3316,18 @@
     "name": "Ichiyo",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-103.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-103.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-103.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-103.webp?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Bonney"
     ],
@@ -3045,17 +3342,18 @@
     "name": "Hiyori Kozuki",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-104.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-104.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-104.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-104.webp?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Pays de Wano",
       "Clan Kozuki"
@@ -3071,17 +3369,18 @@
     "name": "Momonosuké Kozuki",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-105.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-105.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-105.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-105.webp?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Pays de Wano",
       "Clan Kozuki"
@@ -3097,17 +3396,18 @@
     "name": "Conney",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-106.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-106.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-106.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-106.webp?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Bonney"
     ],
@@ -3122,17 +3422,18 @@
     "name": "Shaka",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-107.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-107.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-107.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-107.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Scientifique"
@@ -3148,17 +3449,18 @@
     "name": "Jewelry Bonney",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-108.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-108.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-108.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-108.webp?260410",
     "cost": 9,
     "attributes": [
       "Special"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Équipage de Bonney"
@@ -3169,8 +3471,8 @@
     "variants": [
       {
         "id": "OP13-108_p1",
-        "img_url": "../images/cardlist/card/OP13-108_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-108_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-108_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-108_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -3181,17 +3483,18 @@
     "name": "Jewelry Bonney",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-109.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-109.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-109.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-109.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Supernovae",
       "Équipage de Bonney"
@@ -3207,17 +3510,18 @@
     "name": "Stussy",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-110.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-110.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-110.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-110.webp?260410",
     "cost": 7,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "CP-0"
@@ -3228,8 +3532,8 @@
     "variants": [
       {
         "id": "OP13-110_p1",
-        "img_url": "../images/cardlist/card/OP13-110_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-110_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-110_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-110_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -3240,17 +3544,18 @@
     "name": "Pythagore",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-111.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-111.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-111.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-111.webp?260410",
     "cost": 6,
     "attributes": [
       "Wisdom"
     ],
     "power": 7000,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Scientifique"
@@ -3266,17 +3571,18 @@
     "name": "Végapunk",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-112.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-112.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-112.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-112.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Scientifique"
@@ -3292,17 +3598,18 @@
     "name": "Lilith",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-113.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-113.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-113.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-113.webp?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Scientifique"
@@ -3313,8 +3620,8 @@
     "variants": [
       {
         "id": "OP13-113_p1",
-        "img_url": "../images/cardlist/card/OP13-113_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-113_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -3325,17 +3632,18 @@
     "name": "S-Snake",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-114.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-114.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-114.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-114.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Séraphin"
@@ -3346,8 +3654,8 @@
     "variants": [
       {
         "id": "OP13-114_p1",
-        "img_url": "../images/cardlist/card/OP13-114_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-114_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-114_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-114_p1.webp?260410",
         "rarity": "Rare"
       }
     ]
@@ -3358,15 +3666,16 @@
     "name": "Pliage rémanent",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-115.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-115.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-115.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-115.webp?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "CP-0"
@@ -3382,15 +3691,16 @@
     "name": "Le plus libre des hommes au monde, c'est le roi des pirates&nbsp;!!",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-116.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-116.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-116.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-116.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Supernovae",
       "Équipage de Chapeau de paille"
@@ -3406,15 +3716,16 @@
     "name": "Gum Gum Dawn Stamp",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-117.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-117.webp?251024",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP13-117.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-117.webp?260410",
     "cost": 5,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 4,
     "types": [
       "Egg Head",
       "Quatre Empereurs",
@@ -3431,17 +3742,18 @@
     "name": "Monkey D. Luffy",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-118.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118.webp?251024",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP13-118.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 4,
     "types": [
       "Île des hommes-poissons",
       "Supernovae",
@@ -3453,26 +3765,26 @@
     "variants": [
       {
         "id": "OP13-118_p1",
-        "img_url": "../images/cardlist/card/OP13-118_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-118_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p1.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p2",
-        "img_url": "../images/cardlist/card/OP13-118_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-118_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p2.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p3",
-        "img_url": "../images/cardlist/card/OP13-118_p3.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p3.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-118_p3.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p3.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p4",
-        "img_url": "../images/cardlist/card/OP13-118_p4.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p4.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-118_p4.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-118_p4.webp?260410",
         "rarity": "SecretRare"
       }
     ]
@@ -3483,17 +3795,18 @@
     "name": "Portgas D. Ace",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-119.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP13-119.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119.webp?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 4,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -3503,26 +3816,26 @@
     "variants": [
       {
         "id": "OP13-119_p1",
-        "img_url": "../images/cardlist/card/OP13-119_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-119_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p1.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p2",
-        "img_url": "../images/cardlist/card/OP13-119_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-119_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p2.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p3",
-        "img_url": "../images/cardlist/card/OP13-119_p3.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p3.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-119_p3.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p3.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p4",
-        "img_url": "../images/cardlist/card/OP13-119_p4.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p4.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-119_p4.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-119_p4.webp?260410",
         "rarity": "SecretRare"
       }
     ]
@@ -3533,17 +3846,18 @@
     "name": "Sabo",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-120.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP13-120.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120.webp?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 4,
     "types": [
       "Dressrosa",
       "Armée révolutionnaire"
@@ -3554,26 +3868,26 @@
     "variants": [
       {
         "id": "OP13-120_p1",
-        "img_url": "../images/cardlist/card/OP13-120_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p1.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-120_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p1.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p2",
-        "img_url": "../images/cardlist/card/OP13-120_p2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p2.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-120_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p2.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p3",
-        "img_url": "../images/cardlist/card/OP13-120_p3.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p3.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-120_p3.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p3.webp?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p4",
-        "img_url": "../images/cardlist/card/OP13-120_p4.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p4.webp?251024",
+        "img_url": "../images/cardlist/card/OP13-120_p4.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP13-120_p4.webp?260410",
         "rarity": "SecretRare"
       }
     ]

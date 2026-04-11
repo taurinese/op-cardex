@@ -825,7 +825,6 @@ function CollectionCardTile({
   onClick: () => void
   onToggleSelect: () => void
 }) {
-  const rarityClass = RARITY_BADGE[card.rarity] ?? RARITY_BADGE.Common
   const { user } = useAuth()
   const { isOwned, toggle } = useCollection()
 
@@ -833,6 +832,8 @@ function CollectionCardTile({
     versionIndex === 0 ? card.id : card.variants[versionIndex - 1].id
   const isVariant = versionIndex > 0
   const owned = isOwned(displayId, lang)
+  const currentRarity = versionIndex === 0 ? card.rarity : (card.variants[versionIndex - 1]?.rarity ?? card.rarity)
+  const rarityClass = RARITY_BADGE[currentRarity] ?? RARITY_BADGE.Common
 
   function handleQuickAdd(e: React.MouseEvent) {
     e.stopPropagation()
@@ -928,7 +929,7 @@ function CollectionCardTile({
           <span
             className={`rounded px-1 py-0.5 text-[9px] font-bold ${rarityClass}`}
           >
-            {RARITY_SHORT[card.rarity] ?? card.rarity}
+            {RARITY_SHORT[currentRarity] ?? currentRarity}
           </span>
           <div className="flex gap-0.5">
             {card.colors.map((color) => (

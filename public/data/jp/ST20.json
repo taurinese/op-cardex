@@ -5,8 +5,8 @@
     "name": "シャーロット・カタクリ",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP03-099_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-099_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-099_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-099_p2.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -23,7 +23,24 @@
     "effect": "【ドン‼×1】【アタック時】自分か相手のライフの上から1枚までを見て、ライフの上か下に置く。その後、このリーダーは、このバトル中、パワー+1000。",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-099",
+        "img_url": "../images/cardlist/card/OP03-099.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-099.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP03",
+        "set_label": null
+      },
+      {
+        "id": "OP03-099_p1",
+        "img_url": "../images/cardlist/card/OP03-099_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-099_p1.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-106_r1",
@@ -31,8 +48,8 @@
     "name": "シャーロット・オペラ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-106_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-106_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-106_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-106_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -49,7 +66,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-106",
+        "img_url": "../images/cardlist/card/OP03-106.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-106.png?260408",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-107_r1",
@@ -57,8 +83,8 @@
     "name": "シャーロット・ガレット",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-107_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-107_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-107_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-107_r1.png?260408",
     "cost": 2,
     "attributes": [
       "Special"
@@ -75,7 +101,16 @@
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-107",
+        "img_url": "../images/cardlist/card/OP03-107.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-107.png?260408",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-110_r2",
@@ -83,8 +118,8 @@
     "name": "シャーロット・スムージー",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-110_r2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110_r2.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-110_r2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110_r2.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -101,7 +136,48 @@
     "effect": "【アタック時】自分のライフの上か下から1枚を手札に加えることができる：このキャラは、このバトル中、パワー+2000。",
     "trigger": "【トリガー】自分の手札1枚を捨てることができる：このカードを登場させる。",
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-110",
+        "img_url": "../images/cardlist/card/OP03-110.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": null
+      },
+      {
+        "id": "OP03-110_p2",
+        "img_url": "../images/cardlist/card/OP03-110_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110_p2.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-110_p3",
+        "img_url": "../images/cardlist/card/OP03-110_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110_p3.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-110_p4",
+        "img_url": "../images/cardlist/card/OP03-110_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110_p4.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-110_r1",
+        "img_url": "../images/cardlist/card/OP03-110_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-110_r1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-112_r1",
@@ -109,8 +185,8 @@
     "name": "シャーロット・プリン",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-112_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-112_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_r1.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -127,7 +203,48 @@
     "effect": "【登場時】自分のデッキの上から4枚を見て、「シャーロット・プリン」以外の特徴《ビッグ・マム海賊団》を持つカードか「サンジ」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-112",
+        "img_url": "../images/cardlist/card/OP03-112.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": null
+      },
+      {
+        "id": "OP03-112_p1",
+        "img_url": "../images/cardlist/card/OP03-112_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": null
+      },
+      {
+        "id": "OP03-112_p4",
+        "img_url": "../images/cardlist/card/OP03-112_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p4.png?260408",
+        "rarity": "Special",
+        "set_id": "OP08",
+        "set_label": null
+      },
+      {
+        "id": "OP03-112_p2",
+        "img_url": "../images/cardlist/card/OP03-112_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p2.png?260408",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP03-112_p3",
+        "img_url": "../images/cardlist/card/OP03-112_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-112_p3.png?260408",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP03-115_r1",
@@ -135,8 +252,8 @@
     "name": "シュトロイゼン",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-115_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-115_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-115_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-115_r1.png?260408",
     "cost": 1,
     "attributes": [
       "Slash"
@@ -153,7 +270,16 @@
     "effect": "【登場時】自分の手札から【トリガー】を持つカード1枚を捨てることができる：相手のコスト1以下のキャラ1枚までを、KOする。",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-115",
+        "img_url": "../images/cardlist/card/OP03-115.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-115.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-118_r1",
@@ -161,8 +287,8 @@
     "name": "威国",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP03-118_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-118_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-118_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-118_r1.png?260408",
     "cost": 2,
     "attributes": [],
     "power": null,
@@ -178,7 +304,16 @@
     "effect": "【カウンター】自分のリーダーかキャラ1枚までを、このバトル中、パワー+5000。",
     "trigger": "【トリガー】自分の手札2枚を捨てることができる：自分のデッキの上から1枚までを、ライフの上に加える。",
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-118",
+        "img_url": "../images/cardlist/card/OP03-118.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-118.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-121_r2",
@@ -186,8 +321,8 @@
     "name": "雷霆",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP03-121_r2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121_r2.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-121_r2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121_r2.png?260408",
     "cost": 2,
     "attributes": [],
     "power": null,
@@ -203,7 +338,48 @@
     "effect": "【メイン】自分のライフの上から1枚をトラッシュに置くことができる：相手のコスト5以下のキャラ1枚までを、KOする。",
     "trigger": "【トリガー】相手のコスト5以下のキャラ1枚までを、KOする。",
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-121",
+        "img_url": "../images/cardlist/card/OP03-121.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121.png?260408",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": null
+      },
+      {
+        "id": "OP03-121_p4",
+        "img_url": "../images/cardlist/card/OP03-121_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121_p4.png?260408",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-121_p5",
+        "img_url": "../images/cardlist/card/OP03-121_p5.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121_p5.png?260408",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-121_r1",
+        "img_url": "../images/cardlist/card/OP03-121_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121_r1.png?260408",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-121_p2",
+        "img_url": "../images/cardlist/card/OP03-121_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-121_p2.png?260408",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST07-005_r1",
@@ -211,8 +387,8 @@
     "name": "シャーロット・ダイフク",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST07-005_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png?2602273",
+    "img_url": "../images/cardlist/card/ST07-005_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -229,7 +405,16 @@
     "effect": "【ドン‼×1】【アタック時】自分のライフの上か下から1枚を手札に加えることができる：自分のデッキの上から1枚までを、ライフの上に加える。",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-005",
+        "img_url": "../images/cardlist/card/ST07-005.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-005.png?260408",
+        "rarity": "Common",
+        "set_id": "ST07",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST07-014_r1",
@@ -237,8 +422,8 @@
     "name": "ぺコムズ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST07-014_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png?2602273",
+    "img_url": "../images/cardlist/card/ST07-014_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -256,7 +441,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-014",
+        "img_url": "../images/cardlist/card/ST07-014.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST07-014.png?260408",
+        "rarity": "Common",
+        "set_id": "ST07",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST20-001",
@@ -264,8 +458,8 @@
     "name": "シャーロット・カタクリ",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-001.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-001.png?2602273",
+    "img_url": "../images/cardlist/card/ST20-001.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-001.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -290,8 +484,8 @@
     "name": "シャーロット・クラッカー",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-002.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-002.png?2602273",
+    "img_url": "../images/cardlist/card/ST20-002.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-002.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -316,8 +510,8 @@
     "name": "シャーロット・ブリュレ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-003.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003.png?2602273",
+    "img_url": "../images/cardlist/card/ST20-003.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003.png?260408",
     "cost": 3,
     "attributes": [
       "Special"
@@ -337,16 +531,16 @@
     "variants": [
       {
         "id": "ST20-003_p1",
-        "img_url": "../images/cardlist/card/ST20-003_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.png?2602273",
+        "img_url": "../images/cardlist/card/ST20-003_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.png?260408",
         "rarity": "Common",
         "set_id": null,
         "set_label": null
       },
       {
         "id": "ST20-003_r1",
-        "img_url": "../images/cardlist/card/ST20-003_r1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003_r1.png?2602273",
+        "img_url": "../images/cardlist/card/ST20-003_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-003_r1.png?260408",
         "rarity": "Common",
         "set_id": null,
         "set_label": null
@@ -359,8 +553,8 @@
     "name": "シャーロット・プリン",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-004.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-004.png?2602273",
+    "img_url": "../images/cardlist/card/ST20-004.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-004.png?260408",
     "cost": 3,
     "attributes": [
       "Wisdom"
@@ -385,8 +579,8 @@
     "name": "シャーロット・リンリン",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-005.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-005.png?2602273",
+    "img_url": "../images/cardlist/card/ST20-005.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST20-005.png?260408",
     "cost": 6,
     "attributes": [
       "Special"

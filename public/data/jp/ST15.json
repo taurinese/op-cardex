@@ -5,8 +5,8 @@
     "name": "エドワード・ニューゲート",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP02-001_p4.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p4.png?2602273",
+    "img_url": "../images/cardlist/card/OP02-001_p4.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p4.png?260408",
     "cost": 6,
     "attributes": [
       "Special"
@@ -24,7 +24,32 @@
     "effect": "【自分のターン終了時】自分のライフの上から1枚を手札に加える。",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP02-001",
+        "img_url": "../images/cardlist/card/OP02-001.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP02",
+        "set_label": null
+      },
+      {
+        "id": "OP02-001_p1",
+        "img_url": "../images/cardlist/card/OP02-001_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p1.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP02",
+        "set_label": null
+      },
+      {
+        "id": "OP02-001_p3",
+        "img_url": "../images/cardlist/card/OP02-001_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-001_p3.png?260408",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP02-008_r1",
@@ -32,8 +57,8 @@
     "name": "ジョズ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-008_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP02-008_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -50,7 +75,24 @@
     "effect": "【ドン‼×1】自分のライフが2枚以下でかつ、自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、このキャラは【速攻】を得る。<br>(このカードは登場したターンにアタックできる)",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP02-008",
+        "img_url": "../images/cardlist/card/OP02-008.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP02",
+        "set_label": null
+      },
+      {
+        "id": "OP02-008_p1",
+        "img_url": "../images/cardlist/card/OP02-008_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-008_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP02-018_r1",
@@ -58,8 +100,8 @@
     "name": "マルコ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-018_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP02-018_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -76,7 +118,56 @@
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【KO時】自分の手札から『白ひげ海賊団』を含む特徴を持つカード1枚を捨てることができる：自分のライフが2枚以下の場合、このキャラカードをトラッシュからレストで登場させる。",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP02-018",
+        "img_url": "../images/cardlist/card/OP02-018.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP02",
+        "set_label": null
+      },
+      {
+        "id": "OP02-018_p1",
+        "img_url": "../images/cardlist/card/OP02-018_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP02",
+        "set_label": null
+      },
+      {
+        "id": "OP02-018_p3",
+        "img_url": "../images/cardlist/card/OP02-018_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p3.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP02-018_p4",
+        "img_url": "../images/cardlist/card/OP02-018_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p4.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP02-018_p5",
+        "img_url": "../images/cardlist/card/OP02-018_p5.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_p5.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP02-018_r2",
+        "img_url": "../images/cardlist/card/OP02-018_r2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-018_r2.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP02-019_r1",
@@ -84,8 +175,8 @@
     "name": "ラクヨウ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP02-019_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-019_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP02-019_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-019_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -102,7 +193,16 @@
     "effect": "【ドン‼×1】【自分のターン中】自分の『白ひげ海賊団』を含む特徴を持つキャラすべてを、パワー+1000。",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP02-019",
+        "img_url": "../images/cardlist/card/OP02-019.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-019.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP02",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP02-023_r1",
@@ -110,8 +210,8 @@
     "name": "バカな息子をそれでも愛そう…",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP02-023_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-023_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP02-023_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-023_r1.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -127,7 +227,16 @@
     "effect": "【メイン】自分のライフが3以下の場合、自分は、このターン中、自分の効果でライフを手札に加えられない。",
     "trigger": "【トリガー】自分のリーダー1枚までを、このターン中、パワー+1000。",
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP02-023",
+        "img_url": "../images/cardlist/card/OP02-023.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP02-023.png?260408",
+        "rarity": "Common",
+        "set_id": "OP02",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-003_r1",
@@ -135,8 +244,8 @@
     "name": "イゾウ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-003_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-003_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003_r1.png?260408",
     "cost": 1,
     "attributes": [
       "Ranged"
@@ -154,7 +263,56 @@
     "effect": "【登場時】自分のデッキの上から5枚を見て、「イゾウ」以外の『白ひげ海賊団』を含む特徴を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-003",
+        "img_url": "../images/cardlist/card/OP03-003.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": null
+      },
+      {
+        "id": "OP03-003_p1",
+        "img_url": "../images/cardlist/card/OP03-003_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003_p1.png?260408",
+        "rarity": "Special",
+        "set_id": "OP07",
+        "set_label": null
+      },
+      {
+        "id": "OP03-003_p3",
+        "img_url": "../images/cardlist/card/OP03-003_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003_p3.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-003_p4",
+        "img_url": "../images/cardlist/card/OP03-003_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003_p4.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-003_p5",
+        "img_url": "../images/cardlist/card/OP03-003_p5.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003_p5.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP03-003_r2",
+        "img_url": "../images/cardlist/card/OP03-003_r2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-003_r2.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-006_r1",
@@ -162,8 +320,8 @@
     "name": "スピード・ジル",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-006_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-006_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-006_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-006_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -180,7 +338,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-006",
+        "img_url": "../images/cardlist/card/OP03-006.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-006.png?260408",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-007_r1",
@@ -188,8 +355,8 @@
     "name": "ナミュール",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-007_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-007_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-007_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-007_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -207,7 +374,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-007",
+        "img_url": "../images/cardlist/card/OP03-007.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-007.png?260408",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-009_r1",
@@ -215,8 +391,8 @@
     "name": "ハルタ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-009_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-009_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-009_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-009_r1.png?260408",
     "cost": 2,
     "attributes": [
       "Slash"
@@ -233,7 +409,16 @@
     "effect": "【起動メイン】【ターン1回】自分のリーダーかキャラ1枚にレストのドン‼1枚までを、付与する。",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-009",
+        "img_url": "../images/cardlist/card/OP03-009.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-009.png?260408",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP03-010_r1",
@@ -241,8 +426,8 @@
     "name": "フォッサ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-010_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-010_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP03-010_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-010_r1.png?260408",
     "cost": 2,
     "attributes": [
       "Slash"
@@ -259,7 +444,16 @@
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
     "trigger": null,
     "tile_set_id": "ST15",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-010",
+        "img_url": "../images/cardlist/card/OP03-010.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP03-010.png?260408",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST15-001",
@@ -267,8 +461,8 @@
     "name": "アトモス",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST15-001.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-001.png?2602273",
+    "img_url": "../images/cardlist/card/ST15-001.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-001.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -293,8 +487,8 @@
     "name": "エドワード・ニューゲート",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST15-002.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002.png?2602273",
+    "img_url": "../images/cardlist/card/ST15-002.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002.png?260408",
     "cost": 7,
     "attributes": [
       "Special"
@@ -315,24 +509,24 @@
     "variants": [
       {
         "id": "ST15-002_p2",
-        "img_url": "../images/cardlist/card/ST15-002_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p2.png?2602273",
+        "img_url": "../images/cardlist/card/ST15-002_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p2.png?260408",
         "rarity": "SuperRare",
         "set_id": null,
         "set_label": null
       },
       {
         "id": "ST15-002_r1",
-        "img_url": "../images/cardlist/card/ST15-002_r1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_r1.png?2602273",
+        "img_url": "../images/cardlist/card/ST15-002_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_r1.png?260408",
         "rarity": "SuperRare",
         "set_id": null,
         "set_label": null
       },
       {
         "id": "ST15-002_p1",
-        "img_url": "../images/cardlist/card/ST15-002_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png?2602273",
+        "img_url": "../images/cardlist/card/ST15-002_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png?260408",
         "rarity": "Special",
         "set_id": "OP10",
         "set_label": null
@@ -345,8 +539,8 @@
     "name": "キングデュー",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST15-003.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-003.png?2602273",
+    "img_url": "../images/cardlist/card/ST15-003.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-003.png?260408",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -371,8 +565,8 @@
     "name": "サッチ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST15-004.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-004.png?2602273",
+    "img_url": "../images/cardlist/card/ST15-004.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-004.png?260408",
     "cost": 1,
     "attributes": [
       "Slash"
@@ -397,8 +591,8 @@
     "name": "ポートガス・D・エース",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST15-005.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-005.png?2602273",
+    "img_url": "../images/cardlist/card/ST15-005.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST15-005.png?260408",
     "cost": 5,
     "attributes": [
       "Special"

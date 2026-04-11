@@ -5,8 +5,8 @@
     "name": "バギー",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-042_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-042_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -24,7 +24,32 @@
     "effect": "【起動メイン】自分のドン‼5枚をレストにし、自分の手札1枚を捨てることができる：自分の手札から特徴《クロスギルド》を持つキャラカード1枚までを、登場させる。",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-042",
+        "img_url": "../images/cardlist/card/OP09-042.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-042_p1",
+        "img_url": "../images/cardlist/card/OP09-042_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p1.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-042_p3",
+        "img_url": "../images/cardlist/card/OP09-042_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-042_p3.png?260408",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-043_r1",
@@ -32,8 +57,8 @@
     "name": "アルビダ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-043_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-043_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -50,7 +75,24 @@
     "effect": "【KO時】自分のリーダーが特徴《クロスギルド》を持つ場合、自分の手札から「アルビダ」以外のコスト5以下のキャラカード1枚までを、登場させる。",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-043",
+        "img_url": "../images/cardlist/card/OP09-043.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-043_p1",
+        "img_url": "../images/cardlist/card/OP09-043_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-043_p1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP09-045_r1",
@@ -58,8 +100,8 @@
     "name": "カバジ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-045_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-045_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -76,7 +118,16 @@
     "effect": "自分のキャラの、「バギー」か「モージ」がいる場合、このキャラはバトルでKOされない。",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-045",
+        "img_url": "../images/cardlist/card/OP09-045.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-045.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-051_r1",
@@ -84,8 +135,8 @@
     "name": "バギー",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-051_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-051_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png?260408",
     "cost": 10,
     "attributes": [
       "Slash"
@@ -103,7 +154,64 @@
     "effect": "【登場時】相手のキャラ1枚までを、持ち主のデッキの下に置く。その後、自分のコスト5以上のキャラが5枚いない場合、このキャラを持ち主のデッキの下に置く。",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-051",
+        "img_url": "../images/cardlist/card/OP09-051.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-051_p1",
+        "img_url": "../images/cardlist/card/OP09-051_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-051_p2",
+        "img_url": "../images/cardlist/card/OP09-051_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p2.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-051_p3",
+        "img_url": "../images/cardlist/card/OP09-051_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p3.png?260408",
+        "rarity": "Special",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-051_p5",
+        "img_url": "../images/cardlist/card/OP09-051_p5.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?260408",
+        "rarity": "Special",
+        "set_id": "OP14",
+        "set_label": null
+      },
+      {
+        "id": "OP09-051_p6",
+        "img_url": "../images/cardlist/card/OP09-051_p6.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p6.png?260408",
+        "rarity": "Special",
+        "set_id": "OP14",
+        "set_label": null
+      },
+      {
+        "id": "OP09-051_p4",
+        "img_url": "../images/cardlist/card/OP09-051_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-053_r1",
@@ -111,8 +219,8 @@
     "name": "モージ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-053_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-053_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -129,7 +237,16 @@
     "effect": "【登場時】自分のデッキの上から5枚を見て、「リッチー」1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置き、自分の手札から「リッチー」1枚までを、登場させる。",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-053",
+        "img_url": "../images/cardlist/card/OP09-053.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-053.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-054_r1",
@@ -137,8 +254,8 @@
     "name": "リッチー",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-054_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-054_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png?260408",
     "cost": 2,
     "attributes": [
       "Strike"
@@ -156,7 +273,16 @@
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-054",
+        "img_url": "../images/cardlist/card/OP09-054.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-054.png?260408",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-055_r1",
@@ -164,8 +290,8 @@
     "name": "Mr.1(ダズ・ボーネス)",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-055_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-055_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -183,7 +309,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-055",
+        "img_url": "../images/cardlist/card/OP09-055.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-055.png?260408",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-056_r1",
@@ -191,8 +326,8 @@
     "name": "Mr.3(ギャルディーノ)",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-056_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-056_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png?260408",
     "cost": 1,
     "attributes": [
       "Special"
@@ -210,7 +345,32 @@
     "effect": "【登場時】自分のデッキの上から4枚を見て、「Mr.3(ギャルディーノ)」以外の、特徴《クロスギルド》か『B・W』を含む特徴を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-056",
+        "img_url": "../images/cardlist/card/OP09-056.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-056_p1",
+        "img_url": "../images/cardlist/card/OP09-056_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-056_r2",
+        "img_url": "../images/cardlist/card/OP09-056_r2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-056_r2.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-057_p1",
@@ -218,8 +378,8 @@
     "name": "クロスギルド",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-057_p1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-057_p1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -234,7 +394,32 @@
     "effect": "【メイン】自分のデッキの上から4枚を見て、特徴《クロスギルド》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": "【トリガー】このカードの【メイン】効果を発動する。",
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-057",
+        "img_url": "../images/cardlist/card/OP09-057.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-057_r1",
+        "img_url": "../images/cardlist/card/OP09-057_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_r1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-057_p2",
+        "img_url": "../images/cardlist/card/OP09-057_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-057_p2.png?260408",
+        "rarity": "Special",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "P-084_r1",
@@ -242,8 +427,8 @@
     "name": "バギー",
     "rarity": "Promo",
     "category": "Character",
-    "img_url": "../images/cardlist/card/P-084_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png?2602273",
+    "img_url": "../images/cardlist/card/P-084_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png?260408",
     "cost": 7,
     "attributes": [
       "Slash"
@@ -261,7 +446,16 @@
     "effect": "このキャラはアタックできない。<br>自分のリーダーが「バギー」の場合、コスト3と4のキャラすべては、アタックできない。<br>【登場時】自分の手札からコスト6以下の特徴《クロスギルド》を持つキャラカード1枚までを、登場させる。",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "P-084",
+        "img_url": "../images/cardlist/card/P-084.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/P-084.png?260408",
+        "rarity": "Promo",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "ST25-001",
@@ -269,8 +463,8 @@
     "name": "アルビダ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-001.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-001.png?2602273",
+    "img_url": "../images/cardlist/card/ST25-001.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-001.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -295,8 +489,8 @@
     "name": "カバジ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-002.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-002.png?2602273",
+    "img_url": "../images/cardlist/card/ST25-002.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-002.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -321,8 +515,8 @@
     "name": "クロコダイル＆ミホーク",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-003.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-003.png?2602273",
+    "img_url": "../images/cardlist/card/ST25-003.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-003.png?260408",
     "cost": 8,
     "attributes": [
       "Slash",
@@ -349,8 +543,8 @@
     "name": "バギー",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-004.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-004.png?2602273",
+    "img_url": "../images/cardlist/card/ST25-004.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-004.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -376,8 +570,8 @@
     "name": "モージ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-005.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-005.png?2602273",
+    "img_url": "../images/cardlist/card/ST25-005.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST25-005.png?260408",
     "cost": 4,
     "attributes": [
       "Wisdom"

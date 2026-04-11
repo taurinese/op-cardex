@@ -5,17 +5,18 @@
     "name": "Baggy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-042_p2.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-042_p2.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Cross Guild"
@@ -23,7 +24,24 @@
     "effect": "[Activation&nbsp;: Principale] Vous pouvez épuiser 5 de vos cartes DON!! et défausser 1 carte de votre main&nbsp;: Jouez jusqu'à 1 carte Personnage de type {Cross Guild} de votre main.",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-042",
+        "img_url": "../images/cardlist/card/OP09-042.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-042.webp?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-042_p1",
+        "img_url": "../images/cardlist/card/OP09-042_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-042_p1.webp?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-043_r1",
@@ -31,24 +49,34 @@
     "name": "Alvida",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-043_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-043_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
     "effect": "[En cas de KO] Si votre Leader est de type {Cross Guild}, jouez jusqu'à 1 carte Personnage de votre main ayant un coût de 5 ou moins autre que [Alvida].",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-043",
+        "img_url": "../images/cardlist/card/OP09-043.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-043.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-045_r1",
@@ -56,24 +84,34 @@
     "name": "Cabaji",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-045_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-045_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
     "effect": "Si vous avez un Personnage [Baggy] ou [Morge], ce Personnage ne peut pas être mis KO en combat.",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-045",
+        "img_url": "../images/cardlist/card/OP09-045.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-045.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-051_r1",
@@ -81,17 +119,18 @@
     "name": "Baggy",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-051_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-051_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.webp?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Cross Guild"
@@ -99,7 +138,56 @@
     "effect": "[Jouée] Placez jusqu'à 1 Personnage adverse au-dessous du deck de son propriétaire. Puis, si vous n'avez pas 5 Personnages ayant un coût de 5 ou plus, placez ce Personnage au-dessous du deck de son propriétaire.",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-051",
+        "img_url": "../images/cardlist/card/OP09-051.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-051_p1",
+        "img_url": "../images/cardlist/card/OP09-051_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p1.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-051_p2",
+        "img_url": "../images/cardlist/card/OP09-051_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p2.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-051_p3",
+        "img_url": "../images/cardlist/card/OP09-051_p3.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p3.webp?260410",
+        "rarity": "Special",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-051_p4",
+        "img_url": "../images/cardlist/card/OP09-051_p4.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.webp?260410",
+        "rarity": "Special",
+        "set_id": "OP14EB04",
+        "set_label": "OP14-EB04"
+      },
+      {
+        "id": "OP09-051_p5",
+        "img_url": "../images/cardlist/card/OP09-051_p5.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.webp?260410",
+        "rarity": "Special",
+        "set_id": "OP14EB04",
+        "set_label": "OP14-EB04"
+      }
+    ]
   },
   {
     "id": "OP09-053_r1",
@@ -107,24 +195,34 @@
     "name": "Morge",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-053_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-053_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.webp?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
     "effect": "[Jouée] Regardez 5 cartes du dessus de votre deck, révélez jusqu'à 1 [Richie] et ajoutez-le à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix et jouez jusqu'à 1 [Richie] de votre main.",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-053",
+        "img_url": "../images/cardlist/card/OP09-053.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-053.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-054_r1",
@@ -132,17 +230,18 @@
     "name": "Richie",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-054_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-054_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.webp?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Cross Guild"
@@ -150,7 +249,16 @@
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-054",
+        "img_url": "../images/cardlist/card/OP09-054.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-054.webp?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-055_r1",
@@ -158,17 +266,18 @@
     "name": "Mr 1 (Das Bones)",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-055_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-055_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild",
       "Ex-Baroque Works"
@@ -176,7 +285,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-055",
+        "img_url": "../images/cardlist/card/OP09-055.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-055.webp?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-056_r1",
@@ -184,17 +302,18 @@
     "name": "Mr 3 (Galdino)",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-056_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-056_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.webp?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild",
       "Ex-Baroque Works"
@@ -202,7 +321,32 @@
     "effect": "[Jouée] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} ou incluant «Baroque Works» dans son type autre que [Mr 3 (Galdino)] et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": null,
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-056",
+        "img_url": "../images/cardlist/card/OP09-056.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-056.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-056_p1",
+        "img_url": "../images/cardlist/card/OP09-056_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-056_p1.webp?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-056_r2",
+        "img_url": "../images/cardlist/card/OP09-056_r2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-056_r2.webp?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP09-057_p1",
@@ -210,22 +354,48 @@
     "name": "Cross Guild",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-057_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-057_p1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
     "effect": "[Principale] Regardez 4 cartes du dessus de votre deck, révélez jusqu'à 1 carte de type {Cross Guild} et ajoutez-la à votre main. Puis, placez les cartes restantes au-dessous de votre deck dans l'ordre de votre choix.",
     "trigger": "[Déclenchement] Activez l'effet [Principale] de cette carte.",
     "tile_set_id": "ST25",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-057",
+        "img_url": "../images/cardlist/card/OP09-057.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-057.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-057_p2",
+        "img_url": "../images/cardlist/card/OP09-057_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-057_p2.webp?260410",
+        "rarity": "Special",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-057_r1",
+        "img_url": "../images/cardlist/card/OP09-057_r1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-057_r1.webp?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "P-084",
@@ -233,17 +403,18 @@
     "name": "Baggy",
     "rarity": "Promo",
     "category": "Character",
-    "img_url": "../images/cardlist/card/P-084.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-084.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/P-084.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/P-084.webp?260410",
     "cost": 7,
     "attributes": [
       "Slash"
     ],
     "power": 8000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Cross Guild"
@@ -259,17 +430,18 @@
     "name": "Alvida",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-001.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-001.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST25-001.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-001.webp?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -284,17 +456,18 @@
     "name": "Cabaji",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-002.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-002.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST25-002.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-002.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 1000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -309,11 +482,8 @@
     "name": "Crocodile et Mihawk",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-003.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-003.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST25-003.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-003.webp?260410",
     "cost": 8,
     "attributes": [
       "Slash",
@@ -321,6 +491,10 @@
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild",
       "Ex-Baroque Works"
@@ -336,17 +510,18 @@
     "name": "Baggy",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-004.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-004.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST25-004.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-004.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Cross Guild"
@@ -362,17 +537,18 @@
     "name": "Morge",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST25-005.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-005.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST25-005.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST25-005.webp?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
     ],
     "power": 1000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],

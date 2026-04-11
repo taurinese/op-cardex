@@ -5,8 +5,8 @@
     "name": "サン五郎",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-065_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-065_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP05-065_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-065_r1.png?260408",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -23,7 +23,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-065",
+        "img_url": "../images/cardlist/card/OP05-065.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-065.png?260408",
+        "rarity": "Common",
+        "set_id": "OP05",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP05-066_r2",
@@ -31,8 +40,8 @@
     "name": "ジンベエ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-066_r2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-066_r2.png?2602273",
+    "img_url": "../images/cardlist/card/OP05-066_r2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-066_r2.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -50,7 +59,24 @@
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)<br>【相手のターン中】自分の場にドン‼が10枚ある場合、このキャラはパワー+1000。",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-066",
+        "img_url": "../images/cardlist/card/OP05-066.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-066.png?260408",
+        "rarity": "Common",
+        "set_id": "OP05",
+        "set_label": null
+      },
+      {
+        "id": "OP05-066_r1",
+        "img_url": "../images/cardlist/card/OP05-066_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-066_r1.png?260408",
+        "rarity": "Common",
+        "set_id": "ST18",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP05-070_r2",
@@ -58,8 +84,8 @@
     "name": "フラの介",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-070_r2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-070_r2.png?2602273",
+    "img_url": "../images/cardlist/card/OP05-070_r2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-070_r2.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -76,7 +102,24 @@
     "effect": "【ドン‼×1】自分の場にドン‼が8枚以上ある場合、このキャラは【速攻】を得る。<br>(このカードは登場したターンにアタックできる)",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-070",
+        "img_url": "../images/cardlist/card/OP05-070.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-070.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP05",
+        "set_label": null
+      },
+      {
+        "id": "OP05-070_r1",
+        "img_url": "../images/cardlist/card/OP05-070_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP05-070_r1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "ST18",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-061_p2",
@@ -84,8 +127,8 @@
     "name": "モンキー・Ｄ・ルフィ",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-061_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-061_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -104,7 +147,32 @@
     "effect": "【ドン‼×1】自分のキャラすべてを、コスト+1。<br>【自分のターン中】【ターン1回】自分の場のドン!!が2枚以上ドン!!デッキに戻された時、ドン!!デッキから、ドン!!1枚までをアクティブで追加し、さらに1枚までをレストで追加する。",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-061",
+        "img_url": "../images/cardlist/card/OP09-061.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-061_p1",
+        "img_url": "../images/cardlist/card/OP09-061_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-061_p3",
+        "img_url": "../images/cardlist/card/OP09-061_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-061_p3.png?260408",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-063_r1",
@@ -112,8 +180,8 @@
     "name": "ウソップ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-063_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-063_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Ranged"
@@ -130,7 +198,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-063",
+        "img_url": "../images/cardlist/card/OP09-063.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-063.png?260408",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-070_r1",
@@ -138,8 +215,8 @@
     "name": "ナミ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-070_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-070_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Special"
@@ -156,7 +233,24 @@
     "effect": "【登場時】自分の場のドン‼を1枚以上ドン‼デッキに戻すことができる：自分のリーダーかキャラ1枚にレストのドン!!2枚までを、付与する。",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-070",
+        "img_url": "../images/cardlist/card/OP09-070.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-070.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-070_p1",
+        "img_url": "../images/cardlist/card/OP09-070_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-070_p1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-076_r1",
@@ -164,8 +258,8 @@
     "name": "ロロノア・ゾロ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-076_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-076_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -182,7 +276,40 @@
     "effect": "【登場時】自分の場のドン‼を1枚以上ドン‼デッキに戻すことができる：ドン‼デッキからドン‼1枚までを、アクティブで追加する。",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-076",
+        "img_url": "../images/cardlist/card/OP09-076.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-076_p1",
+        "img_url": "../images/cardlist/card/OP09-076_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-076_r2",
+        "img_url": "../images/cardlist/card/OP09-076_r2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_r2.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-076_p2",
+        "img_url": "../images/cardlist/card/OP09-076_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-076_p2.png?260408",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP09-077_r1",
@@ -190,8 +317,8 @@
     "name": "ゴムゴムの雷",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-077_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-077_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.png?260408",
     "cost": 2,
     "attributes": [],
     "power": null,
@@ -207,7 +334,40 @@
     "effect": "【メイン】ドン!!-2(自分の場のドン!!を指定の数ドン!!デッキに戻すことができる)：相手のパワー6000以下のキャラ1枚までを、KOする。",
     "trigger": "【トリガー】ドン!!デッキからドン!!1枚までを、アクティブで追加する。",
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-077",
+        "img_url": "../images/cardlist/card/OP09-077.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-077_p1",
+        "img_url": "../images/cardlist/card/OP09-077_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_p1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-077_r2",
+        "img_url": "../images/cardlist/card/OP09-077_r2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_r2.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-077_p2",
+        "img_url": "../images/cardlist/card/OP09-077_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-077_p2.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-078_p1",
@@ -215,8 +375,8 @@
     "name": "ゴムゴムの巨人",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-078_p1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-078_p1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -232,7 +392,32 @@
     "effect": "【カウンター】ドン!!-2,自分の手札1枚を捨てることができる：自分のリーダーが特徴《麦わらの一味》を持つ場合、自分のリーダーかキャラ1枚までを、このバトル中、パワー+4000。その後、カード2枚を引く。",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-078",
+        "img_url": "../images/cardlist/card/OP09-078.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-078_r1",
+        "img_url": "../images/cardlist/card/OP09-078_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_r1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-078_p2",
+        "img_url": "../images/cardlist/card/OP09-078_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-078_p2.png?260408",
+        "rarity": "Special",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST14-010_r1",
@@ -240,8 +425,8 @@
     "name": "ブルック",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-010_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png?2602273",
+    "img_url": "../images/cardlist/card/ST14-010_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -258,7 +443,32 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST14-010",
+        "img_url": "../images/cardlist/card/ST14-010.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010.png?260408",
+        "rarity": "Common",
+        "set_id": "ST14",
+        "set_label": null
+      },
+      {
+        "id": "ST14-010_p1",
+        "img_url": "../images/cardlist/card/ST14-010_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.png?260408",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "ST14-010_r2",
+        "img_url": "../images/cardlist/card/ST14-010_r2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.png?260408",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST26-001",
@@ -266,8 +476,8 @@
     "name": "おそばマスク",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-001.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-001.png?2602273",
+    "img_url": "../images/cardlist/card/ST26-001.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-001.png?260408",
     "cost": 7,
     "attributes": [
       "Strike"
@@ -292,8 +502,8 @@
     "name": "トニートニー・チョッパー",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-002.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-002.png?2602273",
+    "img_url": "../images/cardlist/card/ST26-002.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-002.png?260408",
     "cost": 3,
     "attributes": [
       "Wisdom"
@@ -319,8 +529,8 @@
     "name": "ニコ・ロビン",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-003.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-003.png?2602273",
+    "img_url": "../images/cardlist/card/ST26-003.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-003.png?260408",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -345,8 +555,8 @@
     "name": "フランキー将軍",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-004.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-004.png?2602273",
+    "img_url": "../images/cardlist/card/ST26-004.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-004.png?260408",
     "cost": 8,
     "attributes": [
       "Ranged"
@@ -371,8 +581,8 @@
     "name": "モンキー・Ｄ・ルフィ",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-005.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-005.png?2602273",
+    "img_url": "../images/cardlist/card/ST26-005.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-005.png?260408",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -392,8 +602,8 @@
     "variants": [
       {
         "id": "ST26-005_p1",
-        "img_url": "../images/cardlist/card/ST26-005_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.png?2602273",
+        "img_url": "../images/cardlist/card/ST26-005_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.png?260408",
         "rarity": "Special",
         "set_id": "OP15",
         "set_label": null

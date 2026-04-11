@@ -5,17 +5,18 @@
     "name": "Ace et Newgate",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/ST22-001.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-001.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-001.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-001.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Barbe Blanche"
@@ -26,8 +27,8 @@
     "variants": [
       {
         "id": "ST22-001_p1",
-        "img_url": "../images/cardlist/card/ST22-001_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-001_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-001_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-001_p1.webp?260410",
         "rarity": "Leader"
       }
     ]
@@ -38,17 +39,18 @@
     "name": "Izo",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-002.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-002.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-002.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-002.webp?260410",
     "cost": 1,
     "attributes": [
       "Ranged"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Pays de Wano",
       "Équipage de Barbe Blanche"
@@ -59,8 +61,8 @@
     "variants": [
       {
         "id": "ST22-002_p1",
-        "img_url": "../images/cardlist/card/ST22-002_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-002_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-002_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-002_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -71,17 +73,18 @@
     "name": "Edward Newgate",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-003.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-003.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-003.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-003.webp?260410",
     "cost": 9,
     "attributes": [
       "Special"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Barbe Blanche"
@@ -92,8 +95,8 @@
     "variants": [
       {
         "id": "ST22-003_p1",
-        "img_url": "../images/cardlist/card/ST22-003_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-003_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-003_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-003_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -104,17 +107,18 @@
     "name": "Elmy",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-004.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-004.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-004.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-004.webp?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Alliés de l'équipage de Barbe Blanche"
     ],
@@ -124,8 +128,8 @@
     "variants": [
       {
         "id": "ST22-004_p1",
-        "img_url": "../images/cardlist/card/ST22-004_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-004_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-004_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-004_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -136,17 +140,18 @@
     "name": "Oden Kozuki",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-005.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-005.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-005.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-005.webp?260410",
     "cost": 7,
     "attributes": [
       "Slash"
     ],
     "power": 8000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Pays de Wano",
       "Clan Kozuki",
@@ -158,8 +163,8 @@
     "variants": [
       {
         "id": "ST22-005_p1",
-        "img_url": "../images/cardlist/card/ST22-005_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-005_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-005_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-005_p1.webp?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -170,17 +175,18 @@
     "name": "Joz",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-006.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-006.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-006.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-006.webp?260410",
     "cost": 7,
     "attributes": [
       "Strike"
     ],
     "power": 8000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -190,8 +196,8 @@
     "variants": [
       {
         "id": "ST22-006_p1",
-        "img_url": "../images/cardlist/card/ST22-006_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-006_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-006_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-006_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -202,17 +208,18 @@
     "name": "Squardo",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-007.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-007.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-007.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-007.webp?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Alliés de l'équipage de Barbe Blanche"
     ],
@@ -222,8 +229,8 @@
     "variants": [
       {
         "id": "ST22-007_p1",
-        "img_url": "../images/cardlist/card/ST22-007_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-007_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-007_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-007_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -234,17 +241,18 @@
     "name": "Les frères Decalvan",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-008.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-008.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-008.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-008.webp?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Alliés de l'équipage de Barbe Blanche"
     ],
@@ -254,8 +262,8 @@
     "variants": [
       {
         "id": "ST22-008_p1",
-        "img_url": "../images/cardlist/card/ST22-008_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-008_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-008_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-008_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -266,17 +274,18 @@
     "name": "Vista",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-009.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-009.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-009.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-009.webp?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 1000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -286,8 +295,8 @@
     "variants": [
       {
         "id": "ST22-009_p1",
-        "img_url": "../images/cardlist/card/ST22-009_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-009_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-009_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-009_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -298,17 +307,18 @@
     "name": "Portgas D. Ace",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-010.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-010.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-010.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-010.webp?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -318,8 +328,8 @@
     "variants": [
       {
         "id": "ST22-010_p1",
-        "img_url": "../images/cardlist/card/ST22-010_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-010_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-010_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-010_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -330,17 +340,18 @@
     "name": "Whitey Bay",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-011.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-011.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-011.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-011.webp?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 1000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -350,8 +361,8 @@
     "variants": [
       {
         "id": "ST22-011_p1",
-        "img_url": "../images/cardlist/card/ST22-011_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-011_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-011_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-011_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -362,17 +373,18 @@
     "name": "Marco",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-012.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-012.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-012.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-012.webp?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -382,8 +394,8 @@
     "variants": [
       {
         "id": "ST22-012_p1",
-        "img_url": "../images/cardlist/card/ST22-012_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-012_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-012_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-012_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -394,17 +406,18 @@
     "name": "Little Oz Junior",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-013.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-013.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-013.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-013.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Géants",
       "Alliés de l'équipage de Barbe Blanche"
@@ -415,8 +428,8 @@
     "variants": [
       {
         "id": "ST22-013_p1",
-        "img_url": "../images/cardlist/card/ST22-013_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-013_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-013_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-013_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -427,17 +440,18 @@
     "name": "A.O",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST22-014.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-014.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-014.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-014.webp?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Alliés de l'équipage de Barbe Blanche"
     ],
@@ -447,8 +461,8 @@
     "variants": [
       {
         "id": "ST22-014_p1",
-        "img_url": "../images/cardlist/card/ST22-014_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-014_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST22-014_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-014_p1.webp?260410",
         "rarity": "Common"
       }
     ]
@@ -459,15 +473,16 @@
     "name": "Je suis \"Barbe Blanche\"&nbsp;!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST22-015.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-015.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-015.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-015.webp?260410",
     "cost": 8,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Barbe Blanche"
@@ -483,15 +498,16 @@
     "name": "Retire immédiatement... ce que tu viens de dire&nbsp;!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST22-016.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-016.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-016.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-016.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Barbe Blanche"
     ],
@@ -506,15 +522,16 @@
     "name": "Poing ardent",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST22-017.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-017.webp?251024",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/ST22-017.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST22-017.webp?260410",
     "cost": 5,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Barbe Blanche"
     ],

@@ -5,17 +5,18 @@
     "name": "Sangoro",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-065.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-065.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP05-065.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-065.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 8000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 2,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -30,17 +31,18 @@
     "name": "Jinbe",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-066_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-066_r1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP05-066_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-066_r1.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 2,
     "types": [
       "Hommes-poissons",
       "Équipage de Chapeau de paille"
@@ -48,7 +50,16 @@
     "effect": "[Bloqueur] (Après que votre adversaire a déclaré une attaque, vous pouvez épuiser cette carte pour qu'elle devienne la cible de l'attaque.)<br>[Tour adverse] Si vous avez 10 cartes DON!! sur votre terrain, ce Personnage gagne +1000 de puissance.",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-066_p1",
+        "img_url": "../images/cardlist/card/OP05-066_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-066_p1.webp?260410",
+        "rarity": "Common",
+        "set_id": "ST18",
+        "set_label": "ST-18"
+      }
+    ]
   },
   {
     "id": "OP05-070_r1",
@@ -56,24 +67,34 @@
     "name": "Fransuké",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-070_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-070_r1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP05-070_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-070_r1.webp?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 2,
     "types": [
       "Équipage de Chapeau de paille"
     ],
     "effect": "[DON!!&nbsp;x1] Si vous avez 8 cartes DON!! ou plus sur votre terrain, ce Personnage gagne [Initiative].<br>(Cette carte peut attaquer durant le tour où elle est jouée.)",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-070_p1",
+        "img_url": "../images/cardlist/card/OP05-070_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP05-070_p1.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "ST18",
+        "set_label": "ST-18"
+      }
+    ]
   },
   {
     "id": "OP09-061_p2",
@@ -81,18 +102,19 @@
     "name": "Monkey D. Luffy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-061_p2.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.webp?251024",
-    "colors": [
-      "Purple",
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-061_p2.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.webp?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Purple",
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Chapeau de paille"
@@ -100,7 +122,24 @@
     "effect": "[DON!!&nbsp;x1] Augmentez de +1 le coût de tous vos Personnages.<br>[Votre tour] [Une fois par tour] Quand 2 cartes DON!! ou plus de votre terrain sont renvoyées à votre deck DON!!, ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!! et ajoutez jusqu'à 1 carte épuisée en plus.",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-061",
+        "img_url": "../images/cardlist/card/OP09-061.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-061.webp?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-061_p1",
+        "img_url": "../images/cardlist/card/OP09-061_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.webp?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-063_r1",
@@ -108,24 +147,34 @@
     "name": "Usopp",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-063_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-063_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.webp?260410",
     "cost": 4,
     "attributes": [
       "Ranged"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-063",
+        "img_url": "../images/cardlist/card/OP09-063.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-063.webp?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-070_r1",
@@ -133,24 +182,34 @@
     "name": "Nami",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-070_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-070_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.webp?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Donnez jusqu'à 2 cartes DON!! épuisées à votre Leader ou à 1 de vos Personnages.",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-070",
+        "img_url": "../images/cardlist/card/OP09-070.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-070.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-076_r1",
@@ -158,24 +217,50 @@
     "name": "Roronoa Zoro",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-076_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-076_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.webp?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
     "effect": "[Jouée] Vous pouvez renvoyer à votre deck DON!! 1 carte DON!! ou plus de votre terrain&nbsp;: Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-076",
+        "img_url": "../images/cardlist/card/OP09-076.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-076.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-076_p1",
+        "img_url": "../images/cardlist/card/OP09-076_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-076_p1.webp?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-076_r2",
+        "img_url": "../images/cardlist/card/OP09-076_r2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-076_r2.webp?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP09-077_r1",
@@ -183,15 +268,16 @@
     "name": "Gum Gum Foudre",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-077_r1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-077_r1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.webp?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Chapeau de paille"
@@ -199,7 +285,32 @@
     "effect": "[Principale] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Mettez KO jusqu'à 1 Personnage adverse ayant 6000 de puissance ou moins.",
     "trigger": "[Déclenchement] Ajoutez jusqu'à 1 carte DON!! redressée de votre deck DON!!.",
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-077",
+        "img_url": "../images/cardlist/card/OP09-077.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-077.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-077_p1",
+        "img_url": "../images/cardlist/card/OP09-077_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-077_p1.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-077_r2",
+        "img_url": "../images/cardlist/card/OP09-077_r2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-077_r2.webp?260410",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP09-078_p1",
@@ -207,15 +318,16 @@
     "name": "Gum Gum Gigant",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-078_p1.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-078_p1.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.webp?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Quatre Empereurs",
       "Équipage de Chapeau de paille"
@@ -223,7 +335,32 @@
     "effect": "[Contre] DON!!&nbsp;-2&nbsp;; vous pouvez défausser 1 carte de votre main&nbsp;: Si votre Leader est de type {Équipage de Chapeau de paille}, jusqu'à 1 de vos Leaders ou Personnages gagne +4000 de puissance pour tout le combat. Puis, piochez 2 cartes.",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-078",
+        "img_url": "../images/cardlist/card/OP09-078.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-078.webp?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-078_p2",
+        "img_url": "../images/cardlist/card/OP09-078_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-078_p2.webp?260410",
+        "rarity": "Special",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-078_r1",
+        "img_url": "../images/cardlist/card/OP09-078_r1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/OP09-078_r1.webp?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "ST14-010",
@@ -231,17 +368,18 @@
     "name": "Brook",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST14-010.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST14-010.webp?251024",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST14-010.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST14-010.webp?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -251,19 +389,27 @@
     "variants": [
       {
         "id": "ST14-010_p1",
-        "img_url": "../images/cardlist/card/ST14-010_p1.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.webp?251024",
+        "img_url": "../images/cardlist/card/ST14-010_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST14-010_p1.webp?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST14-010_r2",
-        "img_url": "../images/cardlist/card/ST14-010_r2.webp?251024",
-        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.webp?251024",
+        "img_url": "../images/cardlist/card/ST14-010_r2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST14-010_r2.webp?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
+      },
+      {
+        "id": "ST14-010_p2",
+        "img_url": "../images/cardlist/card/ST14-010_p2.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST14-010_p2.webp?260410",
+        "rarity": "Common",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -273,17 +419,18 @@
     "name": "O-Soba Mask",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-001.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-001.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/ST26-001.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-001.webp?260410",
     "cost": 7,
     "attributes": [
       "Strike"
     ],
     "power": 9000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -298,17 +445,18 @@
     "name": "Tony-Tony Chopper",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-002.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-002.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/ST26-002.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-002.webp?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Équipage de Chapeau de paille"
@@ -324,17 +472,18 @@
     "name": "Nico Robin",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-003.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-003.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/ST26-003.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-003.webp?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -349,17 +498,18 @@
     "name": "Général Franky",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-004.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-004.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/ST26-004.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-004.webp?260410",
     "cost": 8,
     "attributes": [
       "Ranged"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
@@ -374,23 +524,33 @@
     "name": "Monkey D. Luffy",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST26-005.webp?251024",
-    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-005.webp?251024",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/ST26-005.webp?260410",
+    "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-005.webp?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Équipage de Chapeau de paille"
     ],
     "effect": "[Jouée]/[En attaquant] DON!!&nbsp;-2 (Vous pouvez renvoyer à votre deck DON!! le nombre indiqué de cartes DON!! de votre terrain.)&nbsp;: Si votre Leader est multicolore et que votre adversaire a 5 cartes DON!! ou plus sur son terrain, passez à 7000 la puissance de base de votre Leader de type {Équipage de Chapeau de paille} jusqu'à la fin de la prochaine phase de Fin de votre adversaire.",
     "trigger": null,
     "tile_set_id": "ST26",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST26-005_p1",
+        "img_url": "../images/cardlist/card/ST26-005_p1.webp?260410",
+        "img_full_url": "https://fr.onepiece-cardgame.com/images/cardlist/card/ST26-005_p1.webp?260410",
+        "rarity": "Special",
+        "set_id": "OP15EB04",
+        "set_label": "OP15-EB04"
+      }
+    ]
   }
 ]

@@ -38,12 +38,18 @@ const RARITY_CLASS: Record<string, string> = {
   Promo: "bg-cyan-400/15 text-cyan-400",
 }
 
+function isVariantId(id: string) {
+  return /_[pr]\d+$/.test(id)
+}
+
 function getVersions(card: Card) {
   return [
     { id: card.id, label: "Base", setLabel: undefined as string | undefined },
     ...card.variants.map((v, i) => ({
       id: v.id,
-      label: v.set_id !== undefined ? `Para` : `Variante ${i + 1}`,
+      label: v.set_id !== undefined
+        ? (isVariantId(v.id) ? "Para" : "Base d'origine")
+        : `Variante ${i + 1}`,
       setLabel: v.set_id !== undefined ? (v.set_label ?? "PROMO") : undefined,
     })),
   ]
@@ -115,12 +121,20 @@ export function CardModal({ card, lang = "en", initialVersionIndex = 0, onClose 
               {/* Right — card details */}
               <div className="flex flex-1 flex-col gap-5 overflow-y-auto p-6">
                 <div>
+                  {(() => {
+                    const currentRarity = versionIndex === 0
+                      ? card.rarity
+                      : (card.variants[versionIndex - 1]?.rarity ?? card.rarity)
+                    const currentCardId = versions[versionIndex]?.id ?? card.id
+                    return (
                   <div className="mb-1 flex flex-wrap items-center gap-2">
-                    <span className={cn("rounded px-2 py-0.5 text-xs font-bold", RARITY_CLASS[card.rarity] ?? RARITY_CLASS.Common)}>
-                      {card.rarity}
+                    <span className={cn("rounded px-2 py-0.5 text-xs font-bold", RARITY_CLASS[currentRarity] ?? RARITY_CLASS.Common)}>
+                      {currentRarity}
                     </span>
-                    <span className="text-xs text-muted-foreground">{card.id}</span>
+                    <span className="text-xs text-muted-foreground">{currentCardId}</span>
                   </div>
+                    )
+                  })()}
                   <Dialog.Title className="text-xl font-bold">{card.name}</Dialog.Title>
                   <p className="mt-0.5 text-sm text-muted-foreground">{card.category}</p>
                 </div>

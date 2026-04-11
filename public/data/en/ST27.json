@@ -5,17 +5,18 @@
     "name": "Marshall.D.Teach",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-081_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-081_p2.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Blackbeard Pirates"
@@ -23,7 +24,24 @@
     "effect": "Your [On Play] effects are negated.<br>[Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-081",
+        "img_url": "../images/cardlist/card/OP09-081.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081.png?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-081_p1",
+        "img_url": "../images/cardlist/card/OP09-081_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-083_r1",
@@ -31,24 +49,34 @@
     "name": "Van Augur",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-083_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-083_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png?260410",
     "cost": 5,
     "attributes": [
       "Ranged"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, give up to 1 of your opponent's Characters −3 cost during this turn.<br>[On K.O.] Draw 1 card.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-083",
+        "img_url": "../images/cardlist/card/OP09-083.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-086_r1",
@@ -56,24 +84,50 @@
     "name": "Jesus Burgess",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-086_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-086_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
     "effect": "This Character cannot be K.O.'d by your opponent's effects.<br>If your Leader has the {Blackbeard Pirates} type, this Character gains +1000 power for every 4 cards in your trash.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-086",
+        "img_url": "../images/cardlist/card/OP09-086.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-086_p1",
+        "img_url": "../images/cardlist/card/OP09-086_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_p1.png?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-086_r2",
+        "img_url": "../images/cardlist/card/OP09-086_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r2.png?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP09-088_r1",
@@ -81,24 +135,34 @@
     "name": "Shiryu",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-088_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-088_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
     "effect": "[DON!! x1] [When Attacking] You may trash 2 cards from your hand: Draw 2 cards.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-088",
+        "img_url": "../images/cardlist/card/OP09-088.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-089_r1",
@@ -106,17 +170,18 @@
     "name": "Stronger",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-089_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-089_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Blackbeard Pirates"
@@ -124,7 +189,40 @@
     "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader has the {Blackbeard Pirates} type, draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-089",
+        "img_url": "../images/cardlist/card/OP09-089.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-089_p1",
+        "img_url": "../images/cardlist/card/OP09-089_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_p1.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-089_p2",
+        "img_url": "../images/cardlist/card/OP09-089_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_p2.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-089_p3",
+        "img_url": "../images/cardlist/card/OP09-089_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_p3.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP09-090_r1",
@@ -132,24 +230,34 @@
     "name": "Doc Q",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-090_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-090_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less.<br>[On K.O.] Draw 1 card.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-090",
+        "img_url": "../images/cardlist/card/OP09-090.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-091_r1",
@@ -157,24 +265,34 @@
     "name": "Vasco Shot",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-091_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-091_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-091",
+        "img_url": "../images/cardlist/card/OP09-091.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-095_r1",
@@ -182,24 +300,42 @@
     "name": "Laffitte",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-095_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-095_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png?260410",
     "cost": 1,
     "attributes": [
       "Strike"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
     "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-095",
+        "img_url": "../images/cardlist/card/OP09-095.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-095_p1",
+        "img_url": "../images/cardlist/card/OP09-095_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095_p1.png?260410",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-099_r1",
@@ -207,22 +343,32 @@
     "name": "Fullalead",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP09-099_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-099_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
     "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-099",
+        "img_url": "../images/cardlist/card/OP09-099.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099.png?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP10-084_r1",
@@ -230,17 +376,18 @@
     "name": "Sanjuan.Wolf",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-084_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-084_r1.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP10-084_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-084_r1.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Giant",
       "Blackbeard Pirates"
@@ -248,7 +395,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP10-084",
+        "img_url": "../images/cardlist/card/OP10-084.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-084.png?260410",
+        "rarity": "Common",
+        "set_id": "OP10",
+        "set_label": "OP-10"
+      }
+    ]
   },
   {
     "id": "ST27-001",
@@ -256,17 +412,18 @@
     "name": "Avalo Pizarro",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-001.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-001.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST27-001.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-001.png?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -281,17 +438,18 @@
     "name": "Catarina Devon",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-002.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-002.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST27-002.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-002.png?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 1000,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -306,17 +464,18 @@
     "name": "Kuzan",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-003.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-003.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST27-003.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-003.png?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates",
       "Former Navy"
@@ -332,17 +491,18 @@
     "name": "Sanjuan.Wolf",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-004.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-004.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST27-004.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-004.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Giant",
       "Blackbeard Pirates"
@@ -358,17 +518,18 @@
     "name": "Marshall.D.Teach",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-005.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-005.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST27-005.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST27-005.png?260410",
     "cost": 7,
     "attributes": [
       "Special"
     ],
     "power": 8000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Blackbeard Pirates"

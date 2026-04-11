@@ -5,8 +5,8 @@
     "name": "ヤマト",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP06-022_p3.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png?2602273",
+    "img_url": "../images/cardlist/card/OP06-022_p3.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -24,7 +24,40 @@
     "effect": "【ダブルアタック】(このカードが与えるダメージは2になる)<br>【起動メイン】【ターン1回】相手のライフが3枚以下の場合、自分のキャラ1枚にレストのドン!!2枚までを、付与する。",
     "trigger": null,
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP06-022",
+        "img_url": "../images/cardlist/card/OP06-022.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP06",
+        "set_label": null
+      },
+      {
+        "id": "OP06-022_p1",
+        "img_url": "../images/cardlist/card/OP06-022_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p1.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP06",
+        "set_label": null
+      },
+      {
+        "id": "OP06-022_p2",
+        "img_url": "../images/cardlist/card/OP06-022_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png?260408",
+        "rarity": "Leader",
+        "set_id": "EB02",
+        "set_label": null
+      },
+      {
+        "id": "OP06-022_p4",
+        "img_url": "../images/cardlist/card/OP06-022_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-022_p4.png?260408",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP06-100_r2",
@@ -32,8 +65,8 @@
     "name": "イヌアラシ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-100_r2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_r2.png?2602273",
+    "img_url": "../images/cardlist/card/OP06-100_r2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_r2.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -52,7 +85,40 @@
     "effect": "【ドン‼×2】【アタック時】自分の手札1枚を捨てることができる：相手のライフの枚数以下のコストを持つ相手のキャラ1枚までを、KOする。",
     "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP06-100",
+        "img_url": "../images/cardlist/card/OP06-100.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP06",
+        "set_label": null
+      },
+      {
+        "id": "OP06-100_p1",
+        "img_url": "../images/cardlist/card/OP06-100_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_p1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP06-100_p2",
+        "img_url": "../images/cardlist/card/OP06-100_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_p2.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP06-100_r1",
+        "img_url": "../images/cardlist/card/OP06-100_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-100_r1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP06-103_r1",
@@ -60,8 +126,8 @@
     "name": "河松",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-103_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-103_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP06-103_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-103_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -80,7 +146,16 @@
     "effect": "【アタック時】自分の手札2枚を捨てることができる：自分のパワー0のキャラ1枚までを、持ち主のライフの上か下に表向きで置く。",
     "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP06-103",
+        "img_url": "../images/cardlist/card/OP06-103.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-103.png?260408",
+        "rarity": "Common",
+        "set_id": "OP06",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP06-104_r1",
@@ -88,8 +163,8 @@
     "name": "菊之丞",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-104_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP06-104_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -107,7 +182,24 @@
     "effect": "【KO時】相手のライフが3枚以下の場合、自分のデッキの上から1枚までを、ライフの上に加える。",
     "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP06-104",
+        "img_url": "../images/cardlist/card/OP06-104.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP06",
+        "set_label": null
+      },
+      {
+        "id": "OP06-104_p1",
+        "img_url": "../images/cardlist/card/OP06-104_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-104_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP06-109_r1",
@@ -115,8 +207,8 @@
     "name": "傳ジロー",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-109_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-109_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP06-109_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-109_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -134,7 +226,16 @@
     "effect": "【ドン‼×2】相手のライフが3枚以下の場合、このキャラは効果でKOされない。",
     "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP06-109",
+        "img_url": "../images/cardlist/card/OP06-109.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-109.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP06",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP06-110_r2",
@@ -142,8 +243,8 @@
     "name": "ネコマムシ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-110_r2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_r2.png?2602273",
+    "img_url": "../images/cardlist/card/OP06-110_r2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_r2.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -162,7 +263,48 @@
     "effect": "【ドン‼×2】このキャラは、相手のアクティブのキャラにもアタックできる。",
     "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP06-110",
+        "img_url": "../images/cardlist/card/OP06-110.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP06",
+        "set_label": null
+      },
+      {
+        "id": "OP06-110_p1",
+        "img_url": "../images/cardlist/card/OP06-110_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_p1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP06-110_p2",
+        "img_url": "../images/cardlist/card/OP06-110_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_p2.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP06-110_r1",
+        "img_url": "../images/cardlist/card/OP06-110_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_r1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP06-110_p3",
+        "img_url": "../images/cardlist/card/OP06-110_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-110_p3.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP06-112_r1",
@@ -170,8 +312,8 @@
     "name": "雷ぞう",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP06-112_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-112_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP06-112_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-112_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -189,7 +331,16 @@
     "effect": "【アタック時】自分の手札1枚を捨てることができる：相手のドン‼1枚までを、レストにする。",
     "trigger": "【トリガー】相手のライフが3枚以下の場合、このカードを登場させる。",
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP06-112",
+        "img_url": "../images/cardlist/card/OP06-112.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP06-112.png?260408",
+        "rarity": "Common",
+        "set_id": "OP06",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP07-116_p1",
@@ -197,8 +348,8 @@
     "name": "焔裂き",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP07-116_p1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-116_p1.png?2602273",
+    "img_url": "../images/cardlist/card/OP07-116_p1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-116_p1.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -214,7 +365,24 @@
     "effect": "【メイン】/【カウンター】自分のリーダーかキャラ1枚までを、このターン中、パワー+1000。その後、相手のライフが2枚以下の場合、相手のコスト4以下のキャラ1枚までを、レストにする。",
     "trigger": "【トリガー】相手のコスト4以下のキャラ1枚までを、レストにする。",
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP07-116",
+        "img_url": "../images/cardlist/card/OP07-116.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-116.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP07",
+        "set_label": null
+      },
+      {
+        "id": "OP07-116_p2",
+        "img_url": "../images/cardlist/card/OP07-116_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-116_p2.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-035_r1",
@@ -222,8 +390,8 @@
     "name": "ポートガス・D・エース",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-035_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-035_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -241,7 +409,16 @@
     "effect": "【登場時】自分のレストのキャラが2枚以上いる場合、相手のコスト5以下のキャラ1枚までを、レストにする。",
     "trigger": null,
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-035",
+        "img_url": "../images/cardlist/card/OP09-035.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-035.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST13-016_r1",
@@ -249,8 +426,8 @@
     "name": "ヤマト",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST13-016_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png?2602273",
+    "img_url": "../images/cardlist/card/ST13-016_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -267,7 +444,24 @@
     "effect": "【速攻】(このカードは登場したターンにアタックできる)<br>【登場時】自分のライフすべてを見て、1枚を自分のデッキの上に置き、ライフを好きな順番で置く。",
     "trigger": null,
     "tile_set_id": "ST28",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST13-016",
+        "img_url": "../images/cardlist/card/ST13-016.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016.png?260408",
+        "rarity": "Common",
+        "set_id": "ST13",
+        "set_label": null
+      },
+      {
+        "id": "ST13-016_p1",
+        "img_url": "../images/cardlist/card/ST13-016_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST13-016_p1.png?260408",
+        "rarity": "Common",
+        "set_id": "ST13",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST28-001",
@@ -275,8 +469,8 @@
     "name": "アシュラ童子",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST28-001.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-001.png?2602273",
+    "img_url": "../images/cardlist/card/ST28-001.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-001.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -302,8 +496,8 @@
     "name": "イゾウ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST28-002.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-002.png?2602273",
+    "img_url": "../images/cardlist/card/ST28-002.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-002.png?260408",
     "cost": 2,
     "attributes": [
       "Ranged"
@@ -329,8 +523,8 @@
     "name": "錦えもん",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST28-003.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-003.png?2602273",
+    "img_url": "../images/cardlist/card/ST28-003.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-003.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -356,8 +550,8 @@
     "name": "光月モモの助",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST28-004.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-004.png?2602273",
+    "img_url": "../images/cardlist/card/ST28-004.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-004.png?260408",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -383,8 +577,8 @@
     "name": "ヤマト",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST28-005.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-005.png?2602273",
+    "img_url": "../images/cardlist/card/ST28-005.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST28-005.png?260408",
     "cost": 1,
     "attributes": [
       "Strike"

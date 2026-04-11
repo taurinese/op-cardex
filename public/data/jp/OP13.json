@@ -5,8 +5,8 @@
     "name": "ポートガス・D・エース",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/EB02-028_p1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.png?2602273",
+    "img_url": "../images/cardlist/card/EB02-028_p1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-028_p1.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -24,7 +24,16 @@
     "effect": "【登場時】自分のリーダーが『白ひげ海賊団』を含む特徴を持つ場合、自分のデッキの上から5枚を見て、コスト2のキャラカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置き、自分の手札からコスト2のキャラカード1枚までを、レストで登場させる。",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "EB02-028",
+        "img_url": "../images/cardlist/card/EB02-028.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/EB02-028.png?260408",
+        "rarity": "Rare",
+        "set_id": "EB02",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP07-111_p2",
@@ -32,8 +41,8 @@
     "name": "リリス",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-111_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-111_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP07-111_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-111_p2.png?260408",
     "cost": 3,
     "attributes": [
       "Wisdom"
@@ -51,7 +60,24 @@
     "effect": "【登場時】自分のデッキの上から5枚を見て、「リリス」以外の特徴《エッグヘッド》を持つカード1枚までを手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": "【トリガー】自分のリーダーが「ベガパンク」の場合、このカードを登場させる。",
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP07-111",
+        "img_url": "../images/cardlist/card/OP07-111.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-111.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP07",
+        "set_label": null
+      },
+      {
+        "id": "OP07-111_p1",
+        "img_url": "../images/cardlist/card/OP07-111_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-111_p1.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP07",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP07-118_p2",
@@ -59,8 +85,8 @@
     "name": "サボ",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-118_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-118_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP07-118_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-118_p2.png?260408",
     "cost": 8,
     "attributes": [
       "Special"
@@ -77,7 +103,32 @@
     "effect": "【登場時】自分の手札1枚を捨てることができる：相手の、コスト5以下のキャラ1枚までとコスト3以下のキャラ1枚までを、KOする。",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP07-118",
+        "img_url": "../images/cardlist/card/OP07-118.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-118.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP07",
+        "set_label": null
+      },
+      {
+        "id": "OP07-118_p1",
+        "img_url": "../images/cardlist/card/OP07-118_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-118_p1.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP07",
+        "set_label": null
+      },
+      {
+        "id": "OP07-118_r1",
+        "img_url": "../images/cardlist/card/OP07-118_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP07-118_r1.png?260408",
+        "rarity": "SecretRare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-004_p5",
@@ -85,8 +136,8 @@
     "name": "シャンクス",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-004_p5.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-004_p5.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png?260408",
     "cost": 10,
     "attributes": [
       "Slash"
@@ -107,9 +158,65 @@
     "variants": [
       {
         "id": "OP09-004_p6",
-        "img_url": "../images/cardlist/card/OP09-004_p6.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png?2602273",
+        "img_url": "../images/cardlist/card/OP09-004_p6.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png?260408",
         "rarity": "Special"
+      },
+      {
+        "id": "OP09-004",
+        "img_url": "../images/cardlist/card/OP09-004.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-004_p1",
+        "img_url": "../images/cardlist/card/OP09-004_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p1.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-004_p2",
+        "img_url": "../images/cardlist/card/OP09-004_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p2.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-004_p3",
+        "img_url": "../images/cardlist/card/OP09-004_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p3.png?260408",
+        "rarity": "Special",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-004_r1",
+        "img_url": "../images/cardlist/card/OP09-004_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_r1.png?260408",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-004_p7",
+        "img_url": "../images/cardlist/card/OP09-004_p7.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p7.png?260408",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-004_p4",
+        "img_url": "../images/cardlist/card/OP09-004_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -119,8 +226,8 @@
     "name": "ベン・ベックマン",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-009_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-009_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png?260408",
     "cost": 7,
     "attributes": [
       "Ranged"
@@ -137,7 +244,32 @@
     "effect": "【登場時】相手のパワー6000以下のキャラ1枚までを、トラッシュに置く。",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-009",
+        "img_url": "../images/cardlist/card/OP09-009.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-009_p1",
+        "img_url": "../images/cardlist/card/OP09-009_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_p1.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-009_r1",
+        "img_url": "../images/cardlist/card/OP09-009_r1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-009_r1.png?260408",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-118_p3",
@@ -145,8 +277,8 @@
     "name": "ゴール・D・ロジャー",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-118_p3.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-118_p3.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png?260408",
     "cost": 10,
     "attributes": [
       "Slash"
@@ -164,7 +296,32 @@
     "effect": "【速攻】(このカードは登場したターンにアタックできる)<br> 相手が【ブロッカー】を発動した時、自分か相手のライフが0枚の場合、自分はゲームに勝利する。",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-118",
+        "img_url": "../images/cardlist/card/OP09-118.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-118_p1",
+        "img_url": "../images/cardlist/card/OP09-118_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p1.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-118_p2",
+        "img_url": "../images/cardlist/card/OP09-118_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-118_p2.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-119_p3",
@@ -172,8 +329,8 @@
     "name": "モンキー・Ｄ・ルフィ",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-119_p3.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-119_p3.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png?260408",
     "cost": 9,
     "attributes": [
       "Strike"
@@ -190,7 +347,32 @@
     "effect": "【登場時】自分の場のドン‼を1枚以上ドン‼デッキに戻すことができる：カード1枚を引き、このキャラは、このターン中、【速攻】を得る。",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-119",
+        "img_url": "../images/cardlist/card/OP09-119.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-119_p1",
+        "img_url": "../images/cardlist/card/OP09-119_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p1.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-119_p2",
+        "img_url": "../images/cardlist/card/OP09-119_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.png?260408",
+        "rarity": "SecretRare",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP10-030_p2",
@@ -198,8 +380,8 @@
     "name": "スモーカー",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-030_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP10-030_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030_p2.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -217,7 +399,24 @@
     "effect": "【バニッシュ】(このカードがダメージを与えた場合、トリガーは発動せずそのカードはトラッシュに置かれる)<br> 【起動メイン】自分のドン‼1枚までを、アクティブにする。その後、自分はこのターン中、キャラの効果でドン‼をアクティブにできない。",
     "trigger": null,
     "tile_set_id": "OP13",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP10-030",
+        "img_url": "../images/cardlist/card/OP10-030.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP10",
+        "set_label": null
+      },
+      {
+        "id": "OP10-030_p1",
+        "img_url": "../images/cardlist/card/OP10-030_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-030_p1.png?260408",
+        "rarity": "SuperRare",
+        "set_id": "OP10",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP13-001",
@@ -225,8 +424,8 @@
     "name": "モンキー・Ｄ・ルフィ",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-001.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-001.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -248,14 +447,14 @@
     "variants": [
       {
         "id": "OP13-001_p2",
-        "img_url": "../images/cardlist/card/OP13-001_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-001_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p2.png?260408",
         "rarity": "Leader"
       },
       {
         "id": "OP13-001_p1",
-        "img_url": "../images/cardlist/card/OP13-001_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-001_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.png?260408",
         "rarity": "Leader",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -268,8 +467,8 @@
     "name": "ポートガス・Ｄ・エース",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-002.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-002.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-002.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-002.png?260408",
     "cost": 3,
     "attributes": [
       "Special"
@@ -290,8 +489,8 @@
     "variants": [
       {
         "id": "OP13-002_p1",
-        "img_url": "../images/cardlist/card/OP13-002_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-002_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.png?260408",
         "rarity": "Leader"
       }
     ]
@@ -302,8 +501,8 @@
     "name": "ゴール・Ｄ・ロジャー",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-003.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-003.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-003.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-003.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -325,8 +524,8 @@
     "variants": [
       {
         "id": "OP13-003_p1",
-        "img_url": "../images/cardlist/card/OP13-003_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-003_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.png?260408",
         "rarity": "Leader"
       }
     ]
@@ -337,8 +536,8 @@
     "name": "サボ",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-004.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-004.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -360,8 +559,8 @@
     "variants": [
       {
         "id": "OP13-004_p1",
-        "img_url": "../images/cardlist/card/OP13-004_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-004_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.png?260408",
         "rarity": "Leader"
       }
     ]
@@ -372,8 +571,8 @@
     "name": "イナズマ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-005.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-005.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-005.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-005.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -398,8 +597,8 @@
     "name": "ウープ・スラップ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-006.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-006.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-006.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-006.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -424,8 +623,8 @@
     "name": "エース＆サボ＆ルフィ",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-007.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-007.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007.png?260408",
     "cost": 1,
     "attributes": [
       "Strike"
@@ -445,8 +644,8 @@
     "variants": [
       {
         "id": "OP13-007_p1",
-        "img_url": "../images/cardlist/card/OP13-007_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-007_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-007_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -457,8 +656,8 @@
     "name": "エンポリオ・イワンコフ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-008.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-008.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-008.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-008.png?260408",
     "cost": 2,
     "attributes": [
       "Special"
@@ -483,8 +682,8 @@
     "name": "カーリー・ダダン",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-009.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-009.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-009.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-009.png?260408",
     "cost": 1,
     "attributes": [
       "Slash"
@@ -509,8 +708,8 @@
     "name": "近海の主",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-010.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-010.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-010.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-010.png?260408",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -536,8 +735,8 @@
     "name": "ネフェルタリ・コブラ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-011.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-011.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-011.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-011.png?260408",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -562,8 +761,8 @@
     "name": "ネフェルタリ・ビビ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-012.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-012.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-012.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-012.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -583,8 +782,8 @@
     "variants": [
       {
         "id": "OP13-012_p1",
-        "img_url": "../images/cardlist/card/OP13-012_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-012_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-012_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-012_p1.png?260408",
         "rarity": "Rare",
         "set_id": null,
         "set_label": null
@@ -597,8 +796,8 @@
     "name": "ヒグマ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-013.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-013.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-013.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-013.png?260408",
     "cost": 1,
     "attributes": [
       "Slash"
@@ -623,8 +822,8 @@
     "name": "ポートガス・Ｄ・ルージュ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-014.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-014.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-014.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-014.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -649,8 +848,8 @@
     "name": "マキノ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-015.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-015.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-015.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-015.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -675,8 +874,8 @@
     "name": "モンキー・Ｄ・ガープ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-016.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-016.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-016.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-016.png?260408",
     "cost": 1,
     "attributes": [
       "Strike"
@@ -696,8 +895,8 @@
     "variants": [
       {
         "id": "OP13-016_p1",
-        "img_url": "../images/cardlist/card/OP13-016_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-016_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-016_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-016_p1.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -708,8 +907,8 @@
     "name": "モンキー・Ｄ・ドラゴン",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-017.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-017.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-017.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-017.png?260408",
     "cost": 6,
     "attributes": [
       "Special"
@@ -734,8 +933,8 @@
     "name": "ワポル",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-018.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-018.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-018.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-018.png?260408",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -760,8 +959,8 @@
     "name": "“火炎”が許さねェってよ!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-019.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-019.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -780,8 +979,8 @@
     "variants": [
       {
         "id": "OP13-019_p1",
-        "img_url": "../images/cardlist/card/OP13-019_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-019_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-019_p1.png?260408",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -794,8 +993,8 @@
     "name": "拳・骨・隕石",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-020.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-020.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-020.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-020.png?260408",
     "cost": 3,
     "attributes": [],
     "power": null,
@@ -818,8 +1017,8 @@
     "name": "ゴムゴムの銃乱打",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-021.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-021.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-021.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-021.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -842,8 +1041,8 @@
     "name": "フーシャ村",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP13-022.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-022.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-022.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-022.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -866,8 +1065,8 @@
     "name": "ウタ",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-023.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-023.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-023.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-023.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -887,8 +1086,8 @@
     "variants": [
       {
         "id": "OP13-023_p1",
-        "img_url": "../images/cardlist/card/OP13-023_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-023_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-023_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-023_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -899,8 +1098,8 @@
     "name": "ゴードン",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-024.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-024.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-024.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-024.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -925,8 +1124,8 @@
     "name": "コビー",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-025.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-025.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-025.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-025.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -952,8 +1151,8 @@
     "name": "サニーくん",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-026.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-026.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-026.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-026.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -979,8 +1178,8 @@
     "name": "サンジ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-027.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-027.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-027.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-027.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -1001,8 +1200,8 @@
     "variants": [
       {
         "id": "OP13-027_p1",
-        "img_url": "../images/cardlist/card/OP13-027_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-027_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-027_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-027_p1.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -1013,8 +1212,8 @@
     "name": "シャンクス",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-028.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-028.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028.png?260408",
     "cost": 10,
     "attributes": [
       "Slash"
@@ -1036,8 +1235,8 @@
     "variants": [
       {
         "id": "OP13-028_p1",
-        "img_url": "../images/cardlist/card/OP13-028_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-028_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-028_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -1048,8 +1247,8 @@
     "name": "ジンベエ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-029.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-029.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-029.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-029.png?260408",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -1076,8 +1275,8 @@
     "name": "トニートニー・チョッパー",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-030.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-030.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-030.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-030.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -1104,8 +1303,8 @@
     "name": "トラファルガー・ロー",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-031.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-031.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-031.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-031.png?260408",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -1127,8 +1326,8 @@
     "variants": [
       {
         "id": "OP13-031_p1",
-        "img_url": "../images/cardlist/card/OP13-031_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-031_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-031_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-031_p1.png?260408",
         "rarity": "Special",
         "set_id": "OP15",
         "set_label": null
@@ -1141,8 +1340,8 @@
     "name": "ニコ・ロビン",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-032.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-032.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-032.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-032.png?260408",
     "cost": 7,
     "attributes": [
       "Strike"
@@ -1168,8 +1367,8 @@
     "name": "フランキー",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-033.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-033.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-033.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-033.png?260408",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -1195,8 +1394,8 @@
     "name": "ブルック",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-034.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-034.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-034.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-034.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -1222,8 +1421,8 @@
     "name": "ベポ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-035.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-035.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-035.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-035.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -1250,8 +1449,8 @@
     "name": "ヘルメッポ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-036.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-036.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-036.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-036.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -1277,8 +1476,8 @@
     "name": "ロロノア・ゾロ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-037.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-037.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-037.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-037.png?260408",
     "cost": 4,
     "attributes": [
       "Slash"
@@ -1300,8 +1499,8 @@
     "variants": [
       {
         "id": "OP13-037_p1",
-        "img_url": "../images/cardlist/card/OP13-037_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-037_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-037_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-037_p1.png?260408",
         "rarity": "Rare",
         "set_id": null,
         "set_label": null
@@ -1314,8 +1513,8 @@
     "name": "ゴムゴムの象銃",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-038.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-038.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-038.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-038.png?260408",
     "cost": 2,
     "attributes": [],
     "power": null,
@@ -1339,8 +1538,8 @@
     "name": "ゴムゴムの蛇銃",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-039.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-039.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-039.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-039.png?260408",
     "cost": 2,
     "attributes": [],
     "power": null,
@@ -1365,8 +1564,8 @@
     "name": "強ェとわかってんだから… 始めから全開だ!!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-040.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-040.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-040.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-040.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -1385,8 +1584,8 @@
     "variants": [
       {
         "id": "OP13-040_p1",
-        "img_url": "../images/cardlist/card/OP13-040_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-040_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-040_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-040_p1.png?260408",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -1399,8 +1598,8 @@
     "name": "イゾウ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-041.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-041.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-041.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-041.png?260408",
     "cost": 6,
     "attributes": [
       "Ranged"
@@ -1426,8 +1625,8 @@
     "name": "エドワード・ニューゲート",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-042.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-042.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042.png?260408",
     "cost": 10,
     "attributes": [
       "Special"
@@ -1448,14 +1647,14 @@
     "variants": [
       {
         "id": "OP13-042_p1",
-        "img_url": "../images/cardlist/card/OP13-042_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-042_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p1.png?260408",
         "rarity": "SuperRare"
       },
       {
         "id": "OP13-042_p2",
-        "img_url": "../images/cardlist/card/OP13-042_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-042_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-042_p2.png?260408",
         "rarity": "Special",
         "set_id": "OP15",
         "set_label": null
@@ -1468,8 +1667,8 @@
     "name": "お玉",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-043.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-043.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-043.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-043.png?260408",
     "cost": 1,
     "attributes": [
       "Special"
@@ -1489,8 +1688,8 @@
     "variants": [
       {
         "id": "OP13-043_p1",
-        "img_url": "../images/cardlist/card/OP13-043_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-043_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-043_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-043_p1.png?260408",
         "rarity": "Rare",
         "set_id": null,
         "set_label": null
@@ -1503,8 +1702,8 @@
     "name": "クリエル",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-044.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-044.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-044.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-044.png?260408",
     "cost": 3,
     "attributes": [
       "Ranged"
@@ -1529,8 +1728,8 @@
     "name": "ハルタ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-045.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-045.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-045.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-045.png?260408",
     "cost": 1,
     "attributes": [
       "Slash"
@@ -1555,8 +1754,8 @@
     "name": "ビスタ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-046.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-046.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046.png?260408",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -1576,8 +1775,8 @@
     "variants": [
       {
         "id": "OP13-046_p1",
-        "img_url": "../images/cardlist/card/OP13-046_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-046_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-046_p1.png?260408",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -1590,8 +1789,8 @@
     "name": "フォッサ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-047.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-047.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-047.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-047.png?260408",
     "cost": 2,
     "attributes": [
       "Slash"
@@ -1616,8 +1815,8 @@
     "name": "ブラメンコ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-048.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-048.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-048.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-048.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -1642,8 +1841,8 @@
     "name": "ブレンハイム",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-049.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-049.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-049.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-049.png?260408",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -1668,8 +1867,8 @@
     "name": "ボア・サンダーソニア",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-050.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-050.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-050.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-050.png?260408",
     "cost": 2,
     "attributes": [
       "Strike"
@@ -1694,8 +1893,8 @@
     "name": "ボア・ハンコック",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-051.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-051.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-051.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-051.png?260408",
     "cost": 3,
     "attributes": [
       "Special"
@@ -1716,8 +1915,8 @@
     "variants": [
       {
         "id": "OP13-051_p1",
-        "img_url": "../images/cardlist/card/OP13-051_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-051_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-051_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-051_p1.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -1728,8 +1927,8 @@
     "name": "ボア・マリーゴールド",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-052.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-052.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-052.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-052.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -1754,8 +1953,8 @@
     "name": "マーシャル・Ｄ・ティーチ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-053.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-053.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-053.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-053.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -1780,8 +1979,8 @@
     "name": "ヤマト",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-054.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-054.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-054.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-054.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -1801,8 +2000,8 @@
     "variants": [
       {
         "id": "OP13-054_p1",
-        "img_url": "../images/cardlist/card/OP13-054_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-054_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-054_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-054_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -1813,8 +2012,8 @@
     "name": "ラクヨウ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-055.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-055.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-055.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-055.png?260408",
     "cost": 3,
     "attributes": [
       "Strike"
@@ -1839,8 +2038,8 @@
     "name": "リトルオーズJr.",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-056.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-056.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-056.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-056.png?260408",
     "cost": 7,
     "attributes": [
       "Strike"
@@ -1866,8 +2065,8 @@
     "name": "“力”に屈したら男に生まれた意味がねェだろう",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-057.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-057.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-057.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-057.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -1885,8 +2084,8 @@
     "variants": [
       {
         "id": "OP13-057_p1",
-        "img_url": "../images/cardlist/card/OP13-057_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-057_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-057_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-057_p1.png?260408",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -1899,8 +2098,8 @@
     "name": "鳳梨礫",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-058.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-058.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-058.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-058.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -1923,8 +2122,8 @@
     "name": "ブリリアント・パンク",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-059.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-059.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-059.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-059.png?260408",
     "cost": 4,
     "attributes": [],
     "power": null,
@@ -1947,8 +2146,8 @@
     "name": "天月トキ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-060.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-060.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-060.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-060.png?260408",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -1974,8 +2173,8 @@
     "name": "イヌアラシ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-061.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-061.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-061.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-061.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -2001,8 +2200,8 @@
     "name": "クロッカス",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-062.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-062.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-062.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-062.png?260408",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -2027,8 +2226,8 @@
     "name": "光月おでん",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-063.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-063.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -2050,8 +2249,8 @@
     "variants": [
       {
         "id": "OP13-063_p1",
-        "img_url": "../images/cardlist/card/OP13-063_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-063_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-063_p1.png?260408",
         "rarity": "Uncommon",
         "set_id": null,
         "set_label": null
@@ -2064,8 +2263,8 @@
     "name": "ゴール・Ｄ・ロジャー",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-064.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-064.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-064.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-064.png?260408",
     "cost": 10,
     "attributes": [
       "Slash"
@@ -2086,8 +2285,8 @@
     "variants": [
       {
         "id": "OP13-064_p1",
-        "img_url": "../images/cardlist/card/OP13-064_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-064_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-064_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-064_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -2098,8 +2297,8 @@
     "name": "シャンクス",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-065.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-065.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-065.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-065.png?260408",
     "cost": 1,
     "attributes": [
       "Slash"
@@ -2119,8 +2318,8 @@
     "variants": [
       {
         "id": "OP13-065_p1",
-        "img_url": "../images/cardlist/card/OP13-065_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-065_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-065_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-065_p1.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -2131,8 +2330,8 @@
     "name": "シルバーズ・レイリー",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-066.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-066.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-066.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-066.png?260408",
     "cost": 8,
     "attributes": [
       "Slash"
@@ -2152,8 +2351,8 @@
     "variants": [
       {
         "id": "OP13-066_p1",
-        "img_url": "../images/cardlist/card/OP13-066_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-066_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-066_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-066_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -2164,8 +2363,8 @@
     "name": "スコッパー・ギャバン",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-067.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-067.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-067.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-067.png?260408",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -2190,8 +2389,8 @@
     "name": "ダグラス・バレット",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-068.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-068.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-068.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-068.png?260408",
     "cost": 3,
     "attributes": [
       "Special"
@@ -2217,8 +2416,8 @@
     "name": "トム",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-069.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-069.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-069.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-069.png?260408",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -2244,8 +2443,8 @@
     "name": "ナポレオン",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-070.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-070.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-070.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-070.png?260408",
     "cost": 5,
     "attributes": [
       "Slash"
@@ -2271,8 +2470,8 @@
     "name": "ネコマムシ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-071.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-071.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -2293,8 +2492,8 @@
     "variants": [
       {
         "id": "OP13-071_p1",
-        "img_url": "../images/cardlist/card/OP13-071_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-071_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-071_p1.png?260408",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -2307,8 +2506,8 @@
     "name": "バギー",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-072.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-072.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-072.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-072.png?260408",
     "cost": 2,
     "attributes": [
       "Slash"
@@ -2328,8 +2527,8 @@
     "variants": [
       {
         "id": "OP13-072_p1",
-        "img_url": "../images/cardlist/card/OP13-072_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-072_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-072_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-072_p1.png?260408",
         "rarity": "Rare",
         "set_id": null,
         "set_label": null
@@ -2342,8 +2541,8 @@
     "name": "プロメテウス",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-073.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-073.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-073.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-073.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -2369,8 +2568,8 @@
     "name": "ヘラ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-074.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-074.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-074.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-074.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -2396,8 +2595,8 @@
     "name": "いっちょやるか生きててこその“殺し合い”!!!",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-075.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-075.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-075.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-075.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -2421,8 +2620,8 @@
     "name": "神避",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-076.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-076.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-076.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-076.png?260408",
     "cost": null,
     "attributes": [],
     "power": null,
@@ -2441,8 +2640,8 @@
     "variants": [
       {
         "id": "OP13-076_p1",
-        "img_url": "../images/cardlist/card/OP13-076_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-076_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-076_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-076_p1.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -2453,8 +2652,8 @@
     "name": "頂点まで行って来い!!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-077.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-077.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-077.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-077.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -2477,8 +2676,8 @@
     "name": "オーロ・ジャクソン号",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP13-078.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-078.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-078.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-078.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -2501,8 +2700,8 @@
     "name": "イム",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-079.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-079.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-079.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-079.png?260408",
     "cost": 4,
     "attributes": [
       "Unknown"
@@ -2522,8 +2721,8 @@
     "variants": [
       {
         "id": "OP13-079_p1",
-        "img_url": "../images/cardlist/card/OP13-079_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-079_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.png?260408",
         "rarity": "Leader"
       }
     ]
@@ -2534,8 +2733,8 @@
     "name": "イーザンバロン・V・ナス寿郎聖",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-080.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-080.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080.png?260408",
     "cost": 6,
     "attributes": [
       "Slash"
@@ -2556,14 +2755,14 @@
     "variants": [
       {
         "id": "OP13-080_p1",
-        "img_url": "../images/cardlist/card/OP13-080_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-080_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p1.png?260408",
         "rarity": "Rare"
       },
       {
         "id": "OP13-080_p2",
-        "img_url": "../images/cardlist/card/OP13-080_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-080_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-080_p2.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -2574,8 +2773,8 @@
     "name": "コアラ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-081.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-081.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-081.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-081.png?260408",
     "cost": 5,
     "attributes": [
       "Strike"
@@ -2601,8 +2800,8 @@
     "name": "五老星",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-082.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-082.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-082.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-082.png?260408",
     "cost": 10,
     "attributes": [
       "Slash",
@@ -2624,8 +2823,8 @@
     "variants": [
       {
         "id": "OP13-082_p1",
-        "img_url": "../images/cardlist/card/OP13-082_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-082_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-082_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-082_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -2636,8 +2835,8 @@
     "name": "ジェイガルシア・サターン聖",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-083.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-083.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -2658,14 +2857,14 @@
     "variants": [
       {
         "id": "OP13-083_p1",
-        "img_url": "../images/cardlist/card/OP13-083_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-083_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p1.png?260408",
         "rarity": "Rare"
       },
       {
         "id": "OP13-083_p2",
-        "img_url": "../images/cardlist/card/OP13-083_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-083_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-083_p2.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -2676,8 +2875,8 @@
     "name": "シェパード・十・ピーター聖",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-084.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-084.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084.png?260408",
     "cost": 7,
     "attributes": [
       "Special"
@@ -2698,14 +2897,14 @@
     "variants": [
       {
         "id": "OP13-084_p1",
-        "img_url": "../images/cardlist/card/OP13-084_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-084_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p1.png?260408",
         "rarity": "Rare"
       },
       {
         "id": "OP13-084_p2",
-        "img_url": "../images/cardlist/card/OP13-084_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-084_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-084_p2.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -2716,8 +2915,8 @@
     "name": "ジャルマック聖",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-085.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-085.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-085.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-085.png?260408",
     "cost": 2,
     "attributes": [
       "Ranged"
@@ -2742,8 +2941,8 @@
     "name": "シャルリア宮",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-086.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-086.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086.png?260408",
     "cost": 1,
     "attributes": [
       "Ranged"
@@ -2763,8 +2962,8 @@
     "variants": [
       {
         "id": "OP13-086_p1",
-        "img_url": "../images/cardlist/card/OP13-086_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-086_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-086_p1.png?260408",
         "rarity": "Uncommon",
         "set_id": null,
         "set_label": null
@@ -2777,8 +2976,8 @@
     "name": "チャルロス聖",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-087.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-087.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087.png?260408",
     "cost": 2,
     "attributes": [
       "Ranged"
@@ -2798,8 +2997,8 @@
     "variants": [
       {
         "id": "OP13-087_p1",
-        "img_url": "../images/cardlist/card/OP13-087_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-087_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-087_p1.png?260408",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -2812,8 +3011,8 @@
     "name": "テリー・ギルテオ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-088.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-088.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-088.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-088.png?260408",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -2838,8 +3037,8 @@
     "name": "トップマン・ウォーキュリー聖",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-089.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-089.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -2860,14 +3059,14 @@
     "variants": [
       {
         "id": "OP13-089_p1",
-        "img_url": "../images/cardlist/card/OP13-089_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-089_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p1.png?260408",
         "rarity": "Rare"
       },
       {
         "id": "OP13-089_p2",
-        "img_url": "../images/cardlist/card/OP13-089_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-089_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-089_p2.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -2878,8 +3077,8 @@
     "name": "ハック",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-090.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-090.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-090.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-090.png?260408",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -2906,8 +3105,8 @@
     "name": "マーカス・マーズ聖",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-091.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-091.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091.png?260408",
     "cost": 6,
     "attributes": [
       "Special"
@@ -2928,14 +3127,14 @@
     "variants": [
       {
         "id": "OP13-091_p1",
-        "img_url": "../images/cardlist/card/OP13-091_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-091_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p1.png?260408",
         "rarity": "Rare"
       },
       {
         "id": "OP13-091_p2",
-        "img_url": "../images/cardlist/card/OP13-091_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-091_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-091_p2.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -2946,8 +3145,8 @@
     "name": "ミョスガルド聖",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-092.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-092.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-092.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-092.png?260408",
     "cost": 2,
     "attributes": [
       "Wisdom"
@@ -2967,8 +3166,8 @@
     "variants": [
       {
         "id": "OP13-092_p1",
-        "img_url": "../images/cardlist/card/OP13-092_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-092_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-092_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-092_p1.png?260408",
         "rarity": "Common",
         "set_id": null,
         "set_label": null
@@ -2981,8 +3180,8 @@
     "name": "モルガンズ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-093.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-093.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-093.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-093.png?260408",
     "cost": 3,
     "attributes": [
       "Wisdom"
@@ -3007,8 +3206,8 @@
     "name": "ヨーク",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-094.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-094.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-094.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-094.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -3034,8 +3233,8 @@
     "name": "ロズワード聖",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-095.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-095.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-095.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-095.png?260408",
     "cost": 3,
     "attributes": [
       "Ranged"
@@ -3060,8 +3259,8 @@
     "name": "“五老星”ここに!!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-096.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-096.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-096.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-096.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -3085,8 +3284,8 @@
     "name": "世界の均衡など…永遠には保てぬのだ",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-097.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-097.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-097.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-097.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -3110,8 +3309,8 @@
     "name": "元々…ないではないか…",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-098.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-098.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-098.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-098.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -3135,8 +3334,8 @@
     "name": "虚の玉座",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP13-099.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-099.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-099.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-099.png?260408",
     "cost": 7,
     "attributes": [],
     "power": null,
@@ -3159,8 +3358,8 @@
     "name": "ジュエリー・ボニー",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP13-100.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-100.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-100.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-100.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -3181,8 +3380,8 @@
     "variants": [
       {
         "id": "OP13-100_p1",
-        "img_url": "../images/cardlist/card/OP13-100_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-100_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.png?260408",
         "rarity": "Leader"
       }
     ]
@@ -3193,8 +3392,8 @@
     "name": "アトラス",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-101.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-101.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-101.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-101.png?260408",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -3220,8 +3419,8 @@
     "name": "エジソン",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-102.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-102.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-102.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-102.png?260408",
     "cost": 3,
     "attributes": [
       "Wisdom"
@@ -3247,8 +3446,8 @@
     "name": "ギョギョ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-103.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-103.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-103.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-103.png?260408",
     "cost": 4,
     "attributes": [
       "Wisdom"
@@ -3273,8 +3472,8 @@
     "name": "光月日和",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-104.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-104.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-104.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-104.png?260408",
     "cost": 4,
     "attributes": [
       "Wisdom"
@@ -3300,8 +3499,8 @@
     "name": "光月モモの助",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-105.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-105.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-105.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-105.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -3327,8 +3526,8 @@
     "name": "コニー",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-106.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-106.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-106.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-106.png?260408",
     "cost": 1,
     "attributes": [
       "Special"
@@ -3353,8 +3552,8 @@
     "name": "シャカ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-107.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-107.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-107.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-107.png?260408",
     "cost": 5,
     "attributes": [
       "Wisdom"
@@ -3380,8 +3579,8 @@
     "name": "ジュエリー・ボニー",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-108.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-108.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108.png?260408",
     "cost": 9,
     "attributes": [
       "Special"
@@ -3402,14 +3601,14 @@
     "variants": [
       {
         "id": "OP13-108_p1",
-        "img_url": "../images/cardlist/card/OP13-108_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-108_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p1.png?260408",
         "rarity": "SuperRare"
       },
       {
         "id": "OP13-108_p2",
-        "img_url": "../images/cardlist/card/OP13-108_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-108_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-108_p2.png?260408",
         "rarity": "SuperRare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -3422,8 +3621,8 @@
     "name": "ジュエリー・ボニー",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-109.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-109.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-109.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-109.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -3449,8 +3648,8 @@
     "name": "ステューシー",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-110.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-110.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-110.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-110.png?260408",
     "cost": 7,
     "attributes": [
       "Special"
@@ -3471,8 +3670,8 @@
     "variants": [
       {
         "id": "OP13-110_p1",
-        "img_url": "../images/cardlist/card/OP13-110_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-110_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-110_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-110_p1.png?260408",
         "rarity": "SuperRare"
       }
     ]
@@ -3483,8 +3682,8 @@
     "name": "ピタゴラス",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-111.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-111.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-111.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-111.png?260408",
     "cost": 6,
     "attributes": [
       "Wisdom"
@@ -3510,8 +3709,8 @@
     "name": "ベガパンク",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-112.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-112.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-112.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-112.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -3537,8 +3736,8 @@
     "name": "リリス",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-113.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-113.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-113.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-113.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -3559,8 +3758,8 @@
     "variants": [
       {
         "id": "OP13-113_p1",
-        "img_url": "../images/cardlist/card/OP13-113_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-113_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-113_p1.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -3571,8 +3770,8 @@
     "name": "S-スネーク",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-114.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-114.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-114.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-114.png?260408",
     "cost": 4,
     "attributes": [
       "Special"
@@ -3593,8 +3792,8 @@
     "variants": [
       {
         "id": "OP13-114_p1",
-        "img_url": "../images/cardlist/card/OP13-114_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-114_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-114_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-114_p1.png?260408",
         "rarity": "Rare"
       }
     ]
@@ -3605,8 +3804,8 @@
     "name": "「紙絵」“残身”",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-115.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-115.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-115.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-115.png?260408",
     "cost": 2,
     "attributes": [],
     "power": null,
@@ -3630,8 +3829,8 @@
     "name": "この海で一番自由な奴が海賊王だ!!!",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-116.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-116.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-116.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-116.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -3655,8 +3854,8 @@
     "name": "ゴムゴムの白いスタンプ",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP13-117.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-117.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-117.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-117.png?260408",
     "cost": 5,
     "attributes": [],
     "power": null,
@@ -3681,8 +3880,8 @@
     "name": "モンキー・Ｄ・ルフィ",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-118.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-118.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118.png?260408",
     "cost": 6,
     "attributes": [
       "Strike"
@@ -3704,32 +3903,32 @@
     "variants": [
       {
         "id": "OP13-118_p1",
-        "img_url": "../images/cardlist/card/OP13-118_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-118_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p1.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p2",
-        "img_url": "../images/cardlist/card/OP13-118_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-118_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p2.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p3",
-        "img_url": "../images/cardlist/card/OP13-118_p3.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p3.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-118_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p3.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p4",
-        "img_url": "../images/cardlist/card/OP13-118_p4.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p4.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-118_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p4.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-118_p5",
-        "img_url": "../images/cardlist/card/OP13-118_p5.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p5.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-118_p5.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-118_p5.png?260408",
         "rarity": "SecretRare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -3742,8 +3941,8 @@
     "name": "ポートガス・Ｄ・エース",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-119.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-119.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119.png?260408",
     "cost": 6,
     "attributes": [
       "Special"
@@ -3763,32 +3962,32 @@
     "variants": [
       {
         "id": "OP13-119_p1",
-        "img_url": "../images/cardlist/card/OP13-119_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-119_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p1.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p2",
-        "img_url": "../images/cardlist/card/OP13-119_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-119_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p2.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p3",
-        "img_url": "../images/cardlist/card/OP13-119_p3.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p3.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-119_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p3.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p4",
-        "img_url": "../images/cardlist/card/OP13-119_p4.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p4.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-119_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p4.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-119_p5",
-        "img_url": "../images/cardlist/card/OP13-119_p5.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p5.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-119_p5.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-119_p5.png?260408",
         "rarity": "SecretRare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -3801,8 +4000,8 @@
     "name": "サボ",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP13-120.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120.png?2602273",
+    "img_url": "../images/cardlist/card/OP13-120.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120.png?260408",
     "cost": 6,
     "attributes": [
       "Special"
@@ -3823,32 +4022,32 @@
     "variants": [
       {
         "id": "OP13-120_p1",
-        "img_url": "../images/cardlist/card/OP13-120_p1.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p1.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-120_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p1.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p2",
-        "img_url": "../images/cardlist/card/OP13-120_p2.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p2.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-120_p2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p2.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p3",
-        "img_url": "../images/cardlist/card/OP13-120_p3.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p3.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-120_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p3.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p4",
-        "img_url": "../images/cardlist/card/OP13-120_p4.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p4.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-120_p4.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p4.png?260408",
         "rarity": "SecretRare"
       },
       {
         "id": "OP13-120_p5",
-        "img_url": "../images/cardlist/card/OP13-120_p5.png?2602273",
-        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p5.png?2602273",
+        "img_url": "../images/cardlist/card/OP13-120_p5.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP13-120_p5.png?260408",
         "rarity": "SecretRare",
         "set_id": "PROMO",
         "set_label": "PROMO"

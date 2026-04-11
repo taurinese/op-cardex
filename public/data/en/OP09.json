@@ -5,17 +5,18 @@
     "name": "Donquixote Rosinante",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP04-119_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-119_p2.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP04-119_p2.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-119_p2.png?260410",
     "cost": 8,
     "attributes": [
       "Special"
     ],
     "power": 8000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 1,
     "types": [
       "Navy",
       "Donquixote Pirates"
@@ -23,7 +24,24 @@
     "effect": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects.<br>[On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP04-119",
+        "img_url": "../images/cardlist/card/OP04-119.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-119.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP04",
+        "set_label": "OP-04"
+      },
+      {
+        "id": "OP04-119_p1",
+        "img_url": "../images/cardlist/card/OP04-119_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-119_p1.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP04",
+        "set_label": "OP-04"
+      }
+    ]
   },
   {
     "id": "OP05-067_p4",
@@ -31,24 +49,74 @@
     "name": "Zoro-Juurou",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-067_p4.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p4.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP05-067_p4.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p4.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 2,
     "types": [
       "Straw Hat Crew"
     ],
     "effect": "[When Attacking] If you have 3 or less Life cards, add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-067",
+        "img_url": "../images/cardlist/card/OP05-067.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "OP05-067_r1",
+        "img_url": "../images/cardlist/card/OP05-067_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_r1.png?260410",
+        "rarity": "Rare",
+        "set_id": "ST18",
+        "set_label": "ST-18"
+      },
+      {
+        "id": "OP05-067_p1",
+        "img_url": "../images/cardlist/card/OP05-067_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p1.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "OP05-067_p2",
+        "img_url": "../images/cardlist/card/OP05-067_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p2.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP05-067_p5",
+        "img_url": "../images/cardlist/card/OP05-067_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p5.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP05-067_p6",
+        "img_url": "../images/cardlist/card/OP05-067_p6.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-067_p6.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP05-093_p2",
@@ -56,24 +124,42 @@
     "name": "Rob Lucci",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-093_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-093_p2.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP05-093_p2.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-093_p2.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 2,
     "types": [
       "CP0"
     ],
     "effect": "[On Play] You may place 3 cards from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 2 or less and up to 1 of your opponent's Characters with a cost of 1 or less.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-093",
+        "img_url": "../images/cardlist/card/OP05-093.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-093.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "OP05-093_p1",
+        "img_url": "../images/cardlist/card/OP05-093_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-093_p1.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      }
+    ]
   },
   {
     "id": "OP05-119_p6",
@@ -81,17 +167,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP05-119_p6.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p6.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP05-119_p6.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p6.png?260410",
     "cost": 10,
     "attributes": [
       "Strike"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 2,
     "types": [
       "The Four Emperors",
       "Straw Hat Crew"
@@ -99,7 +186,72 @@
     "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.<br>[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP05-119",
+        "img_url": "../images/cardlist/card/OP05-119.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "OP05-119_p1",
+        "img_url": "../images/cardlist/card/OP05-119_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p1.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "OP05-119_p2",
+        "img_url": "../images/cardlist/card/OP05-119_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p2.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "OP05",
+        "set_label": "OP-05"
+      },
+      {
+        "id": "OP05-119_p7",
+        "img_url": "../images/cardlist/card/OP05-119_p7.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p7.png?260410",
+        "rarity": "Special",
+        "set_id": "OP11",
+        "set_label": "OP-11"
+      },
+      {
+        "id": "OP05-119_p8",
+        "img_url": "../images/cardlist/card/OP05-119_p8.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p8.png?260410",
+        "rarity": "Special",
+        "set_id": "OP11",
+        "set_label": "OP-11"
+      },
+      {
+        "id": "OP05-119_p4",
+        "img_url": "../images/cardlist/card/OP05-119_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p4.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP05-119_r1",
+        "img_url": "../images/cardlist/card/OP05-119_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_r1.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP05-119_r2",
+        "img_url": "../images/cardlist/card/OP05-119_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-119_r2.png?260410",
+        "rarity": "SecretRare",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "OP07-015_p2",
@@ -107,24 +259,50 @@
     "name": "Monkey.D.Dragon",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-015_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-015_p2.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP07-015_p2.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-015_p2.png?260410",
     "cost": 8,
     "attributes": [
       "Special"
     ],
     "power": 9000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 2,
     "types": [
       "Revolutionary Army"
     ],
     "effect": "[Rush] (This card can attack on the turn in which it is played.)<br>[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP07-015",
+        "img_url": "../images/cardlist/card/OP07-015.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-015.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP07",
+        "set_label": "OP-07"
+      },
+      {
+        "id": "OP07-015_p1",
+        "img_url": "../images/cardlist/card/OP07-015_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-015_p1.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP07",
+        "set_label": "OP-07"
+      },
+      {
+        "id": "OP07-015_r1",
+        "img_url": "../images/cardlist/card/OP07-015_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-015_r1.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP07-051_p3",
@@ -132,17 +310,18 @@
     "name": "Boa Hancock",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP07-051_p3.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-051_p3.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP07-051_p3.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-051_p3.png?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 8000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 2,
     "types": [
       "The Seven Warlords of the Sea",
       "Kuja Pirates"
@@ -150,7 +329,48 @@
     "effect": "[On Play] Up to 1 of your opponent's Characters other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP07-051",
+        "img_url": "../images/cardlist/card/OP07-051.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-051.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP07",
+        "set_label": "OP-07"
+      },
+      {
+        "id": "OP07-051_p1",
+        "img_url": "../images/cardlist/card/OP07-051_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-051_p1.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP07",
+        "set_label": "OP-07"
+      },
+      {
+        "id": "OP07-051_p2",
+        "img_url": "../images/cardlist/card/OP07-051_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-051_p2.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP07",
+        "set_label": "OP-07"
+      },
+      {
+        "id": "OP07-051_p4",
+        "img_url": "../images/cardlist/card/OP07-051_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-051_p4.png?260410",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP07-051_p5",
+        "img_url": "../images/cardlist/card/OP07-051_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-051_p5.png?260410",
+        "rarity": "SuperRare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP08-106_p2",
@@ -158,17 +378,18 @@
     "name": "Nami",
     "rarity": "Special",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP08-106_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p2.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP08-106_p2.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p2.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 2,
     "types": [
       "Egghead",
       "Straw Hat Crew"
@@ -176,7 +397,24 @@
     "effect": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. Then, if you have 3 or less cards in your hand, draw 1 card.",
     "trigger": "[Trigger] Activate this card's [On Play] effect.",
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP08-106",
+        "img_url": "../images/cardlist/card/OP08-106.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP08",
+        "set_label": "OP-08"
+      },
+      {
+        "id": "OP08-106_p1",
+        "img_url": "../images/cardlist/card/OP08-106_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-106_p1.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "OP08",
+        "set_label": "OP-08"
+      }
+    ]
   },
   {
     "id": "OP09-001",
@@ -184,17 +422,18 @@
     "name": "Shanks",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-001.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-001.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Red-Haired Pirates"
@@ -205,14 +444,14 @@
     "variants": [
       {
         "id": "OP09-001_p1",
-        "img_url": "../images/cardlist/card/OP09-001_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-001_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p1.png?260410",
         "rarity": "Leader"
       },
       {
         "id": "OP09-001_p2",
-        "img_url": "../images/cardlist/card/OP09-001_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-001_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png?260410",
         "rarity": "Leader",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -225,17 +464,18 @@
     "name": "Uta",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-002.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-002.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002.png?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "FILM"
     ],
@@ -245,22 +485,22 @@
     "variants": [
       {
         "id": "OP09-002_p1",
-        "img_url": "../images/cardlist/card/OP09-002_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-002_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002_p1.png?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP09-002_r1",
-        "img_url": "../images/cardlist/card/OP09-002_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-002_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002_r1.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-002_p2",
-        "img_url": "../images/cardlist/card/OP09-002_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-002_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-002_p2.png?260410",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -273,17 +513,18 @@
     "name": "Shachi & Penguin",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-003.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-003.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-003.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-003.png?260410",
     "cost": 4,
     "attributes": [
       "Ranged"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Heart Pirates"
     ],
@@ -298,17 +539,18 @@
     "name": "Shanks",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-004.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-004.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Red-Haired Pirates"
@@ -319,50 +561,50 @@
     "variants": [
       {
         "id": "OP09-004_p1",
-        "img_url": "../images/cardlist/card/OP09-004_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-004_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-004_p2",
-        "img_url": "../images/cardlist/card/OP09-004_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-004_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p2.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-004_p3",
-        "img_url": "../images/cardlist/card/OP09-004_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-004_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p3.png?260410",
         "rarity": "Special"
       },
       {
         "id": "OP09-004_p5",
-        "img_url": "../images/cardlist/card/OP09-004_p5.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png?251017",
+        "img_url": "../images/cardlist/card/OP09-004_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p5.png?260410",
         "rarity": "Special",
         "set_id": "OP13",
         "set_label": "OP-13"
       },
       {
         "id": "OP09-004_p6",
-        "img_url": "../images/cardlist/card/OP09-004_p6.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png?251017",
+        "img_url": "../images/cardlist/card/OP09-004_p6.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p6.png?260410",
         "rarity": "Special",
         "set_id": "OP13",
         "set_label": "OP-13"
       },
       {
         "id": "OP09-004_r1",
-        "img_url": "../images/cardlist/card/OP09-004_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-004_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_r1.png?260410",
         "rarity": "SuperRare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-004_p4",
-        "img_url": "../images/cardlist/card/OP09-004_p4.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.png?251017",
+        "img_url": "../images/cardlist/card/OP09-004_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004_p4.png?260410",
         "rarity": "SuperRare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -375,17 +617,18 @@
     "name": "Silvers Rayleigh",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-005.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-005.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-005.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-005.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Roger Pirates"
     ],
@@ -395,16 +638,16 @@
     "variants": [
       {
         "id": "OP09-005_p1",
-        "img_url": "../images/cardlist/card/OP09-005_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-005_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-005_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-005_p1.png?260410",
         "rarity": "Special",
         "set_id": "OP11",
         "set_label": "OP-11"
       },
       {
         "id": "OP09-005_r1",
-        "img_url": "../images/cardlist/card/OP09-005_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-005_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-005_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-005_r1.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -417,17 +660,18 @@
     "name": "Howling Gab",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-006.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-006.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -437,8 +681,8 @@
     "variants": [
       {
         "id": "OP09-006_r1",
-        "img_url": "../images/cardlist/card/OP09-006_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-006_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -451,17 +695,18 @@
     "name": "Heat",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-007.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-007.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-007.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-007.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Kid Pirates"
     ],
@@ -476,24 +721,34 @@
     "name": "Building Snake",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-008.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-008.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-008.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-008.png?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "[Activate: Main] You may place this Character at the bottom of the owner's deck: Give up to 1 of your opponent's Characters −3000 power during this turn.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-008_p1",
+        "img_url": "../images/cardlist/card/OP09-008_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-008_p1.png?260410",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-009",
@@ -501,17 +756,18 @@
     "name": "Benn.Beckman",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-009.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-009.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009.png?260410",
     "cost": 7,
     "attributes": [
       "Ranged"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -521,30 +777,30 @@
     "variants": [
       {
         "id": "OP09-009_p1",
-        "img_url": "../images/cardlist/card/OP09-009_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-009_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-009_p3",
-        "img_url": "../images/cardlist/card/OP09-009_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-009_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p3.png?260410",
         "rarity": "Special",
         "set_id": "OP13",
         "set_label": "OP-13"
       },
       {
         "id": "OP09-009_r1",
-        "img_url": "../images/cardlist/card/OP09-009_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-009_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_r1.png?260410",
         "rarity": "SuperRare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-009_p2",
-        "img_url": "../images/cardlist/card/OP09-009_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-009_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009_p2.png?260410",
         "rarity": "SuperRare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -557,17 +813,18 @@
     "name": "Bonk Punch",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-010.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-010.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -577,8 +834,8 @@
     "variants": [
       {
         "id": "OP09-010_r1",
-        "img_url": "../images/cardlist/card/OP09-010_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-010_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -591,17 +848,18 @@
     "name": "Hongo",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-011.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-011.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -611,32 +869,32 @@
     "variants": [
       {
         "id": "OP09-011_p1",
-        "img_url": "../images/cardlist/card/OP09-011_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-011_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-011_p2",
-        "img_url": "../images/cardlist/card/OP09-011_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-011_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p2.png?260410",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-011_p3",
-        "img_url": "../images/cardlist/card/OP09-011_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-011_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p3.png?260410",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-011_r1",
-        "img_url": "../images/cardlist/card/OP09-011_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-011_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -649,17 +907,18 @@
     "name": "Monster",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-012.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-012.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Red-Haired Pirates"
@@ -670,8 +929,8 @@
     "variants": [
       {
         "id": "OP09-012_r1",
-        "img_url": "../images/cardlist/card/OP09-012_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-012_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -684,17 +943,18 @@
     "name": "Yasopp",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-013.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-013.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013.png?260410",
     "cost": 5,
     "attributes": [
       "Ranged"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -704,24 +964,24 @@
     "variants": [
       {
         "id": "OP09-013_p2",
-        "img_url": "../images/cardlist/card/OP09-013_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-013_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p2.png?260410",
         "rarity": "Special",
         "set_id": "OP12",
         "set_label": "OP-12"
       },
       {
         "id": "OP09-013_p1",
-        "img_url": "../images/cardlist/card/OP09-013_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-013_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png?260410",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-013_r1",
-        "img_url": "../images/cardlist/card/OP09-013_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-013_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -734,17 +994,18 @@
     "name": "Limejuice",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-014.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-014.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -754,32 +1015,32 @@
     "variants": [
       {
         "id": "OP09-014_p1",
-        "img_url": "../images/cardlist/card/OP09-014_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-014_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_p1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-014_p2",
-        "img_url": "../images/cardlist/card/OP09-014_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-014_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_p2.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-014_r2",
-        "img_url": "../images/cardlist/card/OP09-014_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-014_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r2.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-014_r1",
-        "img_url": "../images/cardlist/card/OP09-014_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-014_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -792,17 +1053,18 @@
     "name": "Lucky.Roux",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-015.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-015.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015.png?260410",
     "cost": 4,
     "attributes": [
       "Ranged"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -812,16 +1074,16 @@
     "variants": [
       {
         "id": "OP09-015_p1",
-        "img_url": "../images/cardlist/card/OP09-015_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-015_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_p1.png?260410",
         "rarity": "TreasureRare",
         "set_id": "OP11",
         "set_label": "OP-11"
       },
       {
         "id": "OP09-015_r1",
-        "img_url": "../images/cardlist/card/OP09-015_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-015_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -834,17 +1096,18 @@
     "name": "Rockstar",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-016.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-016.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016.png?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -854,8 +1117,8 @@
     "variants": [
       {
         "id": "OP09-016_r1",
-        "img_url": "../images/cardlist/card/OP09-016_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-016_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -868,17 +1131,18 @@
     "name": "Wire",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-017.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-017.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-017.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-017.png?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Kid Pirates"
     ],
@@ -893,15 +1157,16 @@
     "name": "Get Out of Here!",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-018.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-018.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-018.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-018.png?260410",
     "cost": 3,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -916,15 +1181,16 @@
     "name": "Nobody Hurts a Friend of Mine!!!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-019.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-019.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-019.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-019.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -939,15 +1205,16 @@
     "name": "Come On!! We'll Fight You!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-020.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-020.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Red-Haired Pirates"
@@ -957,25 +1224,25 @@
     "tile_set_id": "OP09",
     "variants": [
       {
-        "id": "OP09-020_p2",
-        "img_url": "../images/cardlist/card/OP09-020_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_p2.png?251017",
-        "rarity": "Special",
-        "set_id": "PRB02",
-        "set_label": "PRB-02"
-      },
-      {
         "id": "OP09-020_r2",
-        "img_url": "../images/cardlist/card/OP09-020_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-020_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r2.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
+        "id": "OP09-020_p2",
+        "img_url": "../images/cardlist/card/OP09-020_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_p2.png?260410",
+        "rarity": "Special",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
         "id": "OP09-020_r1",
-        "img_url": "../images/cardlist/card/OP09-020_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-020_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST23",
         "set_label": "ST-23"
@@ -988,15 +1255,16 @@
     "name": "Red Force",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP09-021.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-021.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-021.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-021.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -1011,18 +1279,19 @@
     "name": "Lim",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-022.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022.png?251017",
-    "colors": [
-      "Green",
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-022.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022.png?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Green",
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY"
     ],
@@ -1032,8 +1301,8 @@
     "variants": [
       {
         "id": "OP09-022_p1",
-        "img_url": "../images/cardlist/card/OP09-022_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-022_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022_p1.png?260410",
         "rarity": "Leader"
       }
     ]
@@ -1044,17 +1313,18 @@
     "name": "Adio",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-023.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-023.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-023.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-023.png?260410",
     "cost": 9,
     "attributes": [
       "Special"
     ],
     "power": 9000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY"
     ],
@@ -1064,8 +1334,8 @@
     "variants": [
       {
         "id": "OP09-023_p1",
-        "img_url": "../images/cardlist/card/OP09-023_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-023_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-023_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-023_p1.png?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -1076,17 +1346,18 @@
     "name": "Usopp",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-024.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-024.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-024.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-024.png?260410",
     "cost": 4,
     "attributes": [
       "Ranged"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Straw Hat Crew"
@@ -1102,17 +1373,18 @@
     "name": "Crocodile",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-025.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-025.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-025.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-025.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "The Seven Warlords of the Sea",
@@ -1129,17 +1401,18 @@
     "name": "Sakazuki",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-026.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-026.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-026.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-026.png?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Navy"
@@ -1155,17 +1428,18 @@
     "name": "Sabo",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-027.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-027.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Revolutionary Army"
@@ -1176,32 +1450,32 @@
     "variants": [
       {
         "id": "OP09-027_p1",
-        "img_url": "../images/cardlist/card/OP09-027_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-027_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-027_r1",
-        "img_url": "../images/cardlist/card/OP09-027_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-027_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-027_p2",
-        "img_url": "../images/cardlist/card/OP09-027_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-027_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p2.png?260410",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-027_p3",
-        "img_url": "../images/cardlist/card/OP09-027_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-027_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-027_p3.png?260410",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -1214,17 +1488,18 @@
     "name": "Sanji",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-028.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-028.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-028.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-028.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Straw Hat Crew"
@@ -1240,17 +1515,18 @@
     "name": "Tony Tony.Chopper",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-029.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-029.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-029.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-029.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Animal",
@@ -1267,17 +1543,18 @@
     "name": "Trafalgar Law",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-030.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-030.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-030.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-030.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Supernovas",
@@ -1294,17 +1571,18 @@
     "name": "Donquixote Doflamingo",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-031.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-031.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-031.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-031.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "The Seven Warlords of the Sea",
@@ -1321,17 +1599,18 @@
     "name": "Donquixote Rosinante",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-032.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-032.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-032.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-032.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Navy",
@@ -1348,17 +1627,18 @@
     "name": "Nico Robin",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-033.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-033.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-033.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-033.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Straw Hat Crew"
@@ -1369,16 +1649,16 @@
     "variants": [
       {
         "id": "OP09-033_p1",
-        "img_url": "../images/cardlist/card/OP09-033_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-033_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-033_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-033_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-033_r1",
-        "img_url": "../images/cardlist/card/OP09-033_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-033_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-033_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-033_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -1391,17 +1671,18 @@
     "name": "Perona",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-034.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-034.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-034.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-034.png?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 2000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "Muggy Kingdom",
       "Thriller Bark Pirates"
@@ -1412,9 +1693,17 @@
     "variants": [
       {
         "id": "OP09-034_p1",
-        "img_url": "../images/cardlist/card/OP09-034_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-034_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-034_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-034_p1.png?260410",
         "rarity": "Rare"
+      },
+      {
+        "id": "OP09-034_p2",
+        "img_url": "../images/cardlist/card/OP09-034_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-034_p2.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
       }
     ]
   },
@@ -1424,17 +1713,18 @@
     "name": "Portgas.D.Ace",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-035.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-035.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-035.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-035.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Whitebeard Pirates"
@@ -1445,8 +1735,8 @@
     "variants": [
       {
         "id": "OP09-035_r1",
-        "img_url": "../images/cardlist/card/OP09-035_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-035_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-035_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST28",
         "set_label": "ST-28"
@@ -1459,17 +1749,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-036.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-036.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-036.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-036.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Supernovas",
@@ -1486,17 +1777,18 @@
     "name": "Lim",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-037.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-037.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037.png?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY"
     ],
@@ -1506,14 +1798,14 @@
     "variants": [
       {
         "id": "OP09-037_p1",
-        "img_url": "../images/cardlist/card/OP09-037_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-037_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-037_p2",
-        "img_url": "../images/cardlist/card/OP09-037_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-037_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-037_p2.png?260410",
         "rarity": "Special",
         "set_id": "OP12",
         "set_label": "OP-12"
@@ -1526,17 +1818,18 @@
     "name": "Rob Lucci",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-038.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-038.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-038.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-038.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "CP9"
@@ -1552,15 +1845,16 @@
     "name": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-039.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-039.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-039.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-039.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Supernovas",
@@ -1577,15 +1871,16 @@
     "name": "Thunder Lance Flip Caliber Phoenix Shot",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-040.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-040.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-040.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-040.png?260410",
     "cost": 3,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Supernovas",
@@ -1602,15 +1897,16 @@
     "name": "Soul Franky Swing Arm Boxing Solid",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-041.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-041.png?251017",
-    "colors": [
-      "Green"
-    ],
+    "img_url": "../images/cardlist/card/OP09-041.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-041.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Green"
+    ],
+    "block_number": 3,
     "types": [
       "ODYSSEY",
       "Straw Hat Crew"
@@ -1626,17 +1922,18 @@
     "name": "Buggy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-042.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-042.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Cross Guild"
@@ -1647,14 +1944,14 @@
     "variants": [
       {
         "id": "OP09-042_p1",
-        "img_url": "../images/cardlist/card/OP09-042_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-042_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p1.png?260410",
         "rarity": "Leader"
       },
       {
         "id": "OP09-042_p2",
-        "img_url": "../images/cardlist/card/OP09-042_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-042_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png?260410",
         "rarity": "Leader",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -1667,17 +1964,18 @@
     "name": "Alvida",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-043.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-043.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -1686,9 +1984,33 @@
     "tile_set_id": "OP09",
     "variants": [
       {
+        "id": "OP09-043_p1",
+        "img_url": "../images/cardlist/card/OP09-043_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043_p1.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-043_p2",
+        "img_url": "../images/cardlist/card/OP09-043_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043_p2.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-043_p3",
+        "img_url": "../images/cardlist/card/OP09-043_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043_p3.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
         "id": "OP09-043_r1",
-        "img_url": "../images/cardlist/card/OP09-043_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-043_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -1701,17 +2023,18 @@
     "name": "Izo",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-044.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-044.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-044.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-044.png?260410",
     "cost": 3,
     "attributes": [
       "Ranged"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Land of Wano",
       "Whitebeard Pirates"
@@ -1727,17 +2050,18 @@
     "name": "Cabaji",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-045.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-045.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-045.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-045.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -1747,8 +2071,8 @@
     "variants": [
       {
         "id": "OP09-045_r1",
-        "img_url": "../images/cardlist/card/OP09-045_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-045_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -1761,17 +2085,18 @@
     "name": "Crocodile",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-046.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-046.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-046.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-046.png?260410",
     "cost": 7,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild",
       "Former Baroque Works"
@@ -1782,14 +2107,14 @@
     "variants": [
       {
         "id": "OP09-046_p1",
-        "img_url": "../images/cardlist/card/OP09-046_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-046_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-046_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-046_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-046_r1",
-        "img_url": "../images/cardlist/card/OP09-046_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-046_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-046_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-046_r1.png?260410",
         "rarity": "SuperRare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -1802,17 +2127,18 @@
     "name": "Kouzuki Oden",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-047.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-047.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-047.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-047.png?260410",
     "cost": 9,
     "attributes": [
       "Slash"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Land of Wano",
       "Whitebeard Pirates"
@@ -1828,17 +2154,18 @@
     "name": "Dracule Mihawk",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-048.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-048.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048.png?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -1848,14 +2175,14 @@
     "variants": [
       {
         "id": "OP09-048_p1",
-        "img_url": "../images/cardlist/card/OP09-048_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-048_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-048_r1",
-        "img_url": "../images/cardlist/card/OP09-048_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-048_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-048_r1.png?260410",
         "rarity": "SuperRare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -1868,17 +2195,18 @@
     "name": "Jozu",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-049.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-049.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-049.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-049.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Whitebeard Pirates"
     ],
@@ -1893,17 +2221,18 @@
     "name": "Nami",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-050.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-050.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "East Blue"
     ],
@@ -1913,14 +2242,14 @@
     "variants": [
       {
         "id": "OP09-050_p1",
-        "img_url": "../images/cardlist/card/OP09-050_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-050_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050_p1.png?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP09-050_p2",
-        "img_url": "../images/cardlist/card/OP09-050_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-050_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-050_p2.png?260410",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -1933,17 +2262,18 @@
     "name": "Buggy",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-051.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-051.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051.png?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Cross Guild"
@@ -1954,42 +2284,42 @@
     "variants": [
       {
         "id": "OP09-051_p1",
-        "img_url": "../images/cardlist/card/OP09-051_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-051_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p1.png?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP09-051_p2",
-        "img_url": "../images/cardlist/card/OP09-051_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-051_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p2.png?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP09-051_p3",
-        "img_url": "../images/cardlist/card/OP09-051_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-051_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p3.png?260410",
         "rarity": "Special"
       },
       {
         "id": "OP09-051_p4",
-        "img_url": "../images/cardlist/card/OP09-051_p4.png?260305",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png?260305",
+        "img_url": "../images/cardlist/card/OP09-051_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p4.png?260410",
         "rarity": "Special",
         "set_id": "OP14EB04",
         "set_label": "OP14-EB04"
       },
       {
         "id": "OP09-051_p5",
-        "img_url": "../images/cardlist/card/OP09-051_p5.png?260305",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?260305",
+        "img_url": "../images/cardlist/card/OP09-051_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png?260410",
         "rarity": "Special",
         "set_id": "OP14EB04",
         "set_label": "OP14-EB04"
       },
       {
         "id": "OP09-051_r1",
-        "img_url": "../images/cardlist/card/OP09-051_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-051_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -2002,17 +2332,18 @@
     "name": "Marco",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-052.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-052.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-052.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-052.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Whitebeard Pirates"
     ],
@@ -2027,17 +2358,18 @@
     "name": "Mohji",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-053.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-053.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-053.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-053.png?260410",
     "cost": 5,
     "attributes": [
       "Wisdom"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -2047,8 +2379,8 @@
     "variants": [
       {
         "id": "OP09-053_r1",
-        "img_url": "../images/cardlist/card/OP09-053_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-053_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -2061,17 +2393,18 @@
     "name": "Richie",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-054.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-054.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-054.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-054.png?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Cross Guild"
@@ -2082,8 +2415,8 @@
     "variants": [
       {
         "id": "OP09-054_r1",
-        "img_url": "../images/cardlist/card/OP09-054_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-054_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -2096,17 +2429,18 @@
     "name": "Mr.1(Daz.Bonez)",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-055.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-055.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-055.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-055.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild",
       "Former Baroque Works"
@@ -2117,8 +2451,8 @@
     "variants": [
       {
         "id": "OP09-055_r1",
-        "img_url": "../images/cardlist/card/OP09-055_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-055_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -2131,17 +2465,18 @@
     "name": "Mr.3(Galdino)",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-056.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-056.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056.png?260410",
     "cost": 1,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild",
       "Former Baroque Works"
@@ -2152,24 +2487,24 @@
     "variants": [
       {
         "id": "OP09-056_p1",
-        "img_url": "../images/cardlist/card/OP09-056_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-056_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056_p1.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-056_r2",
-        "img_url": "../images/cardlist/card/OP09-056_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056_r2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-056_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056_r2.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-056_r1",
-        "img_url": "../images/cardlist/card/OP09-056_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-056_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -2182,15 +2517,16 @@
     "name": "Cross Guild",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-057.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-057.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -2199,25 +2535,25 @@
     "tile_set_id": "OP09",
     "variants": [
       {
-        "id": "OP09-057_p2",
-        "img_url": "../images/cardlist/card/OP09-057_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_p2.png?251017",
-        "rarity": "Special",
-        "set_id": "PRB02",
-        "set_label": "PRB-02"
-      },
-      {
         "id": "OP09-057_r2",
-        "img_url": "../images/cardlist/card/OP09-057_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_r2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-057_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_r2.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
+        "id": "OP09-057_p2",
+        "img_url": "../images/cardlist/card/OP09-057_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_p2.png?260410",
+        "rarity": "Special",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
         "id": "OP09-057_r1",
-        "img_url": "../images/cardlist/card/OP09-057_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-057_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-057_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST25",
         "set_label": "ST-25"
@@ -2230,15 +2566,16 @@
     "name": "Special Muggy Ball",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-058.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-058.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-058.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-058.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Buggy Pirates"
     ],
@@ -2253,15 +2590,16 @@
     "name": "Murder at the Steam Bath",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-059.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-059.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-059.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-059.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Buggy Pirates"
     ],
@@ -2276,15 +2614,16 @@
     "name": "Emptee Bluffs Island",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP09-060.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-060.png?251017",
-    "colors": [
-      "Blue"
-    ],
+    "img_url": "../images/cardlist/card/OP09-060.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-060.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Blue"
+    ],
+    "block_number": 3,
     "types": [
       "Cross Guild"
     ],
@@ -2299,18 +2638,19 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-061.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061.png?251017",
-    "colors": [
-      "Purple",
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-061.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Purple",
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Straw Hat Crew"
@@ -2321,14 +2661,14 @@
     "variants": [
       {
         "id": "OP09-061_p1",
-        "img_url": "../images/cardlist/card/OP09-061_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-061_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.png?260410",
         "rarity": "Leader"
       },
       {
         "id": "OP09-061_p2",
-        "img_url": "../images/cardlist/card/OP09-061_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-061_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png?260410",
         "rarity": "Leader",
         "set_id": "ST26",
         "set_label": "ST-26"
@@ -2341,18 +2681,19 @@
     "name": "Nico Robin",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-062.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062.png?251017",
-    "colors": [
-      "Purple",
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-062.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2362,8 +2703,8 @@
     "variants": [
       {
         "id": "OP09-062_p1",
-        "img_url": "../images/cardlist/card/OP09-062_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-062_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062_p1.png?260410",
         "rarity": "Leader"
       }
     ]
@@ -2374,17 +2715,18 @@
     "name": "Usopp",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-063.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-063.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-063.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-063.png?260410",
     "cost": 4,
     "attributes": [
       "Ranged"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2394,8 +2736,8 @@
     "variants": [
       {
         "id": "OP09-063_r1",
-        "img_url": "../images/cardlist/card/OP09-063_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-063_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST26",
         "set_label": "ST-26"
@@ -2408,17 +2750,18 @@
     "name": "Killer",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-064.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-064.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-064.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-064.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Kid Pirates"
     ],
@@ -2433,17 +2776,18 @@
     "name": "Sanji",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-065.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-065.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065.png?260410",
     "cost": 7,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2453,22 +2797,22 @@
     "variants": [
       {
         "id": "OP09-065_p1",
-        "img_url": "../images/cardlist/card/OP09-065_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-065_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-065_r1",
-        "img_url": "../images/cardlist/card/OP09-065_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-065_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_r1.png?260410",
         "rarity": "SuperRare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-065_p2",
-        "img_url": "../images/cardlist/card/OP09-065_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-065_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-065_p2.png?260410",
         "rarity": "SuperRare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -2481,17 +2825,18 @@
     "name": "Jean Bart",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-066.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-066.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-066.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-066.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Heart Pirates"
     ],
@@ -2506,17 +2851,18 @@
     "name": "Jinbe",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-067.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-067.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-067.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-067.png?260410",
     "cost": 7,
     "attributes": [
       "Strike"
     ],
     "power": 9000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Fish-Man",
       "Straw Hat Crew"
@@ -2532,17 +2878,18 @@
     "name": "Tony Tony.Chopper",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-068.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-068.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-068.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-068.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Straw Hat Crew"
@@ -2558,17 +2905,18 @@
     "name": "Trafalgar Law",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-069.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-069.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069.png?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Heart Pirates"
     ],
@@ -2578,22 +2926,22 @@
     "variants": [
       {
         "id": "OP09-069_p1",
-        "img_url": "../images/cardlist/card/OP09-069_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-069_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_p1.png?260410",
         "rarity": "Rare"
       },
       {
         "id": "OP09-069_r1",
-        "img_url": "../images/cardlist/card/OP09-069_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-069_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_r1.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-069_p2",
-        "img_url": "../images/cardlist/card/OP09-069_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-069_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-069_p2.png?260410",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -2606,17 +2954,18 @@
     "name": "Nami",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-070.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-070.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-070.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-070.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2625,9 +2974,17 @@
     "tile_set_id": "OP09",
     "variants": [
       {
+        "id": "OP09-070_p1",
+        "img_url": "../images/cardlist/card/OP09-070_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-070_p1.png?260410",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
         "id": "OP09-070_r1",
-        "img_url": "../images/cardlist/card/OP09-070_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-070_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST26",
         "set_label": "ST-26"
@@ -2640,17 +2997,18 @@
     "name": "Nico Robin",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-071.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-071.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-071.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-071.png?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2665,17 +3023,18 @@
     "name": "Franky",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-072.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-072.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2685,14 +3044,14 @@
     "variants": [
       {
         "id": "OP09-072_p1",
-        "img_url": "../images/cardlist/card/OP09-072_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-072_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-072_r1",
-        "img_url": "../images/cardlist/card/OP09-072_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-072_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-072_r1.png?260410",
         "rarity": "SuperRare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -2705,17 +3064,18 @@
     "name": "Brook",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-073.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-073.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-073.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-073.png?260410",
     "cost": 6,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2730,17 +3090,18 @@
     "name": "Bepo",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-074.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-074.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-074.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-074.png?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 2000,
     "counter": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Minks",
       "Heart Pirates"
@@ -2756,17 +3117,18 @@
     "name": "Eustass\"Captain\"Kid",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-075.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-075.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-075.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-075.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Kid Pirates"
     ],
@@ -2781,17 +3143,18 @@
     "name": "Roronoa Zoro",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-076.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-076.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -2801,32 +3164,32 @@
     "variants": [
       {
         "id": "OP09-076_p2",
-        "img_url": "../images/cardlist/card/OP09-076_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-076_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_p2.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-076_r2",
-        "img_url": "../images/cardlist/card/OP09-076_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_r2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-076_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_r2.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-076_p1",
-        "img_url": "../images/cardlist/card/OP09-076_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-076_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_p1.png?260410",
         "rarity": "Rare",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-076_r1",
-        "img_url": "../images/cardlist/card/OP09-076_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-076_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST26",
         "set_label": "ST-26"
@@ -2839,15 +3202,16 @@
     "name": "Gum-Gum Lightning",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-077.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-077.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Straw Hat Crew"
@@ -2857,25 +3221,33 @@
     "tile_set_id": "OP09",
     "variants": [
       {
+        "id": "OP09-077_p2",
+        "img_url": "../images/cardlist/card/OP09-077_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_p2.png?260410",
+        "rarity": "Uncommon",
+        "set_id": null,
+        "set_label": null
+      },
+      {
         "id": "OP09-077_p1",
-        "img_url": "../images/cardlist/card/OP09-077_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-077_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_p1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-077_r2",
-        "img_url": "../images/cardlist/card/OP09-077_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_r2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-077_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_r2.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-077_r1",
-        "img_url": "../images/cardlist/card/OP09-077_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-077_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST26",
         "set_label": "ST-26"
@@ -2888,15 +3260,16 @@
     "name": "Gum-Gum Giant",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-078.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-078.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Straw Hat Crew"
@@ -2906,25 +3279,25 @@
     "tile_set_id": "OP09",
     "variants": [
       {
-        "id": "OP09-078_p2",
-        "img_url": "../images/cardlist/card/OP09-078_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p2.png?251017",
-        "rarity": "Special",
-        "set_id": "PRB02",
-        "set_label": "PRB-02"
-      },
-      {
         "id": "OP09-078_r1",
-        "img_url": "../images/cardlist/card/OP09-078_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-078_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_r1.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
+        "id": "OP09-078_p2",
+        "img_url": "../images/cardlist/card/OP09-078_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p2.png?260410",
+        "rarity": "Special",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
         "id": "OP09-078_p1",
-        "img_url": "../images/cardlist/card/OP09-078_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-078_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png?260410",
         "rarity": "Rare",
         "set_id": "ST26",
         "set_label": "ST-26"
@@ -2937,15 +3310,16 @@
     "name": "Gum-Gum Jump Rope",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-079.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-079.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-079.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-079.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Straw Hat Crew"
@@ -2956,16 +3330,16 @@
     "variants": [
       {
         "id": "OP09-079_p1",
-        "img_url": "../images/cardlist/card/OP09-079_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-079_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-079_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-079_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-079_r1",
-        "img_url": "../images/cardlist/card/OP09-079_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-079_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-079_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-079_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -2978,15 +3352,16 @@
     "name": "Thousand Sunny",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP09-080.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-080.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-080.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-080.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -3001,17 +3376,18 @@
     "name": "Marshall.D.Teach",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-081.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-081.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Blackbeard Pirates"
@@ -3022,14 +3398,14 @@
     "variants": [
       {
         "id": "OP09-081_p1",
-        "img_url": "../images/cardlist/card/OP09-081_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-081_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png?260410",
         "rarity": "Leader"
       },
       {
         "id": "OP09-081_p2",
-        "img_url": "../images/cardlist/card/OP09-081_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-081_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png?260410",
         "rarity": "Leader",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3042,17 +3418,18 @@
     "name": "Avalo Pizarro",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-082.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-082.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-082.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-082.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3067,17 +3444,18 @@
     "name": "Van Augur",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-083.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-083.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?260410",
     "cost": 5,
     "attributes": [
       "Ranged"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3087,8 +3465,8 @@
     "variants": [
       {
         "id": "OP09-083_r1",
-        "img_url": "../images/cardlist/card/OP09-083_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-083_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3101,17 +3479,18 @@
     "name": "Catarina Devon",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-084.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-084.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-084.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-084.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3121,16 +3500,16 @@
     "variants": [
       {
         "id": "OP09-084_p1",
-        "img_url": "../images/cardlist/card/OP09-084_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-084_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-084_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-084_p1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-084_r1",
-        "img_url": "../images/cardlist/card/OP09-084_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-084_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-084_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-084_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -3143,17 +3522,18 @@
     "name": "Gecko Moria",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-085.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-085.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-085.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-085.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Thriller Bark Pirates"
     ],
@@ -3168,17 +3548,18 @@
     "name": "Jesus Burgess",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-086.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-086.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3188,24 +3569,24 @@
     "variants": [
       {
         "id": "OP09-086_p1",
-        "img_url": "../images/cardlist/card/OP09-086_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-086_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_p1.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-086_r2",
-        "img_url": "../images/cardlist/card/OP09-086_r2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-086_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r2.png?260410",
         "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-086_r1",
-        "img_url": "../images/cardlist/card/OP09-086_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-086_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3218,17 +3599,18 @@
     "name": "Charlotte Pudding",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-087.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-087.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-087.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-087.png?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Big Mom Pirates"
     ],
@@ -3243,17 +3625,18 @@
     "name": "Shiryu",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-088.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-088.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3263,8 +3646,8 @@
     "variants": [
       {
         "id": "OP09-088_r1",
-        "img_url": "../images/cardlist/card/OP09-088_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-088_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3277,17 +3660,18 @@
     "name": "Stronger",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-089.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-089.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Blackbeard Pirates"
@@ -3297,9 +3681,33 @@
     "tile_set_id": "OP09",
     "variants": [
       {
+        "id": "OP09-089_p1",
+        "img_url": "../images/cardlist/card/OP09-089_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_p1.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-089_p2",
+        "img_url": "../images/cardlist/card/OP09-089_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_p2.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-089_p3",
+        "img_url": "../images/cardlist/card/OP09-089_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_p3.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
         "id": "OP09-089_r1",
-        "img_url": "../images/cardlist/card/OP09-089_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-089_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3312,17 +3720,18 @@
     "name": "Doc Q",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-090.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-090.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3332,8 +3741,8 @@
     "variants": [
       {
         "id": "OP09-090_r1",
-        "img_url": "../images/cardlist/card/OP09-090_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-090_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3346,17 +3755,18 @@
     "name": "Vasco Shot",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-091.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-091.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3366,8 +3776,8 @@
     "variants": [
       {
         "id": "OP09-091_r1",
-        "img_url": "../images/cardlist/card/OP09-091_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-091_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3380,17 +3790,18 @@
     "name": "Marshall.D.Teach",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-092.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-092.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-092.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-092.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Whitebeard Pirates"
     ],
@@ -3405,17 +3816,18 @@
     "name": "Marshall.D.Teach",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-093.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-093.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093.png?260410",
     "cost": 10,
     "attributes": [
       "Special"
     ],
     "power": 12000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Blackbeard Pirates"
@@ -3426,42 +3838,42 @@
     "variants": [
       {
         "id": "OP09-093_p1",
-        "img_url": "../images/cardlist/card/OP09-093_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-093_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p1.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-093_p2",
-        "img_url": "../images/cardlist/card/OP09-093_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-093_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png?260410",
         "rarity": "SuperRare"
       },
       {
         "id": "OP09-093_p3",
-        "img_url": "../images/cardlist/card/OP09-093_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-093_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p3.png?260410",
         "rarity": "Special"
       },
       {
         "id": "OP09-093_p4",
-        "img_url": "../images/cardlist/card/OP09-093_p4.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png?251017",
+        "img_url": "../images/cardlist/card/OP09-093_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p4.png?260410",
         "rarity": "Special",
         "set_id": "OP12",
         "set_label": "OP-12"
       },
       {
         "id": "OP09-093_p5",
-        "img_url": "../images/cardlist/card/OP09-093_p5.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png?251017",
+        "img_url": "../images/cardlist/card/OP09-093_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_p5.png?260410",
         "rarity": "Special",
         "set_id": "OP12",
         "set_label": "OP-12"
       },
       {
         "id": "OP09-093_r1",
-        "img_url": "../images/cardlist/card/OP09-093_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-093_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-093_r1.png?260410",
         "rarity": "SuperRare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -3474,17 +3886,18 @@
     "name": "Peachbeard",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-094.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-094.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-094.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-094.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Peachbeard Pirates",
       "Blackbeard Pirates Allies"
@@ -3500,17 +3913,18 @@
     "name": "Laffitte",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-095.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-095.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?260410",
     "cost": 1,
     "attributes": [
       "Strike"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3519,9 +3933,17 @@
     "tile_set_id": "OP09",
     "variants": [
       {
+        "id": "OP09-095_p1",
+        "img_url": "../images/cardlist/card/OP09-095_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095_p1.png?260410",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
         "id": "OP09-095_r1",
-        "img_url": "../images/cardlist/card/OP09-095_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-095_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png?260410",
         "rarity": "Rare",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3534,15 +3956,16 @@
     "name": "My Era...Begins!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-096.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-096.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3551,18 +3974,18 @@
     "tile_set_id": "OP09",
     "variants": [
       {
-        "id": "OP09-096_p1",
-        "img_url": "../images/cardlist/card/OP09-096_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_p1.png?251017",
-        "rarity": "Special",
+        "id": "OP09-096_r1",
+        "img_url": "../images/cardlist/card/OP09-096_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_r1.png?260410",
+        "rarity": "Rare",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
-        "id": "OP09-096_r1",
-        "img_url": "../images/cardlist/card/OP09-096_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_r1.png?251017",
-        "rarity": "Rare",
+        "id": "OP09-096_p1",
+        "img_url": "../images/cardlist/card/OP09-096_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-096_p1.png?260410",
+        "rarity": "Special",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       }
@@ -3574,15 +3997,16 @@
     "name": "Black Vortex",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-097.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-097.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-097.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-097.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3592,16 +4016,16 @@
     "variants": [
       {
         "id": "OP09-097_p1",
-        "img_url": "../images/cardlist/card/OP09-097_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-097_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-097_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-097_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-097_r1",
-        "img_url": "../images/cardlist/card/OP09-097_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-097_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-097_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-097_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -3614,15 +4038,16 @@
     "name": "Black Hole",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-098.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-098.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-098.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-098.png?260410",
     "cost": 4,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3632,16 +4057,16 @@
     "variants": [
       {
         "id": "OP09-098_p1",
-        "img_url": "../images/cardlist/card/OP09-098_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-098_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-098_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-098_p1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "OP09-098_r1",
-        "img_url": "../images/cardlist/card/OP09-098_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-098_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-098_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-098_r1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -3654,15 +4079,16 @@
     "name": "Fullalead",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP09-099.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/OP09-099.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 3,
     "types": [
       "Blackbeard Pirates"
     ],
@@ -3672,8 +4098,8 @@
     "variants": [
       {
         "id": "OP09-099_r1",
-        "img_url": "../images/cardlist/card/OP09-099_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-099_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png?260410",
         "rarity": "Common",
         "set_id": "ST27",
         "set_label": "ST-27"
@@ -3686,17 +4112,18 @@
     "name": "Karasu",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-100.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-100.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-100.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-100.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Revolutionary Army"
     ],
@@ -3711,17 +4138,18 @@
     "name": "Kuzan",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-101.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-101.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-101.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-101.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Navy"
     ],
@@ -3736,17 +4164,18 @@
     "name": "Professor Clover",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-102.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-102.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-102.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-102.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Ohara"
     ],
@@ -3761,17 +4190,18 @@
     "name": "Koala",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-103.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-103.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-103.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-103.png?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Revolutionary Army"
     ],
@@ -3781,8 +4211,8 @@
     "variants": [
       {
         "id": "OP09-103_p1",
-        "img_url": "../images/cardlist/card/OP09-103_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-103_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-103_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-103_p1.png?260410",
         "rarity": "SuperRare"
       }
     ]
@@ -3793,17 +4223,18 @@
     "name": "Sabo",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-104.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-104.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-104.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-104.png?260410",
     "cost": 7,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Revolutionary Army"
     ],
@@ -3818,17 +4249,18 @@
     "name": "Sanji",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-105.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-105.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-105.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-105.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Egghead",
       "Straw Hat Crew"
@@ -3844,17 +4276,18 @@
     "name": "Nico Olvia",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-106.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-106.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Ohara"
     ],
@@ -3864,48 +4297,48 @@
     "variants": [
       {
         "id": "OP09-106_p1",
-        "img_url": "../images/cardlist/card/OP09-106_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-106_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p1.png?260410",
         "rarity": "Common",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-106_p2",
-        "img_url": "../images/cardlist/card/OP09-106_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-106_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p2.png?260410",
         "rarity": "Common",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-106_p3",
-        "img_url": "../images/cardlist/card/OP09-106_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-106_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p3.png?260410",
         "rarity": "Common",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-106_p4",
-        "img_url": "../images/cardlist/card/OP09-106_p4.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p4.png?251017",
+        "img_url": "../images/cardlist/card/OP09-106_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p4.png?260410",
         "rarity": "Common",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-106_p5",
-        "img_url": "../images/cardlist/card/OP09-106_p5.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p5.png?251017",
+        "img_url": "../images/cardlist/card/OP09-106_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p5.png?260410",
         "rarity": "Common",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-106_p6",
-        "img_url": "../images/cardlist/card/OP09-106_p6.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p6.png?251017",
+        "img_url": "../images/cardlist/card/OP09-106_p6.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-106_p6.png?260410",
         "rarity": "Common",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -3918,17 +4351,18 @@
     "name": "Nico Robin",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-107.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-107.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-107.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-107.png?260410",
     "cost": 6,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -3938,8 +4372,8 @@
     "variants": [
       {
         "id": "OP09-107_p1",
-        "img_url": "../images/cardlist/card/OP09-107_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-107_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-107_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-107_p1.png?260410",
         "rarity": "Rare"
       }
     ]
@@ -3950,17 +4384,18 @@
     "name": "Bartholomew Kuma",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-108.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-108.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-108.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-108.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "The Seven Warlords of the Sea",
       "Revolutionary Army"
@@ -3971,16 +4406,16 @@
     "variants": [
       {
         "id": "OP09-108_p1",
-        "img_url": "../images/cardlist/card/OP09-108_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-108_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-108_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-108_p1.png?260410",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
       },
       {
         "id": "OP09-108_p2",
-        "img_url": "../images/cardlist/card/OP09-108_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-108_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-108_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-108_p2.png?260410",
         "rarity": "Uncommon",
         "set_id": "PROMO",
         "set_label": "PROMO"
@@ -3993,17 +4428,18 @@
     "name": "Jaguar.D.Saul",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-109.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-109.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-109.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-109.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Ohara",
       "Giant",
@@ -4020,17 +4456,18 @@
     "name": "Pierre",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-110.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-110.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-110.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-110.png?260410",
     "cost": 2,
     "attributes": [
       "Strike"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Sky Island"
@@ -4046,17 +4483,18 @@
     "name": "Brook",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-111.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-111.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-111.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-111.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Egghead",
       "Straw Hat Crew"
@@ -4072,17 +4510,18 @@
     "name": "Belo Betty",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-112.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-112.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-112.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-112.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Revolutionary Army"
     ],
@@ -4097,17 +4536,18 @@
     "name": "Morley",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-113.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-113.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-113.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-113.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Giant",
       "Revolutionary Army"
@@ -4123,17 +4563,18 @@
     "name": "Lindbergh",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-114.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-114.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-114.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-114.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Minks",
       "Revolutionary Army"
@@ -4149,15 +4590,16 @@
     "name": "Ice Block Partisan",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-115.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-115.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-115.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-115.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Navy"
     ],
@@ -4172,15 +4614,16 @@
     "name": "Never Underestimate the Power of Miracles!!",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-116.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-116.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-116.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-116.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Revolutionary Army"
     ],
@@ -4195,22 +4638,32 @@
     "name": "Dereshi!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-117.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-117.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP09-117.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-117.png?260410",
     "cost": 3,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Ohara"
     ],
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 2 cards with a [Trigger] other than [Dereshi!] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Draw 1 card.",
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-117_p1",
+        "img_url": "../images/cardlist/card/OP09-117_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-117_p1.png?260410",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-118",
@@ -4218,17 +4671,18 @@
     "name": "Gol.D.Roger",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-118.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-118.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118.png?260410",
     "cost": 10,
     "attributes": [
       "Slash"
     ],
     "power": 13000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "King of the Pirates",
       "Roger Pirates"
@@ -4239,20 +4693,20 @@
     "variants": [
       {
         "id": "OP09-118_p1",
-        "img_url": "../images/cardlist/card/OP09-118_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-118_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p1.png?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP09-118_p2",
-        "img_url": "../images/cardlist/card/OP09-118_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-118_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p2.png?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP09-118_p3",
-        "img_url": "../images/cardlist/card/OP09-118_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-118_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118_p3.png?260410",
         "rarity": "Special",
         "set_id": "OP13",
         "set_label": "OP-13"
@@ -4265,17 +4719,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "SecretRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-119.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/OP09-119.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119.png?260410",
     "cost": 9,
     "attributes": [
       "Strike"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
@@ -4285,20 +4740,28 @@
     "variants": [
       {
         "id": "OP09-119_p1",
-        "img_url": "../images/cardlist/card/OP09-119_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p1.png?251017",
+        "img_url": "../images/cardlist/card/OP09-119_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p1.png?260410",
         "rarity": "SecretRare"
       },
       {
         "id": "OP09-119_p2",
-        "img_url": "../images/cardlist/card/OP09-119_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.png?251017",
+        "img_url": "../images/cardlist/card/OP09-119_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.png?260410",
         "rarity": "SecretRare"
       },
       {
+        "id": "OP09-119_p4",
+        "img_url": "../images/cardlist/card/OP09-119_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p4.png?260410",
+        "rarity": "SecretRare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
         "id": "OP09-119_p3",
-        "img_url": "../images/cardlist/card/OP09-119_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png?251017",
+        "img_url": "../images/cardlist/card/OP09-119_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119_p3.png?260410",
         "rarity": "Special",
         "set_id": "OP13",
         "set_label": "OP-13"
@@ -4309,25 +4772,43 @@
     "id": "ST18-004_p1",
     "pack_id": "569109",
     "name": "Zoro-Juurou",
-    "rarity": "SuperRare",
+    "rarity": "TreasureRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST18-004_p1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p1.png?251017",
-    "colors": [
-      "Purple"
-    ],
+    "img_url": "../images/cardlist/card/ST18-004_p1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p1.png?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Purple"
+    ],
+    "block_number": 3,
     "types": [
       "Straw Hat Crew"
     ],
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "tile_set_id": "OP09",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST18-004",
+        "img_url": "../images/cardlist/card/ST18-004.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004.png?260410",
+        "rarity": "SuperRare",
+        "set_id": "ST18",
+        "set_label": "ST-18"
+      },
+      {
+        "id": "ST18-004_p2",
+        "img_url": "../images/cardlist/card/ST18-004_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST18-004_p2.png?260410",
+        "rarity": "Special",
+        "set_id": "OP12",
+        "set_label": "OP-12"
+      }
+    ]
   }
 ]

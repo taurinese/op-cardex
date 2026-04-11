@@ -5,17 +5,18 @@
     "name": "Yamato",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/ST09-001.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-001.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -30,17 +31,18 @@
     "name": "Uzuki Tempura",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-002.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-002.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-002.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-002.png?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -55,17 +57,18 @@
     "name": "Ulti",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-003.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-003.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-003.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-003.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Animal Kingdom Pirates"
     ],
@@ -80,17 +83,18 @@
     "name": "Kaido",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-004.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-004.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-004.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-004.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "The Four Emperors",
       "Animal Kingdom Pirates"
@@ -106,17 +110,18 @@
     "name": "Kouzuki Oden",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-005.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-005.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-005.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-005.png?260410",
     "cost": 7,
     "attributes": [
       "Slash"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano",
       "Kouzuki Clan"
@@ -132,17 +137,18 @@
     "name": "Kouzuki Momonosuke",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-006.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-006.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-006.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-006.png?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano",
       "Kouzuki Clan"
@@ -158,17 +164,18 @@
     "name": "Shinobu",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-007.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-007.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-007.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-007.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -183,17 +190,18 @@
     "name": "Shimotsuki Ushimaru",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-008.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-008.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-008.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-008.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -208,17 +216,18 @@
     "name": "Fugetsu Omusubi",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-009.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-009.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-009.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-009.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -233,17 +242,18 @@
     "name": "Portgas.D.Ace",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-010.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-010.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-010.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-010.png?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano",
       "Whitebeard Pirates"
@@ -259,17 +269,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-011.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-011.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-011.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-011.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano",
       "Straw Hat Crew"
@@ -285,17 +296,18 @@
     "name": "Yamato",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-012.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-012.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -305,8 +317,8 @@
     "variants": [
       {
         "id": "ST09-012_p1",
-        "img_url": "../images/cardlist/card/ST09-012_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST09-012_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-012_p1.png?260410",
         "rarity": "Common",
         "set_id": null,
         "set_label": null
@@ -319,17 +331,18 @@
     "name": "Yamato",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST09-013.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-013.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-013.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-013.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -344,15 +357,16 @@
     "name": "Narikabura Arrow",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST09-014.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-014.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],
@@ -362,24 +376,24 @@
     "variants": [
       {
         "id": "ST09-014_p2",
-        "img_url": "../images/cardlist/card/ST09-014_p2.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_p2.png?251017",
+        "img_url": "../images/cardlist/card/ST09-014_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_p2.png?260410",
         "rarity": "Common",
         "set_id": "PRB01",
         "set_label": "PRB-01"
       },
       {
         "id": "ST09-014_p3",
-        "img_url": "../images/cardlist/card/ST09-014_p3.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_p3.png?251017",
+        "img_url": "../images/cardlist/card/ST09-014_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_p3.png?260410",
         "rarity": "Common",
         "set_id": "PRB01",
         "set_label": "PRB-01"
       },
       {
         "id": "ST09-014_r1",
-        "img_url": "../images/cardlist/card/ST09-014_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_r1.png?251017",
+        "img_url": "../images/cardlist/card/ST09-014_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB01",
         "set_label": "PRB-01"
@@ -392,15 +406,16 @@
     "name": "Thunder Bagua",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST09-015.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-015.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST09-015.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-015.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Land of Wano"
     ],

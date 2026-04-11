@@ -5,8 +5,8 @@
     "name": "マーシャル・Ｄ・ティーチ",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-081_p2.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-081_p2.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -24,7 +24,32 @@
     "effect": "自分の【登場時】効果は無効になる。<br>【起動メイン】自分の手札1枚を捨てることができる：次の相手のターン終了時まで、相手の【登場時】効果は無効になる。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-081",
+        "img_url": "../images/cardlist/card/OP09-081.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-081_p1",
+        "img_url": "../images/cardlist/card/OP09-081_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png?260408",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-081_p3",
+        "img_url": "../images/cardlist/card/OP09-081_p3.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-081_p3.png?260408",
+        "rarity": "Leader",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-083_r1",
@@ -32,8 +57,8 @@
     "name": "ヴァン・オーガー",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-083_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-083_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-083_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Ranged"
@@ -50,7 +75,16 @@
     "effect": "【起動メイン】このキャラをレストにできる：自分のリーダーが特徴《黒ひげ海賊団》を持つ場合、相手のキャラ1枚までを、このターン中、コスト-3。<br>【KO時】カード1枚を引く。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-083",
+        "img_url": "../images/cardlist/card/OP09-083.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-086_r1",
@@ -58,8 +92,8 @@
     "name": "ジーザス・バージェス",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-086_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-086_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_r1.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -76,7 +110,32 @@
     "effect": "このキャラは相手の効果でKOされない。<br>自分のリーダーが特徴《黒ひげ海賊団》を持つ場合、このキャラは、自分のトラッシュ4枚につき、パワー+1000。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-086",
+        "img_url": "../images/cardlist/card/OP09-086.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-086_p1",
+        "img_url": "../images/cardlist/card/OP09-086_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      },
+      {
+        "id": "OP09-086_r2",
+        "img_url": "../images/cardlist/card/OP09-086_r2.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-086_r2.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-088_r1",
@@ -84,8 +143,8 @@
     "name": "シリュウ",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-088_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-088_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-088_r1.png?260408",
     "cost": 3,
     "attributes": [
       "Slash"
@@ -102,7 +161,16 @@
     "effect": "【ドン‼×1】【アタック時】自分の手札2枚を捨てることができる：カード2枚を引く。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-088",
+        "img_url": "../images/cardlist/card/OP09-088.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-088.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-089_r1",
@@ -110,8 +178,8 @@
     "name": "ストロンガー",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-089_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-089_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089_r1.png?260408",
     "cost": 1,
     "attributes": [
       "Wisdom"
@@ -129,7 +197,24 @@
     "effect": "【起動メイン】自分の手札1枚を捨て、このキャラをトラッシュに置くことができる：自分のリーダーが特徴《黒ひげ海賊団》を持つ場合、カード1枚を引く。その後、相手のキャラ1枚までを、このターン中、コスト-2。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-089",
+        "img_url": "../images/cardlist/card/OP09-089.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-089_p1",
+        "img_url": "../images/cardlist/card/OP09-089_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-089_p1.png?260408",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP09-090_r1",
@@ -137,8 +222,8 @@
     "name": "ドクQ",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-090_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-090_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-090_r1.png?260408",
     "cost": 2,
     "attributes": [
       "Special"
@@ -155,7 +240,16 @@
     "effect": "【起動メイン】このキャラをレストにできる：自分のリーダーが特徴《黒ひげ海賊団》を持つ場合、相手のコスト1以下のキャラ1枚までを、KOする。<br>【KO時】カード1枚を引く。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-090",
+        "img_url": "../images/cardlist/card/OP09-090.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-091_r1",
@@ -163,8 +257,8 @@
     "name": "バスコ・ショット",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-091_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-091_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-091_r1.png?260408",
     "cost": 2,
     "attributes": [
       "Special"
@@ -181,7 +275,16 @@
     "effect": "【ブロッカー】(相手のアタックの後、このカードをレストにし、アタックの対象をこのカードにできる)",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-091",
+        "img_url": "../images/cardlist/card/OP09-091.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?260408",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-095_r1",
@@ -189,8 +292,8 @@
     "name": "ラフィット",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-095_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-095_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095_r1.png?260408",
     "cost": 1,
     "attributes": [
       "Strike"
@@ -207,7 +310,24 @@
     "effect": "【起動メイン】自分のドン‼1枚とこのキャラをレストにできる：自分のデッキの上から5枚を見て、特徴《黒ひげ海賊団》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-095",
+        "img_url": "../images/cardlist/card/OP09-095.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?260408",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": null
+      },
+      {
+        "id": "OP09-095_p1",
+        "img_url": "../images/cardlist/card/OP09-095_p1.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-095_p1.png?260408",
+        "rarity": "Rare",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP09-099_r1",
@@ -215,8 +335,8 @@
     "name": "ハチノス",
     "rarity": "Common",
     "category": "Stage",
-    "img_url": "../images/cardlist/card/OP09-099_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP09-099_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-099_r1.png?260408",
     "cost": 1,
     "attributes": [],
     "power": null,
@@ -231,7 +351,16 @@
     "effect": "【起動メイン】自分の手札1枚を捨て、このステージをレストにできる：自分のデッキの上から3枚を見て、特徴《黒ひげ海賊団》を持つカード1枚までを公開し、手札に加える。その後、残りを好きな順番でデッキの下に置く。",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-099",
+        "img_url": "../images/cardlist/card/OP09-099.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP09-099.png?260408",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "OP10-084_r1",
@@ -239,8 +368,8 @@
     "name": "サンファン・ウルフ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP10-084_r1.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-084_r1.png?2602273",
+    "img_url": "../images/cardlist/card/OP10-084_r1.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-084_r1.png?260408",
     "cost": 5,
     "attributes": [
       "Special"
@@ -258,7 +387,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST27",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP10-084",
+        "img_url": "../images/cardlist/card/OP10-084.png?260408",
+        "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/OP10-084.png?260408",
+        "rarity": "Common",
+        "set_id": "OP10",
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST27-001",
@@ -266,8 +404,8 @@
     "name": "アバロ・ピサロ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-001.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-001.png?2602273",
+    "img_url": "../images/cardlist/card/ST27-001.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-001.png?260408",
     "cost": 1,
     "attributes": [
       "Special"
@@ -292,8 +430,8 @@
     "name": "カタリーナ・デボン",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-002.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-002.png?2602273",
+    "img_url": "../images/cardlist/card/ST27-002.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-002.png?260408",
     "cost": 1,
     "attributes": [
       "Special"
@@ -318,8 +456,8 @@
     "name": "クザン",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-003.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-003.png?2602273",
+    "img_url": "../images/cardlist/card/ST27-003.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-003.png?260408",
     "cost": 6,
     "attributes": [
       "Special"
@@ -345,8 +483,8 @@
     "name": "サンファン・ウルフ",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-004.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-004.png?2602273",
+    "img_url": "../images/cardlist/card/ST27-004.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-004.png?260408",
     "cost": 4,
     "attributes": [
       "Strike"
@@ -372,8 +510,8 @@
     "name": "マーシャル・Ｄ・ティーチ",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST27-005.png?2602273",
-    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-005.png?2602273",
+    "img_url": "../images/cardlist/card/ST27-005.png?260408",
+    "img_full_url": "https://www.onepiece-cardgame.com/images/cardlist/card/ST27-005.png?260408",
     "cost": 7,
     "attributes": [
       "Special"

@@ -5,24 +5,42 @@
     "name": "Charlotte Katakuri",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP03-099_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099_p2.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-099_p2.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099_p2.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Big Mom Pirates"
     ],
     "effect": "[DON!! x1] [When Attacking] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, this Leader gains +1000 power during this battle.",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-099",
+        "img_url": "../images/cardlist/card/OP03-099.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099.png?260410",
+        "rarity": "Leader",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      },
+      {
+        "id": "OP03-099_p1",
+        "img_url": "../images/cardlist/card/OP03-099_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099_p1.png?260410",
+        "rarity": "Leader",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      }
+    ]
   },
   {
     "id": "OP03-106_r1",
@@ -30,24 +48,34 @@
     "name": "Charlotte Opera",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-106_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-106_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-106_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-106_r1.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Big Mom Pirates"
     ],
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-106",
+        "img_url": "../images/cardlist/card/OP03-106.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-106.png?260410",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      }
+    ]
   },
   {
     "id": "OP03-107_r1",
@@ -55,24 +83,34 @@
     "name": "Charlotte Galette",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-107_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-107_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-107_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-107_r1.png?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Big Mom Pirates"
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-107",
+        "img_url": "../images/cardlist/card/OP03-107.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-107.png?260410",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      }
+    ]
   },
   {
     "id": "OP03-110_r1",
@@ -80,24 +118,66 @@
     "name": "Charlotte Smoothie",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-110_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-110_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_r1.png?260410",
     "cost": 4,
     "attributes": [
       "Special"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Big Mom Pirates"
     ],
     "effect": "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power during this battle.",
     "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-110",
+        "img_url": "../images/cardlist/card/OP03-110.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      },
+      {
+        "id": "OP03-110_p3",
+        "img_url": "../images/cardlist/card/OP03-110_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p3.png?260410",
+        "rarity": "Rare",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP03-110_p4",
+        "img_url": "../images/cardlist/card/OP03-110_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p4.png?260410",
+        "rarity": "Rare",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP03-110_p5",
+        "img_url": "../images/cardlist/card/OP03-110_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_p5.png?260410",
+        "rarity": "Rare",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP03-110_r2",
+        "img_url": "../images/cardlist/card/OP03-110_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-110_r2.png?260410",
+        "rarity": "Rare",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      }
+    ]
   },
   {
     "id": "OP03-112_r1",
@@ -105,24 +185,74 @@
     "name": "Charlotte Pudding",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-112_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-112_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_r1.png?260410",
     "cost": 1,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Big Mom Pirates"
     ],
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or {Big Mom Pirates} type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-112",
+        "img_url": "../images/cardlist/card/OP03-112.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      },
+      {
+        "id": "OP03-112_p1",
+        "img_url": "../images/cardlist/card/OP03-112_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p1.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      },
+      {
+        "id": "OP03-112_p4",
+        "img_url": "../images/cardlist/card/OP03-112_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p4.png?260410",
+        "rarity": "Special",
+        "set_id": "OP08",
+        "set_label": "OP-08"
+      },
+      {
+        "id": "OP03-112_p2",
+        "img_url": "../images/cardlist/card/OP03-112_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p2.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP03-112_p3",
+        "img_url": "../images/cardlist/card/OP03-112_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p3.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP03-112_p6",
+        "img_url": "../images/cardlist/card/OP03-112_p6.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-112_p6.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP03-115_r1",
@@ -130,24 +260,34 @@
     "name": "Streusen",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP03-115_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-115_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-115_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-115_r1.png?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 1000,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Big Mom Pirates"
     ],
     "effect": "[On Play] You may trash 1 card with a [Trigger] from your hand: K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-115",
+        "img_url": "../images/cardlist/card/OP03-115.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-115.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      }
+    ]
   },
   {
     "id": "OP03-118_r1",
@@ -155,15 +295,16 @@
     "name": "Ikoku Sovereignty",
     "rarity": "Uncommon",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP03-118_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-118_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-118_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-118_r1.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "The Four Emperors",
       "Big Mom Pirates"
@@ -171,7 +312,16 @@
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +5000 power during this battle.",
     "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-118",
+        "img_url": "../images/cardlist/card/OP03-118.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-118.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      }
+    ]
   },
   {
     "id": "OP03-121_r1",
@@ -179,15 +329,16 @@
     "name": "Thunder Bolt",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP03-121_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/OP03-121_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_r1.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "The Four Emperors",
       "Big Mom Pirates"
@@ -195,7 +346,48 @@
     "effect": "[Main] You may trash 1 card from the top of your Life cards: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
     "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP03-121",
+        "img_url": "../images/cardlist/card/OP03-121.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121.png?260410",
+        "rarity": "Common",
+        "set_id": "OP03",
+        "set_label": "OP-03"
+      },
+      {
+        "id": "OP03-121_p3",
+        "img_url": "../images/cardlist/card/OP03-121_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p3.png?260410",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP03-121_p4",
+        "img_url": "../images/cardlist/card/OP03-121_p4.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p4.png?260410",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP03-121_r2",
+        "img_url": "../images/cardlist/card/OP03-121_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_r2.png?260410",
+        "rarity": "Common",
+        "set_id": "PRB01",
+        "set_label": "PRB-01"
+      },
+      {
+        "id": "OP03-121_p5",
+        "img_url": "../images/cardlist/card/OP03-121_p5.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-121_p5.png?260410",
+        "rarity": "Common",
+        "set_id": null,
+        "set_label": null
+      }
+    ]
   },
   {
     "id": "ST07-005_r1",
@@ -203,24 +395,34 @@
     "name": "Charlotte Daifuku",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST07-005_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST07-005_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005_r1.png?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Big Mom Pirates"
     ],
     "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-005",
+        "img_url": "../images/cardlist/card/ST07-005.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-005.png?260410",
+        "rarity": "Common",
+        "set_id": "ST07",
+        "set_label": "ST-07"
+      }
+    ]
   },
   {
     "id": "ST07-014_r1",
@@ -228,17 +430,18 @@
     "name": "Pekoms",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST07-014_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST07-014_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014_r1.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 1,
     "types": [
       "Minks",
       "Big Mom Pirates"
@@ -246,7 +449,16 @@
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST20",
-    "variants": []
+    "variants": [
+      {
+        "id": "ST07-014",
+        "img_url": "../images/cardlist/card/ST07-014.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-014.png?260410",
+        "rarity": "Common",
+        "set_id": "ST07",
+        "set_label": "ST-07"
+      }
+    ]
   },
   {
     "id": "ST20-001",
@@ -254,17 +466,18 @@
     "name": "Charlotte Katakuri",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-001.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-001.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST20-001.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-001.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Big Mom Pirates"
     ],
@@ -279,17 +492,18 @@
     "name": "Charlotte Cracker",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-002.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-002.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST20-002.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-002.png?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Big Mom Pirates"
     ],
@@ -304,17 +518,18 @@
     "name": "Charlotte Brulee",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-003.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST20-003.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Big Mom Pirates"
     ],
@@ -324,16 +539,16 @@
     "variants": [
       {
         "id": "ST20-003_p1",
-        "img_url": "../images/cardlist/card/ST20-003_p1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.png?251017",
+        "img_url": "../images/cardlist/card/ST20-003_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_p1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
       },
       {
         "id": "ST20-003_r1",
-        "img_url": "../images/cardlist/card/ST20-003_r1.png?251017",
-        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_r1.png?251017",
+        "img_url": "../images/cardlist/card/ST20-003_r1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-003_r1.png?260410",
         "rarity": "Common",
         "set_id": "PRB02",
         "set_label": "PRB-02"
@@ -346,17 +561,18 @@
     "name": "Charlotte Pudding",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-004.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-004.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST20-004.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-004.png?260410",
     "cost": 3,
     "attributes": [
       "Wisdom"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "Big Mom Pirates"
     ],
@@ -371,17 +587,18 @@
     "name": "Charlotte Linlin",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST20-005.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-005.png?251017",
-    "colors": [
-      "Yellow"
-    ],
+    "img_url": "../images/cardlist/card/ST20-005.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST20-005.png?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": null,
+    "colors": [
+      "Yellow"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Big Mom Pirates"

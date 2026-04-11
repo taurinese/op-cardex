@@ -5,17 +5,18 @@
     "name": "Shanks",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/OP09-001_p2.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-001_p2.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png?260410",
     "cost": 5,
     "attributes": [
       "Slash"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Red-Haired Pirates"
@@ -23,7 +24,24 @@
     "effect": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-001",
+        "img_url": "../images/cardlist/card/OP09-001.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001.png?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-001_p1",
+        "img_url": "../images/cardlist/card/OP09-001_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p1.png?260410",
+        "rarity": "Leader",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-006_r1",
@@ -31,24 +49,34 @@
     "name": "Howling Gab",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-006_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-006_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006_r1.png?260410",
     "cost": 5,
     "attributes": [
       "Special"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-006",
+        "img_url": "../images/cardlist/card/OP09-006.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-006.png?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-010_r1",
@@ -56,24 +84,34 @@
     "name": "Bonk Punch",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-010_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-010_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "[On Play] Play up to 1 [Monster] from your hand.<br>[DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-010",
+        "img_url": "../images/cardlist/card/OP09-010.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-010.png?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-011_r1",
@@ -81,24 +119,58 @@
     "name": "Hongo",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-011_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-011_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_r1.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-011",
+        "img_url": "../images/cardlist/card/OP09-011.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-011_p1",
+        "img_url": "../images/cardlist/card/OP09-011_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p1.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-011_p2",
+        "img_url": "../images/cardlist/card/OP09-011_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p2.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      },
+      {
+        "id": "OP09-011_p3",
+        "img_url": "../images/cardlist/card/OP09-011_p3.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-011_p3.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP09-012_r1",
@@ -106,17 +178,18 @@
     "name": "Monster",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-012_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-012_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012_r1.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Animal",
       "Red-Haired Pirates"
@@ -124,7 +197,16 @@
     "effect": "If your Character [Bonk Punch] would be K.O.'d by an effect, you may trash this Character instead.",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-012",
+        "img_url": "../images/cardlist/card/OP09-012.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-012.png?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-013_r1",
@@ -132,24 +214,50 @@
     "name": "Yasopp",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-013_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-013_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png?260410",
     "cost": 5,
     "attributes": [
       "Ranged"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.<br>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-013",
+        "img_url": "../images/cardlist/card/OP09-013.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-013_p2",
+        "img_url": "../images/cardlist/card/OP09-013_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p2.png?260410",
+        "rarity": "Special",
+        "set_id": "OP12",
+        "set_label": "OP-12"
+      },
+      {
+        "id": "OP09-013_p1",
+        "img_url": "../images/cardlist/card/OP09-013_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-013_p1.png?260410",
+        "rarity": "Rare",
+        "set_id": "PROMO",
+        "set_label": "PROMO"
+      }
+    ]
   },
   {
     "id": "OP09-014_r1",
@@ -157,24 +265,58 @@
     "name": "Limejuice",
     "rarity": "Uncommon",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-014_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-014_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r1.png?260410",
     "cost": 3,
     "attributes": [
       "Special"
     ],
     "power": 3000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "[On Play] Your opponent cannot activate up to 1 [Blocker] Character that has 4000 power or less during this turn.",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-014",
+        "img_url": "../images/cardlist/card/OP09-014.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-014_p1",
+        "img_url": "../images/cardlist/card/OP09-014_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_p1.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-014_p2",
+        "img_url": "../images/cardlist/card/OP09-014_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_p2.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-014_r2",
+        "img_url": "../images/cardlist/card/OP09-014_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r2.png?260410",
+        "rarity": "Uncommon",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "OP09-015_r1",
@@ -182,24 +324,42 @@
     "name": "Lucky.Roux",
     "rarity": "Rare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-015_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-015_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png?260410",
     "cost": 4,
     "attributes": [
       "Ranged"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)<br>[On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-015",
+        "img_url": "../images/cardlist/card/OP09-015.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-015_p1",
+        "img_url": "../images/cardlist/card/OP09-015_p1.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-015_p1.png?260410",
+        "rarity": "TreasureRare",
+        "set_id": "OP11",
+        "set_label": "OP-11"
+      }
+    ]
   },
   {
     "id": "OP09-016_r1",
@@ -207,24 +367,34 @@
     "name": "Rockstar",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/OP09-016_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-016_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016_r1.png?260410",
     "cost": 4,
     "attributes": [
       "Slash"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
     "effect": "-",
     "trigger": null,
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-016",
+        "img_url": "../images/cardlist/card/OP09-016.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-016.png?260410",
+        "rarity": "Common",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      }
+    ]
   },
   {
     "id": "OP09-020_r1",
@@ -232,15 +402,16 @@
     "name": "Come On!! We'll Fight You!!",
     "rarity": "Rare",
     "category": "Event",
-    "img_url": "../images/cardlist/card/OP09-020_r1.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r1.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/OP09-020_r1.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r1.png?260410",
     "cost": 1,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Red-Haired Pirates"
@@ -248,7 +419,32 @@
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "trigger": "[Trigger] Draw 1 card.",
     "tile_set_id": "ST23",
-    "variants": []
+    "variants": [
+      {
+        "id": "OP09-020",
+        "img_url": "../images/cardlist/card/OP09-020.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020.png?260410",
+        "rarity": "Rare",
+        "set_id": "OP09",
+        "set_label": "OP-09"
+      },
+      {
+        "id": "OP09-020_r2",
+        "img_url": "../images/cardlist/card/OP09-020_r2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_r2.png?260410",
+        "rarity": "Rare",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      },
+      {
+        "id": "OP09-020_p2",
+        "img_url": "../images/cardlist/card/OP09-020_p2.png?260410",
+        "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-020_p2.png?260410",
+        "rarity": "Special",
+        "set_id": "PRB02",
+        "set_label": "PRB-02"
+      }
+    ]
   },
   {
     "id": "ST23-001",
@@ -256,17 +452,18 @@
     "name": "Uta",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST23-001.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST23-001.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png?260410",
     "cost": 6,
     "attributes": [
       "Special"
     ],
     "power": 4000,
     "counter": 2000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "FILM"
     ],
@@ -281,17 +478,18 @@
     "name": "Shanks",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST23-002.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST23-002.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png?260410",
     "cost": 9,
     "attributes": [
       "Slash"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "The Four Emperors",
       "Red-Haired Pirates"
@@ -307,17 +505,18 @@
     "name": "Benn.Beckman",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST23-003.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-003.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST23-003.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-003.png?260410",
     "cost": 4,
     "attributes": [
       "Ranged"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -332,17 +531,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST23-004.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST23-004.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-004.png?260410",
     "cost": 1,
     "attributes": [
       "Strike"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "FILM",
       "Supernovas",
@@ -359,17 +559,18 @@
     "name": "Yasopp",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST23-005.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-005.png?251017",
-    "colors": [
-      "Red"
-    ],
+    "img_url": "../images/cardlist/card/ST23-005.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST23-005.png?260410",
     "cost": 1,
     "attributes": [
       "Ranged"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Red"
+    ],
+    "block_number": 3,
     "types": [
       "Red-Haired Pirates"
     ],

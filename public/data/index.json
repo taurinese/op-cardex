@@ -1,11 +1,22 @@
 {
   "sets": [
     {
+      "id": "OP15EB04",
+      "name": "BOOSTER PACK",
+      "prefix": "",
+      "label": "OP-15 / EB-04",
+      "card_count": 158,
+      "langs": [
+        "en",
+        "fr"
+      ]
+    },
+    {
       "id": "OP15",
       "name": "ブースターパック 神の島の冒険【OP-15】",
       "prefix": "",
       "label": "OP-15",
-      "card_count": 125,
+      "card_count": 124,
       "langs": [
         "jp"
       ]
@@ -176,6 +187,16 @@
       "card_count": 121,
       "langs": [
         "en",
+        "jp"
+      ]
+    },
+    {
+      "id": "ST30",
+      "name": "スタートデッキEX ルフィ&エース【ST-30】",
+      "prefix": "",
+      "label": "ST-30",
+      "card_count": 17,
+      "langs": [
         "jp"
       ]
     },
@@ -585,7 +606,7 @@
       "name": "Promotion card",
       "prefix": "",
       "label": "PROMO",
-      "card_count": 206,
+      "card_count": 227,
       "langs": [
         "en",
         "fr",

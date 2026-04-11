@@ -5,17 +5,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Leader",
     "category": "Leader",
-    "img_url": "../images/cardlist/card/ST08-001.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-001.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Straw Hat Crew"
     ],
@@ -30,17 +31,18 @@
     "name": "Uta",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-002.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-002.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png?260410",
     "cost": 2,
     "attributes": [
       "Special"
     ],
     "power": 3000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "FILM"
     ],
@@ -55,17 +57,18 @@
     "name": "Gaimon",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-003.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-003.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-003.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-003.png?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
     ],
     "power": 4000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "East Blue"
     ],
@@ -80,17 +83,18 @@
     "name": "Koby",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-004.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-004.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-004.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-004.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Navy"
     ],
@@ -105,17 +109,18 @@
     "name": "Shanks",
     "rarity": "SuperRare",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-005.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-005.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-005.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-005.png?260410",
     "cost": 9,
     "attributes": [
       "Slash"
     ],
     "power": 10000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Red-Haired Pirates"
     ],
@@ -130,17 +135,18 @@
     "name": "Shirahoshi",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-006.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-006.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png?260410",
     "cost": 4,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Merfolk"
     ],
@@ -155,17 +161,18 @@
     "name": "Nefeltari Vivi",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-007.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-007.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-007.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-007.png?260410",
     "cost": 3,
     "attributes": [
       "Slash"
     ],
     "power": 1000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Alabasta"
     ],
@@ -180,17 +187,18 @@
     "name": "Higuma",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-008.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-008.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-008.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-008.png?260410",
     "cost": 1,
     "attributes": [
       "Slash"
     ],
     "power": 2000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Mountain Bandits"
     ],
@@ -205,17 +213,18 @@
     "name": "Makino",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-009.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-009.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-009.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-009.png?260410",
     "cost": 2,
     "attributes": [
       "Wisdom"
     ],
     "power": null,
     "counter": 2000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Windmill Village"
     ],
@@ -230,17 +239,18 @@
     "name": "Monkey.D.Garp",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-010.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-010.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-010.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-010.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 7000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Navy"
     ],
@@ -255,17 +265,18 @@
     "name": "Monkey.D.Luffy",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-011.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-011.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-011.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-011.png?260410",
     "cost": 3,
     "attributes": [
       "Strike"
     ],
     "power": 5000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Straw Hat Crew"
     ],
@@ -280,17 +291,18 @@
     "name": "Laboon",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-012.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-012.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-012.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-012.png?260410",
     "cost": 4,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": 1000,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Animal"
     ],
@@ -305,17 +317,18 @@
     "name": "Mr.2.Bon.Kurei(Bentham)",
     "rarity": "Common",
     "category": "Character",
-    "img_url": "../images/cardlist/card/ST08-013.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-013.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-013.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-013.png?260410",
     "cost": 5,
     "attributes": [
       "Strike"
     ],
     "power": 6000,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Former Baroque Works"
     ],
@@ -330,15 +343,16 @@
     "name": "Gum-Gum Bell",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST08-014.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-014.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png?260410",
     "cost": 2,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Straw Hat Crew"
     ],
@@ -353,15 +367,16 @@
     "name": "Gum-Gum Pistol",
     "rarity": "Common",
     "category": "Event",
-    "img_url": "../images/cardlist/card/ST08-015.png?251017",
-    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-015.png?251017",
-    "colors": [
-      "Black"
-    ],
+    "img_url": "../images/cardlist/card/ST08-015.png?260410",
+    "img_full_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-015.png?260410",
     "cost": 3,
     "attributes": [],
     "power": null,
     "counter": null,
+    "colors": [
+      "Black"
+    ],
+    "block_number": 1,
     "types": [
       "Straw Hat Crew"
     ],
